@@ -1,0 +1,9 @@
+export const SCHEMA=1;
+const obj=v=>v!==null&&typeof v==="object"&&!Array.isArray(v);
+const id=v=>typeof v==="string"&&/^er:[a-z0-9-]+$/.test(v);
+const stamp=v=>typeof v==="string"&&Number.isFinite(Date.parse(v));
+export function fresh(){return {schema:SCHEMA,datasetVersion:"development-0",revision:0,active:"default",profiles:[{id:"default",name:"First Playthrough",defeated:{},notes:{}}],preferences:{}};}
+export function valid(s){return obj(s)&&s.schema===SCHEMA&&typeof s.datasetVersion==="string"&&Number.isSafeInteger(s.revision)&&s.revision>=0&&obj(s.preferences)&&Array.isArray(s.profiles)&&s.profiles.length>0&&new Set(s.profiles.map(p=>p?.id)).size===s.profiles.length&&s.profiles.some(p=>p?.id===s.active)&&s.profiles.every(p=>obj(p)&&typeof p.id==="string"&&p.id.length>0&&typeof p.name==="string"&&obj(p.defeated)&&obj(p.notes)&&Object.entries(p.defeated).every(([k,v])=>id(k)&&stamp(v))&&Object.entries(p.notes).every(([k,v])=>id(k)&&typeof v==="string"));}
+export function recover(...saves){return saves.filter(valid).sort((a,b)=>b.revision-a.revision)[0]??null;}
+export function changeDefeat(s,encounter,defeated,at=new Date().toISOString()){if(!valid(s)||!id(encounter)||typeof defeated!=="boolean"||!stamp(at))throw Error("Invalid completion change");const next=structuredClone(s);const p=next.profiles.find(p=>p.id===next.active);if(defeated)p.defeated[encounter]??=at;else delete p.defeated[encounter];next.revision++;if(!valid(next))throw Error("Invalid save revision");return next;}
+export function parseBackup(raw){const s=JSON.parse(raw);if(!valid(s))throw Error("Unsupported or damaged backup");return s;}

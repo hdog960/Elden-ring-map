@@ -1,0 +1,18 @@
+{
+  "name": "Elden Ring Boss Hunter",
+  "short_name": "Boss Hunter",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#161713",
+  "theme_color": "#161713",
+  "icons": [
+    {
+      "src": "./assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
