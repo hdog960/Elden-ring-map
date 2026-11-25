@@ -1,0 +1,1 @@
+import {readFile} from "node:fs/promises";import {validateIntake,censusSummary} from "../src/census.js";const c=JSON.parse(await readFile(new URL("../data/census/intake.json",import.meta.url),"utf8"));const errors=validateIntake(c);if(errors.length){console.error(errors.join("\n"));process.exitCode=1;}else console.log(JSON.stringify(censusSummary(c),null,2));

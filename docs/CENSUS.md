@@ -1,12 +1,14 @@
-# Census intake and licensing — not reconciled
-Research leads (2026-11-25):
-- https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041 reports 207 fights.
-- https://game-checklists.com/elden-ring/all-bosses/ reports 208.
-- https://lorearmory.com/eldenring/bosses/ reports 209 encounters under 145 boss identities.
-- https://github.com/egormagurin/EldenRingMap documents 208 arena flags, not necessarily equivalent to encounters. Artwork generated from a local game install; redistribution rights unestablished.
-- https://github.com/EthanShoeDev/elden-ring-compass describes game-derived position extraction; verify data provenance separately from code license.
-- https://www.reddit.com/r/Eldenring/comments/u7r3gs/all_bosses_checklist_updated_and_correct_165/ historical base-game comparison lead, not definitive.
-No source artwork, tiles or guide text copied. Prefer original vector basemap calibrated to independently checked factual coordinates. No third-party imagery without explicit rights.
-## Reconciliation
-Build row crosswalk (source identity, encounter location, defeat flag if available, phases, simultaneous enemies, separate fight, primary/extended, disputed rationale, evidence). Assign permanent IDs independent of labels; never recycle. Require regional coverage and explain mismatched rows. Publish source-specific totals and adjudicated totals only after complete reconciliation. Do not use an arena count as an encounter count.
-No production encounter records yet. Need base/DLC enumeration, independent cross-check, rights ledger, coordinate calibration and original guides.
+# Census reconciliation — session 2
+Research intake only: 165 base and 42 DLC primary candidates; 15 extended candidates. These are not verified final totals. `node scripts/census-audit.mjs` reports actual row counts and review states. IDs are materialized, never regenerate after naming or location corrections.
+Sources and per-row evidence keys are in data/census/intake.json. Names and factual locations are independently organized, no prose or imagery copied. "Cross-source-candidate" means two sources report the identity or fight family; it does not certify precise location, current game version, game flag or independent source provenance. Community DLC list verifies names and repeat counts, not all locations. Single-source rows require independent review. Some base rows not shown in the Forge source excerpt are candidates from the broader checklist; explicitly recheck all four exceptional rows individually.
+Source claims: Forge 164+42, Game Checklists 165+43 (210 displayed rows including retreat stages), historical Reddit base 165, DLC Reddit 42, PC Gamer 55 broader challenge count, Polygon 62 including invasions. These counts use different definitions; no final count inferred.
+## Adjudication
+- Adula and Lansseax: retreat stage tracked as alternate location under final kill, not two primary completions.
+- Patches: surrender completes boss challenge; later murder not required.
+- Dryleaf Dane duel: candidate primary pending direct health-bar confirmation; Forge omission noted. Leda and allies: extended invasion instead, not a primary boss by health-bar criterion.
+- Lower Volcano Manor wyrm and Liurnia tower bridge Godskin Noble: extended candidates, no conventional boss bar indicated by conflicting references. Greyoll and Mountaintops Tibia Mariner similarly separated.
+- Golden Hippopotamus at Shadow Keep is the named boss; other hippos not yet inventoried in extended hunt.
+- Two Hinterland Tree Sentinels separate, Snowfield cavalry pair and Altus sentinel pair one each. Jagged Peak lone drake vs pair distinct. Multi-phase fights remain single records.
+- Missing/disputed rows must be exhaustively checked against raw footage and available game-derived defeat flags. Do not interpret the number of intake rows as proof of completeness. Check base missing candidates, DLC 43rd discrepancy and extended inventory; all location and category labels provisional. No production admission.
+## Geography and rights
+https://github.com/egormagurin/EldenRingMap documents GameAreaParam and map transform extraction from game installations. Its art is generated locally, and code rights are not artwork rights. https://github.com/EthanShoeDev/elden-ring-compass is a factual-coordinate research lead. https://github.com/aether-auto/er-guide documents third-party mirrored tiles; not an acceptable license grant. No artwork or coordinates copied. Need verified reusable factual position data, original vector geography, layer calibration, and interior entrances; no arbitrary points.
