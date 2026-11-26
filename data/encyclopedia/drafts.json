@@ -209,11 +209,13 @@
       "conditions": "Optional dungeon.",
       "combat": "Aggressive dual-hammer combos and grab attempts.",
       "strategy": "Let the chained hammer sequence finish before counterattacking; avoid hugging the boss while it reaches for a grab. Fast ranged attacks are safer after a committed slam.",
-      "rewards": "Banished Knight Engvall Ashes; 1,700 runes. Earlier guides list Battle Hammer; verify current patch.",
+      "rewards": "Banished Knight Engvall Ashes; 1,700 runes reported. Older guides list Battle Hammer instead; patch-specific reward verification remains pending.",
       "preparation": "Suggested level 20–30, upgraded weapon and medium equip load.",
       "sources": [
         "https://gamefaqs.gamespot.com/ps5/323053-elden-ring/faqs/80028/dungeon-bosses",
-        "https://gamertweak.com/dungeon-locations-elden-ring/"
+        "https://gamertweak.com/dungeon-locations-elden-ring/",
+        "https://www.gamerguides.com/elden-ring/database/bosses/limgrave-bosses/grave-warden-duelist-limgrave",
+        "https://gamefaqs.gamespot.com/ps4/265987-elden-ring/faqs/79824/limgrave"
       ],
       "review": "draft-researched",
       "numericStats": {

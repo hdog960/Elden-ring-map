@@ -1,5 +1,5 @@
 {
-  "version": "session12-20261125-a",
+  "version": "session13-20261125-a",
   "releaseReady": false,
   "assets": [
     {
@@ -19,6 +19,10 @@
       "gitBlob": "cbc09e23879a6dcafa3f3307bf418b743348c872"
     },
     {
+      "path": "data/census/identity-reward-review.json",
+      "gitBlob": "6b4702ba74318308ebe1a7b4061ed213ee7c1bbf"
+    },
+    {
       "path": "data/census/intake.json",
       "gitBlob": "643584f7859ccd75d73506213d8da167b9083920"
     },
@@ -32,11 +36,11 @@
     },
     {
       "path": "data/encyclopedia/drafts.json",
-      "gitBlob": "7ba4b2485245c694bcd684852b56a3da11c59828"
+      "gitBlob": "e0630e9de435d01aa8cc4e99bda5a7e81d8981f3"
     },
     {
       "path": "data/encyclopedia/stat-evidence.json",
-      "gitBlob": "d1740d998212fc46f87bf46800f54e97dc077398"
+      "gitBlob": "ce2603636c3da2cca1d71bd8264712c9ad335db9"
     },
     {
       "path": "data/geography/ledger.json",

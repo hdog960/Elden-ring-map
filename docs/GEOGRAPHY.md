@@ -27,3 +27,6 @@ Concrete Tableau CSV boss_locations_details.csv (blob 7872fd839f05d3da093f9d6704
 
 ## Session 12
 Concrete new er-guide lead explicitly describes Fextralife-extracted tiles and positions; no reuse grant established. No new actual coordinate input or artwork. A private survey CLI now hashes actual evidence artifact bytes before calibration and writes review-only SVG and JSON outside the repository. The most direct next action is seeking explicit permission from the data owner or obtaining independent observations; no external outreach sent. Synthetic-only DOM renderer test added, not evidence of geographical accuracy.
+
+## Session 13
+Creator submitted permission request https://github.com/EthanShoeDev/elden-ring-compass/issues/13. Verified open, zero comments. No permission granted. Creator directs continued unblocked work only, then stop when geography is the remaining blocker. No new geography searches or imports.

@@ -29,3 +29,6 @@ Seven new extended candidates with row-specific sources and original drafts: Gre
 
 ## Session 12
 No ID additions or removals. Capital Margit missable cutoff Morgott corroborated by Eldenpedia. Four new scoped stat evidence rows (Morgott, Mohg, Starscourge Radahn, Bayle), eight total; explicitly preserve disputed stance and reward values, base versus effective distinction, no final qualification. Extended journey grouping counts one outcome per mutually exclusive group, collection across profiles counts both, existing contradictory saves preserved. Final row-level census not completed.
+
+## Session 13
+21 individual primary identity/reward source-section comparisons across introductory/Limgrave/Stormveil encounters; 18 matching rune values, remaining conditional or incompletely corroborated. Grave Warden Duelist historical Battle Hammer conflict retained; Starscourge Radahn base poise corrected to 200 with Eldenpedia Poise, Gamer Guides and tarnished.app sources. Research-only, no final adjudication. All 261 IDs and guide drafts preserved.

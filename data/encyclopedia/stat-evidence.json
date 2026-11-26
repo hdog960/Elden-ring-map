@@ -91,9 +91,8 @@
       "id": "er:b-radahn",
       "scope": "Wailing Dunes, solo NG",
       "health": 9572,
-      "stance": 120,
+      "stance": 200,
       "stanceKind": "base-reported",
-      "alternateStance": 200,
       "runes": 70000,
       "negations": {
         "standard": 10,
@@ -108,9 +107,12 @@
       "sources": [
         "https://eldenring.wiki.gg/wiki/Radahn_Consort_of_Miquella",
         "https://almanauts.com/eldenring/bosses/",
-        "https://gamertagmythras.com/blog/elden-ring/elden-ring-stance-break-guide"
+        "https://gamertagmythras.com/blog/elden-ring/elden-ring-stance-break-guide",
+        "https://eldenring.wiki.gg/wiki/Stance",
+        "https://www.gamerguides.com/elden-ring/database/bosses/caelid-bosses/starscourge-radahn",
+        "https://tarnished.app/enemies/starscourge-radahn"
       ],
-      "note": "Eldenpedia reports 120 poise; Almanauts and stance guide report 200. Do not assume equivalence or publish either as effective until modifier independently established."
+      "note": "Corrected prior 120 base poise: Eldenpedia Poise overview, Gamer Guides and tarnished.app independently report 200. Exact regulation version remains unverified."
     },
     {
       "id": "er:d-bayle",

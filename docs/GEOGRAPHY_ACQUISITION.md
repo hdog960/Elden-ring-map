@@ -7,3 +7,6 @@ I am developing a free, unofficial Elden Ring boss-only offline companion. May I
 
 ## Session 12 actionable intake
 Run `node scripts/review-survey.mjs /path/survey.json /path/evidence /path/new-review-output` with independently supplied evidence files; each provenance object needs relative `artifact` path matching SHA256. Output must be outside repository. Review output does not modify production. For explicit permission, contact the Compass Plus maintainer using the draft above; request source-file-specific rights and upstream provenance, not official artwork. Until a response or independent observations are supplied, no new production geography may be admitted.
+
+## Submitted request
+Creator posted https://github.com/EthanShoeDev/elden-ring-compass/issues/13 (Personal boss map). Verified open and zero comments. Do not duplicate or interpret silence as permission. Upon response verify author authority, scope, upstream restrictions and offline redistribution; coordinate accuracy and original basemap calibration remain separate requirements.
