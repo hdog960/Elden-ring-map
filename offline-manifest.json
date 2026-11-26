@@ -1,5 +1,5 @@
 {
-  "version": "session42-20261126-a",
+  "version": "mvp-20261126-v1",
   "releaseReady": false,
   "assets": [
     {
@@ -20,7 +20,7 @@
     },
     {
       "path": "data/catalog.json",
-      "gitBlob": "3e6ac0f52787c304f686feb54dddb5e3d2ecd1d2"
+      "gitBlob": "0cd2e0b5dbe7b29c8dc916bda80f83fb94b06fb2"
     },
     {
       "path": "data/census/base-checklist-review.json",
@@ -116,7 +116,7 @@
     },
     {
       "path": "src/app.js",
-      "gitBlob": "2aa426d81b77a3d55f1263070081c7181859f0be"
+      "gitBlob": "1ad23795559650545a6440146153032182613d87"
     },
     {
       "path": "src/atlas-preview.js",
@@ -140,7 +140,7 @@
     },
     {
       "path": "src/dashboard.js",
-      "gitBlob": "422212cd59b7936eecb98c952eba17609df4ac69"
+      "gitBlob": "ddd70d1e0283c530be8f08bb24455c496474905f"
     },
     {
       "path": "src/encyclopedia.js",
@@ -160,11 +160,15 @@
     },
     {
       "path": "src/map-view.js",
-      "gitBlob": "784e2c9e144707fd2f2d72c462d5f81abf46a6e2"
+      "gitBlob": "15763749f846bc9305b5695a42126d7f4ee36548"
+    },
+    {
+      "path": "src/mvp.js",
+      "gitBlob": "5bbb22bc7bb097c55fcd38af7d6ae39599615a9c"
     },
     {
       "path": "src/offline-client.js",
-      "gitBlob": "10c36e17fddc87f516cf735b6fb5f6c43e157984"
+      "gitBlob": "91510f631927c2824cc960bec3b068b62fa70"
     },
     {
       "path": "src/progress-settings.js",
@@ -188,11 +192,12 @@
     },
     {
       "path": "src/style.css",
-      "gitBlob": "ef94c62c1b4dab158aadf96d3d6c34426f5727f3"
+      "gitBlob": "4d0b9d6b4f680376b746ebbe681f8613b69e345a"
     },
     {
       "path": "src/survey.js",
       "gitBlob": "eb61e8375932afe137059f58338cb79629bcf1ea"
     }
-  ]
+  ],
+  "mvpReady": true
 }

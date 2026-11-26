@@ -17,3 +17,6 @@ body.map-active{height:100dvh;min-height:0;display:flex;flex-direction:column;pa
 
 /* Fixed-size labels and actual camera-centering qualification. */
 .map-labels{position:absolute;inset:0;pointer-events:none;overflow:hidden}.map-labels span{position:absolute;transform:translate(-50%,-50%);font:600 10px Georgia,serif;letter-spacing:.04em;max-width:180px;white-space:nowrap;color:#ebd6a2;text-shadow:0 1px 2px #111,0 0 5px #111,0 0 6px #111;background:#17201cb8;padding:2px 4px;border-radius:3px}.map-stage{isolation:isolate}.map-pin{touch-action:manipulation}.map-pin.projected.focused{outline-offset:2px}
+
+/* Playable MVP: keep map warnings compact and completion actions accessible. */
+.guide-warning{border-left:3px solid #e2c58c;padding:8px;background:#141c19}.completion-action{background:#254e36;border:1px solid #9abf96!important;font-weight:700}.placement-label{display:block;letter-spacing:0;text-transform:none;color:#c3b99f;font-size:11px;margin-top:3px}.unplaced-link{font-size:10px;min-height:28px;padding:3px 7px;margin-left:8px;color:#f1d49c}.atlas-notice.compact .unplaced-link{vertical-align:middle}.atlas-tag{white-space:nowrap}@media(orientation:landscape) and (max-height:550px){.atlas-notice.compact .unplaced-link{min-height:25px;margin-left:auto;white-space:nowrap}}

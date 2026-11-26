@@ -8,5 +8,7 @@
     "licensesVerified": false
   },
   "encounters": [],
-  "layers": []
+  "layers": [],
+  "mvpReady": true,
+  "mvpVersion": "mvp-20261126-v1"
 }
