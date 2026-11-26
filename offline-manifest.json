@@ -1,5 +1,5 @@
 {
-  "version": "session22-20261126-a",
+  "version": "session23-20261126-a",
   "releaseReady": false,
   "assets": [
     {
@@ -52,11 +52,15 @@
     },
     {
       "path": "data/census/intake.json",
-      "gitBlob": "0fe7645abf79b49918d5622bae69844c03954024"
+      "gitBlob": "c9fab3db0243ecaf9d08ee3b191285f27f47a33f"
     },
     {
       "path": "data/census/named-encounter-review.json",
       "gitBlob": "bba3488bf6b09f6e8a956015efd0a4f25b6480eb"
+    },
+    {
+      "path": "data/census/quest-branch-review.json",
+      "gitBlob": "768de97323792ca5d4a1c241d25e708ffdc3fe50"
     },
     {
       "path": "data/census/release-audit.json",
@@ -64,15 +68,15 @@
     },
     {
       "path": "data/census/stable-ids.json",
-      "gitBlob": "c11a65ef2e06f5942f18764958009637be947b92"
+      "gitBlob": "ce40c1e8cfe24d6690d4cdc5b524330cbc892bf2"
     },
     {
       "path": "data/encyclopedia/drafts.json",
-      "gitBlob": "ad3bf1d0b04bedb20aa8d3385f1950a800b37233"
+      "gitBlob": "e156e2be760472c916a5bb6545e15d698f196f29"
     },
     {
       "path": "data/encyclopedia/stat-evidence.json",
-      "gitBlob": "526f0c3529000479e1e4448f477ac8464f4adc9b"
+      "gitBlob": "90f4848244d52ed69a797bd65200248d082c2f0a"
     },
     {
       "path": "data/geography/compass-research.json",
@@ -100,7 +104,7 @@
     },
     {
       "path": "src/app.js",
-      "gitBlob": "3183bf2659e4093ab9776eca6f265748c20e87e8"
+      "gitBlob": "748f44b1b748e0eec3b6cfdec6f3b4bcbb324408"
     },
     {
       "path": "src/atlas-preview.js",
@@ -124,7 +128,7 @@
     },
     {
       "path": "src/dashboard.js",
-      "gitBlob": "4f5c37dacc6537145a7e40051b8c8010fe8b7b72"
+      "gitBlob": "422212cd59b7936eecb98c952eba17609df4ac69"
     },
     {
       "path": "src/encyclopedia.js",
@@ -156,7 +160,7 @@
     },
     {
       "path": "src/quest-progress.js",
-      "gitBlob": "df04f882d897b74358038fcf3320ce5a7ddb4363"
+      "gitBlob": "21251c4c628f0dd34b259258f75487fd908892f2"
     },
     {
       "path": "src/release-evidence.js",

@@ -1012,12 +1012,15 @@
       "directions": "Drain Shadow Keep's Church District, descend via Tree-Worship Passage and enter Scadutree Base.",
       "conditions": "Optional remembrance; three consecutive health bars, one encounter.",
       "combat": "Thorns, charging sunflower head and large light explosions in later stages.",
-      "strategy": "Aim at the exposed sunflower head rather than the stem. Use fire if available; take the critical opportunity at the end of a stage and keep stamina for later explosions.",
-      "rewards": "Remembrance of the Shadow Sunflower; Miquella's Great Rune.",
+      "strategy": "Aim at the exposed sunflower head rather than the stem. Use fire if available; take the critical opportunity at the end of a stage and keep stamina for later explosions. A critical finisher after the first two bars can reduce the following bar's starting health; do not treat all bars as identical.",
+      "rewards": "Remembrance of the Shadow Sunflower; Miquella's Great Rune. 260,000 runes (reported NG).",
       "preparation": "Level 140–170; high blessing and fire damage.",
       "sources": [
         "https://www.windowscentral.com/gaming/elden-ring-dlc-scadutree-avatar-location-and-how-to-beat-in-shadow-of-the-erdtree",
-        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/"
+        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+        "https://eldenring.wiki.gg/wiki/Scadutree_Avatar",
+        "https://lorearmory.com/eldenring/bosses/",
+        "https://www.gamerguides.com/elden-ring-shadow-of-the-erdtree/database/bosses/legend/scadutree-avatar"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -1027,8 +1030,7 @@
         "statusThresholds": null
       },
       "unresolved": [
-        "Exact NG numerical combat data and rune reward require independent patch-specific verification.",
-        "Confirm grace, entrance, summon and critical eligibility before publication."
+        "Later bar exact health, current regulation and calibrated map position remain unqualified."
       ]
     },
     {
@@ -7171,7 +7173,7 @@
       "id": "er:d-inv-hornsent-rauh",
       "grace": "Church of the Bud, Main Entrance",
       "directions": "Follow the stairs leading toward the church after progressing Hornsent's surviving quest route.",
-      "conditions": "Distinct quest invasion; commonly triggered after summoning Hornsent for Messmer and advancing dialogue; exact necessity disputed. Can be locked out by alternate quest outcomes. Do not count an Enir-Ilim participant as this invasion.",
+      "conditions": "Distinct quest invasion; commonly triggered after summoning Hornsent for Messmer and advancing dialogue; exact necessity disputed. Can be locked out by alternate quest outcomes. Do not count an Enir-Ilim participant as this invasion. Killing Hornsent by assisting Leda in Shadow Keep prevents this encounter.",
       "combat": "Aggressive curved sword combinations.",
       "strategy": "Avoid prolonged trades and punish a completed combination.",
       "rewards": "Falx; Hornsent's equipment.",
@@ -7180,7 +7182,9 @@
         "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-hornsent-questline-walkthrough",
         "https://www.pcgamer.com/games/rpg/elden-ring-hornsent-quest/",
         "https://eldenring.exputer.com/quests/hornsent-s-quest",
-        "https://www.reddit.com/r/eldenringdiscussion/comments/1eloj7d"
+        "https://www.reddit.com/r/eldenringdiscussion/comments/1eloj7d",
+        "https://tarnishedsaga.com/quests/ledas-questline/",
+        "https://www.neoseeker.com/elden-ring-shadow-of-the-erdtree/NPCs/Needle_Knight_Leda"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -7242,6 +7246,133 @@
       },
       "unresolved": [
         "Exact regulation, defeat flag, calibrated position and independent combat qualification pending."
+      ]
+    },
+    {
+      "id": "er:d-madding-hand",
+      "grace": "Woodland Trail",
+      "directions": "Walk south toward the Abandoned Church and find the hostile NPC along the path.",
+      "conditions": "Unique non-respawning NPC per Abandoned Church enemy list; separate walkthroughs corroborate location and weapon.",
+      "combat": "Fist attacks and madness buildup.",
+      "strategy": "Avoid sustained fist chains; counter after a committed attack.",
+      "rewards": "Madding Hand weapon.",
+      "preparation": "Area-appropriate upgraded weapon, Scadutree Blessing and suitable defenses.",
+      "sources": [
+        "https://eldenring.fandom.com/wiki/Abandoned_Church",
+        "https://eldenring.wiki.gg/wiki/Madding_Hand_%28weapon%29",
+        "https://www.neoseeker.com/elden-ring-shadow-of-the-erdtree/walkthrough/Abyssal_Woods"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact current-version defeat flag, combat data and calibrated marker unqualified."
+      ]
+    },
+    {
+      "id": "er:d-quest-hornsent-red",
+      "grace": "Storehouse, First Floor",
+      "directions": "Return to the battlements near the storehouse lift before entering Messmer's arena and choose the red sign.",
+      "conditions": "After charm break and Leda's investigation dialogue; mutually exclusive with defending Hornsent. Kills Hornsent and blocks his Rauh invasion.",
+      "combat": "Paired curved blades; Leda assists.",
+      "strategy": "Let Leda draw pressure and counter a completed combo.",
+      "rewards": "Falx; Hornsent's armor; Lacerating Crossed-Tree after talking to Leda.",
+      "preparation": "Area-appropriate upgraded weapon, Scadutree Blessing and suitable defenses.",
+      "sources": [
+        "https://tarnishedsaga.com/quests/ledas-questline/",
+        "https://www.neoseeker.com/elden-ring-shadow-of-the-erdtree/NPCs/Needle_Knight_Leda",
+        "https://www.gamerguides.com/elden-ring-shadow-of-the-erdtree/guide/npcs/needle-knight-leda/how-to-find-needle-knight-leda-and-complete-her-quest/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact current-version defeat flag, combat data and calibrated marker unqualified."
+      ]
+    },
+    {
+      "id": "er:d-quest-hornsent-gold",
+      "grace": "Storehouse, First Floor",
+      "directions": "Find the signs near the burning boats before entering Messmer's arena and select gold.",
+      "conditions": "Mutually exclusive with killing Hornsent; prevents the later Ansbach confrontation. Separate from final Enir-Ilim battle.",
+      "combat": "Light greatsword and holy attacks; Hornsent assists.",
+      "strategy": "Use brief openings while Leda is occupied; avoid her skill follow-up.",
+      "rewards": "Ash of War: Swift Slash; Leda's Rune.",
+      "preparation": "Area-appropriate upgraded weapon, Scadutree Blessing and suitable defenses.",
+      "sources": [
+        "https://tarnishedsaga.com/quests/ledas-questline/",
+        "https://www.neoseeker.com/elden-ring-shadow-of-the-erdtree/NPCs/Needle_Knight_Leda",
+        "https://www.gamerguides.com/elden-ring-shadow-of-the-erdtree/guide/npcs/needle-knight-leda/how-to-find-needle-knight-leda-and-complete-her-quest/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact current-version defeat flag, combat data and calibrated marker unqualified."
+      ]
+    },
+    {
+      "id": "er:d-quest-ansbach-red",
+      "grace": "Storehouse, First Floor",
+      "directions": "After delivering the Secret Rite Scroll and progressing dialogue, revisit Ansbach's room and select red if available.",
+      "conditions": "Cannot occur after defending Hornsent; mutually exclusive with defending Ansbach. Resolve before sealing-tree cutoff.",
+      "combat": "Fast scythe attacks; Leda assists.",
+      "strategy": "Circle away from the scythe's reach while Leda engages and punish recovery.",
+      "rewards": "Ansbach's Longbow and armor; Retaliatory Crossed-Tree after speaking to Leda.",
+      "preparation": "Area-appropriate upgraded weapon, Scadutree Blessing and suitable defenses.",
+      "sources": [
+        "https://tarnishedsaga.com/quests/ledas-questline/",
+        "https://www.neoseeker.com/elden-ring-shadow-of-the-erdtree/NPCs/Needle_Knight_Leda",
+        "https://eldenring.wiki.gg/wiki/Ansbach%27s_Longbow",
+        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-sir-ansbach-leda-freyja-questline-walkthrough/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact current-version defeat flag, combat data and calibrated marker unqualified."
+      ]
+    },
+    {
+      "id": "er:d-quest-ansbach-gold",
+      "grace": "Storehouse, First Floor",
+      "directions": "Deliver the Secret Rite Scroll, progress dialogue, revisit the room and choose gold if present.",
+      "conditions": "Cannot occur after defending Hornsent; mutually exclusive with killing Ansbach. Separate from final Enir-Ilim battle.",
+      "combat": "Sword combos and holy attacks; Ansbach assists.",
+      "strategy": "Use short openings while Ansbach holds attention.",
+      "rewards": "Ansbach's Longbow; Leda's Rune. Ansbach survives for later quest rewards.",
+      "preparation": "Area-appropriate upgraded weapon, Scadutree Blessing and suitable defenses.",
+      "sources": [
+        "https://tarnishedsaga.com/quests/ledas-questline/",
+        "https://www.neoseeker.com/elden-ring-shadow-of-the-erdtree/NPCs/Needle_Knight_Leda",
+        "https://eldenring.wiki.gg/wiki/Ansbach%27s_Longbow",
+        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-sir-ansbach-leda-freyja-questline-walkthrough/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact current-version defeat flag, combat data and calibrated marker unqualified."
       ]
     }
   ]

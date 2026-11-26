@@ -47,3 +47,6 @@ Nine provisional extended additions: Lake of Rot Alabaster Lord; Deeproot, capit
 
 ## Session 22
 Nine distinct provisional extended named encounters added with source-backed guides and stable IDs: Kood, Salza, Wego, Devonia, Moonrithyll, Anna, Rauh Hornsent, Moongrum and Baleful Shadow. Kood reward is Flame Spear. Hornsent conditional spawn requirements disputed; keep separate from final Leda group. Logur, Madding Hand, Leda branch choices and optional Tarnished Pack scope held. Midra transformed HP/stance/runes added; conflicting thresholds omitted. 279 IDs, 207 primary/72 extended. No production census claim.
+
+## Session 23
+Five provisional extended additions: Madding Hand and four Shadow Keep summon-sign outcomes. Two exclusive groups, cross-choice blockers; final Leda and Rauh IDs retained. Logur held. Optional Tarnished Pack two invaders documented, no admission. Scadutree Avatar first-bar research added. 284 total, 207 primary/77 extended. No geography admission.

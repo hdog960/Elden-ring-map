@@ -113,7 +113,24 @@
     "b-baleful-shadow-s22-1": "https://eldenring.fandom.com/wiki/Bosses",
     "b-baleful-shadow-s22-2": "https://eldenring.exputer.com/quests/ranni-s-quest",
     "b-baleful-shadow-s22-3": "https://tarnished.app/enemies/baleful-shadow",
-    "b-baleful-shadow-s22-4": "https://eldenring.fandom.com/wiki/Baleful_Shadow"
+    "b-baleful-shadow-s22-4": "https://eldenring.fandom.com/wiki/Baleful_Shadow",
+    "d-madding-hand-s23-1": "https://eldenring.fandom.com/wiki/Abandoned_Church",
+    "d-madding-hand-s23-2": "https://eldenring.wiki.gg/wiki/Madding_Hand_%28weapon%29",
+    "d-madding-hand-s23-3": "https://www.neoseeker.com/elden-ring-shadow-of-the-erdtree/walkthrough/Abyssal_Woods",
+    "d-quest-hornsent-red-s23-1": "https://tarnishedsaga.com/quests/ledas-questline/",
+    "d-quest-hornsent-red-s23-2": "https://www.neoseeker.com/elden-ring-shadow-of-the-erdtree/NPCs/Needle_Knight_Leda",
+    "d-quest-hornsent-red-s23-3": "https://www.gamerguides.com/elden-ring-shadow-of-the-erdtree/guide/npcs/needle-knight-leda/how-to-find-needle-knight-leda-and-complete-her-quest/",
+    "d-quest-hornsent-gold-s23-1": "https://tarnishedsaga.com/quests/ledas-questline/",
+    "d-quest-hornsent-gold-s23-2": "https://www.neoseeker.com/elden-ring-shadow-of-the-erdtree/NPCs/Needle_Knight_Leda",
+    "d-quest-hornsent-gold-s23-3": "https://www.gamerguides.com/elden-ring-shadow-of-the-erdtree/guide/npcs/needle-knight-leda/how-to-find-needle-knight-leda-and-complete-her-quest/",
+    "d-quest-ansbach-red-s23-1": "https://tarnishedsaga.com/quests/ledas-questline/",
+    "d-quest-ansbach-red-s23-2": "https://www.neoseeker.com/elden-ring-shadow-of-the-erdtree/NPCs/Needle_Knight_Leda",
+    "d-quest-ansbach-red-s23-3": "https://eldenring.wiki.gg/wiki/Ansbach%27s_Longbow",
+    "d-quest-ansbach-red-s23-4": "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-sir-ansbach-leda-freyja-questline-walkthrough/",
+    "d-quest-ansbach-gold-s23-1": "https://tarnishedsaga.com/quests/ledas-questline/",
+    "d-quest-ansbach-gold-s23-2": "https://www.neoseeker.com/elden-ring-shadow-of-the-erdtree/NPCs/Needle_Knight_Leda",
+    "d-quest-ansbach-gold-s23-3": "https://eldenring.wiki.gg/wiki/Ansbach%27s_Longbow",
+    "d-quest-ansbach-gold-s23-4": "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-sir-ansbach-leda-freyja-questline-walkthrough/"
   },
   "rows": [
     {
@@ -4559,7 +4576,10 @@
         "d-inv-hornsent-rauh-s22-3",
         "d-inv-hornsent-rauh-s22-4"
       ],
-      "decision": "Distinct quest invasion; commonly triggered after summoning Hornsent for Messmer and advancing dialogue; exact necessity disputed. Can be locked out by alternate quest outcomes. Do not count an Enir-Ilim participant as this invasion. Provisional extended only."
+      "decision": "Distinct quest invasion; commonly triggered after summoning Hornsent for Messmer and advancing dialogue; exact necessity disputed. Can be locked out by alternate quest outcomes. Do not count an Enir-Ilim participant as this invasion. Provisional extended only. Completing the earlier red-sign Hornsent fight precludes this invasion.",
+      "blockedBy": [
+        "er:d-quest-hornsent-red"
+      ]
     },
     {
       "id": "er:b-moongrum",
@@ -4595,6 +4615,103 @@
         "b-baleful-shadow-s22-4"
       ],
       "decision": "Persistent scripted quest defeat; not Blaidd's later encounter and not the Dragonkin Soldier. Provisional extended only."
+    },
+    {
+      "id": "er:d-madding-hand",
+      "game": "dlc",
+      "name": "Madding Hand",
+      "region": "Abyssal Woods",
+      "location": "Path south of Woodland Trail",
+      "layerHint": "shadow",
+      "hunt": "extended",
+      "category": "unique-elite",
+      "review": "classification-review",
+      "evidence": [
+        "d-madding-hand-s23-1",
+        "d-madding-hand-s23-2",
+        "d-madding-hand-s23-3"
+      ],
+      "decision": "Unique non-respawning NPC per Abandoned Church enemy list; separate walkthroughs corroborate location and weapon."
+    },
+    {
+      "id": "er:d-quest-hornsent-red",
+      "game": "dlc",
+      "name": "Hornsent — assist Leda",
+      "region": "Shadow Keep",
+      "location": "Burning boats battlements, red summon sign",
+      "layerHint": "shadow",
+      "hunt": "extended",
+      "category": "unique-challenge",
+      "review": "classification-review",
+      "evidence": [
+        "d-quest-hornsent-red-s23-1",
+        "d-quest-hornsent-red-s23-2",
+        "d-quest-hornsent-red-s23-3"
+      ],
+      "decision": "After charm break and Leda's investigation dialogue; mutually exclusive with defending Hornsent. Kills Hornsent and blocks his Rauh invasion.",
+      "exclusiveGroup": "leda-hornsent-choice"
+    },
+    {
+      "id": "er:d-quest-hornsent-gold",
+      "game": "dlc",
+      "name": "Needle Knight Leda — defend Hornsent",
+      "region": "Shadow Keep",
+      "location": "Burning boats battlements, gold summon sign",
+      "layerHint": "shadow",
+      "hunt": "extended",
+      "category": "unique-challenge",
+      "review": "classification-review",
+      "evidence": [
+        "d-quest-hornsent-gold-s23-1",
+        "d-quest-hornsent-gold-s23-2",
+        "d-quest-hornsent-gold-s23-3"
+      ],
+      "decision": "Mutually exclusive with killing Hornsent; prevents the later Ansbach confrontation. Separate from final Enir-Ilim battle.",
+      "exclusiveGroup": "leda-hornsent-choice"
+    },
+    {
+      "id": "er:d-quest-ansbach-red",
+      "game": "dlc",
+      "name": "Sir Ansbach — assist Leda",
+      "region": "Shadow Keep",
+      "location": "Ansbach's room, red summon sign",
+      "layerHint": "shadow",
+      "hunt": "extended",
+      "category": "unique-challenge",
+      "review": "classification-review",
+      "evidence": [
+        "d-quest-ansbach-red-s23-1",
+        "d-quest-ansbach-red-s23-2",
+        "d-quest-ansbach-red-s23-3",
+        "d-quest-ansbach-red-s23-4"
+      ],
+      "decision": "Cannot occur after defending Hornsent; mutually exclusive with defending Ansbach. Resolve before sealing-tree cutoff.",
+      "exclusiveGroup": "leda-ansbach-choice",
+      "blockedBy": [
+        "er:d-quest-hornsent-gold"
+      ]
+    },
+    {
+      "id": "er:d-quest-ansbach-gold",
+      "game": "dlc",
+      "name": "Needle Knight Leda — defend Ansbach",
+      "region": "Shadow Keep",
+      "location": "Ansbach's room, gold summon sign",
+      "layerHint": "shadow",
+      "hunt": "extended",
+      "category": "unique-challenge",
+      "review": "classification-review",
+      "evidence": [
+        "d-quest-ansbach-gold-s23-1",
+        "d-quest-ansbach-gold-s23-2",
+        "d-quest-ansbach-gold-s23-3",
+        "d-quest-ansbach-gold-s23-4"
+      ],
+      "decision": "Cannot occur after defending Hornsent; mutually exclusive with killing Ansbach. Separate from final Enir-Ilim battle.",
+      "exclusiveGroup": "leda-ansbach-choice",
+      "blockedBy": [
+        "er:d-quest-hornsent-gold"
+      ]
     }
   ]
 }

@@ -1,0 +1,97 @@
+{
+  "schema": 1,
+  "status": "provisional-quest-encounters-not-release",
+  "records": [
+    {
+      "id": "er:d-madding-hand",
+      "decision": "Unique non-respawning NPC per Abandoned Church enemy list; separate walkthroughs corroborate location and weapon.",
+      "sources": [
+        "https://eldenring.fandom.com/wiki/Abandoned_Church",
+        "https://eldenring.wiki.gg/wiki/Madding_Hand_%28weapon%29",
+        "https://www.neoseeker.com/elden-ring-shadow-of-the-erdtree/walkthrough/Abyssal_Woods"
+      ]
+    },
+    {
+      "id": "er:d-quest-hornsent-red",
+      "decision": "After charm break and Leda's investigation dialogue; mutually exclusive with defending Hornsent. Kills Hornsent and blocks his Rauh invasion.",
+      "sources": [
+        "https://tarnishedsaga.com/quests/ledas-questline/",
+        "https://www.neoseeker.com/elden-ring-shadow-of-the-erdtree/NPCs/Needle_Knight_Leda",
+        "https://www.gamerguides.com/elden-ring-shadow-of-the-erdtree/guide/npcs/needle-knight-leda/how-to-find-needle-knight-leda-and-complete-her-quest/"
+      ],
+      "exclusiveGroup": "leda-hornsent-choice"
+    },
+    {
+      "id": "er:d-quest-hornsent-gold",
+      "decision": "Mutually exclusive with killing Hornsent; prevents the later Ansbach confrontation. Separate from final Enir-Ilim battle.",
+      "sources": [
+        "https://tarnishedsaga.com/quests/ledas-questline/",
+        "https://www.neoseeker.com/elden-ring-shadow-of-the-erdtree/NPCs/Needle_Knight_Leda",
+        "https://www.gamerguides.com/elden-ring-shadow-of-the-erdtree/guide/npcs/needle-knight-leda/how-to-find-needle-knight-leda-and-complete-her-quest/"
+      ],
+      "exclusiveGroup": "leda-hornsent-choice"
+    },
+    {
+      "id": "er:d-quest-ansbach-red",
+      "decision": "Cannot occur after defending Hornsent; mutually exclusive with defending Ansbach. Resolve before sealing-tree cutoff.",
+      "sources": [
+        "https://tarnishedsaga.com/quests/ledas-questline/",
+        "https://www.neoseeker.com/elden-ring-shadow-of-the-erdtree/NPCs/Needle_Knight_Leda",
+        "https://eldenring.wiki.gg/wiki/Ansbach%27s_Longbow",
+        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-sir-ansbach-leda-freyja-questline-walkthrough/"
+      ],
+      "exclusiveGroup": "leda-ansbach-choice",
+      "blockedBy": [
+        "er:d-quest-hornsent-gold"
+      ]
+    },
+    {
+      "id": "er:d-quest-ansbach-gold",
+      "decision": "Cannot occur after defending Hornsent; mutually exclusive with killing Ansbach. Separate from final Enir-Ilim battle.",
+      "sources": [
+        "https://tarnishedsaga.com/quests/ledas-questline/",
+        "https://www.neoseeker.com/elden-ring-shadow-of-the-erdtree/NPCs/Needle_Knight_Leda",
+        "https://eldenring.wiki.gg/wiki/Ansbach%27s_Longbow",
+        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-sir-ansbach-leda-freyja-questline-walkthrough/"
+      ],
+      "exclusiveGroup": "leda-ansbach-choice",
+      "blockedBy": [
+        "er:d-quest-hornsent-gold"
+      ]
+    }
+  ],
+  "holds": [
+    {
+      "name": "Logur, the Beast Claw",
+      "reason": "Named NPC and reward corroborated, explicit post-defeat respawn evidence not retrieved.",
+      "sources": [
+        "https://www.neoseeker.com/elden-ring-shadow-of-the-erdtree/walkthrough/Gravesite_Plain",
+        "https://eip.gg/elden-ring/guides/gravesite-plain/",
+        "https://eldenring.wiki.gg/wiki/Beast_Claw_%28weapon%29"
+      ]
+    }
+  ],
+  "scopeReview": {
+    "status": "optional-content-not-admitted",
+    "content": "Tarnished Pack",
+    "versionIntroduced": "1.17",
+    "sources": [
+      "https://www.bandainamcoent.com/news/elden-ring-patch-notes-version-1-17",
+      "https://www.keengamer.com/articles/guides/how-to-find-knight-leontiel-and-noble-broken-mask-in-elden-ring-tarnished-edition/",
+      "https://www.pcgamer.com/games/rpg/elden-ring-tarnished-edition-weapons-armor/"
+    ],
+    "encounters": [
+      {
+        "name": "Knight Leontiel",
+        "location": "Wailing Dunes, Caelid",
+        "condition": "After Starscourge Radahn"
+      },
+      {
+        "name": "Noble Broken Mask",
+        "location": "Leyndell, Royal Capital",
+        "condition": "Before Ashen Capital"
+      }
+    ],
+    "decision": "No stable IDs or denominator change pending creator scope approval; included by default in Switch 2 Tarnished Edition, separate entitlement elsewhere."
+  }
+}

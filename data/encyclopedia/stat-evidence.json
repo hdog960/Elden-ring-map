@@ -331,6 +331,20 @@
         "https://www.gamerguides.com/elden-ring-shadow-of-the-erdtree/database/bosses/legend/midra-lord-of-frenzied-flame"
       ],
       "note": "Three sources agree transformed HP; stance corroborated by first two; full Gamer Guides table supplies negations and reward. Resistance thresholds disagree with tarnished.app; omitted. Exact regulation unverified."
+    },
+    {
+      "id": "er:d-avatar",
+      "scope": "First health bar only, solo NG reported; three bars share one completion ID",
+      "health": 7560,
+      "stance": 120,
+      "runes": 260000,
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Scadutree_Avatar",
+        "https://lorearmory.com/eldenring/bosses/",
+        "https://www.gamerguides.com/elden-ring-shadow-of-the-erdtree/database/bosses/legend/scadutree-avatar",
+        "https://www.windowscentral.com/gaming/elden-ring-dlc-scadutree-avatar-location-and-how-to-beat-in-shadow-of-the-erdtree"
+      ],
+      "note": "First-phase HP and stance supported by Eldenpedia and Lore Armory range. Gamer Guides reports 12403 HP without phase label, not used as phase-one or total health. Later bars and critical carryover require verification; no exact regulation claim."
     }
   ],
   "limitations": [
