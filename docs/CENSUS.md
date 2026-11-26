@@ -56,3 +56,6 @@ Two distinct non-respawning Shadow Keep Church District spirits provisionally ad
 
 ## Session 25
 No new stable IDs; 286 total. Five scoped records added (Regal Ancestor, Fortissax, Haligtree Loretta, Belurat Lion, Rykard second phase); 29 total. Belurat reward corrected to 120000, Godskin Duo reward corroborated but shared HP conflict withheld, Tower Bridge Noble documented non-respawn. Development-only research panel with explicit scope and conflict; no numerical release promotion. Existing offline activation gate passed. Logur remains held. No terrain changes.
+
+## Session 26
+Six variant-scoped numerical records: Red Wolf (Academy), Ancestor Spirit (lower Siofra), Royal Knight Loretta (Caria), Nokstella Dragonkin, named Elemer, Castle Morne Leonine. 35 total. Eight guides refined including Godskin Duo and Valiant Gargoyles, whose shared/variant stats remain unresolved rather than inventing combined stance. 286 IDs unchanged. No geography admission. Previous research interface and offline lifecycle passed exact-head CI.

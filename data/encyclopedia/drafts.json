@@ -664,12 +664,15 @@
       "directions": "Descend Castle Morne's rear ramparts toward the beach and enter the shoreline arena.",
       "conditions": "Optional legacy dungeon; Irina/Edgar quest connection.",
       "combat": "Fast greatsword chains, leaping slashes and claw strikes.",
-      "strategy": "Use short counters after the leap; a shield or summon can reduce pressure. Do not trade through consecutive swings.",
-      "rewards": "Grafted Blade Greatsword.",
+      "strategy": "Use short counters after the leap; a shield or summon can reduce pressure. Do not trade through consecutive swings. Jump attacks and charged heavies can interrupt its pressure; Edgar may assist if his quest conditions are met.",
+      "rewards": "Grafted Blade Greatsword; 3,800 runes (reported NG).",
       "preparation": "Level 20–35; upgrade main weapon.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/guide/weeping-peninsula/bosses/",
-        "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/"
+        "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
+        "https://tarnishedwiki.com/leonine-misbegotten-boss-guide-elden-ring/",
+        "https://lorearmory.com/eldenring/bosses/",
+        "https://www.neoseeker.com/elden-ring/walkthrough/Castle_Morne"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -679,8 +682,7 @@
         "statusThresholds": null
       },
       "unresolved": [
-        "Exact NG numerical combat data and rune reward require independent patch-specific verification.",
-        "Confirm grace, entrance, summon and critical eligibility before publication."
+        "Exact regulation, complete combat table and independently calibrated map position remain unqualified. Scoped numerical evidence is available in research."
       ]
     },
     {
@@ -1792,13 +1794,17 @@
       "directions": "Climb the manor route to the royal arena.",
       "conditions": "Normal route to Three Sisters.",
       "combat": "Mounted polearm, magical swords and greatbow.",
-      "strategy": "Dodge conjured arrows on release and punish the polearm leap; disengage before the next magic volley.",
-      "rewards": "Loretta's Greatbow; Ash of War: Loretta's Slash.",
+      "strategy": "Dodge conjured arrows on release and punish the polearm leap; disengage before the next magic volley. Lightning is favorable; status effects are ineffective against the spectral variant, and parries do not create a critical opening.",
+      "rewards": "Loretta's Greatbow; Ash of War: Loretta's Slash; 10,000 runes (reported NG).",
       "preparation": "Level 45–60; magic defense.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/guide/liurnia-of-the-lakes/bosses/",
         "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
-        "https://plarium.com/en/blog/elden-ring-boss-locations/"
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://tarnishedwiki.com/royal-knight-loretta-boss-guide-elden-ring/",
+        "https://www.pureeldenring.com/bosses/royal-knight-loretta",
+        "https://tarnished.app/enemies/royal-knight-loretta",
+        "https://eldenringpoisewiki.fun/"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -1808,8 +1814,7 @@
         "statusThresholds": null
       },
       "unresolved": [
-        "Verify exact current-patch NG statistics, rune rewards and source-specific details per encounter.",
-        "Confirm nearest grace, entrance route, summon and critical eligibility."
+        "Exact regulation, complete combat table and independently calibrated map position remain unqualified. Scoped numerical evidence is available in research."
       ]
     },
     {
@@ -1818,13 +1823,16 @@
       "directions": "Follow academy school rooms and stairs to the Debate Parlor fog.",
       "conditions": "Legacy dungeon encounter.",
       "combat": "Fast leaps, magic sword and delayed projectiles.",
-      "strategy": "Watch floating projectiles while tracking the wolf; counter after a committed leap with quick attacks.",
-      "rewards": "Memory Stone.",
+      "strategy": "Watch floating projectiles while tracking the wolf; counter after a committed leap with quick attacks. Slash attacks have favorable negation; its high stance and short openings favor fast attacks over forcing a break.",
+      "rewards": "Memory Stone; 14,000 runes (reported NG).",
       "preparation": "Level 35–50; magic defense.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/guide/liurnia-of-the-lakes/bosses/",
         "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
-        "https://plarium.com/en/blog/elden-ring-boss-locations/"
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.dexerto.com/elden-ring/how-to-beat-red-wolf-of-radagon-in-elden-ring-1771010/",
+        "https://www.pureeldenring.com/bosses/red-wolf-of-ragadon",
+        "https://lorearmory.com/eldenring/bosses/"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -1834,8 +1842,7 @@
         "statusThresholds": null
       },
       "unresolved": [
-        "Verify exact current-patch NG statistics, rune rewards and source-specific details per encounter.",
-        "Confirm nearest grace, entrance route, summon and critical eligibility."
+        "Exact regulation, complete combat table and independently calibrated map position remain unqualified. Scoped numerical evidence is available in research."
       ]
     },
     {
@@ -3015,13 +3022,16 @@
       "directions": "Cross the poison-filled castle and climb to the Castellan's Hall.",
       "conditions": "Optional legacy encounter.",
       "combat": "Telekinetic sword chains, shield bash and grab in a confined arena.",
-      "strategy": "Fight close to the flank rather than at the sword's extended range. Dodge the complete chain and punish a shield slam; heal only during a long opening.",
-      "rewards": "Marais Executioner's Sword; Briar Greatshield.",
+      "strategy": "Fight close to the flank rather than at the sword's extended range. Dodge the complete chain and punish a shield slam; heal only during a long opening. Favor piercing damage and consider parries: two successful parries are reported to open a critical opportunity.",
+      "rewards": "Marais Executioner's Sword; Briar Greatshield; 24,000 runes (reported NG).",
       "preparation": "Level 65–85.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/database/bosses/altus-plateau-bosses",
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
-        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+        "https://tarnished.app/enemies/elemer-of-the-briar",
+        "https://tarnishedsaga.com/bosses/elemer-of-the-briar/",
+        "https://lorearmory.com/eldenring/bosses/"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -3031,8 +3041,7 @@
         "statusThresholds": null
       },
       "unresolved": [
-        "Confirm exact current-patch numerical combat statistics and reward values.",
-        "Verify grace, access route and combat eligibility against individual encounter sources."
+        "Exact regulation, complete combat table and independently calibrated map position remain unqualified. Scoped numerical evidence is available in research."
       ]
     },
     {
@@ -4229,7 +4238,10 @@
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
         "https://eldenring.redmaw.dev/sheets/bosses",
         "https://tarnishedwiki.com/godskin-duo-boss-guide-elden-ring/",
-        "https://eldenring.wiki.gg/wiki/Godskin_Duo"
+        "https://eldenring.wiki.gg/wiki/Godskin_Duo",
+        "https://tarnished.app/enemies/godskin-duo",
+        "https://eldenring.exputer.com/characters/godskin-duo",
+        "https://www.pushsquare.com/guides/elden-ring-how-to-beat-godskin-duo"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -4239,9 +4251,8 @@
         "statusThresholds": null
       },
       "unresolved": [
-        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
-        "Verify nearest grace, precise route, summon and critical eligibility before publication.",
-        "Shared bar HP reports differ (26,350 versus roughly 24,000); individual stance values are not a shared encounter stance."
+        "Shared HP sources report 26350 versus approximately 24000; no exact common total established. Individual bodies have separate stance; never assign a single combined stance to this encounter.",
+        "Exact regulation, individual combat tables and calibrated position remain unqualified."
       ]
     },
     {
@@ -4389,13 +4400,17 @@
       "directions": "Light the eight flame pillars in southern Siofra River, then touch the remains at Hallowhorn Grounds.",
       "conditions": "Optional; distinct from Regal Ancestor Spirit.",
       "combat": "Leaps, antler swipes and blue flame breath.",
-      "strategy": "Move sideways out of the breath and wait for the animal to land before attacking. Use short casts rather than chasing airborne movement.",
-      "rewards": "Ancestral Follower Ashes.",
+      "strategy": "Move sideways out of the breath and wait for the animal to land before attacking. Use short casts rather than chasing airborne movement. Fire and holy damage have favorable reported negations; critical hits are possible after breaking stance.",
+      "rewards": "Ancestral Follower Ashes; 13,000 runes reported by multiple sources; older guide lists 10,000.",
       "preparation": "Level 35–55.",
       "sources": [
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
         "https://eldenring.redmaw.dev/sheets/bosses",
-        "https://www.eldenringwiki.cc/locations/underground-rivers/"
+        "https://www.eldenringwiki.cc/locations/underground-rivers/",
+        "https://tarnished.app/enemies/ancestor-spirit",
+        "https://www.gamerguides.com/elden-ring/database/bosses/siofra-river-bosses/ancestor-spirit2",
+        "https://www.neoseeker.com/elden-ring/Bosses/Ancestral_Spirit",
+        "https://www.powerpyx.com/elden-ring-siofra-river-walkthrough/"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -4405,8 +4420,8 @@
         "statusThresholds": null
       },
       "unresolved": [
-        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
-        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+        "Exact regulation, complete combat table and independently calibrated map position remain unqualified. Scoped numerical evidence is available in research.",
+        "Older 10000 rune report conflicts with multiple 13000 reports; exact version lineage pending."
       ]
     },
     {
@@ -4501,7 +4516,10 @@
       "sources": [
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
         "https://eldenring.redmaw.dev/sheets/bosses",
-        "https://www.eldenringwiki.cc/locations/underground-rivers/"
+        "https://www.eldenringwiki.cc/locations/underground-rivers/",
+        "https://www.gamerguides.com/elden-ring/guide/nokron-eternal-city/bosses/",
+        "https://tarnished.app/enemies/valiant-gargoyle",
+        "https://www.pushsquare.com/guides/elden-ring-how-to-beat-valiant-gargoyle"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -4511,8 +4529,8 @@
         "statusThresholds": null
       },
       "unresolved": [
-        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
-        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+        "Gamer Guides reports 32000 runes for the Aqueduct duo; general gargoyle entry reports 30000. Variant-specific reward and individual HP need verification; no combined health or stance inferred.",
+        "Exact regulation and calibrated map position remain unqualified."
       ]
     },
     {
@@ -4521,13 +4539,18 @@
       "directions": "Follow the lower Ainsel tunnels past the Uhl Palace area to the enormous throne chamber.",
       "conditions": "Optional; distinct from Lake of Rot dragonkin.",
       "combat": "Arm strikes, lightning-like frost attacks and aerial phase.",
-      "strategy": "Move to its side and punish a completed slam; dodge the delayed frost lightning rather than standing near the impact. Retreat from wide area attacks.",
-      "rewards": "Frozen Lightning Spear.",
+      "strategy": "Move to its side and punish a completed slam; dodge the delayed frost lightning rather than standing near the impact. Retreat from wide area attacks. Favor slash attacks and frost protection; lightning damage is resisted. Spirit Ashes and co-op are reported available.",
+      "rewards": "Frozen Lightning Spear (incantation); 12,000 runes (reported NG).",
       "preparation": "Level 50–75; frost protection.",
       "sources": [
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
         "https://eldenring.redmaw.dev/sheets/bosses",
-        "https://www.eldenringwiki.cc/locations/underground-rivers/"
+        "https://www.eldenringwiki.cc/locations/underground-rivers/",
+        "https://tarnishedwiki.com/dragonkin-soldier-of-nokstella-boss-guide-elden-ring/",
+        "https://www.pureeldenring.com/npcs/dragonkin-soldier-of-nokstella-boss-ainsel-river",
+        "https://www.gamerguides.com/elden-ring/database/bosses/ainsel-river-bosses/dragonkin-soldier-of-nokstella",
+        "https://lorearmory.com/eldenring/bosses/",
+        "https://www.neoseeker.com/elden-ring/Bosses/Dragonkin_Soldier_of_Nokstella"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -4537,8 +4560,7 @@
         "statusThresholds": null
       },
       "unresolved": [
-        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
-        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+        "Exact regulation, complete combat table and independently calibrated map position remain unqualified. Scoped numerical evidence is available in research."
       ]
     },
     {

@@ -510,6 +510,119 @@
         "https://www.pushsquare.com/guides/elden-ring-how-to-beat-rykard-lord-of-blasphemy"
       ],
       "note": "Full solo table and indexed Steam guide agree second-bar health; reward independently corroborated. First-bar sources disagree (30439 versus 30493), not promoted; separate phase record pending. Exact regulation unverified."
+    },
+    {
+      "id": "er:b-raya-wolf",
+      "scope": "Academy Debate Parlor Red Wolf of Radagon, solo NG reported; excludes other red wolves",
+      "health": 2204,
+      "stance": 120,
+      "runes": 14000,
+      "negations": {
+        "standard": 0,
+        "slash": -10,
+        "strike": 0,
+        "pierce": 0,
+        "magic": 40,
+        "fire": 20,
+        "lightning": 20,
+        "holy": 20
+      },
+      "sources": [
+        "https://www.dexerto.com/elden-ring/how-to-beat-red-wolf-of-radagon-in-elden-ring-1771010/",
+        "https://www.pureeldenring.com/bosses/red-wolf-of-ragadon",
+        "https://lorearmory.com/eldenring/bosses/"
+      ],
+      "note": "Dexerto gives displayed integer HP and stance; Pure Elden Ring has fractional 2204.818 and damage table. Lore Armory index corroborates integer HP and stance. Regulation not independently verified."
+    },
+    {
+      "id": "er:b-ancestor",
+      "scope": "Lower Siofra River Ancestor Spirit, solo NG; not Regal Ancestor",
+      "health": 4393,
+      "stance": 120,
+      "runes": 13000,
+      "negations": {
+        "standard": 0,
+        "slash": -10,
+        "strike": 0,
+        "pierce": 0,
+        "magic": 20,
+        "fire": -20,
+        "lightning": 0,
+        "holy": -20
+      },
+      "sources": [
+        "https://tarnished.app/enemies/ancestor-spirit",
+        "https://www.gamerguides.com/elden-ring/database/bosses/siofra-river-bosses/ancestor-spirit2",
+        "https://www.neoseeker.com/elden-ring/Bosses/Ancestral_Spirit",
+        "https://www.powerpyx.com/elden-ring-siofra-river-walkthrough/"
+      ],
+      "note": "Solo table and Gamer Guides agree HP and runes; Neoseeker agrees rune reward. Older PowerPyx walkthrough lists 10000 runes; retain historical discrepancy. Exact regulation not independently verified."
+    },
+    {
+      "id": "er:b-caria-loretta",
+      "scope": "Royal Knight Loretta, Caria Manor spectral encounter, solo NG; not Haligtree Loretta",
+      "health": 4214,
+      "stance": 80,
+      "runes": 10000,
+      "sources": [
+        "https://tarnishedwiki.com/royal-knight-loretta-boss-guide-elden-ring/",
+        "https://www.pureeldenring.com/bosses/royal-knight-loretta",
+        "https://tarnished.app/enemies/royal-knight-loretta",
+        "https://eldenringpoisewiki.fun/"
+      ],
+      "note": "Guide and indexed enemy table agree displayed HP and reward; fractional 4214.76 and stance 80 reported by Pure Elden Ring. Poise Wiki independently corroborates stance. Exact regulation unverified."
+    },
+    {
+      "id": "er:b-nokstella-dragonkin",
+      "scope": "Dragonkin Soldier of Nokstella, lower Ainsel River throne chamber, solo NG; not Siofra or Lake of Rot variants",
+      "health": 4372,
+      "stance": 120,
+      "runes": 12000,
+      "sources": [
+        "https://tarnishedwiki.com/dragonkin-soldier-of-nokstella-boss-guide-elden-ring/",
+        "https://www.pureeldenring.com/npcs/dragonkin-soldier-of-nokstella-boss-ainsel-river",
+        "https://www.gamerguides.com/elden-ring/database/bosses/ainsel-river-bosses/dragonkin-soldier-of-nokstella",
+        "https://lorearmory.com/eldenring/bosses/",
+        "https://www.neoseeker.com/elden-ring/Bosses/Dragonkin_Soldier_of_Nokstella"
+      ],
+      "note": "Variant-specific HP corroborated by three published sources; Lore Armory row reports stance 120; Neoseeker corroborates rune reward and Frozen Lightning Spear. Exact regulation not independently verified."
+    },
+    {
+      "id": "er:b-elemer",
+      "scope": "Named Shaded Castle encounter, solo NG; excludes Bell Bearing Hunters",
+      "health": 4897,
+      "stance": 80,
+      "runes": 24000,
+      "negations": {
+        "standard": 35,
+        "slash": 35,
+        "strike": 35,
+        "pierce": 10,
+        "magic": 40,
+        "fire": 40,
+        "lightning": 20,
+        "holy": 40
+      },
+      "sources": [
+        "https://tarnished.app/enemies/elemer-of-the-briar",
+        "https://tarnishedsaga.com/bosses/elemer-of-the-briar/",
+        "https://lorearmory.com/eldenring/bosses/"
+      ],
+      "note": "Two full pages agree health and reward; Lore Armory index agrees health and stance. Negations from full solo table; exact regulation not independently verified."
+    },
+    {
+      "id": "er:b-morne-leonine",
+      "scope": "Leonine Misbegotten at Castle Morne, solo NG; excludes other Misbegotten encounters",
+      "health": 2199,
+      "stance": 80,
+      "runes": 3800,
+      "sources": [
+        "https://tarnishedwiki.com/leonine-misbegotten-boss-guide-elden-ring/",
+        "https://lorearmory.com/eldenring/bosses/",
+        "https://www.neoseeker.com/elden-ring/walkthrough/Castle_Morne",
+        "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/"
+      ],
+      "note": "Full guide and Lore Armory index agree displayed HP; Lore Armory reports stance 80. Two walkthroughs independently corroborate reward. Exact regulation unverified."
     }
   ],
   "limitations": [

@@ -1,5 +1,5 @@
 {
-  "version": "session25-20261126-a",
+  "version": "session26-20261126-a",
   "releaseReady": false,
   "assets": [
     {
@@ -76,11 +76,11 @@
     },
     {
       "path": "data/encyclopedia/drafts.json",
-      "gitBlob": "a0c70d0ccbc835f920ae68964c1e92f08255b8ae"
+      "gitBlob": "a4c9588c5bc425fddc38e16b3566bf67d06b5ffd"
     },
     {
       "path": "data/encyclopedia/stat-evidence.json",
-      "gitBlob": "f749ad7c967eab2ac91267bffb2ffcc46d67c761"
+      "gitBlob": "fa8c5c97de35e96a9e70a809f718718f9e08589d"
     },
     {
       "path": "data/geography/compass-research.json",
