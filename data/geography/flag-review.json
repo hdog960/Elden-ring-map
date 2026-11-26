@@ -144,18 +144,6 @@
       "name": "Ancient Dragon Lansseax"
     },
     {
-      "sourceRow": 149,
-      "defeatFlag": 1043530800,
-      "mapId": "m60_39_51_00",
-      "name": "Bell Bearing Hunter"
-    },
-    {
-      "sourceRow": 151,
-      "defeatFlag": 1043530800,
-      "mapId": "m60_44_53_00",
-      "name": "Bell Bearing Hunter"
-    },
-    {
       "sourceRow": 202,
       "defeatFlag": 2050470800,
       "mapId": "m61_50_47_00",
@@ -169,8 +157,6 @@
     }
   ],
   "remainingIDs": [
-    "er:b-altus-cavalry",
-    "er:b-capital-deathbird",
     "er:d-dane",
     "er:d-hinterland-sentinel-shield",
     "er:d-hinterland-sentinel-torch",
@@ -229,6 +215,59 @@
     "er:b-millicent-challenge"
   ],
   "notes": [
-    "Sentinel equipment-to-flag mapping not confirmed; retain both unassigned. No actual independent position survey or terrain outlines."
+    "Sentinel equipment-to-flag mapping not confirmed; retain both unassigned. No actual independent position survey or terrain outlines.",
+    "Session 17: 149 and 151 are location/reward-matched candidates only; retain shared upstream flag verbatim and do not assign it as a defeat ID for either. Both Hinterland Sentinel equipment identities remain unresolved."
+  ],
+  "sourceConflicts": [
+    {
+      "sourceRow": 149,
+      "id": "er:b-altus-cavalry",
+      "sourceFlag": 1043530800,
+      "sourceName": "Bell Bearing Hunter",
+      "runes": 10000,
+      "evidence": [
+        {
+          "url": "https://gist.github.com/gracenotes/745ee2d07878f81067fc23f43670a808/2998ef66b03b8666099825de1b74822d4b1f32e7",
+          "locator": "line 2323; m60_39_51_00; NPC 1039510800"
+        },
+        {
+          "url": "https://plarium.com/en/blog/elden-ring-boss-locations/",
+          "locator": "Altus Plateau Night's Cavalry; 10,000 runes"
+        }
+      ],
+      "note": "Source label and shared flag conflict; tile and bounty match Altus Highway Junction Night's Cavalry. Actual defeat-flag linkage is unverified.",
+      "projection": {
+        "layer": "surface",
+        "x": 2927.25,
+        "y": 3566.629997253418
+      }
+    },
+    {
+      "sourceRow": 151,
+      "id": "er:b-capital-deathbird",
+      "sourceFlag": 1043530800,
+      "sourceName": "Bell Bearing Hunter",
+      "runes": 29000,
+      "evidence": [
+        {
+          "url": "https://eldenring.wiki.gg/wiki/Deathbird",
+          "locator": "Capital Outskirts, cliff east of Hermit Merchant's Shack overlooking Minor Erdtree"
+        },
+        {
+          "url": "https://www.neoseeker.com/elden-ring/Bosses/Deathbird",
+          "locator": "Capital Outskirts; 29,000 runes and Twinbird Kite Shield"
+        },
+        {
+          "url": "https://gist.github.com/gracenotes/745ee2d07878f81067fc23f43670a808/2998ef66b03b8666099825de1b74822d4b1f32e7",
+          "locator": "m60_44_53_00 Minor Erdtree tile, lines 3249–3262"
+        }
+      ],
+      "note": "Source label and shared flag conflict; reward and tile corroborate Capital Outskirts Deathbird. Actual defeat-flag linkage and exact position not independently verified.",
+      "projection": {
+        "layer": "surface",
+        "x": 4200.420000076294,
+        "y": 2868.0100021362305
+      }
+    }
   ]
 }

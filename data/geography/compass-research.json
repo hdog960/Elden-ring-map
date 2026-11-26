@@ -3364,6 +3364,25 @@
       "status": "candidate-identity-match"
     },
     {
+      "sourceRow": 149,
+      "id": "er:b-altus-cavalry",
+      "status": "candidate-identity-match",
+      "review": {
+        "status": "source-label-conflict",
+        "evidence": [
+          {
+            "url": "https://gist.github.com/gracenotes/745ee2d07878f81067fc23f43670a808/2998ef66b03b8666099825de1b74822d4b1f32e7",
+            "locator": "line 2323; m60_39_51_00; NPC 1039510800"
+          },
+          {
+            "url": "https://plarium.com/en/blog/elden-ring-boss-locations/",
+            "locator": "Altus Plateau Night's Cavalry; 10,000 runes"
+          }
+        ],
+        "note": "Source label and shared flag conflict; tile and bounty match Altus Highway Junction Night's Cavalry. Actual defeat-flag linkage is unverified."
+      }
+    },
+    {
       "sourceRow": 150,
       "id": "er:b-capital-hunter",
       "status": "candidate-identity-match",
@@ -3371,6 +3390,29 @@
         "source": "https://www.soulsmodding.com/doku.php?id=er-refmat:map-name-list",
         "locator": "m60_43_53_00",
         "note": "Hermit Merchant's Shack tile; repeated defeat flag retained as separate source record"
+      }
+    },
+    {
+      "sourceRow": 151,
+      "id": "er:b-capital-deathbird",
+      "status": "candidate-identity-match",
+      "review": {
+        "status": "source-label-conflict",
+        "evidence": [
+          {
+            "url": "https://eldenring.wiki.gg/wiki/Deathbird",
+            "locator": "Capital Outskirts, cliff east of Hermit Merchant's Shack overlooking Minor Erdtree"
+          },
+          {
+            "url": "https://www.neoseeker.com/elden-ring/Bosses/Deathbird",
+            "locator": "Capital Outskirts; 29,000 runes and Twinbird Kite Shield"
+          },
+          {
+            "url": "https://gist.github.com/gracenotes/745ee2d07878f81067fc23f43670a808/2998ef66b03b8666099825de1b74822d4b1f32e7",
+            "locator": "m60_44_53_00 Minor Erdtree tile, lines 3249–3262"
+          }
+        ],
+        "note": "Source label and shared flag conflict; reward and tile corroborate Capital Outskirts Deathbird. Actual defeat-flag linkage and exact position not independently verified."
       }
     },
     {
@@ -3692,8 +3734,6 @@
   ],
   "heldSourceRows": [
     122,
-    149,
-    151,
     202,
     204
   ],
@@ -3711,7 +3751,117 @@
         7680,
         9472
       ],
-      "artifact": "assets/atlas-surface.svg"
+      "artifact": "assets/atlas-surface.svg",
+      "labels": [
+        {
+          "name": "Liurnia",
+          "x": 2186.8935718791827,
+          "y": 5004.155356815883,
+          "count": 28
+        },
+        {
+          "name": "Altus Plateau",
+          "x": 3012.83042079524,
+          "y": 3177.1333687148594,
+          "count": 19
+        },
+        {
+          "name": "Caelid",
+          "x": 5411.888824014102,
+          "y": 6620.775293266072,
+          "count": 17
+        },
+        {
+          "name": "Limgrave",
+          "x": 3883.1392859050206,
+          "y": 7130.4478569201065,
+          "count": 14
+        },
+        {
+          "name": "Weeping Peninsula",
+          "x": 3995.7970005989073,
+          "y": 8144.990001040697,
+          "count": 10
+        },
+        {
+          "name": "Mountaintops of the Giants",
+          "x": 6167.061665905847,
+          "y": 2381.2596672905815,
+          "count": 9
+        },
+        {
+          "name": "Consecrated Snowfield",
+          "x": 5496.04974937439,
+          "y": 2295.6673749685287,
+          "count": 8
+        },
+        {
+          "name": "Dragonbarrow",
+          "x": 5846.891249537468,
+          "y": 6070.568750604987,
+          "count": 8
+        },
+        {
+          "name": "Capital Outskirts",
+          "x": 4141.049571309771,
+          "y": 3227.641143321991,
+          "count": 7
+        },
+        {
+          "name": "Mt. Gelmir",
+          "x": 2290.42442716871,
+          "y": 2796.5017160688126,
+          "count": 7
+        },
+        {
+          "name": "Stormhill",
+          "x": 3797.373999977112,
+          "y": 6657.218001937867,
+          "count": 5
+        },
+        {
+          "name": "Crumbling Farum Azula",
+          "x": 6853.370002190272,
+          "y": 2573.743336995443,
+          "count": 3
+        },
+        {
+          "name": "Forbidden Lands",
+          "x": 5236.063338597615,
+          "y": 3398.536666870117,
+          "count": 3
+        },
+        {
+          "name": "Volcano Manor",
+          "x": 2316.5603357950845,
+          "y": 3027.954335530599,
+          "count": 3
+        },
+        {
+          "name": "Leyndell, Ashen Capital",
+          "x": 4451.3400020599365,
+          "y": 3724.949996948242,
+          "count": 2
+        },
+        {
+          "name": "Leyndell, Royal Capital",
+          "x": 4464.925003051758,
+          "y": 3741.769989013672,
+          "count": 2
+        },
+        {
+          "name": "Stormveil Castle",
+          "x": 3205.710000038147,
+          "y": 6643.999997138977,
+          "count": 2
+        },
+        {
+          "name": "Subterranean Shunning-Grounds",
+          "x": 4432.3465003967285,
+          "y": 3514.7379989624023,
+          "count": 2
+        }
+      ]
     },
     {
       "id": "underground",
@@ -3722,7 +3872,45 @@
         6144,
         7680
       ],
-      "artifact": "assets/atlas-underground.svg"
+      "artifact": "assets/atlas-underground.svg",
+      "labels": [
+        {
+          "name": "Deeproot Depths",
+          "x": 4263.303334554036,
+          "y": 3181.7423400878906,
+          "count": 3
+        },
+        {
+          "name": "Lake of Rot",
+          "x": 1857.7300033569336,
+          "y": 5492.220001220703,
+          "count": 2
+        },
+        {
+          "name": "Nokron",
+          "x": 4945.574981689453,
+          "y": 6653.0050048828125,
+          "count": 2
+        },
+        {
+          "name": "Ainsel River",
+          "x": 2183,
+          "y": 4477.240001678467,
+          "count": 1
+        },
+        {
+          "name": "Mohgwyn Palace",
+          "x": 5568.510009765625,
+          "y": 6799.5799560546875,
+          "count": 1
+        },
+        {
+          "name": "Siofra River",
+          "x": 5082.0999755859375,
+          "y": 6456.8399658203125,
+          "count": 1
+        }
+      ]
     },
     {
       "id": "shadow",
@@ -3733,7 +3921,93 @@
         7424,
         7936
       ],
-      "artifact": "assets/atlas-shadow.svg"
+      "artifact": "assets/atlas-shadow.svg",
+      "labels": [
+        {
+          "name": "Gravesite Plain",
+          "x": 4700.193749904633,
+          "y": 5384.585878491402,
+          "count": 8
+        },
+        {
+          "name": "Scadu Altus",
+          "x": 5513.477855750492,
+          "y": 5052.515429530825,
+          "count": 7
+        },
+        {
+          "name": "Jagged Peak",
+          "x": 6348.5,
+          "y": 6370.657500267029,
+          "count": 4
+        },
+        {
+          "name": "Cerulean Coast",
+          "x": 4844.430000940959,
+          "y": 6594.986666679382,
+          "count": 3
+        },
+        {
+          "name": "Rauh Base",
+          "x": 4475.904997507731,
+          "y": 4771.834335327148,
+          "count": 3
+        },
+        {
+          "name": "Ancient Ruins of Rauh",
+          "x": 4418.016000747681,
+          "y": 4829.090000152588,
+          "count": 2
+        },
+        {
+          "name": "Charo's Hidden Grave",
+          "x": 4986.810001373291,
+          "y": 6379.590000629425,
+          "count": 2
+        },
+        {
+          "name": "Enir-Ilim",
+          "x": 4097.600006103516,
+          "y": 5304.980003356934,
+          "count": 2
+        },
+        {
+          "name": "Recluses' River",
+          "x": 6112.4900007247925,
+          "y": 5294.924999237061,
+          "count": 2
+        },
+        {
+          "name": "Scaduview",
+          "x": 5647.115001678467,
+          "y": 4177.225000858307,
+          "count": 2
+        },
+        {
+          "name": "Shadow Keep",
+          "x": 5386.993499755859,
+          "y": 4362.346008300781,
+          "count": 2
+        },
+        {
+          "name": "Abyssal Woods",
+          "x": 5460.253999710083,
+          "y": 6220.356002807617,
+          "count": 1
+        },
+        {
+          "name": "Hinterland",
+          "x": 6311.209999084473,
+          "y": 4107,
+          "count": 1
+        },
+        {
+          "name": "Stone Coffin Fissure",
+          "x": 5433.9010009765625,
+          "y": 7335.710998535156,
+          "count": 1
+        }
+      ]
     }
   ]
 }
