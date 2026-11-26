@@ -34,5 +34,11 @@ export function visibleClusters(c,encounters,layer,cell=52,{research=false}={}){
  if(m.x<c.bounds[0]||m.x>c.bounds[2]||m.y<c.bounds[1]||m.y>c.bounds[3])continue;
  const p=project(c,m);if(p.x<-cell||p.y<-cell||p.x>c.width+cell||p.y>c.height+cell)continue;
  const key=Math.floor(p.x/cell)+":"+Math.floor(p.y/cell);if(!groups.has(key))groups.set(key,[]);groups.get(key).push({id:e.id,x:p.x,y:p.y});}
- return [...groups.entries()].sort(([a],[b])=>a.localeCompare(b)).map(([key,items])=>{items.sort((a,b)=>a.id.localeCompare(b.id));return {key,ids:items.map(i=>i.id),x:items.reduce((s,i)=>s+i.x,0)/items.length,y:items.reduce((s,i)=>s+i.y,0)/items.length};});
+ const cluster=(items)=>{items.sort((a,b)=>a.id.localeCompare(b.id));return {key:items[0].id,ids:items.map(i=>i.id),x:items.reduce((s,i)=>s+i.x,0)/items.length,y:items.reduce((s,i)=>s+i.y,0)/items.length,items};};
+ const result=[...groups.values()].map(cluster).sort((a,b)=>a.key.localeCompare(b.key));
+ // Neighboring grid cells can still overlap. Repeatedly merge the nearest pair
+ // until every touch-target center is separated; at most n-1 merges.
+ const gap=cell*cell;
+ for(;;){let best=gap,ai=-1,bi=-1;for(let i=0;i<result.length;i++)for(let j=i+1;j<result.length;j++){const a=result[i],b=result[j],distance=(a.x-b.x)**2+(a.y-b.y)**2;if(distance<best){best=distance;ai=i;bi=j;}}if(ai<0)break;result[ai]=cluster([...result[ai].items,...result[bi].items]);result.splice(bi,1);result.sort((a,b)=>a.key.localeCompare(b.key));}
+ return result.map(({items,...r})=>r);
 }

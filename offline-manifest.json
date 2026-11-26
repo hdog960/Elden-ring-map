@@ -1,5 +1,5 @@
 {
-  "version": "session17-20261125-a",
+  "version": "session18-20261125-a",
   "releaseReady": false,
   "assets": [
     {
@@ -27,6 +27,10 @@
       "gitBlob": "89797513392890d0a7e6394467ee0f67a2d35aab"
     },
     {
+      "path": "data/census/dlc-checklist-review.json",
+      "gitBlob": "d1172fd0a99bae8df7f808b96335be0de72345aa"
+    },
+    {
       "path": "data/census/flag-evidence.json",
       "gitBlob": "cbc09e23879a6dcafa3f3307bf418b743348c872"
     },
@@ -48,11 +52,11 @@
     },
     {
       "path": "data/encyclopedia/drafts.json",
-      "gitBlob": "1722cdb8043821ca2ae69a65ad710a23340fbdf0"
+      "gitBlob": "74763fe5837fb797b29bea3096ec2e744ab470cd"
     },
     {
       "path": "data/encyclopedia/stat-evidence.json",
-      "gitBlob": "ce2603636c3da2cca1d71bd8264712c9ad335db9"
+      "gitBlob": "79c1fe86c57f7f4fd726dc4cb85b2bc99af676aa"
     },
     {
       "path": "data/geography/compass-research.json",
@@ -116,7 +120,7 @@
     },
     {
       "path": "src/map-camera.js",
-      "gitBlob": "4d6cb9b04175e848a810ca873997969c0a725e9a"
+      "gitBlob": "882d5d3cfcb75e4a052f8cc0c0717ebb98fbdeec"
     },
     {
       "path": "src/map-gestures.js",

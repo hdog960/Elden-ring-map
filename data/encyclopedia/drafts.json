@@ -282,15 +282,17 @@
     {
       "id": "er:d-rellana",
       "grace": "Castle-Lord's Chamber",
-      "directions": "Cross Castle Ensis to its final chamber and enter the boss fog.",
+      "directions": "From Castle-Lord's Chamber grace, take the final approach to the fog. The post-fight grace is Ensis Moongazing Grounds.",
       "conditions": "DLC access; optional route through Castle Ensis.",
       "combat": "Long paired-sword chains, magic projectiles, later fire and magic weapon buffs; twin moon shockwaves.",
       "strategy": "Dodge the entire sword chain before attacking. When the moons descend, jump the ground shockwaves with deliberate timing. Fast spells or melee pokes are safer than long casts; avoid relying entirely on magic damage.",
-      "rewards": "Remembrance of the Twin Moon Knight.",
+      "rewards": "Remembrance of the Twin Moon Knight; 240,000 runes reported.",
       "preparation": "Suggested level 140–160, high weapon upgrade and roughly blessing 5–8 as advisory guidance.",
       "sources": [
         "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
-        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/"
+        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
+        "https://www.gamerguides.com/elden-ring-shadow-of-the-erdtree/database/bosses/legend/rellana-twin-moon-knight",
+        "https://eldenring.redmaw.dev/sheets/dlc-walkthrough"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -4904,16 +4906,18 @@
     {
       "id": "er:d-hinterland-sentinel-shield",
       "grace": "Hinterland",
-      "directions": "Use O Mother gesture at the statue by Shadow Keep Back Gate, then follow the Hinterland path to the mounted sentinel pair.",
+      "directions": "Open the gesture passage by Shadow Keep Back Gate and enter the Hinterland. Shield rider patrols from the Hinterland Bridge direction. Separate the two riders when practical.",
       "conditions": "Independent sentinel candidate; exact shield-to-flag mapping pending.",
       "combat": "Mounted halberd and shield attacks.",
       "strategy": "Draw one sentinel away, wait for the horse's charge to pass and attack its flank; watch for a shield slam before committing.",
-      "rewards": "Blessing of Marika; individual rune amount pending.",
+      "rewards": "Blessing of Marika; individual source-flag assignment pending.",
       "preparation": "Level 140–165.",
       "sources": [
         "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
         "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
-        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/"
+        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/",
+        "https://eldenring.wiki.gg/wiki/Tree_Sentinel",
+        "https://tarnished.app/enemies/tree-sentinel"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -4930,16 +4934,18 @@
     {
       "id": "er:d-hinterland-sentinel-torch",
       "grace": "Hinterland",
-      "directions": "After opening the Back Gate gesture passage, follow the road to the second mounted sentinel in the Hinterland.",
+      "directions": "Open the gesture passage by Shadow Keep Back Gate and enter the Hinterland. Torch rider patrols down from Shaman Village. Separate the two riders when practical.",
       "conditions": "Independent sentinel candidate; equipment-to-flag mapping pending.",
       "combat": "Mounted sweeping weapon attacks and close-range pressure.",
       "strategy": "Fight the remaining rider alone; move across its charge path and punish the exposed side. Avoid prolonged casting directly in its path.",
-      "rewards": "Blessing of Marika; individual rune amount pending.",
+      "rewards": "Blessing of Marika; individual source-flag assignment pending.",
       "preparation": "Level 140–165.",
       "sources": [
         "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
         "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
-        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/"
+        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/",
+        "https://eldenring.wiki.gg/wiki/Tree_Sentinel",
+        "https://tarnished.app/enemies/tree-sentinel"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -5748,17 +5754,20 @@
     {
       "id": "er:d-charo-mariner",
       "grace": "Charo's Hidden Grave",
-      "directions": "Follow the waterway in the grave region to the mariner.",
-      "conditions": "Optional unique miniboss.",
+      "directions": "From the Grand Altar of Dragon Communion, travel west-southwest into Charo's Hidden Grave and follow the river toward the mariner.",
+      "conditions": "Unique optional non-boss-bar enemy; tracked in the extended hunt, not the primary boss count.",
       "combat": "Boat slams and skeleton summons.",
       "strategy": "Avoid lingering among skeletons; pursue the mariner when it relocates, and attack after boat slams.",
-      "rewards": "Tibia's Cookbook.",
+      "rewards": "Tibia's Cookbook. Exact rune reward remains to be checked.",
       "preparation": "Moderate blessing.",
       "sources": [
         "https://www.neoseeker.com/elden-ring-shadow-of-the-erdtree/Optional_Bosses/Tibia_Mariner",
         "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
         "https://eldenring.redmaw.dev/sheets/dlc-walkthrough",
-        "https://www.polygon.com/elden-ring-shadow-erdtree-guide/24180254/all-dlc-boss-locations-bosses-in-order"
+        "https://www.polygon.com/elden-ring-shadow-erdtree-guide/24180254/all-dlc-boss-locations-bosses-in-order",
+        "https://eldenring.wiki.gg/wiki/Tibia_Mariner",
+        "https://eldenring.wiki.gg/wiki/Tibia%27s_Cookbook",
+        "https://eldenring.wiki.gg/wiki/Charo%27s_Hidden_Grave"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -5768,7 +5777,7 @@
         "statusThresholds": null
       },
       "unresolved": [
-        "Confirm unique encounter classification, precise route and patch-specific rewards.",
+        "Independent sources corroborate the non-boss-bar classification and cookbook reward; exact marker and rune reward still pending.",
         "Combat stats, summon/parry eligibility and exact geography not yet verified."
       ]
     },

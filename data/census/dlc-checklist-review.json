@@ -1,0 +1,327 @@
+{
+  "schema": 1,
+  "status": "source-inventory-reconciled-identities-only",
+  "source": "https://game-checklists.com/elden-ring/all-bosses/",
+  "scope": "43 DLC checklist rows, fetched 2026-11-25 local",
+  "records": [
+    {
+      "locator": "fetched source line 320",
+      "ids": [
+        "er:d-blackgaol"
+      ],
+      "status": "identity-correspondence"
+    },
+    {
+      "locator": "fetched source line 321",
+      "ids": [
+        "er:d-plain-ghostflame"
+      ],
+      "status": "identity-correspondence"
+    },
+    {
+      "locator": "fetched source line 322",
+      "ids": [
+        "er:d-onze"
+      ],
+      "status": "identity-correspondence"
+    },
+    {
+      "locator": "fetched source line 323",
+      "ids": [
+        "er:d-belurat-lion"
+      ],
+      "status": "identity-correspondence"
+    },
+    {
+      "locator": "fetched source line 324",
+      "ids": [
+        "er:d-chief-bloodfiend"
+      ],
+      "status": "identity-correspondence"
+    },
+    {
+      "locator": "fetched source line 325",
+      "ids": [
+        "er:d-dragon-man"
+      ],
+      "status": "identity-correspondence"
+    },
+    {
+      "locator": "fetched source line 326",
+      "ids": [
+        "er:d-fogrifts-deathknight"
+      ],
+      "status": "identity-correspondence"
+    },
+    {
+      "locator": "fetched source line 332",
+      "ids": [
+        "er:d-rellana"
+      ],
+      "status": "identity-correspondence"
+    },
+    {
+      "locator": "fetched source line 333",
+      "ids": [
+        "er:d-garrew"
+      ],
+      "status": "identity-correspondence"
+    },
+    {
+      "locator": "fetched source line 334",
+      "ids": [
+        "er:d-ralva"
+      ],
+      "status": "identity-correspondence"
+    },
+    {
+      "locator": "fetched source line 335",
+      "ids": [
+        "er:d-dane"
+      ],
+      "status": "identity-correspondence"
+    },
+    {
+      "locator": "fetched source line 336",
+      "ids": [
+        "er:d-altus-ghostflame"
+      ],
+      "status": "identity-correspondence"
+    },
+    {
+      "locator": "fetched source line 337",
+      "ids": [
+        "er:d-edredd"
+      ],
+      "status": "identity-correspondence"
+    },
+    {
+      "locator": "fetched source line 338",
+      "ids": [
+        "er:d-labirith"
+      ],
+      "status": "identity-correspondence"
+    },
+    {
+      "locator": "fetched source line 339",
+      "ids": [
+        "er:d-metyr"
+      ],
+      "status": "identity-correspondence"
+    },
+    {
+      "locator": "fetched source line 340",
+      "ids": [
+        "er:d-ymir"
+      ],
+      "status": "identity-correspondence"
+    },
+    {
+      "locator": "fetched source line 346",
+      "ids": [
+        "er:d-hippo"
+      ],
+      "status": "identity-correspondence"
+    },
+    {
+      "locator": "fetched source line 347",
+      "ids": [
+        "er:d-messmer"
+      ],
+      "status": "identity-correspondence"
+    },
+    {
+      "locator": "fetched source line 348",
+      "ids": [
+        "er:d-gaius"
+      ],
+      "status": "identity-correspondence"
+    },
+    {
+      "locator": "fetched source line 349",
+      "ids": [
+        "er:d-avatar"
+      ],
+      "status": "identity-correspondence"
+    },
+    {
+      "locator": "fetched source line 350",
+      "ids": [
+        "er:d-hinterland-sentinel-shield",
+        "er:d-hinterland-sentinel-torch"
+      ],
+      "status": "two-row group; equipment mapping unresolved"
+    },
+    {
+      "locator": "fetched source line 351",
+      "ids": [
+        "er:d-hinterland-sentinel-shield",
+        "er:d-hinterland-sentinel-torch"
+      ],
+      "status": "two-row group; equipment mapping unresolved"
+    },
+    {
+      "locator": "fetched source line 352",
+      "ids": [
+        "er:d-hinterland-beast"
+      ],
+      "status": "identity-correspondence"
+    },
+    {
+      "locator": "fetched source line 358",
+      "ids": [
+        "er:d-rakshasa"
+      ],
+      "status": "identity-correspondence"
+    },
+    {
+      "locator": "fetched source line 359",
+      "ids": [
+        "er:d-jori"
+      ],
+      "status": "identity-correspondence"
+    },
+    {
+      "locator": "fetched source line 360",
+      "ids": [
+        "er:d-midra"
+      ],
+      "status": "identity-correspondence"
+    },
+    {
+      "locator": "fetched source line 366",
+      "ids": [
+        "er:d-marigga"
+      ],
+      "status": "identity-correspondence"
+    },
+    {
+      "locator": "fetched source line 367",
+      "ids": [
+        "er:d-ranah"
+      ],
+      "status": "identity-correspondence"
+    },
+    {
+      "locator": "fetched source line 368",
+      "ids": [
+        "er:d-coast-ghostflame"
+      ],
+      "status": "identity-correspondence"
+    },
+    {
+      "locator": "fetched source line 369",
+      "ids": [
+        "er:d-putrescent"
+      ],
+      "status": "identity-correspondence"
+    },
+    {
+      "locator": "fetched source line 370",
+      "ids": [
+        "er:d-charo-mariner"
+      ],
+      "status": "identity-correspondence",
+      "classification": "extended",
+      "reason": "No separate boss health bar, corroborated by Eldenpedia and Neoseeker.",
+      "evidence": [
+        "https://eldenring.wiki.gg/wiki/Tibia_Mariner",
+        "https://www.neoseeker.com/elden-ring-shadow-of-the-erdtree/Optional_Bosses/Tibia_Mariner"
+      ]
+    },
+    {
+      "locator": "fetched source line 371",
+      "ids": [
+        "er:d-charo-bird"
+      ],
+      "status": "identity-correspondence"
+    },
+    {
+      "locator": "fetched source line 372",
+      "ids": [
+        "er:d-lamenter"
+      ],
+      "status": "identity-correspondence"
+    },
+    {
+      "locator": "fetched source line 378",
+      "ids": [
+        "er:d-redbear"
+      ],
+      "status": "identity-correspondence"
+    },
+    {
+      "locator": "fetched source line 379",
+      "ids": [
+        "er:d-rugalea"
+      ],
+      "status": "identity-correspondence"
+    },
+    {
+      "locator": "fetched source line 380",
+      "ids": [
+        "er:d-scorpion-deathknight"
+      ],
+      "status": "identity-correspondence"
+    },
+    {
+      "locator": "fetched source line 381",
+      "ids": [
+        "er:d-rauh-lion"
+      ],
+      "status": "identity-correspondence"
+    },
+    {
+      "locator": "fetched source line 382",
+      "ids": [
+        "er:d-romina"
+      ],
+      "status": "identity-correspondence"
+    },
+    {
+      "locator": "fetched source line 388",
+      "ids": [
+        "er:d-drake-solo"
+      ],
+      "status": "identity-correspondence"
+    },
+    {
+      "locator": "fetched source line 389",
+      "ids": [
+        "er:d-drake-duo"
+      ],
+      "status": "identity-correspondence"
+    },
+    {
+      "locator": "fetched source line 390",
+      "ids": [
+        "er:d-senessax"
+      ],
+      "status": "identity-correspondence"
+    },
+    {
+      "locator": "fetched source line 391",
+      "ids": [
+        "er:d-bayle"
+      ],
+      "status": "identity-correspondence"
+    },
+    {
+      "locator": "fetched source line 398",
+      "ids": [
+        "er:d-consort"
+      ],
+      "status": "identity-correspondence"
+    }
+  ],
+  "summary": {
+    "sourceRows": 43,
+    "primaryIds": 42,
+    "extendedIds": 1,
+    "ambiguousRowGroup": 2
+  },
+  "limitations": [
+    "The two Hinterland Sentinel rows collectively correspond to the shield and torch encounters; individual source-row equipment assignment is not established.",
+    "Source checklist does not cover all extended encounters and its boss-health-bar policy is inconsistent for Charo's Mariner. This is not final release adjudication or geography evidence."
+  ]
+}

@@ -105,14 +105,13 @@
         "holy": 40
       },
       "sources": [
-        "https://eldenring.wiki.gg/wiki/Radahn_Consort_of_Miquella",
         "https://almanauts.com/eldenring/bosses/",
         "https://gamertagmythras.com/blog/elden-ring/elden-ring-stance-break-guide",
         "https://eldenring.wiki.gg/wiki/Stance",
         "https://www.gamerguides.com/elden-ring/database/bosses/caelid-bosses/starscourge-radahn",
         "https://tarnished.app/enemies/starscourge-radahn"
       ],
-      "note": "Corrected prior 120 base poise: Eldenpedia Poise overview, Gamer Guides and tarnished.app independently report 200. Exact regulation version remains unverified."
+      "note": "Corrected prior 120 base poise: Eldenpedia Poise overview, Gamer Guides and tarnished.app independently report 200. Exact regulation version remains unverified. Removed incorrect Consort of Miquella source URL; do not use DLC source for base Radahn."
     },
     {
       "id": "er:d-bayle",
@@ -138,6 +137,48 @@
         "https://lorearmory.com/eldenring/bosses/"
       ],
       "note": "HP corroborated; Eldenpedia excerpt exposes base and effective poise with modifier but mixes NG tabs, verify exact NG scope before admission."
+    },
+    {
+      "id": "er:d-rellana",
+      "scope": "Castle Ensis, solo NG reported",
+      "health": 29723,
+      "stance": 120,
+      "runes": 240000,
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Rellana_Twin_Moon_Knight",
+        "https://segmentnext.com/how-to-beat-rellana-twin-moon-knight-in-elden-ring/",
+        "https://www.gamerguides.com/elden-ring-shadow-of-the-erdtree/database/bosses/legend/rellana-twin-moon-knight"
+      ],
+      "note": "Two source excerpts report HP/stance, Gamer Guides full table confirms HP and runes; exact regulation version unverified."
+    },
+    {
+      "id": "er:d-messmer",
+      "scope": "Shadow Keep, solo NG, shared health bar",
+      "health": 38981,
+      "stance": 120,
+      "runes": 400000,
+      "sources": [
+        "https://tarnished.app/enemies/messmer-the-impaler",
+        "https://www.gamerguides.com/elden-ring-shadow-of-the-erdtree/database/bosses/demigod/messmer-the-impaler"
+      ],
+      "note": "Full source tables agree HP and runes, tarnished.app explicitly solo NG and stance 120. Holy negation disagrees (0 vs 40); no negation promoted."
+    },
+    {
+      "id": "er:d-romina",
+      "scope": "Church of the Bud, solo NG reported",
+      "health": null,
+      "stance": 80,
+      "runes": 380000,
+      "sources": [
+        "https://www.gamerguides.com/elden-ring-shadow-of-the-erdtree/database/bosses/legend/romina-saint-of-the-bud",
+        "https://mobalytics.gg/gamebase/guides/elden-ring-romina-guide",
+        "https://fictionunits.com/converters/elden-ring-dlc-boss-health/"
+      ],
+      "reportedHealth": [
+        35798,
+        25683
+      ],
+      "note": "HP sources disagree; no settled HP. Mobalytics reports stance 80; Gamer Guides reports rune reward. Exact patch verification outstanding."
     }
   ],
   "limitations": [

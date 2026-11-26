@@ -32,3 +32,6 @@ No ID additions or removals. Capital Margit missable cutoff Morgott corroborated
 
 ## Session 13
 21 individual primary identity/reward source-section comparisons across introductory/Limgrave/Stormveil encounters; 18 matching rune values, remaining conditional or incompletely corroborated. Grave Warden Duelist historical Battle Hammer conflict retained; Starscourge Radahn base poise corrected to 200 with Eldenpedia Poise, Gamer Guides and tarnished.app sources. Research-only, no final adjudication. All 261 IDs and guide drafts preserved.
+
+## Session 18
+Reconciled every one of 43 DLC rows in https://game-checklists.com/elden-ring/all-bosses/ (locators 320–398) to the existing 42 primary IDs plus extended Charo Mariner. Both Sentinel rows are a grouped correspondence, not a confirmed individual equipment mapping. Mariner no boss bar verified by Eldenpedia and Neoseeker, cookbook reward retained. Four guide drafts refined (Mariner, both Sentinel patrols, Rellana). Rellana and Messmer HP corroborated; Romina conflicting reported HP retained as unresolved. Three research stat records added, eleven total; removed erroneous Consort reference from base Radahn. No final census admission or changes to IDs.
