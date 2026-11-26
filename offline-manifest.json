@@ -1,5 +1,5 @@
 {
-  "version": "session9-20261125-a",
+  "version": "session10-20261125-a",
   "releaseReady": false,
   "assets": [
     {
@@ -20,7 +20,7 @@
     },
     {
       "path": "data/census/intake.json",
-      "gitBlob": "c64accc558b2730555773f2dd59e9148cf94bd2f"
+      "gitBlob": "6fa2f85fcbed09f70a489afbce0049e6b5aea9d5"
     },
     {
       "path": "data/census/release-audit.json",
@@ -28,11 +28,11 @@
     },
     {
       "path": "data/census/stable-ids.json",
-      "gitBlob": "47916c2fef8bdd68dd9285e7fe0c38f2ca3b27c9"
+      "gitBlob": "19921e3d3e319af43b9a54ca9bc2ea291de095f2"
     },
     {
       "path": "data/encyclopedia/drafts.json",
-      "gitBlob": "5b9752b71972c2325a9dc5aaaef31ad9ce831ec9"
+      "gitBlob": "6e0b1c16b56141e07c3e91498b17b8cff2c762cb"
     },
     {
       "path": "data/geography/ledger.json",
@@ -48,7 +48,7 @@
     },
     {
       "path": "src/app.js",
-      "gitBlob": "b635d6b9781212d75f672c946cf4331a4d679349"
+      "gitBlob": "c251eb1cd837217f7fbf69f40719ca6d03031eb0"
     },
     {
       "path": "src/calibration.js",
@@ -61,6 +61,10 @@
     {
       "path": "src/census.js",
       "gitBlob": "1e9087b23f1f6ebab9629eb4a12570cfe020db12"
+    },
+    {
+      "path": "src/dashboard.js",
+      "gitBlob": "5e1a8cbda50db0ee8a8884dc9a54ff15b9fd316c"
     },
     {
       "path": "src/encyclopedia.js",
@@ -104,7 +108,7 @@
     },
     {
       "path": "src/style.css",
-      "gitBlob": "1e0c0b8496f3c06a7b8a5cfbdb3616be91f165f2"
+      "gitBlob": "cab315a4a8604f297d9b1b71f9abb92fb0539ddd"
     },
     {
       "path": "src/survey.js",

@@ -30,7 +30,12 @@
     "manorLocations": "https://eldenring.exputer.com/locations/volcano-manor",
     "manorVideo": "https://www.youtube.com/watch?v=JE9RWRfkG44",
     "caelidTear": "https://eldenring.wiki.gg/wiki/Greenburst_Crystal_Tear",
-    "caelidFootage": "https://www.youtube.com/watch?v=9fQiGIvVqcg"
+    "caelidFootage": "https://www.youtube.com/watch?v=9fQiGIvVqcg",
+    "invaderWiki": "https://eldenring.wiki.gg/wiki/Invader",
+    "furnace2026": "https://gamers.wiki/en/games/elden-ring/guides/elden-ring-shadow-of-the-erdtree-furnace-golem-guide",
+    "ledaGuide": "https://eip.gg/elden-ring/guides/needle-knight-leda-and-allies/",
+    "pitGuide": "https://eip.gg/elden-ring/guides/dragons-pit-dungeon/",
+    "manorExtra": "https://segmentnext.com/elden-ring/dungeons/volcano-manor"
   },
   "rows": [
     {
@@ -3952,6 +3957,134 @@
       ],
       "review": "classification-review",
       "decision": "Scripted invasion; distinct from Manor contracts."
+    },
+    {
+      "id": "er:b-inv-henricus",
+      "game": "base",
+      "region": "Stormhill",
+      "name": "Recusant Henricus",
+      "location": "Colosseum approach north of Warmaster's Shack",
+      "layerHint": "surface",
+      "decision": "Scripted invasion; trigger and patch availability require review.",
+      "hunt": "extended",
+      "category": "unique-challenge",
+      "review": "classification-review",
+      "evidence": [
+        "invaderGuide",
+        "invaderWiki"
+      ]
+    },
+    {
+      "id": "er:b-inv-alberich",
+      "game": "base",
+      "region": "Roundtable Hold",
+      "name": "Mad Tongue Alberich",
+      "location": "Roundtable Hold lower hall",
+      "layerHint": "underground",
+      "decision": "Unique scripted duel after dropping from balcony; map layer assignment provisional; hub inset needed.",
+      "hunt": "extended",
+      "category": "unique-challenge",
+      "review": "classification-review",
+      "evidence": [
+        "invaderGuide",
+        "invaderWiki"
+      ]
+    },
+    {
+      "id": "er:b-inv-dungeater",
+      "game": "base",
+      "region": "Capital Outskirts",
+      "name": "Dung Eater",
+      "location": "Outer moat north of Leyndell",
+      "layerHint": "surface",
+      "decision": "Quest-dependent scripted invasion.",
+      "hunt": "extended",
+      "category": "unique-challenge",
+      "review": "classification-review",
+      "evidence": [
+        "invaderGuide",
+        "invaderWiki"
+      ]
+    },
+    {
+      "id": "er:b-inv-tanith-knight",
+      "game": "base",
+      "region": "Volcano Manor",
+      "name": "Tanith's Knight",
+      "location": "Rykard arena",
+      "layerHint": "surface",
+      "decision": "Optional quest-dependent retaliation after Tanith is attacked; may end NPC quest.",
+      "hunt": "extended",
+      "category": "unique-challenge",
+      "review": "classification-review",
+      "evidence": [
+        "invaderGuide",
+        "invaderWiki"
+      ]
+    },
+    {
+      "id": "er:b-inv-okina",
+      "game": "base",
+      "region": "Mountaintops of the Giants",
+      "name": "Bloody Finger Okina",
+      "location": "Church of Repose",
+      "layerHint": "surface",
+      "decision": "Scripted invasion; patch-dependent trigger to verify.",
+      "hunt": "extended",
+      "category": "unique-challenge",
+      "review": "classification-review",
+      "evidence": [
+        "invaderGuide",
+        "invaderWiki"
+      ]
+    },
+    {
+      "id": "er:b-inv-whitemask-one",
+      "game": "base",
+      "region": "Mohgwyn Palace",
+      "name": "Nameless White Mask",
+      "location": "Southern Lake of Blood approach",
+      "layerHint": "underground",
+      "decision": "Separate invasion trigger; exact reward and identity order not yet qualified.",
+      "hunt": "extended",
+      "category": "unique-challenge",
+      "review": "classification-review",
+      "evidence": [
+        "invaderGuide",
+        "invaderWiki"
+      ]
+    },
+    {
+      "id": "er:b-inv-whitemask-two",
+      "game": "base",
+      "region": "Mohgwyn Palace",
+      "name": "Nameless White Mask",
+      "location": "Lake of Blood southeast of first approach",
+      "layerHint": "underground",
+      "decision": "Separate invasion trigger; exact positions pending.",
+      "hunt": "extended",
+      "category": "unique-challenge",
+      "review": "classification-review",
+      "evidence": [
+        "invaderGuide",
+        "invaderWiki"
+      ]
+    },
+    {
+      "id": "er:b-inv-whitemask-three",
+      "game": "base",
+      "region": "Mohgwyn Palace",
+      "name": "Nameless White Mask",
+      "location": "Southern Lake of Blood basin",
+      "layerHint": "underground",
+      "decision": "Separate invasion trigger; War Surgeon set award order to verify.",
+      "hunt": "extended",
+      "category": "unique-challenge",
+      "review": "classification-review",
+      "evidence": [
+        "invaderGuide",
+        "invaderWiki"
+      ]
     }
   ]
 }

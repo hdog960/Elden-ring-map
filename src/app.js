@@ -1,4 +1,4 @@
-import {validateCatalog,counts} from "./catalog.js";
+import {validateCatalog} from "./catalog.js";
 import {openProgress} from "./storage.js";
 import {validateIntake} from "./census.js";
 import {validateDrafts,searchEncounters,guideFields} from "./encyclopedia.js";
@@ -8,6 +8,7 @@ const main=document.querySelector("#main"),status=document.querySelector("#statu
 const el=(tag,txt)=>{const e=document.createElement(tag);if(txt)e.textContent=txt;return e;};
 const load=async path=>{const r=await fetch(path);if(!r.ok)throw Error("Unable to load "+path);return r.json();};
 import {mountProgressSettings} from "./progress-settings.js";
+import {mountDashboard} from "./dashboard.js";
 const report=e=>{status.textContent="Save failed: "+e.message;};
 const active=()=>progress.state.profiles.find(p=>p.id===progress.state.active);
 const rows=()=>catalog.releaseReady?catalog.encounters:intake.rows;
@@ -19,7 +20,7 @@ function detail(id){const row=rows().find(r=>r.id===id);if(!row)return;document.
  dlg.addEventListener("close",()=>dlg.remove(),{once:true});document.body.append(dlg);dlg.showModal();}
 function render(next){dispose();dispose=()=>{};view=next;main.replaceChildren();const panel=el("section");main.append(panel);panel.append(el("h2",view));if(!catalog.releaseReady)panel.append(el("p","Development research preview — census and geography are not yet qualified."));
  if(view==="Map"){dispose=mountMap(panel,{layers:geo.layers,encounters:rows().map(r=>({...r,marker:geo.markers.find(m=>m.id===r.id)?.marker})),onSelect:detail,getDefeated:()=>active().defeated,initial:viewport,onViewport:v=>{viewport=v;progress.preferences({viewport:v}).catch(report);}});}
- else if(view==="Progress"){mountProgressSettings(panel,progress,()=>render("Progress"),report);if(!catalog.releaseReady)panel.append(el("p","Completion totals withheld pending census reconciliation. Research candidates cannot be marked defeated."));else{const c=counts(catalog,active().defeated);for(const [k,v] of Object.entries(c))panel.append(el("p",k+": "+v.defeated+" / "+v.total));}}
+ else if(view==="Progress"){mountProgressSettings(panel,progress,()=>render("Progress"),report);mountDashboard(panel,catalog,active().defeated);}
  else {const input=el("input");input.type="search";input.placeholder="Boss, region, dungeon or reward";input.value=query;input.setAttribute("aria-label","Search encounters");const filters=el("div");for(const [label,values,current,change] of [["Game",["all","base","dlc"],game,v=>game=v],["Hunt",["all","primary","extended"],hunt,v=>hunt=v]]){const select=el("select");select.setAttribute("aria-label",label);for(const v of values){const o=el("option",v);o.value=v;select.append(o);}select.value=current;select.onchange=()=>{change(select.value);progress.preferences({game,hunt}).catch(report);results();};filters.append(select);}const list=el("div");list.className="boss-list";panel.append(input,filters,list);
  function results(){list.replaceChildren();const records=searchEncounters(rows().map(r=>({...r,rewards:guide(r.id)?.rewards})),query,{game,hunt});list.append(el("p",records.length+" "+(catalog.releaseReady?"encounters":"research candidates")));let region="";for(const r of records){if(r.region!==region){region=r.region;list.append(el("h3",region));}const b=el("button",r.name+" — "+r.location);b.onclick=()=>detail(r.id);list.append(b);}}input.oninput=()=>{query=input.value;results();};results();}
 }

@@ -19,3 +19,6 @@ elpwc/eldenringonlinemap root MIT license covers code; inspected database direct
 
 ## Session 9
 Re-examined publicly documented calibrated map sources (Almanauts and community game extractors). Their descriptions support coordinate accuracy research but do not establish redistribution rights. Wrote concrete permission/survey acquisition handoff with original geometry and artifact requirements. No outreach sent, no positions/art admitted; real basemap remains blocked. Do not repeat broad source searches without a new concrete lead.
+
+## Session 10
+No repeated broad searches, no new permission grant or independently observed coordinate input. Concrete acquisition remains blocked. Alberich newly added as extended hub encounter; Roundtable Hold requires a separately qualified inset or other accurate representation (not a fabricated underground location). No new positions or art. Permission-request draft remains unsent; no external outreach performed.

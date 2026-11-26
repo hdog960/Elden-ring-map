@@ -5337,6 +5337,1247 @@
         "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
         "Verify nearest grace, precise route, summon and critical eligibility before publication."
       ]
+    },
+    {
+      "id": "er:b-greyoll",
+      "grace": "Fort Faroth",
+      "directions": "Approach the enormous stationary dragon outside the fort from behind, avoiding nearby smaller dragons.",
+      "conditions": "Optional unique dragon; ordinary boss bar absent.",
+      "combat": "Smaller dragons threaten nearby approaches; Greyoll remains largely stationary.",
+      "strategy": "Attack the tail from safe ground if you want to avoid drawing the smaller dragons; bleed can shorten the encounter. Alternatively defeat the linked dragons.",
+      "rewards": "Dragon Hearts; unlocks Greyoll's Roar.",
+      "preparation": "Early or midgame; bleed weapon.",
+      "sources": [
+        "https://www.reddit.com/r/Eldenring/comments/u7r3gs/all_bosses_checklist_updated_and_correct_165/",
+        "https://game-checklists.com/elden-ring/all-bosses/",
+        "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm unique encounter classification, precise route and patch-specific rewards.",
+        "Combat stats, summon/parry eligibility and exact geography not yet verified."
+      ]
+    },
+    {
+      "id": "er:b-mountaintops-mariner",
+      "grace": "Snow Valley Ruins Overlook",
+      "directions": "Follow the graveyard slope toward Castle Sol and search the lower ledges.",
+      "conditions": "Unique mariner without ordinary boss bar; exact ledge pending.",
+      "combat": "Skeleton summons and boat attacks.",
+      "strategy": "Prioritize the mariner, dodge the boat slam and reposition before giant skeleton attacks reach you.",
+      "rewards": "Deathroot; verify other drops.",
+      "preparation": "Level 90–120.",
+      "sources": [
+        "https://www.reddit.com/r/Eldenring/comments/u7r3gs/all_bosses_checklist_updated_and_correct_165/",
+        "https://game-checklists.com/elden-ring/all-bosses/",
+        "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm unique encounter classification, precise route and patch-specific rewards.",
+        "Combat stats, summon/parry eligibility and exact geography not yet verified."
+      ]
+    },
+    {
+      "id": "er:b-towerbridge-noble",
+      "grace": "Liurnia Tower Bridge",
+      "directions": "Cross from Carian Study Hall after using the inverted statue.",
+      "conditions": "Requires Ranni quest statue; no conventional boss bar.",
+      "combat": "Rapier chains, black flame and rolling attack.",
+      "strategy": "Use width of bridge to evade the roll, avoid falling, and punish the final thrust. Sleep may create openings.",
+      "rewards": "Godskin Noble set.",
+      "preparation": "Level 65–90.",
+      "sources": [
+        "https://www.reddit.com/r/Eldenring/comments/u7r3gs/all_bosses_checklist_updated_and_correct_165/",
+        "https://game-checklists.com/elden-ring/all-bosses/",
+        "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm unique encounter classification, precise route and patch-specific rewards.",
+        "Combat stats, summon/parry eligibility and exact geography not yet verified."
+      ]
+    },
+    {
+      "id": "er:b-manor-lower-wyrm",
+      "grace": "Temple of Eiglay",
+      "directions": "Use the temple lift and lower lava route; identify the unique wyrm below the manor.",
+      "conditions": "Optional elite; exact route and classification pending.",
+      "combat": "Magma rushes and heavy blade sweeps.",
+      "strategy": "Fight near safe footing, wait outside magma and punish the end of a charge.",
+      "rewards": "Dragon Heart; confirm drop.",
+      "preparation": "Level 65–85; fire defense.",
+      "sources": [
+        "https://www.reddit.com/r/Eldenring/comments/u7r3gs/all_bosses_checklist_updated_and_correct_165/",
+        "https://game-checklists.com/elden-ring/all-bosses/",
+        "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm unique encounter classification, precise route and patch-specific rewards.",
+        "Combat stats, summon/parry eligibility and exact geography not yet verified."
+      ]
+    },
+    {
+      "id": "er:d-leda-allies",
+      "grace": "Cleansing Chamber Anteroom",
+      "directions": "Continue through Enir-Ilim and activate the red challenge sign in the large chamber.",
+      "conditions": "Progression encounter; opponents and allies vary with quest choices.",
+      "combat": "Multiple NPC fighters with different weapons and support attacks.",
+      "strategy": "Use available ally summons to divide the opponents; focus one exposed fighter at a time and keep moving when several advance.",
+      "rewards": "Leda's Sword and armor; additional NPC gear depends on participants.",
+      "preparation": "Level 145–175; high blessing.",
+      "sources": [
+        "https://tarnishedforge.com/bosses",
+        "https://www.reddit.com/r/Eldenring/comments/1dn09en/list_of_every_true_boss_in_shadow_of_the_erdtree/",
+        "https://eip.gg/elden-ring/guides/needle-knight-leda-and-allies/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm unique encounter classification, precise route and patch-specific rewards.",
+        "Combat stats, summon/parry eligibility and exact geography not yet verified."
+      ]
+    },
+    {
+      "id": "er:d-jolan",
+      "grace": "Cathedral of Manus Metyr",
+      "directions": "After Metyr, return to the cathedral and interact with Ymir's throne as the quest progresses.",
+      "conditions": "Quest invasion before Ymir; not the final Iris reward choice.",
+      "combat": "Rapid katana cuts and shadow-like attacks.",
+      "strategy": "Bait a completed katana sequence and counter with short hits; don't chase her into a new attack.",
+      "rewards": "Quest progression; later Iris choice yields separate reward.",
+      "preparation": "Level 140–165.",
+      "sources": [
+        "https://tarnishedforge.com/bosses",
+        "https://www.reddit.com/r/Eldenring/comments/1dn09en/list_of_every_true_boss_in_shadow_of_the_erdtree/",
+        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+        "https://eldenring.redmaw.dev/sheets/dlc-walkthrough",
+        "https://www.polygon.com/elden-ring-shadow-erdtree-guide/24180254/all-dlc-boss-locations-bosses-in-order"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm unique encounter classification, precise route and patch-specific rewards.",
+        "Combat stats, summon/parry eligibility and exact geography not yet verified."
+      ]
+    },
+    {
+      "id": "er:d-dragon-man-invader",
+      "grace": "Pillar Path Waypoint",
+      "directions": "Follow the path south toward Dragon's Pit until the invader appears.",
+      "conditions": "Separate from the dungeon boss.",
+      "combat": "Great katana swings and ranged skill.",
+      "strategy": "Stay outside the weapon's reach until a committed swing, then dodge across and counter.",
+      "rewards": "Invasion resolution; Dragon-Hunter's Great Katana belongs to dungeon boss.",
+      "preparation": "Level 120–150.",
+      "sources": [
+        "https://tarnishedforge.com/bosses",
+        "https://www.reddit.com/r/Eldenring/comments/1dn09en/list_of_every_true_boss_in_shadow_of_the_erdtree/",
+        "https://eip.gg/elden-ring/guides/dragons-pit-dungeon/",
+        "https://www.polygon.com/elden-ring-shadow-erdtree-guide/24180254/all-dlc-boss-locations-bosses-in-order"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm unique encounter classification, precise route and patch-specific rewards.",
+        "Combat stats, summon/parry eligibility and exact geography not yet verified."
+      ]
+    },
+    {
+      "id": "er:d-furnace-plain",
+      "grace": "Scorched Ruins",
+      "directions": "Ride north toward Three-Path Cross and find the roaming furnace.",
+      "conditions": "Exposed legs; independent unique drop.",
+      "combat": "Fire stomps, kicks and jumping blast.",
+      "strategy": "Stay near a leg, jump single fire waves on Torrent, retreat from full-body jump and critical-hit the face when it falls.",
+      "rewards": "Deflecting Hardtear; Furnace Visage.",
+      "preparation": "Early blessing; sturdy weapon.",
+      "sources": [
+        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+        "https://eldenring.wiki.gg/wiki/Furnace_Golem",
+        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-all-furnace-golem-locations-walking-fire-giants/",
+        "https://gamers.wiki/en/games/elden-ring/guides/elden-ring-shadow-of-the-erdtree-furnace-golem-guide"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm unique encounter classification, precise route and patch-specific rewards.",
+        "Combat stats, summon/parry eligibility and exact geography not yet verified."
+      ]
+    },
+    {
+      "id": "er:d-furnace-ellac",
+      "grace": "Ellac River Downstream",
+      "directions": "Follow the lower river toward Cerulean Coast.",
+      "conditions": "Exposed legs; independent encounter.",
+      "combat": "Flame waves and stomps near water and uneven ground.",
+      "strategy": "Pick a wide patch of riverbed; build stance damage on its legs and attack face after collapse. Escape big jumps rather than trading.",
+      "rewards": "Viridian Hidden Tear; Furnace Visage.",
+      "preparation": "Moderate blessing; Torrent.",
+      "sources": [
+        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+        "https://eldenring.wiki.gg/wiki/Furnace_Golem",
+        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-all-furnace-golem-locations-walking-fire-giants/",
+        "https://gamers.wiki/en/games/elden-ring/guides/elden-ring-shadow-of-the-erdtree-furnace-golem-guide"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm unique encounter classification, precise route and patch-specific rewards.",
+        "Combat stats, summon/parry eligibility and exact geography not yet verified."
+      ]
+    },
+    {
+      "id": "er:d-furnace-keep",
+      "grace": "Highroad Cross",
+      "directions": "Follow Shadow Keep road north past the soldier camp.",
+      "conditions": "Exposed legs; nearby soldiers may interfere.",
+      "combat": "Fire waves, stomps and ranged flame projectiles.",
+      "strategy": "Clear nearby enemies if necessary and fight on open ground. Jump single stomps and critical-hit the face after a knockdown.",
+      "rewards": "Crimsonburst Dried Tear; Furnace Visage.",
+      "preparation": "Moderate blessing.",
+      "sources": [
+        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+        "https://eldenring.wiki.gg/wiki/Furnace_Golem",
+        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-all-furnace-golem-locations-walking-fire-giants/",
+        "https://gamers.wiki/en/games/elden-ring/guides/elden-ring-shadow-of-the-erdtree-furnace-golem-guide"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm unique encounter classification, precise route and patch-specific rewards.",
+        "Combat stats, summon/parry eligibility and exact geography not yet verified."
+      ]
+    },
+    {
+      "id": "er:d-furnace-east",
+      "grace": "Church District Highroad",
+      "directions": "Reach the eastern road via Moorth Ruins and Bonny Village.",
+      "conditions": "Armored legs; use elevated basket approach.",
+      "combat": "Fire projectiles and armored feet.",
+      "strategy": "Do not waste strikes on armored feet. Reach elevated ground or a spiritspring and throw Hefty Furnace Pots into the basket; dodge projectiles while positioning.",
+      "rewards": "Cerulean-Sapping Cracked Tear; Furnace Visage.",
+      "preparation": "Hefty Furnace Pots; fire defense.",
+      "sources": [
+        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+        "https://eldenring.wiki.gg/wiki/Furnace_Golem",
+        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-all-furnace-golem-locations-walking-fire-giants/",
+        "https://gamers.wiki/en/games/elden-ring/guides/elden-ring-shadow-of-the-erdtree-furnace-golem-guide"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm unique encounter classification, precise route and patch-specific rewards.",
+        "Combat stats, summon/parry eligibility and exact geography not yet verified."
+      ]
+    },
+    {
+      "id": "er:d-furnace-rauh",
+      "grace": "Rauh Ancient Ruins, East",
+      "directions": "Follow the bridge route toward the western ruins and Church of the Bud.",
+      "conditions": "Exposed legs; approach activates encounter.",
+      "combat": "Long-range flame attacks and close stomps.",
+      "strategy": "Cross into safe fighting space, jump flame waves and work toward a knockdown. Retreat from the large landing blast.",
+      "rewards": "Crimson-Sapping Cracked Tear; Furnace Visage.",
+      "preparation": "High blessing.",
+      "sources": [
+        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+        "https://eldenring.wiki.gg/wiki/Furnace_Golem",
+        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-all-furnace-golem-locations-walking-fire-giants/",
+        "https://gamers.wiki/en/games/elden-ring/guides/elden-ring-shadow-of-the-erdtree-furnace-golem-guide"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm unique encounter classification, precise route and patch-specific rewards.",
+        "Combat stats, summon/parry eligibility and exact geography not yet verified."
+      ]
+    },
+    {
+      "id": "er:d-furnace-watering",
+      "grace": "Castle Watering Hole",
+      "directions": "Follow the route out from Shadow Keep's hidden waterway into the flooded basin.",
+      "conditions": "Active golem separate from dormant Unte blocker.",
+      "combat": "Stomps, fire bursts and jumping explosion.",
+      "strategy": "Fight on clear footing away from the ruins. Attack exposed legs, evade fire waves and take the face critical when it falls.",
+      "rewards": "Oil-Soaked Tear; Furnace Visage.",
+      "preparation": "Moderate blessing.",
+      "sources": [
+        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+        "https://eldenring.wiki.gg/wiki/Furnace_Golem",
+        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-all-furnace-golem-locations-walking-fire-giants/",
+        "https://gamers.wiki/en/games/elden-ring/guides/elden-ring-shadow-of-the-erdtree-furnace-golem-guide"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm unique encounter classification, precise route and patch-specific rewards.",
+        "Combat stats, summon/parry eligibility and exact geography not yet verified."
+      ]
+    },
+    {
+      "id": "er:d-furnace-unte",
+      "grace": "Castle Watering Hole",
+      "directions": "Find the dormant golem blocking Ruins of Unte; reach the adjacent elevated platform overlooking its basket.",
+      "conditions": "Requires a Hefty Furnace Pot to awaken; separate from active basin golem.",
+      "combat": "Once awake, exposed-leg stomp and fire patterns.",
+      "strategy": "Wake it from above, then descend to safe open footing; use leg damage, jump fire waves and critical-hit the face.",
+      "rewards": "Bloodsucking Cracked Tear; Furnace Visage.",
+      "preparation": "Hefty Furnace Pot; fire protection.",
+      "sources": [
+        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+        "https://eldenring.wiki.gg/wiki/Furnace_Golem",
+        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-all-furnace-golem-locations-walking-fire-giants/",
+        "https://eldenring.wiki.gg/wiki/Ruins_of_Unte",
+        "https://gamers.wiki/en/games/elden-ring/guides/elden-ring-shadow-of-the-erdtree-furnace-golem-guide"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm unique encounter classification, precise route and patch-specific rewards.",
+        "Combat stats, summon/parry eligibility and exact geography not yet verified."
+      ]
+    },
+    {
+      "id": "er:d-furnace-charo",
+      "grace": "Charo's Hidden Grave",
+      "directions": "Ride west through the red-flower region to the cliffside golem.",
+      "conditions": "Armored legs; elevated basket strategy.",
+      "combat": "Long-range fire and armored leg stomps.",
+      "strategy": "Use nearby high ground to approach basket height. Throw Hefty Furnace Pots into the opening and retreat from fire volleys; ordinary leg strikes are ineffective.",
+      "rewards": "Glovewort Crystal Tear; Furnace Visage.",
+      "preparation": "Hefty Furnace Pots.",
+      "sources": [
+        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+        "https://eldenring.wiki.gg/wiki/Furnace_Golem",
+        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-all-furnace-golem-locations-walking-fire-giants/",
+        "https://gamers.wiki/en/games/elden-ring/guides/elden-ring-shadow-of-the-erdtree-furnace-golem-guide"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm unique encounter classification, precise route and patch-specific rewards.",
+        "Combat stats, summon/parry eligibility and exact geography not yet verified."
+      ]
+    },
+    {
+      "id": "er:d-charo-mariner",
+      "grace": "Charo's Hidden Grave",
+      "directions": "Follow the waterway in the grave region to the mariner.",
+      "conditions": "Optional unique miniboss.",
+      "combat": "Boat slams and skeleton summons.",
+      "strategy": "Avoid lingering among skeletons; pursue the mariner when it relocates, and attack after boat slams.",
+      "rewards": "Tibia's Cookbook.",
+      "preparation": "Moderate blessing.",
+      "sources": [
+        "https://www.neoseeker.com/elden-ring-shadow-of-the-erdtree/Optional_Bosses/Tibia_Mariner",
+        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+        "https://eldenring.redmaw.dev/sheets/dlc-walkthrough",
+        "https://www.polygon.com/elden-ring-shadow-erdtree-guide/24180254/all-dlc-boss-locations-bosses-in-order"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm unique encounter classification, precise route and patch-specific rewards.",
+        "Combat stats, summon/parry eligibility and exact geography not yet verified."
+      ]
+    },
+    {
+      "id": "er:d-dragons-pit-wyrm",
+      "grace": "Dragon's Pit",
+      "directions": "Explore the upper optional branch before the descent to Ancient Dragon-Man.",
+      "conditions": "Unique elite; separate from final boss.",
+      "combat": "Magma charges and broad sword swings.",
+      "strategy": "Wait outside the lava path and punish the head or flank once the rush stops.",
+      "rewards": "Ancient Dragon Smithing Stone; Dragon Heart.",
+      "preparation": "Early blessing; fire defense.",
+      "sources": [
+        "https://www.neoseeker.com/elden-ring-shadow-of-the-erdtree/Optional_Bosses/Magma_Wyrm",
+        "https://eip.gg/elden-ring/guides/dragons-pit-dungeon/",
+        "https://www.polygon.com/elden-ring-shadow-erdtree-guide/24180254/all-dlc-boss-locations-bosses-in-order"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm unique encounter classification, precise route and patch-specific rewards.",
+        "Combat stats, summon/parry eligibility and exact geography not yet verified."
+      ]
+    },
+    {
+      "id": "er:d-queelign-belurat",
+      "grace": "Small Private Altar",
+      "directions": "Follow the Belurat streets to the courtyard where Queelign invades.",
+      "conditions": "One of two invasion sites; rewards depend on order.",
+      "combat": "Flame-infused greatsword thrusts and ranged attacks.",
+      "strategy": "Dodge sideways from lunges, counter after committed fire attack and avoid prolonged trades.",
+      "rewards": "First invasion: Crusade Insignia; second: Prayer Room Key and Flame Skewer (verify order).",
+      "preparation": "Early blessing; fire defense.",
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Fire_Knight_Queelign_(NPC)",
+        "https://eldenring.exputer.com/quests/fire-knight-queelign-s-quest",
+        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+        "https://eldenring.redmaw.dev/sheets/dlc-walkthrough",
+        "https://www.polygon.com/elden-ring-shadow-erdtree-guide/24180254/all-dlc-boss-locations-bosses-in-order"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm unique encounter classification, precise route and patch-specific rewards.",
+        "Combat stats, summon/parry eligibility and exact geography not yet verified."
+      ]
+    },
+    {
+      "id": "er:d-queelign-church",
+      "grace": "Church of the Crusade",
+      "directions": "Enter the church northwest of Highroad Cross.",
+      "conditions": "Second distinct site; either location may be visited first.",
+      "combat": "Fire weapon thrusts and pressure.",
+      "strategy": "Use open ground to avoid fire attacks; punish the end of the thrust chain with fast hits.",
+      "rewards": "Order-dependent Crusade Insignia or Prayer Room Key and Flame Skewer.",
+      "preparation": "Moderate blessing.",
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Fire_Knight_Queelign_(NPC)",
+        "https://eldenring.exputer.com/quests/fire-knight-queelign-s-quest",
+        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+        "https://eldenring.redmaw.dev/sheets/dlc-walkthrough",
+        "https://www.polygon.com/elden-ring-shadow-erdtree-guide/24180254/all-dlc-boss-locations-bosses-in-order"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm unique encounter classification, precise route and patch-specific rewards.",
+        "Combat stats, summon/parry eligibility and exact geography not yet verified."
+      ]
+    },
+    {
+      "id": "er:d-hippo-charo",
+      "grace": "Charo's Hidden Grave",
+      "directions": "Follow the westward path toward the small lake.",
+      "conditions": "Unique fragment-bearing hippo; no boss bar.",
+      "combat": "Bites, body rush and grab.",
+      "strategy": "Move sideways from the open-mouth rush, punish the flank after it stops and avoid staying directly in front.",
+      "rewards": "Scadutree Fragment.",
+      "preparation": "Moderate blessing.",
+      "sources": [
+        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-all-scadutree-fragment-locations/",
+        "https://eldenring.redmaw.dev/sheets/dlc-walkthrough",
+        "https://www.polygon.com/elden-ring-shadow-erdtree-guide/24180254/all-dlc-boss-locations-bosses-in-order"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm unique encounter classification, precise route and patch-specific rewards.",
+        "Combat stats, summon/parry eligibility and exact geography not yet verified."
+      ]
+    },
+    {
+      "id": "er:d-hippo-river-one",
+      "grace": "Recluses' River Downstream",
+      "directions": "Descend toward the lake with two fragment-bearing hippos; exact individual position pending.",
+      "conditions": "Track separately from its neighbor; exact ordering pending.",
+      "combat": "Bites and fast body rush.",
+      "strategy": "Draw one away from the other and counter its missed bite rather than fighting both.",
+      "rewards": "Scadutree Fragment.",
+      "preparation": "Moderate blessing.",
+      "sources": [
+        "https://eldenring.redmaw.dev/sheets/dlc-walkthrough",
+        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-all-scadutree-fragment-locations/",
+        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+        "https://www.polygon.com/elden-ring-shadow-erdtree-guide/24180254/all-dlc-boss-locations-bosses-in-order"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm unique encounter classification, precise route and patch-specific rewards.",
+        "Combat stats, summon/parry eligibility and exact geography not yet verified."
+      ]
+    },
+    {
+      "id": "er:d-hippo-river-two",
+      "grace": "Recluses' River Downstream",
+      "directions": "Locate the second hippo in the lake basin; distinguish from the first by independently verified position when available.",
+      "conditions": "Separate fragment-bearing elite; no marker admitted.",
+      "combat": "Rushes and grabbing bite.",
+      "strategy": "Finish the isolated first opponent before engaging this one; dodge across its forward rush and counter from the side.",
+      "rewards": "Scadutree Fragment.",
+      "preparation": "Moderate blessing.",
+      "sources": [
+        "https://eldenring.redmaw.dev/sheets/dlc-walkthrough",
+        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-all-scadutree-fragment-locations/",
+        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+        "https://www.polygon.com/elden-ring-shadow-erdtree-guide/24180254/all-dlc-boss-locations-bosses-in-order"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm unique encounter classification, precise route and patch-specific rewards.",
+        "Combat stats, summon/parry eligibility and exact geography not yet verified."
+      ]
+    },
+    {
+      "id": "er:d-hippo-rauh",
+      "grace": "Ancient Ruins of Rauh",
+      "directions": "Explore the lake in the upper ruin route; exact access branch pending.",
+      "conditions": "Unique fragment-bearing hippo.",
+      "combat": "Bites, lunges and body slams.",
+      "strategy": "Avoid being pinned against terrain, dodge sideways from the bite and punish the recovery.",
+      "rewards": "Scadutree Fragment.",
+      "preparation": "High blessing.",
+      "sources": [
+        "https://eldenring.redmaw.dev/sheets/dlc-walkthrough",
+        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-all-scadutree-fragment-locations/",
+        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+        "https://www.polygon.com/elden-ring-shadow-erdtree-guide/24180254/all-dlc-boss-locations-bosses-in-order"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm unique encounter classification, precise route and patch-specific rewards.",
+        "Combat stats, summon/parry eligibility and exact geography not yet verified."
+      ]
+    },
+    {
+      "id": "er:b-inv-nerijus",
+      "grace": "Agheel Lake North",
+      "directions": "Follow the riverbed north toward Murkwater Cave.",
+      "conditions": "Scripted invasion; Yura can assist.",
+      "combat": "Bleed dagger attacks and blood projectiles.",
+      "strategy": "Avoid successive blood blades and give Yura time to arrive if needed; counter once the invader commits to a rush.",
+      "rewards": "Reduvia.",
+      "preparation": "Level 15–30; bleed defense.",
+      "sources": [
+        "https://video-game-guide-walkthrough.supersoluce.com/solution/elden-ring-guide-walkthrough/summons-and-invasions/invasions/",
+        "https://segmentnext.com/elden-ring/mechanics/npc-invader",
+        "https://eldenring.wiki.gg/wiki/Invader"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm unique encounter classification, precise route and patch-specific rewards.",
+        "Combat stats, summon/parry eligibility and exact geography not yet verified."
+      ]
+    },
+    {
+      "id": "er:b-inv-anastasia-church",
+      "grace": "Smoldering Church",
+      "directions": "Approach the border church between Limgrave and Caelid.",
+      "conditions": "First distinct location; no ordinary boss bar.",
+      "combat": "Heavy cleaver swings and lunges.",
+      "strategy": "Let the heavy swing finish before counterattacking; avoid trading with its reach.",
+      "rewards": "Sacred Scorpion Charm.",
+      "preparation": "Level 30–50.",
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Anastasia%2C_Tarnished-Eater",
+        "https://video-game-guide-walkthrough.supersoluce.com/solution/elden-ring-guide-walkthrough/summons-and-invasions/invasions/",
+        "https://eldenring.wiki.gg/wiki/Invader"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm unique encounter classification, precise route and patch-specific rewards.",
+        "Combat stats, summon/parry eligibility and exact geography not yet verified."
+      ]
+    },
+    {
+      "id": "er:b-inv-anastasia-shack",
+      "grace": "Corpse-Stench Shack",
+      "directions": "Follow the Mt. Gelmir road to the shack.",
+      "conditions": "Separate from Smoldering Church invasion.",
+      "combat": "Large cleaver and aggressive melee pressure.",
+      "strategy": "Use open ground, dodge the overhead swing and counter with a quick strike rather than trading.",
+      "rewards": "Butchering Knife.",
+      "preparation": "Level 65–85.",
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Anastasia%2C_Tarnished-Eater",
+        "https://video-game-guide-walkthrough.supersoluce.com/solution/elden-ring-guide-walkthrough/summons-and-invasions/invasions/",
+        "https://eldenring.wiki.gg/wiki/Invader"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm unique encounter classification, precise route and patch-specific rewards.",
+        "Combat stats, summon/parry eligibility and exact geography not yet verified."
+      ]
+    },
+    {
+      "id": "er:b-inv-anastasia-snow",
+      "grace": "Inner Consecrated Snowfield",
+      "directions": "Follow the frozen river southwest of Ordina.",
+      "conditions": "Third distinct invasion site.",
+      "combat": "Heavy melee chains and fast advances.",
+      "strategy": "Fight on the broad riverbed; counter after a full swing and avoid exhausting stamina while retreating.",
+      "rewards": "Somber Ancient Dragon Smithing Stone.",
+      "preparation": "Level 105–130.",
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Anastasia%2C_Tarnished-Eater",
+        "https://video-game-guide-walkthrough.supersoluce.com/solution/elden-ring-guide-walkthrough/summons-and-invasions/invasions/",
+        "https://eldenring.wiki.gg/wiki/Invader"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm unique encounter classification, precise route and patch-specific rewards.",
+        "Combat stats, summon/parry eligibility and exact geography not yet verified."
+      ]
+    },
+    {
+      "id": "er:b-inv-edgar",
+      "grace": "Revenger's Shack",
+      "directions": "Advance Irina and Edgar's quest, then visit the western Liurnia shack.",
+      "conditions": "Quest-dependent invasion; exact trigger review required.",
+      "combat": "Halberd sweeps and long thrusts.",
+      "strategy": "Dodge across the thrust and punish from the side. Keep enough stamina to escape follow-up sweeps.",
+      "rewards": "Shabriri Grape; Banished Knight's Halberd +8.",
+      "preparation": "Level 35–55.",
+      "sources": [
+        "https://video-game-guide-walkthrough.supersoluce.com/solution/elden-ring-guide-walkthrough/summons-and-invasions/invasions/",
+        "https://segmentnext.com/elden-ring/mechanics/npc-invader",
+        "https://eldenring.wiki.gg/wiki/Invader"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm unique encounter classification, precise route and patch-specific rewards.",
+        "Combat stats, summon/parry eligibility and exact geography not yet verified."
+      ]
+    },
+    {
+      "id": "er:b-inv-vyke",
+      "grace": "Church of Inhibition",
+      "directions": "Climb past the frenzied village toward the church.",
+      "conditions": "Distinct from Mountaintops evergaol.",
+      "combat": "War spear and madness incantations.",
+      "strategy": "Avoid the flame cone and dodge the committed thrust; move away when madness accumulates.",
+      "rewards": "Fingerprint Grape; Vyke's War Spear.",
+      "preparation": "Level 40–60.",
+      "sources": [
+        "https://video-game-guide-walkthrough.supersoluce.com/solution/elden-ring-guide-walkthrough/summons-and-invasions/invasions/",
+        "https://www.youtube.com/watch?v=nTVxkcRnRTQ",
+        "https://eldenring.wiki.gg/wiki/Invader"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm unique encounter classification, precise route and patch-specific rewards.",
+        "Combat stats, summon/parry eligibility and exact geography not yet verified."
+      ]
+    },
+    {
+      "id": "er:b-inv-millicent",
+      "grace": "Swamp of Aeonia",
+      "directions": "Enter the swamp around the central route on foot and watch for invasion.",
+      "conditions": "Separate from late quest summon choices; precise trigger pending.",
+      "combat": "Fast curved-sword chains and spinning attacks.",
+      "strategy": "Get onto safer footing, counter after her extended combo and avoid rot accumulation.",
+      "rewards": "Sacramental Buds and Golden Runes; verify amounts.",
+      "preparation": "Level 45–65; rot cures.",
+      "sources": [
+        "https://video-game-guide-walkthrough.supersoluce.com/solution/elden-ring-guide-walkthrough/summons-and-invasions/invasions/",
+        "https://www.youtube.com/watch?v=nTVxkcRnRTQ",
+        "https://eldenring.wiki.gg/wiki/Invader"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm unique encounter classification, precise route and patch-specific rewards.",
+        "Combat stats, summon/parry eligibility and exact geography not yet verified."
+      ]
+    },
+    {
+      "id": "er:b-inv-eleonora",
+      "grace": "Second Church of Marika",
+      "directions": "Visit the church during Yura's quest route; current alternate trigger needs review.",
+      "conditions": "Scripted invasion.",
+      "combat": "Twinblade blood attacks and dragon incantation pressure.",
+      "strategy": "Move out of the breath cone, then punish its recovery; avoid trading through the twinblade spin.",
+      "rewards": "Eleonora's Poleblade; Purifying Crystal Tear.",
+      "preparation": "Level 55–80.",
+      "sources": [
+        "https://video-game-guide-walkthrough.supersoluce.com/solution/elden-ring-guide-walkthrough/summons-and-invasions/invasions/",
+        "https://www.youtube.com/watch?v=nTVxkcRnRTQ",
+        "https://eldenring.wiki.gg/wiki/Invader"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm unique encounter classification, precise route and patch-specific rewards.",
+        "Combat stats, summon/parry eligibility and exact geography not yet verified."
+      ]
+    },
+    {
+      "id": "er:b-inv-bernahl",
+      "grace": "Beside the Great Bridge",
+      "directions": "Turn away from Maliketh's bridge and follow the route toward the isolated tower.",
+      "conditions": "Conditional invasion; keep Bernahl alive, verify current trigger.",
+      "combat": "Heavy scepter swings and area skill.",
+      "strategy": "Avoid the large area attack, counter after heavy recovery and don't trade while its skill is active.",
+      "rewards": "Blasphemous Claw; Devourer's Scepter; Beast Champion set.",
+      "preparation": "Level 110–140.",
+      "sources": [
+        "https://video-game-guide-walkthrough.supersoluce.com/solution/elden-ring-guide-walkthrough/summons-and-invasions/invasions/",
+        "https://www.youtube.com/watch?v=nTVxkcRnRTQ",
+        "https://eldenring.wiki.gg/wiki/Invader"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm unique encounter classification, precise route and patch-specific rewards.",
+        "Combat stats, summon/parry eligibility and exact geography not yet verified."
+      ]
+    },
+    {
+      "id": "er:b-inv-sanguine",
+      "grace": "Consecrated Snowfield",
+      "directions": "Search the western snowfield woods near the Mohgwyn portal route.",
+      "conditions": "Distinct from the Writheblood Ruins boss.",
+      "combat": "Blood rapier thrusts and blood pools.",
+      "strategy": "Keep clear of pools and dodge the committed thrust rather than striking into its guard.",
+      "rewards": "Sanguine Noble set.",
+      "preparation": "Level 100–130.",
+      "sources": [
+        "https://segmentnext.com/elden-ring/mechanics/npc-invader",
+        "https://www.youtube.com/watch?v=nTVxkcRnRTQ",
+        "https://eldenring.wiki.gg/wiki/Invader",
+        "https://video-game-guide-walkthrough.supersoluce.com/solution/elden-ring-guide-walkthrough/summons-and-invasions/invasions/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm unique encounter classification, precise route and patch-specific rewards.",
+        "Combat stats, summon/parry eligibility and exact geography not yet verified."
+      ]
+    },
+    {
+      "id": "er:b-contract-istvan",
+      "grace": "Warmaster's Shack",
+      "directions": "Join Volcano Manor, collect the first letter and use the red sign near the Stormhill colosseum.",
+      "conditions": "Complete before defeating Rykard.",
+      "combat": "Curved greatsword and gravity skill.",
+      "strategy": "Avoid the gravity pull, then punish the completed sword attack; do not trade with the larger weapon.",
+      "rewards": "Scaled set; return to Tanith for Magma Shot.",
+      "preparation": "Level 45–65.",
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Volcano_Manor",
+        "https://eldenring.exputer.com/quests/volcano-manor-contracts",
+        "https://eldenring.exputer.com/locations/volcano-manor",
+        "https://segmentnext.com/elden-ring/dungeons/volcano-manor"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm unique encounter classification, precise route and patch-specific rewards.",
+        "Combat stats, summon/parry eligibility and exact geography not yet verified."
+      ]
+    },
+    {
+      "id": "er:b-contract-rileigh",
+      "grace": "Shaded Castle approach",
+      "directions": "Collect second Manor letter and use the sign in the Altus ravine.",
+      "conditions": "After Istvan; before Rykard.",
+      "combat": "Crossbow and quick dagger attacks.",
+      "strategy": "Approach diagonally to avoid bolts; use short stagger-capable hits when he stops to reload or thrust.",
+      "rewards": "Crepus's Vial; return to Tanith for Serpentbone Blade.",
+      "preparation": "Level 55–75.",
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Volcano_Manor",
+        "https://eldenring.exputer.com/quests/volcano-manor-contracts",
+        "https://eldenring.exputer.com/locations/volcano-manor",
+        "https://segmentnext.com/elden-ring/dungeons/volcano-manor"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm unique encounter classification, precise route and patch-specific rewards.",
+        "Combat stats, summon/parry eligibility and exact geography not yet verified."
+      ]
+    },
+    {
+      "id": "er:b-contract-tragoth",
+      "grace": "Ruin-Strewn Precipice Overlook",
+      "directions": "Get Patches' letter after first contract and use sign in Makar's defeated arena.",
+      "conditions": "Requires Makar defeat and Patches contract; do before Rykard.",
+      "combat": "Heavy hammer blows and high poise armor.",
+      "strategy": "Do not try to interrupt every swing; dodge late and punish the slow recovery.",
+      "rewards": "Bull-Goat set; Patches' subsequent reward Magma Whip Candlestick.",
+      "preparation": "Level 60–80.",
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Volcano_Manor",
+        "https://eldenring.exputer.com/quests/volcano-manor-contracts",
+        "https://eldenring.exputer.com/locations/volcano-manor",
+        "https://segmentnext.com/elden-ring/dungeons/volcano-manor"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm unique encounter classification, precise route and patch-specific rewards.",
+        "Combat stats, summon/parry eligibility and exact geography not yet verified."
+      ]
+    },
+    {
+      "id": "er:b-contract-vargram-wilhelm",
+      "grace": "West Capital Rampart",
+      "directions": "Get Bernahl's letter and locate red sign in Fortified Manor.",
+      "conditions": "Complete while capital route and Manor quest remain available.",
+      "combat": "Greatsword melee and sorcery; Bernahl assists.",
+      "strategy": "Let Bernahl occupy one opponent and prioritize the exposed caster, then finish the warrior.",
+      "rewards": "Raging Wolf set; return to Bernahl for Gelmir's Fury.",
+      "preparation": "Level 75–95.",
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Volcano_Manor",
+        "https://eldenring.exputer.com/quests/volcano-manor-contracts",
+        "https://eldenring.exputer.com/locations/volcano-manor",
+        "https://segmentnext.com/elden-ring/dungeons/volcano-manor"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm unique encounter classification, precise route and patch-specific rewards.",
+        "Combat stats, summon/parry eligibility and exact geography not yet verified."
+      ]
+    },
+    {
+      "id": "er:b-contract-juno",
+      "grace": "Shack of the Lofty",
+      "directions": "Collect Red Letter and use its invasion sign in Mountaintops.",
+      "conditions": "Third Manor contract; complete before Rykard.",
+      "combat": "Dual whips with wide bleed arcs and evasive movement.",
+      "strategy": "Avoid attacking into both whip arcs; punish a committed lash with quick attacks. Use bleed resistance.",
+      "rewards": "Hoslow's set and Petal Whip; Tanith reward Taker's Cameo.",
+      "preparation": "Level 90–115.",
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Volcano_Manor",
+        "https://eldenring.exputer.com/quests/volcano-manor-contracts",
+        "https://eldenring.exputer.com/locations/volcano-manor",
+        "https://segmentnext.com/elden-ring/dungeons/volcano-manor"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm unique encounter classification, precise route and patch-specific rewards.",
+        "Combat stats, summon/parry eligibility and exact geography not yet verified."
+      ]
+    },
+    {
+      "id": "er:b-inv-ghiza",
+      "grace": "Volcano Manor",
+      "directions": "Climb the manor stairs into its upper hall.",
+      "conditions": "Scripted unique invasion.",
+      "combat": "Large spinning wheel attacks and bleed buildup.",
+      "strategy": "Move away from the prolonged spinning skill; dodge across the initial swing and hit during recovery.",
+      "rewards": "Ghiza's Wheel.",
+      "preparation": "Level 55–80.",
+      "sources": [
+        "https://www.youtube.com/watch?v=JE9RWRfkG44",
+        "https://eldenring.wiki.gg/wiki/Invader",
+        "https://video-game-guide-walkthrough.supersoluce.com/solution/elden-ring-guide-walkthrough/summons-and-invasions/invasions/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm unique encounter classification, precise route and patch-specific rewards.",
+        "Combat stats, summon/parry eligibility and exact geography not yet verified."
+      ]
+    },
+    {
+      "id": "er:b-inv-henricus",
+      "grace": "Warmaster's Shack",
+      "directions": "Follow the northern road to the colosseum entrance.",
+      "conditions": "Scripted invasion; availability conditions need review.",
+      "combat": "Heavy mace strikes and fire skill.",
+      "strategy": "Avoid the charged fire attack and counter from the side after the mace lands.",
+      "rewards": "Hammer Talisman.",
+      "preparation": "Level 20–40.",
+      "sources": [
+        "https://video-game-guide-walkthrough.supersoluce.com/solution/elden-ring-guide-walkthrough/summons-and-invasions/invasions/",
+        "https://eldenring.wiki.gg/wiki/Invader"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm unique encounter classification, precise route and patch-specific rewards.",
+        "Combat stats, summon/parry eligibility and exact geography not yet verified."
+      ]
+    },
+    {
+      "id": "er:b-inv-alberich",
+      "grace": "Roundtable Hold",
+      "directions": "Drop from the main hall balcony into the lower chamber.",
+      "conditions": "Unique duel in hub; no world-map coordinate yet.",
+      "combat": "Scythe swings, frost spells and bleed.",
+      "strategy": "Move laterally from spell projectiles, avoid the long scythe chain and attack during casting recovery.",
+      "rewards": "Taunter's Tongue; Reverential Bow gesture opportunity.",
+      "preparation": "Level 30–50.",
+      "sources": [
+        "https://video-game-guide-walkthrough.supersoluce.com/solution/elden-ring-guide-walkthrough/summons-and-invasions/invasions/",
+        "https://eldenring.wiki.gg/wiki/Invader"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm unique encounter classification, precise route and patch-specific rewards.",
+        "Combat stats, summon/parry eligibility and exact geography not yet verified."
+      ]
+    },
+    {
+      "id": "er:b-inv-dungeater",
+      "grace": "Outer Wall Battleground",
+      "directions": "Advance Dung Eater's quest to the outer moat and approach the marked area.",
+      "conditions": "Quest-dependent; other NPC outcomes can change.",
+      "combat": "Greatsword swings and debuff pressure; nearby crab.",
+      "strategy": "Separate the invader from the crab and punish after a committed swing; avoid prolonged trades.",
+      "rewards": "Sword of Milos.",
+      "preparation": "Level 75–100.",
+      "sources": [
+        "https://video-game-guide-walkthrough.supersoluce.com/solution/elden-ring-guide-walkthrough/summons-and-invasions/invasions/",
+        "https://eldenring.wiki.gg/wiki/Invader"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm unique encounter classification, precise route and patch-specific rewards.",
+        "Combat stats, summon/parry eligibility and exact geography not yet verified."
+      ]
+    },
+    {
+      "id": "er:b-inv-tanith-knight",
+      "grace": "Rykard, Lord of Blasphemy",
+      "directions": "After Rykard, return to the arena; attacking Tanith triggers her knight.",
+      "conditions": "Optional destructive NPC choice; do not attack until ready to end Tanith interactions.",
+      "combat": "Crucible sword and shield attacks with breath.",
+      "strategy": "Wait through the delayed sword chain and move around breath cone; punish from the side.",
+      "rewards": "Aspects of the Crucible: Breath.",
+      "preparation": "Level 80–105.",
+      "sources": [
+        "https://video-game-guide-walkthrough.supersoluce.com/solution/elden-ring-guide-walkthrough/summons-and-invasions/invasions/",
+        "https://eldenring.wiki.gg/wiki/Invader"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm unique encounter classification, precise route and patch-specific rewards.",
+        "Combat stats, summon/parry eligibility and exact geography not yet verified."
+      ]
+    },
+    {
+      "id": "er:b-inv-okina",
+      "grace": "Church of Repose",
+      "directions": "Approach the church on the southeastern mountain route.",
+      "conditions": "Scripted invasion; patch trigger pending.",
+      "combat": "Blood katana chains and long-range skill.",
+      "strategy": "Stay outside the blood skill's reach and punish the final slash; avoid trading with rapid bleed attacks.",
+      "rewards": "Rivers of Blood; Okina Mask.",
+      "preparation": "Level 90–120.",
+      "sources": [
+        "https://video-game-guide-walkthrough.supersoluce.com/solution/elden-ring-guide-walkthrough/summons-and-invasions/invasions/",
+        "https://eldenring.wiki.gg/wiki/Invader"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm unique encounter classification, precise route and patch-specific rewards.",
+        "Combat stats, summon/parry eligibility and exact geography not yet verified."
+      ]
+    },
+    {
+      "id": "er:b-inv-whitemask-one",
+      "grace": "Palace Approach Ledge-Road",
+      "directions": "Descend toward the southern blood lake and trigger the first distinct invasion area.",
+      "conditions": "Complete all white-mask invasions before Mohg; exact individual marker pending.",
+      "combat": "Quick bleed weapon attacks and nearby blood creatures.",
+      "strategy": "Draw the invader away from birds and blood pools; use quick counters after its attack chain.",
+      "rewards": "Individual reward order pending; War Surgeon set associated with sequence.",
+      "preparation": "Level 90–120.",
+      "sources": [
+        "https://video-game-guide-walkthrough.supersoluce.com/solution/elden-ring-guide-walkthrough/summons-and-invasions/invasions/",
+        "https://eldenring.wiki.gg/wiki/Invader"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm unique encounter classification, precise route and patch-specific rewards.",
+        "Combat stats, summon/parry eligibility and exact geography not yet verified."
+      ]
+    },
+    {
+      "id": "er:b-inv-whitemask-two",
+      "grace": "Palace Approach Ledge-Road",
+      "directions": "Explore the next area southeast of the first lake invasion.",
+      "conditions": "Separate trigger; do before Mohg.",
+      "combat": "Bleed attacks, aggressive pursuit.",
+      "strategy": "Move to clear ground, avoid nearby enemies and punish the invader after its committed rush.",
+      "rewards": "Individual reward order pending.",
+      "preparation": "Level 90–120.",
+      "sources": [
+        "https://video-game-guide-walkthrough.supersoluce.com/solution/elden-ring-guide-walkthrough/summons-and-invasions/invasions/",
+        "https://eldenring.wiki.gg/wiki/Invader"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm unique encounter classification, precise route and patch-specific rewards.",
+        "Combat stats, summon/parry eligibility and exact geography not yet verified."
+      ]
+    },
+    {
+      "id": "er:b-inv-whitemask-three",
+      "grace": "Palace Approach Ledge-Road",
+      "directions": "Continue to the southern lake basin and check for the remaining invasion.",
+      "conditions": "Separate trigger; exact position and reward order pending.",
+      "combat": "Quick melee bleed attacks.",
+      "strategy": "Avoid fighting while surrounded by lake creatures; keep stamina for dodges and counter the end of each chain.",
+      "rewards": "War Surgeon set associated with sequence; confirm exact trigger.",
+      "preparation": "Level 90–120.",
+      "sources": [
+        "https://video-game-guide-walkthrough.supersoluce.com/solution/elden-ring-guide-walkthrough/summons-and-invasions/invasions/",
+        "https://eldenring.wiki.gg/wiki/Invader"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm unique encounter classification, precise route and patch-specific rewards.",
+        "Combat stats, summon/parry eligibility and exact geography not yet verified."
+      ]
     }
   ]
 }
