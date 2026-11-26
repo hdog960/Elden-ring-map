@@ -4260,12 +4260,15 @@
       "conditions": "Required; Beast Clergyman and Maliketh are continuous phases.",
       "combat": "Fast stone projectiles and dagger chains, then aerial destined-death blade attacks.",
       "strategy": "Stay mobile in phase one and punish the long dagger slam. In phase two avoid the red-black area attacks and use short hits after landing; Blasphemous Claw can counter specific golden-glowing attacks.",
-      "rewards": "Remembrance of the Black Blade.",
+      "rewards": "Remembrance of the Black Blade; 220,000 runes (reported NG).",
       "preparation": "Level 115–145; vigor and holy defense.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/guide/mountaintops-of-the-giants/bosses/",
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
-        "https://eldenring.redmaw.dev/sheets/bosses"
+        "https://eldenring.redmaw.dev/sheets/bosses",
+        "https://tarnished.app/enemies/maliketh--the-black-blade",
+        "https://www.dexerto.com/elden-ring/how-to-defeat-maliketh-in-elden-ring-boss-stats-weaknesses-tips-2641174/",
+        "https://eldenring.wiki.gg/wiki/Maliketh%2C_the_Black_Blade"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -4275,8 +4278,7 @@
         "statusThresholds": null
       },
       "unresolved": [
-        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
-        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+        "Exact current regulation and summon eligibility require verification; solo NG source table recorded separately."
       ]
     },
     {
@@ -4312,12 +4314,14 @@
       "conditions": "Required; two continuous phases.",
       "combat": "Axe chains, arena-wide stomps and later wrestling grabs.",
       "strategy": "Jump suitable ground shockwaves, then punish the axe recovery. In phase two dodge away from the committed grab and attack after its slam; avoid rolling repeatedly on the wind-up.",
-      "rewards": "Remembrance of Hoarah Loux.",
+      "rewards": "Remembrance of Hoarah Loux; 300,000 runes reported by Gamer Guides for the Ashen Capital encounter.",
       "preparation": "Level 120–150; physical defense.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/guide/mountaintops-of-the-giants/bosses/",
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
-        "https://eldenring.redmaw.dev/sheets/bosses"
+        "https://eldenring.redmaw.dev/sheets/bosses",
+        "https://www.gamerguides.com/elden-ring/guide/leyndell-ashen-capital/bosses/how-to-beat-godfrey-first-elden-lord-hoarah-loux-warrior-in-the-elden-throne",
+        "https://tarnished.app/enemies/godfrey--first-elden-lord"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -4327,8 +4331,7 @@
         "statusThresholds": null
       },
       "unresolved": [
-        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
-        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+        "Do not use the Golden Shade's 7,099 HP / 80,000 rune default table for the Ashen Capital encounter. Exact current regulation, health and stance require variant-specific corroboration."
       ]
     },
     {
@@ -4337,13 +4340,17 @@
       "directions": "Enter the golden light beyond the final throne to fight Radagon and Elden Beast consecutively.",
       "conditions": "Required final fight; no normal rest between phases.",
       "combat": "Delayed hammer strikes and holy bursts, then sweeping sword attacks, rings and distant projectiles.",
-      "strategy": "Use non-holy damage and holy defense. Delay dodges for Radagon's hammer; against the Beast, escape rings by jumping and move toward its recovery openings. Torrent availability depends on patch; confirm in game.",
-      "rewards": "Elden Remembrance; ending selection after victory.",
+      "strategy": "Use non-holy damage and holy defense. Radagon can be parried but requires three successful parries for a critical opening. Against the Beast, jump over rings and use Torrent for pursuit in version 1.12 or later. Do not rely on bleed for either phase.",
+      "rewards": "Elden Remembrance; 500,000 runes after Elden Beast (reported NG); ending selection.",
       "preparation": "Level 125–160; upgraded weapon, holy defense.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/guide/mountaintops-of-the-giants/bosses/",
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
-        "https://eldenring.redmaw.dev/sheets/bosses"
+        "https://eldenring.redmaw.dev/sheets/bosses",
+        "https://tarnished.app/enemies/radagon-of-the-golden-order",
+        "https://tarnished.app/enemies/elden-beast",
+        "https://www.dexerto.com/elden-ring/elden-ring-radagon-guide-how-to-beat-the-elden-beast-1775869/",
+        "https://en.bandainamcoent.eu/elden-ring/news/elden-ring-patch-notes-version-112"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -4353,8 +4360,7 @@
         "statusThresholds": null
       },
       "unresolved": [
-        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
-        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+        "Exact current regulation, summon eligibility and independent geography remain unqualified. Both phase-specific stat tables are research only."
       ]
     },
     {
@@ -5378,16 +5384,18 @@
     {
       "id": "er:b-mountaintops-mariner",
       "grace": "Snow Valley Ruins Overlook",
-      "directions": "Follow the graveyard slope toward Castle Sol and search the lower ledges.",
+      "directions": "Search the cliff overlooking Castle Sol, northwest of Snow Valley Ruins Overlook.",
       "conditions": "Unique mariner without ordinary boss bar; exact ledge pending.",
       "combat": "Skeleton summons and boat attacks.",
       "strategy": "Prioritize the mariner, dodge the boat slam and reposition before giant skeleton attacks reach you.",
-      "rewards": "Deathroot; verify other drops.",
+      "rewards": "Deathroot; Helphen's Steeple.",
       "preparation": "Level 90–120.",
       "sources": [
         "https://www.reddit.com/r/Eldenring/comments/u7r3gs/all_bosses_checklist_updated_and_correct_165/",
         "https://game-checklists.com/elden-ring/all-bosses/",
-        "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/"
+        "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
+        "https://eldenring.wiki.gg/wiki/Tibia_Mariner",
+        "https://www.gamerguides.com/elden-ring/guide/mountaintops-of-the-giants/bosses"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -5397,15 +5405,14 @@
         "statusThresholds": null
       },
       "unresolved": [
-        "Confirm unique encounter classification, precise route and patch-specific rewards.",
-        "Combat stats, summon/parry eligibility and exact geography not yet verified."
+        "Source labels vary between boss and elite; no conventional boss bar reported. Exact ledge, defeat flag, rune amount and current stats pending."
       ]
     },
     {
       "id": "er:b-towerbridge-noble",
       "grace": "Liurnia Tower Bridge",
       "directions": "Cross from Carian Study Hall after using the inverted statue.",
-      "conditions": "Requires Ranni quest statue; no conventional boss bar.",
+      "conditions": "Progress Ranni's quest until the Carian Inverted Statue is obtained; invert the Study Hall to reach the bridge. This optional guard can be bypassed.",
       "combat": "Rapier chains, black flame and rolling attack.",
       "strategy": "Use width of bridge to evade the roll, avoid falling, and punish the final thrust. Sleep may create openings.",
       "rewards": "Godskin Noble set.",
@@ -5413,7 +5420,10 @@
       "sources": [
         "https://www.reddit.com/r/Eldenring/comments/u7r3gs/all_bosses_checklist_updated_and_correct_165/",
         "https://game-checklists.com/elden-ring/all-bosses/",
-        "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/"
+        "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
+        "https://eldenring.wiki.gg/wiki/Godskin_Noble",
+        "https://eip.gg/elden-ring/guides/carian-study-hall-divine-tower-of-limgrave-walkthrough/",
+        "https://www.gamerguides.com/elden-ring/database/armors/armor-sets/godskin-noble-set"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -5423,8 +5433,7 @@
         "statusThresholds": null
       },
       "unresolved": [
-        "Confirm unique encounter classification, precise route and patch-specific rewards.",
-        "Combat stats, summon/parry eligibility and exact geography not yet verified."
+        "Exact defeat flag, respawn observation, current combat stats and map position still pending; retain extended classification."
       ]
     },
     {
