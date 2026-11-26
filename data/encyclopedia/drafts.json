@@ -987,12 +987,15 @@
       "directions": "Reach Back Gate via the upper Storehouse and descend to the open field.",
       "conditions": "Optional remembrance boss; requires Back Gate route.",
       "combat": "Mounted boar charges, lance strikes and gravity attacks.",
-      "strategy": "Time the charge dodge late and move across its path rather than retreating. Punish the boar's recovery and disengage before gravity eruptions.",
-      "rewards": "Remembrance of the Wild Boar Rider.",
+      "strategy": "Time the charge dodge late and move across its path rather than retreating. Punish the boar's recovery and disengage before gravity eruptions. Holy damage has corroborated negative negation; heavy attacks can build a stance break. Do not rely on parries.",
+      "rewards": "Remembrance of the Wild Boar Rider; 230,000 runes (reported NG).",
       "preparation": "Level 140–170; high Scadutree Blessing.",
       "sources": [
         "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
-        "https://eldenring.redmaw.dev/sheets/dlc-walkthrough"
+        "https://eldenring.redmaw.dev/sheets/dlc-walkthrough",
+        "https://tarnished.app/enemies/commander-gaius",
+        "https://www.gamerguides.com/elden-ring-shadow-of-the-erdtree/database/bosses/legend/commander-gaius",
+        "https://timesaver.gg/blog/how-to-beat-commander-gaius-elden-ring"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -1002,8 +1005,7 @@
         "statusThresholds": null
       },
       "unresolved": [
-        "Exact NG numerical combat data and rune reward require independent patch-specific verification.",
-        "Confirm grace, entrance, summon and critical eligibility before publication."
+        "Scoped published numerical research is recorded separately; exact regulation, full combat tables and calibrated map position remain unqualified."
       ]
     },
     {
@@ -3716,12 +3718,15 @@
       "conditions": "Optional progression toward the Haligtree; two summoned knights at start.",
       "combat": "Summoned Banished Knights, lightning prosthetic kicks, frost storms.",
       "strategy": "Eliminate the dual-sword knight early and then the shield knight; a Bewitching Branch can help. Move out of frost storms and punish the lightning kick after it lands.",
-      "rewards": "Veteran's Prosthesis; access to Haligtree Secret Medallion (Left) beyond arena.",
+      "rewards": "Veteran's Prosthesis; 90,000 runes. Haligtree Secret Medallion (Left) is a separate pickup beyond the arena.",
       "preparation": "Level 95–120; frost and lightning defense.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/guide/mountaintops-of-the-giants/bosses/",
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
-        "https://eldenring.redmaw.dev/sheets/bosses"
+        "https://eldenring.redmaw.dev/sheets/bosses",
+        "https://tarnished.app/enemies/commander-niall",
+        "https://lorearmory.com/eldenring/bosses/",
+        "https://tarnishedsaga.com/bosses/commander-niall/"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -3731,8 +3736,7 @@
         "statusThresholds": null
       },
       "unresolved": [
-        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
-        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+        "Scoped published numerical research is recorded separately; exact regulation, full combat tables and calibrated map position remain unqualified."
       ]
     },
     {
@@ -4557,12 +4561,16 @@
       "conditions": "Ranni route access; dark moon ring needed to pass the seal beyond.",
       "combat": "Cosmic laser, gravity waves, tail strikes and teleport grab.",
       "strategy": "Dodge the initial beam on release; aim at the head after a slam. Sprint out of gravity eruptions and locate it immediately after teleporting.",
-      "rewards": "Remembrance of the Naturalborn.",
+      "rewards": "Remembrance of the Naturalborn; 80,000 runes (reported NG).",
       "preparation": "Level 80–105; magic defense.",
       "sources": [
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
         "https://eldenring.redmaw.dev/sheets/bosses",
-        "https://www.eldenringwiki.cc/locations/underground-rivers/"
+        "https://www.eldenringwiki.cc/locations/underground-rivers/",
+        "https://www.pureeldenring.com/npcs/astel-naturalborn-of-the-void-boss-lake-of-rot",
+        "https://almanauts.com/eldenring/bosses/",
+        "https://tarnished.app/enemies/astel--naturalborn-of-the-void",
+        "https://eldenring.fandom.com/wiki/Astel%2C_Naturalborn_of_the_Void"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -4572,8 +4580,7 @@
         "statusThresholds": null
       },
       "unresolved": [
-        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
-        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+        "Scoped published numerical research is recorded separately; exact regulation, full combat tables and calibrated map position remain unqualified."
       ]
     },
     {
@@ -4865,16 +4872,20 @@
     {
       "id": "er:d-metyr",
       "grace": "Cathedral of Manus Metyr",
-      "directions": "Follow Count Ymir's finger-ruin quest; ring the required bells, then use the cathedral's hidden descent to the final ruin.",
+      "directions": "Advance Ymir's quest through the two external finger ruins, descend below his throne, defeat Anna and ring the final bell.",
       "conditions": "Quest-dependent remembrance.",
       "combat": "Finger slams, laser-like attacks, summons and gravity field.",
       "strategy": "Stay near its front flank for controlled openings; run out of broad gravity zones and remove summoned finger enemies if they obstruct you. Avoid committing during sweeping beams.",
-      "rewards": "Remembrance of the Mother of Fingers.",
+      "rewards": "Remembrance of the Mother of Fingers; 420,000 runes (reported NG).",
       "preparation": "Level 150–175; high blessing.",
       "sources": [
         "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
         "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
-        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/"
+        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/",
+        "https://www.gamerguides.com/elden-ring-shadow-of-the-erdtree/database/bosses/legend/metyr-mother-of-fingers",
+        "https://tarnishedsaga.com/bosses/metyr-mother-of-fingers/",
+        "https://eldenring.fandom.com/wiki/Metyr%2C_Mother_of_Fingers",
+        "https://eldenring.wiki.gg/wiki/Metyr%2C_Mother_of_Fingers"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -4884,8 +4895,7 @@
         "statusThresholds": null
       },
       "unresolved": [
-        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
-        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+        "Scoped published numerical research is recorded separately; exact regulation, full combat tables and calibrated map position remain unqualified."
       ]
     },
     {
@@ -5109,13 +5119,17 @@
       "directions": "Descend the Stone Coffin Fissure after the seal lifts, then drop from the final cliff to the arena.",
       "conditions": "Optional remembrance; access depends on DLC world progression.",
       "combat": "Mounted cleaver charges, separated horse attacks and ghostflame waves.",
-      "strategy": "Dodge the cleaver after it commits and track the horse during separated attacks. Jump suitable ground flames and punish only after the two reconnect.",
-      "rewards": "Remembrance of Putrescence.",
+      "strategy": "Dodge the cleaver after it commits and track the horse during separated attacks. Jump suitable ground flames and punish only after the two reconnect. Holy damage is favored over slash, and poisoning, bleeding or freezing this boss is reported ineffective.",
+      "rewards": "Remembrance of Putrescence; 220,000 runes (reported NG).",
       "preparation": "Level 140–170; high blessing and holy damage.",
       "sources": [
         "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
         "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
-        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/"
+        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/",
+        "https://www.gamerguides.com/elden-ring-shadow-of-the-erdtree/database/bosses/legend/putrescent-knight",
+        "https://lorearmory.com/eldenring/bosses/",
+        "https://eldenringpoisewiki.fun/",
+        "https://tarnishedsaga.com/bosses/putrescent-knight/"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -5125,8 +5139,7 @@
         "statusThresholds": null
       },
       "unresolved": [
-        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
-        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+        "Scoped published numerical research is recorded separately; exact regulation, full combat tables and calibrated map position remain unqualified."
       ]
     },
     {
@@ -7373,6 +7386,59 @@
       },
       "unresolved": [
         "Exact current-version defeat flag, combat data and calibrated marker unqualified."
+      ]
+    },
+    {
+      "id": "er:d-church-tree-spirit-mantle",
+      "grace": "Sunken Chapel",
+      "directions": "After draining the district, leave Sunken Chapel and cross toward the large tree in the courtyard. The spirit emerges at its base.",
+      "conditions": "Optional enemy after the Church District is drained; distinct from Scadutree Avatar.",
+      "combat": "Long body lunges, sweeps and explosive area attacks.",
+      "strategy": "Keep space away from walls and other enemies, evade the committed lunge and punish the recovery. Retreat from the glowing area attack.",
+      "rewards": "Mantle of Thorns; 22,218 runes reported by EIP Gaming.",
+      "preparation": "Upgrade weapons and Scadutree Blessing; favor safe positioning in the ruins.",
+      "sources": [
+        "https://eldenring.fandom.com/wiki/Shadow_Tree_Spirit",
+        "https://eip.gg/elden-ring/guides/shadow-keep/",
+        "https://tarnishedsaga.com/locations/shadow-keep-church-district/",
+        "https://vulkk.com/2024/07/12/shadow-of-the-erdtree-shadow-keep-all-unique-item-locations/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact defeat flag, patch-specific combat statistics and calibrated position pending."
+      ]
+    },
+    {
+      "id": "er:d-church-tree-spirit-iris",
+      "grace": "Sunken Chapel",
+      "directions": "From the large-tree courtyard, take the stairs east, pass the elevator shortcut and follow the street northwest beyond the crab building. Approach the intersection to trigger the second spirit.",
+      "conditions": "Optional enemy after the Church District is drained; distinct from Scadutree Avatar.",
+      "combat": "Long body lunges, sweeps and explosive area attacks.",
+      "strategy": "Keep space away from walls and other enemies, evade the committed lunge and punish the recovery. Retreat from the glowing area attack.",
+      "rewards": "Iris of Occultation; 22,218 runes reported by EIP Gaming.",
+      "preparation": "Upgrade weapons and Scadutree Blessing; favor safe positioning in the ruins.",
+      "sources": [
+        "https://eldenring.fandom.com/wiki/Shadow_Tree_Spirit",
+        "https://eip.gg/elden-ring/guides/shadow-keep/",
+        "https://tarnishedsaga.com/locations/shadow-keep-church-district/",
+        "https://eldenring.wiki.gg/wiki/Iris_of_Occultation",
+        "https://www.reddit.com/r/Eldenring/comments/1dnr4z9/dlc_tree_spirit_in_shadow_keep_church_district/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact defeat flag, patch-specific combat statistics and calibrated position pending."
       ]
     }
   ]

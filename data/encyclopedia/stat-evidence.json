@@ -345,6 +345,94 @@
         "https://www.windowscentral.com/gaming/elden-ring-dlc-scadutree-avatar-location-and-how-to-beat-in-shadow-of-the-erdtree"
       ],
       "note": "First-phase HP and stance supported by Eldenpedia and Lore Armory range. Gamer Guides reports 12403 HP without phase label, not used as phase-one or total health. Later bars and critical carryover require verification; no exact regulation claim."
+    },
+    {
+      "id": "er:b-niall",
+      "scope": "Castle Sol, solo NG, commander only; summoned knights excluded",
+      "health": 15541,
+      "stance": 90,
+      "runes": 90000,
+      "negations": {
+        "standard": 10,
+        "slash": 35,
+        "strike": 10,
+        "pierce": 0,
+        "magic": 20,
+        "fire": 20,
+        "lightning": 20,
+        "holy": 20
+      },
+      "sources": [
+        "https://tarnished.app/enemies/commander-niall",
+        "https://lorearmory.com/eldenring/bosses/",
+        "https://tarnishedsaga.com/bosses/commander-niall/"
+      ],
+      "note": "Full solo table and indexed second database agree health/stance and reward; exact regulation unverified. Do not use Commander O'Neil stats."
+    },
+    {
+      "id": "er:b-naturalborn",
+      "scope": "Lake of Rot boss variant, solo NG reported; excludes minor Astel enemies and Stars of Darkness",
+      "health": 11170,
+      "stance": 120,
+      "runes": 80000,
+      "sources": [
+        "https://www.pureeldenring.com/npcs/astel-naturalborn-of-the-void-boss-lake-of-rot",
+        "https://almanauts.com/eldenring/bosses/",
+        "https://tarnished.app/enemies/astel--naturalborn-of-the-void",
+        "https://eldenring.fandom.com/wiki/Astel%2C_Naturalborn_of_the_Void"
+      ],
+      "note": "Named boss HP corroborated in variant-specific Pure Elden Ring and Almanauts. Tarnished.app default table instead shows 1642 HP/20 stance for an unspecified variant; its description reports boss HP and stance. Pure Elden Ring labels poise 40, not assumed equivalent to stance 120. No negation or threshold promotion."
+    },
+    {
+      "id": "er:d-gaius",
+      "scope": "Scaduview, solo NG, shared bar",
+      "health": 33871,
+      "stance": 100,
+      "runes": 230000,
+      "negations": {
+        "standard": 20,
+        "slash": 40,
+        "strike": 20,
+        "pierce": 20,
+        "magic": 20,
+        "fire": 0,
+        "lightning": 0,
+        "holy": -20
+      },
+      "sources": [
+        "https://tarnished.app/enemies/commander-gaius",
+        "https://www.gamerguides.com/elden-ring-shadow-of-the-erdtree/database/bosses/legend/commander-gaius",
+        "https://timesaver.gg/blog/how-to-beat-commander-gaius-elden-ring"
+      ],
+      "note": "Two full tables agree HP, rune reward and all eight negations. Third source reports v1.17 but cites Fextralife; no independent regulation verification. Status buildup differs in sources; omitted."
+    },
+    {
+      "id": "er:d-metyr",
+      "scope": "Finger Birthing Grounds, solo NG reported, shared bar",
+      "health": 43296,
+      "stance": 120,
+      "runes": 420000,
+      "sources": [
+        "https://www.gamerguides.com/elden-ring-shadow-of-the-erdtree/database/bosses/legend/metyr-mother-of-fingers",
+        "https://tarnishedsaga.com/bosses/metyr-mother-of-fingers/",
+        "https://eldenring.fandom.com/wiki/Metyr%2C_Mother_of_Fingers",
+        "https://eldenring.wiki.gg/wiki/Metyr%2C_Mother_of_Fingers"
+      ],
+      "note": "Two full pages agree health and reward; indexed wiki snippets agree stance 120. Wiki live pages inaccessible; exact regulation and other stats unqualified."
+    },
+    {
+      "id": "er:d-putrescent",
+      "scope": "Stone Coffin Fissure, solo NG reported, rider encounter",
+      "health": 20612,
+      "stance": 100,
+      "runes": 220000,
+      "sources": [
+        "https://www.gamerguides.com/elden-ring-shadow-of-the-erdtree/database/bosses/legend/putrescent-knight",
+        "https://lorearmory.com/eldenring/bosses/",
+        "https://eldenringpoisewiki.fun/",
+        "https://tarnishedsaga.com/bosses/putrescent-knight/"
+      ],
+      "note": "Full Gamer Guides HP/reward plus indexed Lore Armory HP/stance and Poise Wiki 100. No separate horse ID, no exact regulation qualification. Published Holy -20, Slash 40 corroborated; remaining negations omitted pending additional evidence."
     }
   ],
   "limitations": [

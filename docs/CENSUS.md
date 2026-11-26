@@ -50,3 +50,6 @@ Nine distinct provisional extended named encounters added with source-backed gui
 
 ## Session 23
 Five provisional extended additions: Madding Hand and four Shadow Keep summon-sign outcomes. Two exclusive groups, cross-choice blockers; final Leda and Rauh IDs retained. Logur held. Optional Tarnished Pack two invaders documented, no admission. Scadutree Avatar first-bar research added. 284 total, 207 primary/77 extended. No geography admission.
+
+## Session 24
+Two distinct non-respawning Shadow Keep Church District spirits provisionally admitted with distinct reward and location evidence. Logur full Fandom page confirms identity but lacks explicit non-respawn. Five individual numerical research records: Niall, Astel Naturalborn (boss variant), Gaius, Metyr, Putrescent Knight. No patch qualification or production admission. 286 IDs, 207 primary/79 extended; no geography change. Browser update lifecycle failed on session23; out-of-scope observer isolates natural activation before reopening, no skipWaiting or relaxed assertion.

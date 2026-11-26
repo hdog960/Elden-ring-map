@@ -1,5 +1,5 @@
 {
-  "version": "session23-20261126-a",
+  "version": "session24-20261126-a",
   "releaseReady": false,
   "assets": [
     {
@@ -27,6 +27,10 @@
       "gitBlob": "9d1eabdaa445638fcf083fc1d36a06d4a1988f12"
     },
     {
+      "path": "data/census/church-spirit-review.json",
+      "gitBlob": "8e71525427d7ab42181817dd70e2e803880af151"
+    },
+    {
       "path": "data/census/crosswalk-steam.json",
       "gitBlob": "89797513392890d0a7e6394467ee0f67a2d35aab"
     },
@@ -52,7 +56,7 @@
     },
     {
       "path": "data/census/intake.json",
-      "gitBlob": "c9fab3db0243ecaf9d08ee3b191285f27f47a33f"
+      "gitBlob": "7a7bd944ff0812c46a1a030feba76d338e27f029"
     },
     {
       "path": "data/census/named-encounter-review.json",
@@ -68,15 +72,15 @@
     },
     {
       "path": "data/census/stable-ids.json",
-      "gitBlob": "ce40c1e8cfe24d6690d4cdc5b524330cbc892bf2"
+      "gitBlob": "ec8d5329230260307ca268d3a2f4838338de0aab"
     },
     {
       "path": "data/encyclopedia/drafts.json",
-      "gitBlob": "e156e2be760472c916a5bb6545e15d698f196f29"
+      "gitBlob": "4a744adfeefe3ef45025d20c2d1584f3f0f9b39d"
     },
     {
       "path": "data/encyclopedia/stat-evidence.json",
-      "gitBlob": "90f4848244d52ed69a797bd65200248d082c2f0a"
+      "gitBlob": "6fd6927ba5c13cb17441b4776f35ebcd5c3c9075"
     },
     {
       "path": "data/geography/compass-research.json",

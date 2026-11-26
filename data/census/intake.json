@@ -130,7 +130,16 @@
     "d-quest-ansbach-gold-s23-1": "https://tarnishedsaga.com/quests/ledas-questline/",
     "d-quest-ansbach-gold-s23-2": "https://www.neoseeker.com/elden-ring-shadow-of-the-erdtree/NPCs/Needle_Knight_Leda",
     "d-quest-ansbach-gold-s23-3": "https://eldenring.wiki.gg/wiki/Ansbach%27s_Longbow",
-    "d-quest-ansbach-gold-s23-4": "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-sir-ansbach-leda-freyja-questline-walkthrough/"
+    "d-quest-ansbach-gold-s23-4": "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-sir-ansbach-leda-freyja-questline-walkthrough/",
+    "d-church-tree-spirit-mantle-s24-1": "https://eldenring.fandom.com/wiki/Shadow_Tree_Spirit",
+    "d-church-tree-spirit-mantle-s24-2": "https://eip.gg/elden-ring/guides/shadow-keep/",
+    "d-church-tree-spirit-mantle-s24-3": "https://tarnishedsaga.com/locations/shadow-keep-church-district/",
+    "d-church-tree-spirit-mantle-s24-4": "https://vulkk.com/2024/07/12/shadow-of-the-erdtree-shadow-keep-all-unique-item-locations/",
+    "d-church-tree-spirit-iris-s24-1": "https://eldenring.fandom.com/wiki/Shadow_Tree_Spirit",
+    "d-church-tree-spirit-iris-s24-2": "https://eip.gg/elden-ring/guides/shadow-keep/",
+    "d-church-tree-spirit-iris-s24-3": "https://tarnishedsaga.com/locations/shadow-keep-church-district/",
+    "d-church-tree-spirit-iris-s24-4": "https://eldenring.wiki.gg/wiki/Iris_of_Occultation",
+    "d-church-tree-spirit-iris-s24-5": "https://www.reddit.com/r/Eldenring/comments/1dnr4z9/dlc_tree_spirit_in_shadow_keep_church_district/"
   },
   "rows": [
     {
@@ -4712,6 +4721,43 @@
       "blockedBy": [
         "er:d-quest-hornsent-gold"
       ]
+    },
+    {
+      "id": "er:d-church-tree-spirit-mantle",
+      "game": "dlc",
+      "region": "Shadow Keep",
+      "name": "Shadow Tree Spirit",
+      "location": "Drained Church District, circular courtyard with large tree",
+      "layerHint": "shadow",
+      "hunt": "extended",
+      "category": "unique-elite",
+      "review": "classification-review",
+      "evidence": [
+        "d-church-tree-spirit-mantle-s24-1",
+        "d-church-tree-spirit-mantle-s24-2",
+        "d-church-tree-spirit-mantle-s24-3",
+        "d-church-tree-spirit-mantle-s24-4"
+      ],
+      "decision": "Family source explicitly identifies two non-respawning Church District spirits; separate walkthrough distinguishes this courtyard enemy and reward. Provisional extended admission only."
+    },
+    {
+      "id": "er:d-church-tree-spirit-iris",
+      "game": "dlc",
+      "region": "Shadow Keep",
+      "name": "Shadow Tree Spirit",
+      "location": "Drained Church District, northern street beyond crab building",
+      "layerHint": "shadow",
+      "hunt": "extended",
+      "category": "unique-elite",
+      "review": "classification-review",
+      "evidence": [
+        "d-church-tree-spirit-iris-s24-1",
+        "d-church-tree-spirit-iris-s24-2",
+        "d-church-tree-spirit-iris-s24-3",
+        "d-church-tree-spirit-iris-s24-4",
+        "d-church-tree-spirit-iris-s24-5"
+      ],
+      "decision": "Distinct second non-respawning spirit; player reports of automatic defeat/iris reward are not proof of a manually fought encounter. Exact event flag pending. Provisional extended admission only."
     }
   ]
 }
