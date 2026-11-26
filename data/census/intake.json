@@ -7,7 +7,24 @@
     "baseCommunity": "https://www.reddit.com/r/Eldenring/comments/u7r3gs/all_bosses_checklist_updated_and_correct_165/",
     "dlcCommunity": "https://www.reddit.com/r/Eldenring/comments/1dn09en/list_of_every_true_boss_in_shadow_of_the_erdtree/",
     "pcg": "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
-    "polygon": "https://www.polygon.com/elden-ring-shadow-erdtree-guide/24180254/all-dlc-boss-locations-bosses-in-order"
+    "polygon": "https://www.polygon.com/elden-ring-shadow-erdtree-guide/24180254/all-dlc-boss-locations-bosses-in-order",
+    "steamVideoGuide": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+    "caelidGuide": "https://www.gamerguides.com/elden-ring/guide/caelid/bosses/all-bosses-and-elite-enemies-in-caelid",
+    "onyxWiki": "https://eldenring.wiki.gg/wiki/Onyx_Lord",
+    "marinerGuide": "https://www.neoseeker.com/elden-ring-shadow-of-the-erdtree/Optional_Bosses/Tibia_Mariner",
+    "wyrmGuide": "https://www.neoseeker.com/elden-ring-shadow-of-the-erdtree/Optional_Bosses/Magma_Wyrm",
+    "queelignWiki": "https://eldenring.wiki.gg/wiki/Fire_Knight_Queelign_(NPC)",
+    "queelignGuide": "https://eldenring.exputer.com/quests/fire-knight-queelign-s-quest",
+    "fragments": "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-all-scadutree-fragment-locations/",
+    "hippoGuide": "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+    "hippoWalk": "https://eldenring.redmaw.dev/sheets/dlc-walkthrough",
+    "invaderGuide": "https://video-game-guide-walkthrough.supersoluce.com/solution/elden-ring-guide-walkthrough/summons-and-invasions/invasions/",
+    "invaderGuide2": "https://segmentnext.com/elden-ring/mechanics/npc-invader",
+    "anastasiaWiki": "https://eldenring.wiki.gg/wiki/Anastasia%2C_Tarnished-Eater",
+    "invaderVideo": "https://www.youtube.com/watch?v=nTVxkcRnRTQ",
+    "furnaceWiki": "https://eldenring.wiki.gg/wiki/Furnace_Golem",
+    "furnaceGuide": "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-all-furnace-golem-locations-walking-fire-giants/",
+    "furnaceUnte": "https://eldenring.wiki.gg/wiki/Ruins_of_Unte"
   },
   "rows": [
     {
@@ -20,9 +37,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate",
+      "review": "cross-source-candidate",
       "decision": "Opening defeat is optional; later return via Four Belfries permits completion."
     },
     {
@@ -36,7 +54,8 @@
       "layerHint": "surface",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -51,7 +70,8 @@
       "layerHint": "surface",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -66,7 +86,8 @@
       "layerHint": "surface",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -81,7 +102,8 @@
       "layerHint": "surface",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -95,9 +117,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-fringefolk-spirit",
@@ -110,7 +133,8 @@
       "layerHint": "surface",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -125,7 +149,8 @@
       "layerHint": "surface",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -140,7 +165,8 @@
       "layerHint": "surface",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -154,9 +180,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate",
+      "review": "cross-source-candidate",
       "decision": "Surrender resolves initial boss encounter; killing merchant later is not required."
     },
     {
@@ -169,9 +196,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-waypoint-pumpkin",
@@ -183,9 +211,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-darriwil",
@@ -197,9 +226,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-agheel-cavalry",
@@ -211,9 +241,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-summonwater-mariner",
@@ -225,9 +256,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-stormhill-crucible",
@@ -239,9 +271,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-warmaster-hunter",
@@ -253,9 +286,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-stormhill-deathbird",
@@ -267,9 +301,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-deathtouched-assassin",
@@ -281,9 +316,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-highroad-golem",
@@ -295,9 +331,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-margit",
@@ -309,9 +346,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-godrick",
@@ -323,9 +361,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-morne-leonine",
@@ -337,9 +376,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-weeping-zamor",
@@ -351,9 +391,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-tombsward-shade",
@@ -365,9 +406,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-tombsward-miranda",
@@ -379,9 +421,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-weeping-deathbird",
@@ -393,9 +436,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-weeping-avatar",
@@ -407,9 +451,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-impaler-watchdog",
@@ -421,9 +466,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-morne-cavalry",
@@ -435,9 +481,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-earthbore-runebear",
@@ -449,9 +496,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-morne-scaly",
@@ -463,9 +511,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-adan",
@@ -477,9 +526,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-alecto",
@@ -491,9 +541,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-vows-hunter",
@@ -505,9 +556,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-blackknife-assassin",
@@ -520,7 +572,8 @@
       "layerHint": "surface",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -535,7 +588,8 @@
       "layerHint": "surface",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -550,7 +604,8 @@
       "layerHint": "surface",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -565,7 +620,8 @@
       "layerHint": "surface",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -579,9 +635,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-academy-crystalians",
@@ -593,9 +650,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-raya-crystalian",
@@ -607,9 +665,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-liurnia-deathbird",
@@ -622,7 +681,8 @@
       "layerHint": "surface",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -636,9 +696,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-east-liurnia-avatar",
@@ -651,7 +712,8 @@
       "layerHint": "surface",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -666,7 +728,8 @@
       "layerHint": "surface",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -680,9 +743,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-adula",
@@ -695,7 +759,8 @@
       "layerHint": "surface",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate",
       "alternateLocations": [
@@ -714,7 +779,8 @@
       "layerHint": "surface",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -729,7 +795,8 @@
       "layerHint": "surface",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -744,7 +811,8 @@
       "layerHint": "surface",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -759,7 +827,8 @@
       "layerHint": "surface",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -774,9 +843,14 @@
       "layerHint": "surface",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide",
+        "onyxWiki"
       ],
-      "review": "cross-source-candidate"
+      "review": "cross-source-candidate",
+      "aliases": [
+        "Alabaster Lord (version 1.00)"
+      ]
     },
     {
       "id": "er:b-kingsrealm-revenant",
@@ -789,7 +863,8 @@
       "layerHint": "surface",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -803,9 +878,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-liurnia-mariner",
@@ -818,7 +894,8 @@
       "layerHint": "surface",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -833,7 +910,8 @@
       "layerHint": "surface",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -848,7 +926,8 @@
       "layerHint": "surface",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -863,7 +942,8 @@
       "layerHint": "surface",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -878,7 +958,8 @@
       "layerHint": "surface",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -892,9 +973,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-redmane-duo",
@@ -906,9 +988,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate",
+      "review": "cross-source-candidate",
       "decision": "Festival state can suppress the plaza fight; check restoration after Radahn."
     },
     {
@@ -921,9 +1004,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-abandoned-cleanrots",
@@ -935,9 +1019,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-oneil",
@@ -949,9 +1034,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-caelid-deathrite",
@@ -963,9 +1049,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-ekzykes",
@@ -977,9 +1064,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-minorerdtree-watchdogs",
@@ -991,9 +1079,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-sellia-beast",
@@ -1005,9 +1094,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-gaol-duelist",
@@ -1019,9 +1109,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-gael-wyrm",
@@ -1033,9 +1124,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-caelid-cavalry",
@@ -1047,9 +1139,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-nox-duo",
@@ -1061,23 +1154,31 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide",
+        "caelidGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate",
+      "aliases": [
+        "Nox Swordstress & Nox Priest"
+      ]
     },
     {
       "id": "er:b-caelid-avatar",
       "game": "base",
       "region": "Caelid",
-      "name": "Putrid Avatar",
+      "name": "Erdtree Avatar",
       "location": "Western Caelid Minor Erdtree",
       "category": "field",
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide",
+        "caelidGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate",
+      "decision": "Northwestern Caelid avatar is not the Dragonbarrow Putrid Avatar. Preserve legacy ID."
     },
     {
       "id": "er:b-sellia-crystalians",
@@ -1089,9 +1190,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-wardead-spirit",
@@ -1103,9 +1205,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-caelem-pumpkins",
@@ -1117,9 +1220,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-dragonbarrow-beastmen",
@@ -1131,9 +1235,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-dragonbarrow-hunter",
@@ -1145,9 +1250,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-sanctum-kindred",
@@ -1159,9 +1265,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-greyll",
@@ -1173,9 +1280,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-tower-apostle",
@@ -1187,9 +1295,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-dragonbarrow-cavalry",
@@ -1201,9 +1310,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-dragonbarrow-avatar",
@@ -1215,9 +1325,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-sellia-battlemage",
@@ -1229,9 +1340,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-lansseax",
@@ -1244,7 +1356,8 @@
       "layerHint": "surface",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate",
       "alternateLocations": [
@@ -1262,9 +1375,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-sainted-zamor",
@@ -1277,7 +1391,8 @@
       "layerHint": "surface",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -1292,7 +1407,8 @@
       "layerHint": "surface",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -1307,7 +1423,8 @@
       "layerHint": "surface",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -1321,9 +1438,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-altus-beast",
@@ -1336,7 +1454,8 @@
       "layerHint": "surface",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -1351,7 +1470,8 @@
       "layerHint": "surface",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -1366,7 +1486,8 @@
       "layerHint": "surface",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -1380,9 +1501,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-sages-assassin",
@@ -1394,9 +1516,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-perfumer-grotto-duo",
@@ -1409,7 +1532,8 @@
       "layerHint": "surface",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -1423,9 +1547,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-sanguine",
@@ -1438,7 +1563,8 @@
       "layerHint": "surface",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -1452,9 +1578,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-wyndham-mariner",
@@ -1466,9 +1593,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-wyndham-watchdog",
@@ -1480,9 +1608,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-wormface",
@@ -1495,7 +1624,8 @@
       "layerHint": "surface",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -1509,9 +1639,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-altus-sentinels",
@@ -1523,9 +1654,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-capital-draconic",
@@ -1538,7 +1670,8 @@
       "layerHint": "surface",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -1553,7 +1686,8 @@
       "layerHint": "surface",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -1567,9 +1701,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-ordovis-duo",
@@ -1582,7 +1717,8 @@
       "layerHint": "surface",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -1597,7 +1733,8 @@
       "layerHint": "surface",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -1611,9 +1748,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-maggie",
@@ -1626,7 +1764,8 @@
       "layerHint": "surface",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -1641,7 +1780,8 @@
       "layerHint": "surface",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -1656,7 +1796,8 @@
       "layerHint": "surface",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -1671,7 +1812,8 @@
       "layerHint": "surface",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -1686,7 +1828,8 @@
       "layerHint": "surface",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -1701,7 +1844,8 @@
       "layerHint": "surface",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -1716,7 +1860,8 @@
       "layerHint": "surface",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -1730,9 +1875,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-eiglay-noble",
@@ -1745,7 +1891,8 @@
       "layerHint": "surface",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -1760,7 +1907,8 @@
       "layerHint": "surface",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate",
       "participants": [
@@ -1779,7 +1927,8 @@
       "layerHint": "surface",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -1794,7 +1943,8 @@
       "layerHint": "surface",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -1809,7 +1959,8 @@
       "layerHint": "underground",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -1824,7 +1975,8 @@
       "layerHint": "underground",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -1839,7 +1991,8 @@
       "layerHint": "surface",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -1853,9 +2006,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-forbidden-cavalry",
@@ -1867,9 +2021,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-niall",
@@ -1881,9 +2036,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-fire-giant",
@@ -1895,9 +2051,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-giantgrave-zamor",
@@ -1909,9 +2066,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-borealis",
@@ -1923,9 +2081,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-mountaintops-deathrite",
@@ -1937,9 +2096,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-mountaintops-avatar",
@@ -1951,9 +2111,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate",
+      "review": "cross-source-candidate",
       "decision": "Split bodies are one encounter."
     },
     {
@@ -1966,9 +2127,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate",
+      "review": "cross-source-candidate",
       "participants": [
         "Godskin Apostle",
         "Godskin Noble",
@@ -1986,9 +2148,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-giants-spirit",
@@ -2000,9 +2163,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-stray-mimic",
@@ -2015,7 +2179,8 @@
       "layerHint": "surface",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -2030,7 +2195,8 @@
       "layerHint": "surface",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -2045,7 +2211,8 @@
       "layerHint": "surface",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -2060,7 +2227,8 @@
       "layerHint": "surface",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -2075,7 +2243,8 @@
       "layerHint": "surface",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -2090,7 +2259,8 @@
       "layerHint": "surface",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -2105,7 +2275,8 @@
       "layerHint": "surface",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -2120,7 +2291,8 @@
       "layerHint": "surface",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -2135,7 +2307,8 @@
       "layerHint": "surface",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -2149,9 +2322,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate",
+      "review": "cross-source-candidate",
       "participants": [
         "Malenia, Blade of Miquella",
         "Malenia, Goddess of Rot"
@@ -2167,9 +2341,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-placidusax",
@@ -2181,9 +2356,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-maliketh",
@@ -2195,9 +2371,10 @@
       "hunt": "primary",
       "layerHint": "surface",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate",
+      "review": "cross-source-candidate",
       "participants": [
         "Beast Clergyman",
         "Maliketh, the Black Blade"
@@ -2214,7 +2391,8 @@
       "layerHint": "surface",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -2229,7 +2407,8 @@
       "layerHint": "surface",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate",
       "participants": [
@@ -2248,7 +2427,8 @@
       "layerHint": "surface",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate",
       "participants": [
@@ -2267,9 +2447,10 @@
       "hunt": "primary",
       "layerHint": "underground",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-siofra-dragonkin",
@@ -2281,9 +2462,10 @@
       "hunt": "primary",
       "layerHint": "underground",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-mimic",
@@ -2295,9 +2477,10 @@
       "hunt": "primary",
       "layerHint": "underground",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-regal-ancestor",
@@ -2309,9 +2492,10 @@
       "hunt": "primary",
       "layerHint": "underground",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-valiant-gargoyles",
@@ -2323,9 +2507,10 @@
       "hunt": "primary",
       "layerHint": "underground",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-nokstella-dragonkin",
@@ -2338,7 +2523,8 @@
       "layerHint": "underground",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -2353,7 +2539,8 @@
       "layerHint": "underground",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -2368,7 +2555,8 @@
       "layerHint": "underground",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -2383,7 +2571,8 @@
       "layerHint": "underground",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -2397,9 +2586,10 @@
       "hunt": "primary",
       "layerHint": "underground",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-fortissax",
@@ -2411,9 +2601,10 @@
       "hunt": "primary",
       "layerHint": "underground",
       "evidence": [
-        "forge"
+        "forge",
+        "steamVideoGuide"
       ],
-      "review": "single-source-candidate"
+      "review": "cross-source-candidate"
     },
     {
       "id": "er:b-mohg-blood",
@@ -2426,7 +2617,8 @@
       "layerHint": "underground",
       "evidence": [
         "forge",
-        "checklist"
+        "checklist",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -2441,7 +2633,8 @@
       "layerHint": "shadow",
       "evidence": [
         "forge",
-        "dlcCommunity"
+        "dlcCommunity",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -2456,7 +2649,8 @@
       "layerHint": "shadow",
       "evidence": [
         "forge",
-        "dlcCommunity"
+        "dlcCommunity",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -2471,7 +2665,8 @@
       "layerHint": "shadow",
       "evidence": [
         "forge",
-        "dlcCommunity"
+        "dlcCommunity",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -2486,7 +2681,8 @@
       "layerHint": "shadow",
       "evidence": [
         "forge",
-        "dlcCommunity"
+        "dlcCommunity",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -2501,7 +2697,8 @@
       "layerHint": "shadow",
       "evidence": [
         "forge",
-        "dlcCommunity"
+        "dlcCommunity",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -2516,7 +2713,8 @@
       "layerHint": "shadow",
       "evidence": [
         "forge",
-        "dlcCommunity"
+        "dlcCommunity",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -2531,7 +2729,8 @@
       "layerHint": "shadow",
       "evidence": [
         "forge",
-        "dlcCommunity"
+        "dlcCommunity",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -2546,7 +2745,8 @@
       "layerHint": "shadow",
       "evidence": [
         "forge",
-        "dlcCommunity"
+        "dlcCommunity",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -2561,7 +2761,8 @@
       "layerHint": "shadow",
       "evidence": [
         "forge",
-        "dlcCommunity"
+        "dlcCommunity",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -2576,7 +2777,8 @@
       "layerHint": "shadow",
       "evidence": [
         "forge",
-        "dlcCommunity"
+        "dlcCommunity",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -2591,7 +2793,8 @@
       "layerHint": "shadow",
       "evidence": [
         "forge",
-        "dlcCommunity"
+        "dlcCommunity",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -2606,7 +2809,8 @@
       "layerHint": "shadow",
       "evidence": [
         "forge",
-        "dlcCommunity"
+        "dlcCommunity",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -2621,7 +2825,8 @@
       "layerHint": "shadow",
       "evidence": [
         "checklist",
-        "dlcCommunity"
+        "dlcCommunity",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate",
       "decision": "Community health-bar list and checklist include the duel; Tarnished Forge omits it. Independently check video or game flag."
@@ -2637,7 +2842,8 @@
       "layerHint": "shadow",
       "evidence": [
         "forge",
-        "dlcCommunity"
+        "dlcCommunity",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -2652,7 +2858,8 @@
       "layerHint": "shadow",
       "evidence": [
         "forge",
-        "dlcCommunity"
+        "dlcCommunity",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -2667,7 +2874,8 @@
       "layerHint": "shadow",
       "evidence": [
         "forge",
-        "dlcCommunity"
+        "dlcCommunity",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -2682,7 +2890,8 @@
       "layerHint": "shadow",
       "evidence": [
         "forge",
-        "dlcCommunity"
+        "dlcCommunity",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -2697,7 +2906,8 @@
       "layerHint": "shadow",
       "evidence": [
         "forge",
-        "dlcCommunity"
+        "dlcCommunity",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate",
       "participants": [
@@ -2716,7 +2926,8 @@
       "layerHint": "shadow",
       "evidence": [
         "forge",
-        "dlcCommunity"
+        "dlcCommunity",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -2731,7 +2942,8 @@
       "layerHint": "shadow",
       "evidence": [
         "forge",
-        "dlcCommunity"
+        "dlcCommunity",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate",
       "decision": "Three successive health bars in one continuous encounter."
@@ -2747,7 +2959,8 @@
       "layerHint": "shadow",
       "evidence": [
         "forge",
-        "dlcCommunity"
+        "dlcCommunity",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate",
       "decision": "Distinct independent boss from torch sentinel; exact coordinate and defeat flag pending."
@@ -2763,7 +2976,8 @@
       "layerHint": "shadow",
       "evidence": [
         "forge",
-        "dlcCommunity"
+        "dlcCommunity",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate",
       "decision": "Distinct independent boss from shield sentinel; exact coordinate and defeat flag pending."
@@ -2779,7 +2993,8 @@
       "layerHint": "shadow",
       "evidence": [
         "forge",
-        "dlcCommunity"
+        "dlcCommunity",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -2794,7 +3009,8 @@
       "layerHint": "shadow",
       "evidence": [
         "forge",
-        "dlcCommunity"
+        "dlcCommunity",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -2809,7 +3025,8 @@
       "layerHint": "shadow",
       "evidence": [
         "forge",
-        "dlcCommunity"
+        "dlcCommunity",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -2824,7 +3041,8 @@
       "layerHint": "shadow",
       "evidence": [
         "forge",
-        "dlcCommunity"
+        "dlcCommunity",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -2839,7 +3057,8 @@
       "layerHint": "shadow",
       "evidence": [
         "forge",
-        "dlcCommunity"
+        "dlcCommunity",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -2854,7 +3073,8 @@
       "layerHint": "shadow",
       "evidence": [
         "forge",
-        "dlcCommunity"
+        "dlcCommunity",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -2869,7 +3089,8 @@
       "layerHint": "shadow",
       "evidence": [
         "forge",
-        "dlcCommunity"
+        "dlcCommunity",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -2884,7 +3105,8 @@
       "layerHint": "shadow",
       "evidence": [
         "forge",
-        "dlcCommunity"
+        "dlcCommunity",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -2899,7 +3121,8 @@
       "layerHint": "shadow",
       "evidence": [
         "forge",
-        "dlcCommunity"
+        "dlcCommunity",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -2914,7 +3137,8 @@
       "layerHint": "shadow",
       "evidence": [
         "forge",
-        "dlcCommunity"
+        "dlcCommunity",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -2929,7 +3153,8 @@
       "layerHint": "shadow",
       "evidence": [
         "forge",
-        "dlcCommunity"
+        "dlcCommunity",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -2944,7 +3169,8 @@
       "layerHint": "shadow",
       "evidence": [
         "forge",
-        "dlcCommunity"
+        "dlcCommunity",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -2959,7 +3185,8 @@
       "layerHint": "shadow",
       "evidence": [
         "forge",
-        "dlcCommunity"
+        "dlcCommunity",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -2974,7 +3201,8 @@
       "layerHint": "shadow",
       "evidence": [
         "forge",
-        "dlcCommunity"
+        "dlcCommunity",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -2989,7 +3217,8 @@
       "layerHint": "shadow",
       "evidence": [
         "forge",
-        "dlcCommunity"
+        "dlcCommunity",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -3004,7 +3233,8 @@
       "layerHint": "shadow",
       "evidence": [
         "forge",
-        "dlcCommunity"
+        "dlcCommunity",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -3019,7 +3249,8 @@
       "layerHint": "shadow",
       "evidence": [
         "forge",
-        "dlcCommunity"
+        "dlcCommunity",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate",
       "decision": "Two drakes fighting each other in one encounter, distinct from the first lone drake."
@@ -3035,7 +3266,8 @@
       "layerHint": "shadow",
       "evidence": [
         "forge",
-        "dlcCommunity"
+        "dlcCommunity",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -3050,7 +3282,8 @@
       "layerHint": "shadow",
       "evidence": [
         "forge",
-        "dlcCommunity"
+        "dlcCommunity",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate"
     },
@@ -3065,7 +3298,8 @@
       "layerHint": "shadow",
       "evidence": [
         "forge",
-        "dlcCommunity"
+        "dlcCommunity",
+        "steamVideoGuide"
       ],
       "review": "cross-source-candidate",
       "participants": [
@@ -3195,7 +3429,9 @@
       "category": "unique-challenge",
       "layerHint": "shadow",
       "evidence": [
-        "pcg"
+        "pcg",
+        "furnaceWiki",
+        "furnaceGuide"
       ],
       "review": "classification-review",
       "decision": "Unique furnace encounter."
@@ -3210,7 +3446,9 @@
       "category": "unique-challenge",
       "layerHint": "shadow",
       "evidence": [
-        "pcg"
+        "pcg",
+        "furnaceWiki",
+        "furnaceGuide"
       ],
       "review": "classification-review",
       "decision": "Unique furnace encounter."
@@ -3225,7 +3463,9 @@
       "category": "unique-challenge",
       "layerHint": "shadow",
       "evidence": [
-        "pcg"
+        "pcg",
+        "furnaceWiki",
+        "furnaceGuide"
       ],
       "review": "classification-review",
       "decision": "Unique furnace encounter."
@@ -3240,7 +3480,9 @@
       "category": "unique-challenge",
       "layerHint": "shadow",
       "evidence": [
-        "pcg"
+        "pcg",
+        "furnaceWiki",
+        "furnaceGuide"
       ],
       "review": "classification-review",
       "decision": "Unique furnace encounter."
@@ -3255,7 +3497,9 @@
       "category": "unique-challenge",
       "layerHint": "shadow",
       "evidence": [
-        "pcg"
+        "pcg",
+        "furnaceWiki",
+        "furnaceGuide"
       ],
       "review": "classification-review",
       "decision": "Unique furnace encounter."
@@ -3270,10 +3514,12 @@
       "category": "unique-challenge",
       "layerHint": "shadow",
       "evidence": [
-        "pcg"
+        "pcg",
+        "furnaceWiki",
+        "furnaceGuide"
       ],
       "review": "classification-review",
-      "decision": "Unique furnace encounter."
+      "decision": "Active golem in Castle Watering Hole, Oil-Soaked Tear; distinct from Ruins of Unte dormant golem."
     },
     {
       "id": "er:d-furnace-unte",
@@ -3285,10 +3531,13 @@
       "category": "unique-challenge",
       "layerHint": "shadow",
       "evidence": [
-        "pcg"
+        "pcg",
+        "furnaceWiki",
+        "furnaceGuide",
+        "furnaceUnte"
       ],
       "review": "classification-review",
-      "decision": "Unique furnace encounter."
+      "decision": "Dormant entrance-blocking golem, Bloodsucking Cracked Tear; activate with a Hefty Furnace Pot."
     },
     {
       "id": "er:d-furnace-charo",
@@ -3300,10 +3549,298 @@
       "category": "unique-challenge",
       "layerHint": "shadow",
       "evidence": [
-        "pcg"
+        "pcg",
+        "furnaceWiki",
+        "furnaceGuide"
       ],
       "review": "classification-review",
       "decision": "Unique furnace encounter."
+    },
+    {
+      "id": "er:d-charo-mariner",
+      "game": "dlc",
+      "region": "Charo's Hidden Grave",
+      "name": "Tibia Mariner",
+      "location": "River in southeastern Charo's Hidden Grave",
+      "category": "unique-challenge",
+      "hunt": "extended",
+      "layerHint": "shadow",
+      "evidence": [
+        "marinerGuide"
+      ],
+      "review": "classification-review",
+      "decision": "Unique miniboss without conventional boss bar."
+    },
+    {
+      "id": "er:d-dragons-pit-wyrm",
+      "game": "dlc",
+      "region": "Gravesite Plain",
+      "name": "Magma Wyrm",
+      "location": "Optional upper chamber of Dragon's Pit",
+      "category": "unique-challenge",
+      "hunt": "extended",
+      "layerHint": "shadow",
+      "evidence": [
+        "wyrmGuide"
+      ],
+      "review": "classification-review",
+      "decision": "Separate elite from Ancient Dragon-Man; no boss bar."
+    },
+    {
+      "id": "er:d-queelign-belurat",
+      "game": "dlc",
+      "region": "Belurat",
+      "name": "Fire Knight Queelign",
+      "location": "Belurat, Tower Settlement",
+      "category": "unique-challenge",
+      "hunt": "extended",
+      "layerHint": "shadow",
+      "evidence": [
+        "queelignWiki",
+        "queelignGuide"
+      ],
+      "review": "classification-review",
+      "decision": "Independent first location for invasion sequence."
+    },
+    {
+      "id": "er:d-queelign-church",
+      "game": "dlc",
+      "region": "Scadu Altus",
+      "name": "Fire Knight Queelign",
+      "location": "Church of the Crusade",
+      "category": "unique-challenge",
+      "hunt": "extended",
+      "layerHint": "shadow",
+      "evidence": [
+        "queelignWiki",
+        "queelignGuide"
+      ],
+      "review": "classification-review",
+      "decision": "Independent second location for invasion sequence; reward depends on order."
+    },
+    {
+      "id": "er:d-hippo-charo",
+      "game": "dlc",
+      "region": "Charo's Hidden Grave",
+      "name": "Hippopotamus",
+      "location": "Lake west of Charo's Hidden Grave grace",
+      "category": "unique-challenge",
+      "hunt": "extended",
+      "layerHint": "shadow",
+      "evidence": [
+        "hippoGuide",
+        "fragments"
+      ],
+      "review": "classification-review",
+      "decision": "Unique Scadutree Fragment elite."
+    },
+    {
+      "id": "er:d-hippo-river-one",
+      "game": "dlc",
+      "region": "Recluses' River",
+      "name": "Hippopotamus",
+      "location": "Lake below Recluses' River Downstream, first encounter",
+      "category": "unique-challenge",
+      "hunt": "extended",
+      "layerHint": "shadow",
+      "evidence": [
+        "hippoWalk",
+        "fragments"
+      ],
+      "review": "classification-review",
+      "decision": "Distinct fragment-bearing individual; precise position pending."
+    },
+    {
+      "id": "er:d-hippo-river-two",
+      "game": "dlc",
+      "region": "Recluses' River",
+      "name": "Hippopotamus",
+      "location": "Lake below Recluses' River Downstream, second encounter",
+      "category": "unique-challenge",
+      "hunt": "extended",
+      "layerHint": "shadow",
+      "evidence": [
+        "hippoWalk",
+        "fragments"
+      ],
+      "review": "classification-review",
+      "decision": "Distinct fragment-bearing individual; precise position pending."
+    },
+    {
+      "id": "er:d-hippo-rauh",
+      "game": "dlc",
+      "region": "Ancient Ruins of Rauh",
+      "name": "Hippopotamus",
+      "location": "Lake in Ancient Ruins of Rauh",
+      "category": "unique-challenge",
+      "hunt": "extended",
+      "layerHint": "shadow",
+      "evidence": [
+        "hippoWalk",
+        "fragments"
+      ],
+      "review": "classification-review",
+      "decision": "Unique Scadutree Fragment elite."
+    },
+    {
+      "id": "er:b-inv-nerijus",
+      "game": "base",
+      "region": "Limgrave",
+      "name": "Bloody Finger Nerijus",
+      "location": "Murkwater river ravine",
+      "category": "unique-challenge",
+      "hunt": "extended",
+      "layerHint": "surface",
+      "evidence": [
+        "invaderGuide",
+        "invaderGuide2"
+      ],
+      "review": "classification-review",
+      "decision": "Scripted invasion."
+    },
+    {
+      "id": "er:b-inv-anastasia-church",
+      "game": "base",
+      "region": "Caelid",
+      "name": "Anastasia, Tarnished-Eater",
+      "location": "Smoldering Church",
+      "category": "unique-challenge",
+      "hunt": "extended",
+      "layerHint": "surface",
+      "evidence": [
+        "anastasiaWiki",
+        "invaderGuide"
+      ],
+      "review": "classification-review",
+      "decision": "First independent invasion location."
+    },
+    {
+      "id": "er:b-inv-anastasia-shack",
+      "game": "base",
+      "region": "Mt. Gelmir",
+      "name": "Anastasia, Tarnished-Eater",
+      "location": "Corpse-Stench Shack",
+      "category": "unique-challenge",
+      "hunt": "extended",
+      "layerHint": "surface",
+      "evidence": [
+        "anastasiaWiki",
+        "invaderGuide"
+      ],
+      "review": "classification-review",
+      "decision": "Second independent invasion location."
+    },
+    {
+      "id": "er:b-inv-anastasia-snow",
+      "game": "base",
+      "region": "Consecrated Snowfield",
+      "name": "Anastasia, Tarnished-Eater",
+      "location": "Frozen river southwest of Ordina",
+      "category": "unique-challenge",
+      "hunt": "extended",
+      "layerHint": "surface",
+      "evidence": [
+        "anastasiaWiki",
+        "invaderGuide"
+      ],
+      "review": "classification-review",
+      "decision": "Third independent invasion location."
+    },
+    {
+      "id": "er:b-inv-edgar",
+      "game": "base",
+      "region": "Liurnia",
+      "name": "Edgar the Revenger",
+      "location": "Revenger's Shack",
+      "category": "unique-challenge",
+      "hunt": "extended",
+      "layerHint": "surface",
+      "evidence": [
+        "invaderGuide",
+        "invaderGuide2"
+      ],
+      "review": "classification-review",
+      "decision": "Quest-dependent invasion."
+    },
+    {
+      "id": "er:b-inv-vyke",
+      "game": "base",
+      "region": "Liurnia",
+      "name": "Festering Fingerprint Vyke",
+      "location": "Church of Inhibition",
+      "category": "unique-challenge",
+      "hunt": "extended",
+      "layerHint": "surface",
+      "evidence": [
+        "invaderGuide",
+        "invaderVideo"
+      ],
+      "review": "classification-review",
+      "decision": "Distinct from Roundtable Knight Vyke evergaol."
+    },
+    {
+      "id": "er:b-inv-millicent",
+      "game": "base",
+      "region": "Caelid",
+      "name": "Millicent",
+      "location": "Swamp of Aeonia",
+      "category": "unique-challenge",
+      "hunt": "extended",
+      "layerHint": "surface",
+      "evidence": [
+        "invaderGuide",
+        "invaderVideo"
+      ],
+      "review": "classification-review",
+      "decision": "Scripted invasion; separate from quest choices."
+    },
+    {
+      "id": "er:b-inv-eleonora",
+      "game": "base",
+      "region": "Altus Plateau",
+      "name": "Eleonora, Violet Bloody Finger",
+      "location": "Second Church of Marika",
+      "category": "unique-challenge",
+      "hunt": "extended",
+      "layerHint": "surface",
+      "evidence": [
+        "invaderGuide",
+        "invaderVideo"
+      ],
+      "review": "classification-review",
+      "decision": "Scripted invasion."
+    },
+    {
+      "id": "er:b-inv-bernahl",
+      "game": "base",
+      "region": "Crumbling Farum Azula",
+      "name": "Recusant Bernahl",
+      "location": "Tower beyond Beside the Great Bridge",
+      "category": "unique-challenge",
+      "hunt": "extended",
+      "layerHint": "surface",
+      "evidence": [
+        "invaderGuide",
+        "invaderVideo"
+      ],
+      "review": "classification-review",
+      "decision": "Conditional scripted invasion."
+    },
+    {
+      "id": "er:b-inv-sanguine",
+      "game": "base",
+      "region": "Consecrated Snowfield",
+      "name": "Sanguine Noble",
+      "location": "Western Consecrated Snowfield",
+      "category": "unique-challenge",
+      "hunt": "extended",
+      "layerHint": "surface",
+      "evidence": [
+        "invaderGuide2",
+        "invaderVideo"
+      ],
+      "review": "classification-review",
+      "decision": "Distinct from Writheblood Ruins boss."
     }
   ]
 }

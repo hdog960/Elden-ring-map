@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "status": "awaiting-licensed-calibration",
+  "layers": [],
+  "positions": [],
+  "leads": [
+    {
+      "url": "https://github.com/EthanShoeDev/elden-ring-compass",
+      "finding": "Prebuilt data extracted from installed game; no repository license displayed. No redistribution grant established."
+    },
+    {
+      "url": "https://github.com/egormagurin/EldenRingMap",
+      "finding": "GameAreaParam and map transform extraction; raw game art is not cleared for redistribution."
+    },
+    {
+      "url": "https://github.com/EldenRingDatabase/erdb",
+      "finding": "Game-derived parser and map extraction; code license does not establish map artwork rights."
+    },
+    {
+      "url": "https://github.com/hakkache/Elden-Ring-Dataset-API",
+      "finding": "Claims CC0 for underlying Kaggle data; coordinate coverage and upstream chain of rights not established. No data imported."
+    }
+  ]
+}
