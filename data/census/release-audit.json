@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "status": "research-not-reconciled",
-  "version": "session37-partial-classification",
+  "version": "session38-partial-classification",
   "decisions": [
     {
       "id": "er:b-lakeside-bloodhound",
@@ -1627,15 +1627,2567 @@
         "sourceRow": 83,
         "encounterShape": "staged"
       }
+    },
+    {
+      "id": "er:b-tutorial-soldier",
+      "classification": "primary",
+      "rationale": "Soldier of Godrick — Cave of Knowledge. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 35 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 18000850; retrieved line 699, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 18000850,
+        "sourceRow": 30,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-fringefolk-spirit",
+      "classification": "primary",
+      "rationale": "Ulcerated Tree Spirit — Fringefolk Hero's Grave. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 36 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 18000800; retrieved line 698, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 18000800,
+        "sourceRow": 29,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-agheel-cavalry",
+      "classification": "primary",
+      "rationale": "Night's Cavalry — Agheel Lake North bridge. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 45 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 1043370800; retrieved line 812, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 1043370800,
+        "sourceRow": 148,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-warmaster-hunter",
+      "classification": "primary",
+      "rationale": "Bell Bearing Hunter — Warmaster's Shack. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 69 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 1042380850; retrieved line 808, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 1042380850,
+        "sourceRow": 143,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-margit",
+      "classification": "primary",
+      "rationale": "Margit, the Fell Omen — Castleward Tunnel approach. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 79 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 10000850; retrieved line 670, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 10000850,
+        "sourceRow": 1,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-godrick",
+      "classification": "primary",
+      "rationale": "Godrick the Grafted — Secluded Cell arena. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 80 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 10000800; retrieved line 669, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 10000800,
+        "sourceRow": 0,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-weeping-avatar",
+      "classification": "primary",
+      "rationale": "Erdtree Avatar — Minor Erdtree. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 59 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 1043330800; retrieved line 810, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 1043330800,
+        "sourceRow": 146,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-morne-cavalry",
+      "classification": "primary",
+      "rationale": "Night's Cavalry — Castle Morne Rampart road. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 53 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 1044320850; retrieved line 814, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 1044320850,
+        "sourceRow": 153,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-adan",
+      "classification": "primary",
+      "rationale": "Adan, Thief of Fire — Malefactor's Evergaol. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 93 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 1038410800; retrieved line 790, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 1038410800,
+        "sourceRow": 125,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-alecto",
+      "classification": "primary",
+      "rationale": "Alecto, Black Knife Ringleader — Ringleader's Evergaol. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 104 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 1033420800; retrieved line 771, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 1033420800,
+        "sourceRow": 106,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-vows-hunter",
+      "classification": "primary",
+      "rationale": "Bell Bearing Hunter — Church of Vows. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 92 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 1037460800; retrieved line 786, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 1037460800,
+        "sourceRow": 121,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-bols",
+      "classification": "primary",
+      "rationale": "Bols, Carian Knight — Cuckoo's Evergaol. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 100 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 1033450800; retrieved line 773, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 1033450800,
+        "sourceRow": 108,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-liurnia-deathrite",
+      "classification": "primary",
+      "rationale": "Death Rite Bird — Gate Town North vicinity. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 96 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 1036450340; retrieved line 781, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 1036450340,
+        "sourceRow": 116,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-east-liurnia-avatar",
+      "classification": "primary",
+      "rationale": "Erdtree Avatar — Eastern Minor Erdtree. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 119 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 1038480800; retrieved line 791, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 1038480800,
+        "sourceRow": 126,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-west-liurnia-avatar",
+      "classification": "primary",
+      "rationale": "Erdtree Avatar — Western Minor Erdtree. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 98 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 1033430800; retrieved line 772, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 1033430800,
+        "sourceRow": 107,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-smarag",
+      "classification": "primary",
+      "rationale": "Glintstone Dragon Smarag — West of Raya Lucaria. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 101 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 1034450800; retrieved line 775, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 1034450800,
+        "sourceRow": 110,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-bellum-cavalry",
+      "classification": "primary",
+      "rationale": "Night's Cavalry — Bellum Highway. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 118 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 1036480340; retrieved line 782, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 1036480340,
+        "sourceRow": 117,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-albinauric-omenkiller",
+      "classification": "primary",
+      "rationale": "Omenkiller — Village of the Albinaurics. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 97 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 1035420800; retrieved line 778, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 1035420800,
+        "sourceRow": 113,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-royalgrave-onyx",
+      "classification": "primary",
+      "rationale": "Onyx Lord — Royal Grave Evergaol. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 125 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 1036500800; retrieved line 783, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 1036500800,
+        "sourceRow": 118,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-kingsrealm-revenant",
+      "classification": "primary",
+      "rationale": "Royal Revenant — Kingsrealm Ruins cellar. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 122 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 1034480800; retrieved line 776, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 1034480800,
+        "sourceRow": 111,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-caria-loretta",
+      "classification": "primary",
+      "rationale": "Royal Knight Loretta — Caria Manor. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 123 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 1035500800; retrieved line 779, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 1035500800,
+        "sourceRow": 114,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-raya-wolf",
+      "classification": "primary",
+      "rationale": "Red Wolf of Radagon — Raya Lucaria Debate Parlor. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 110 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 14000850; retrieved line 692, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 14000850,
+        "sourceRow": 23,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-makar",
+      "classification": "primary",
+      "rationale": "Magma Wyrm Makar — Ruin-Strewn Precipice. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 126 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 39200800; retrieved line 763, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 39200800,
+        "sourceRow": 98,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-radahn",
+      "classification": "primary",
+      "rationale": "Starscourge Radahn — Wailing Dunes. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 143 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 1252380800; retrieved line 838, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 1252380800,
+        "sourceRow": 183,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-oneil",
+      "classification": "primary",
+      "rationale": "Commander O'Neil — Swamp of Aeonia. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 145 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 1049380800; retrieved line 827, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 1049380800,
+        "sourceRow": 166,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-caelid-deathrite",
+      "classification": "primary",
+      "rationale": "Death Rite Bird — Southern Aeonia road vicinity. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 141 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 1049370850; retrieved line 826, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 1049370850,
+        "sourceRow": 165,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-ekzykes",
+      "classification": "primary",
+      "rationale": "Decaying Ekzykes — Near Cathedral of Dragon Communion. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 138 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 1048370800; retrieved line 820, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 1048370800,
+        "sourceRow": 159,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-caelid-cavalry",
+      "classification": "primary",
+      "rationale": "Night's Cavalry — Caelid Highway South. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 140 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 1049370800; retrieved line 825, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 1049370800,
+        "sourceRow": 164,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-caelid-avatar",
+      "classification": "primary",
+      "rationale": "Putrid Avatar — Western Caelid Minor Erdtree. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 132 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 1047400800; retrieved line 819, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 1047400800,
+        "sourceRow": 158,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-dragonbarrow-hunter",
+      "classification": "primary",
+      "rationale": "Bell Bearing Hunter — Isolated Merchant's Shack. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 155 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 1048410800; retrieved line 822, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 1048410800,
+        "sourceRow": 161,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-sanctum-kindred",
+      "classification": "primary",
+      "rationale": "Black Blade Kindred — Bestial Sanctum exterior. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 161 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 1051430800; retrieved line 836, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 1051430800,
+        "sourceRow": 175,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-greyll",
+      "classification": "primary",
+      "rationale": "Flying Dragon Greyll — Farum Greatbridge. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 159 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 1052410800; retrieved line 839, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 1052410800,
+        "sourceRow": 177,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-tower-apostle",
+      "classification": "primary",
+      "rationale": "Godskin Apostle — Divine Tower of Caelid basement. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 156 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 34130800; retrieved line 759, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 34130800,
+        "sourceRow": 94,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-dragonbarrow-cavalry",
+      "classification": "primary",
+      "rationale": "Night's Cavalry — Lenne's Rise bridge. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 160 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 1052410850; retrieved line 840, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 1052410850,
+        "sourceRow": 178,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-dragonbarrow-avatar",
+      "classification": "primary",
+      "rationale": "Putrid Avatar — Dragonbarrow Minor Erdtree. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 157 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 1051400800; retrieved line 835, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 1051400800,
+        "sourceRow": 174,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-sellia-battlemage",
+      "classification": "primary",
+      "rationale": "Battlemage Hugues — Sellia Evergaol. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 154 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 1049390850; retrieved line 829, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 1049390850,
+        "sourceRow": 168,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-sainted-assassin",
+      "classification": "primary",
+      "rationale": "Black Knife Assassin — Sainted Hero's Grave exterior. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 186 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 1040520800; retrieved line 798, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 1040520800,
+        "sourceRow": 133,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-altus-beast",
+      "classification": "primary",
+      "rationale": "Fallingstar Beast — Crater near Altus Highway Junction. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 179 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 1041500800; retrieved line 800, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 1041500800,
+        "sourceRow": 135,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-godefroy",
+      "classification": "primary",
+      "rationale": "Godefroy the Grafted — Golden Lineage Evergaol. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 177 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 1039500800; retrieved line 795, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 1039500800,
+        "sourceRow": 131,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-sanguine",
+      "classification": "primary",
+      "rationale": "Sanguine Noble — Writheblood Ruins cellar. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 183 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 1040530800; retrieved line 799, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 1040530800,
+        "sourceRow": 134,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-wormface",
+      "classification": "primary",
+      "rationale": "Wormface — Altus Minor Erdtree. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 182 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 1041530800; retrieved line 803, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 1041530800,
+        "sourceRow": 138,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-capital-draconic",
+      "classification": "primary",
+      "rationale": "Draconic Tree Sentinel — Capital Rampart approach. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 199 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 1045520800; retrieved line 818, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 1045520800,
+        "sourceRow": 157,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-sealed-onyx",
+      "classification": "primary",
+      "rationale": "Onyx Lord — Sealed Tunnel. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 194 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 34120800; retrieved line 758, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 34120800,
+        "sourceRow": 93,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-maggie",
+      "classification": "primary",
+      "rationale": "Demi-Human Queen Maggie — Hermit Village. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 230 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 1037530800; retrieved line 788, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 1037530800,
+        "sourceRow": 123,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-fullgrown-beast",
+      "classification": "primary",
+      "rationale": "Full-Grown Fallingstar Beast — Ninth Mt. Gelmir Campsite summit. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 224 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 1036540800; retrieved line 784, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 1036540800,
+        "sourceRow": 119,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-gelmir-wyrm",
+      "classification": "primary",
+      "rationale": "Magma Wyrm — Lava lake near Fort Laiedd. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 229 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 1035530800; retrieved line 780, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 1035530800,
+        "sourceRow": 115,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-gelmir-spirit",
+      "classification": "primary",
+      "rationale": "Ulcerated Tree Spirit — Gelmir Minor Erdtree. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 225 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 1037540810; retrieved line 789, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 1037540810,
+        "sourceRow": 124,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-eiglay-noble",
+      "classification": "primary",
+      "rationale": "Godskin Noble — Temple of Eiglay. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 226 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 16000850; retrieved line 696, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 16000850,
+        "sourceRow": 27,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-godfrey-shade",
+      "classification": "primary",
+      "rationale": "Godfrey, First Elden Lord (golden shade) — Erdtree Sanctuary. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 207 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 11000850; retrieved line 673, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 11000850,
+        "sourceRow": 4,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-morgott",
+      "classification": "primary",
+      "rationale": "Morgott, the Omen King — Elden Throne. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 208 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 11000800; retrieved line 672, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 11000800,
+        "sourceRow": 3,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-esgar",
+      "classification": "primary",
+      "rationale": "Esgar, Priest of Blood — Leyndell Catacombs. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 209 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 35000850; retrieved line 762, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 35000850,
+        "sourceRow": 97,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-mohg-omen",
+      "classification": "primary",
+      "rationale": "Mohg, the Omen — Cathedral of the Forsaken. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 210 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 35000800; retrieved line 761, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 35000800,
+        "sourceRow": 96,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-forbidden-kindred",
+      "classification": "primary",
+      "rationale": "Black Blade Kindred — Grand Lift of Rold approach. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 238 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 1049520800; retrieved line 830, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 1049520800,
+        "sourceRow": 169,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-forbidden-cavalry",
+      "classification": "primary",
+      "rationale": "Night's Cavalry — Forbidden Lands road. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 237 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 1048510800; retrieved line 823, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 1048510800,
+        "sourceRow": 162,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-niall",
+      "classification": "primary",
+      "rationale": "Commander Niall — Castle Sol. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 241 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 1051570800; retrieved line 837, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 1051570800,
+        "sourceRow": 176,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-fire-giant",
+      "classification": "primary",
+      "rationale": "Fire Giant — Flame Peak. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 247 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 1052520800; retrieved line 841, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 1052520800,
+        "sourceRow": 179,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-borealis",
+      "classification": "primary",
+      "rationale": "Borealis the Freezing Fog — Freezing Lake. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 243 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 1254560800; retrieved line 844, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 1254560800,
+        "sourceRow": 184,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-mountaintops-deathrite",
+      "classification": "primary",
+      "rationale": "Death Rite Bird — Castle Sol approach. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 240 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 1050570800; retrieved line 832, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 1050570800,
+        "sourceRow": 171,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-vyke",
+      "classification": "primary",
+      "rationale": "Roundtable Knight Vyke — Lord Contender's Evergaol. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 245 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 1053560800; retrieved line 843, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 1053560800,
+        "sourceRow": 181,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-snowfield-deathrite",
+      "classification": "primary",
+      "rationale": "Death Rite Bird — Near Apostate Derelict. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 260 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 1048570800; retrieved line 824, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 1048570800,
+        "sourceRow": 163,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-theodorix",
+      "classification": "primary",
+      "rationale": "Great Wyrm Theodorix — Frozen river near Cave of the Forlorn. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 257 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 1050560800; retrieved line 831, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 1050560800,
+        "sourceRow": 170,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-snowfield-avatar",
+      "classification": "primary",
+      "rationale": "Putrid Avatar — Snowfield Minor Erdtree. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 259 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 1050570850; retrieved line 833, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 1050570850,
+        "sourceRow": 172,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-haligtree-loretta",
+      "classification": "primary",
+      "rationale": "Loretta, Knight of the Haligtree — Haligtree Promenade. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 266 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 15000850; retrieved line 694, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 15000850,
+        "sourceRow": 25,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-placidusax",
+      "classification": "primary",
+      "rationale": "Dragonlord Placidusax — Time-displaced arena below Farum Azula. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 276 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 13000830; retrieved line 689, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 13000830,
+        "sourceRow": 20,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-gideon",
+      "classification": "primary",
+      "rationale": "Sir Gideon Ofnir, the All-Knowing — Erdtree Sanctuary. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 212 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 11050850; retrieved line 675, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 11050850,
+        "sourceRow": 6,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-ancestor",
+      "classification": "primary",
+      "rationale": "Ancestor Spirit — Southern Hallowhorn Grounds. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 284 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 12080800; retrieved line 686, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 12080800,
+        "sourceRow": 17,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-mimic",
+      "classification": "primary",
+      "rationale": "Mimic Tear — Nokron bridge approach. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 285 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 12020850; retrieved line 680, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 12020850,
+        "sourceRow": 12,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-regal-ancestor",
+      "classification": "primary",
+      "rationale": "Regal Ancestor Spirit — Northern Hallowhorn Grounds. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 286 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 12090800; retrieved line 687, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 12090800,
+        "sourceRow": 18,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-nokstella-dragonkin",
+      "classification": "primary",
+      "rationale": "Dragonkin Soldier of Nokstella — Ainsel River downstream. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 302 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 12010800; retrieved line 676, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 12010800,
+        "sourceRow": 7,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-rot-dragonkin",
+      "classification": "primary",
+      "rationale": "Dragonkin Soldier — Lake of Rot. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 303 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 12010850; retrieved line 677, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 12010850,
+        "sourceRow": 8,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-naturalborn",
+      "classification": "primary",
+      "rationale": "Astel, Naturalborn of the Void — Cavern accessed from Grand Cloister. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 304 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 12040800; retrieved line 684, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 12040800,
+        "sourceRow": 15,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-fortissax",
+      "classification": "primary",
+      "rationale": "Lichdragon Fortissax — Deathbed Dream. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 314 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 12030850; retrieved line 683, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 12030850,
+        "sourceRow": 14,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-mohg-blood",
+      "classification": "primary",
+      "rationale": "Mohg, Lord of Blood — Dynasty Mausoleum. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 294 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 12050800; retrieved line 685, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 12050800,
+        "sourceRow": 16,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:d-blackgaol",
+      "classification": "primary",
+      "rationale": "Blackgaol Knight — Western Nameless Mausoleum. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 320 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 2046410800; retrieved line 851, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 2046410800,
+        "sourceRow": 190,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:d-belurat-lion",
+      "classification": "primary",
+      "rationale": "Divine Beast Dancing Lion — Belurat, Tower Settlement. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 323 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 20000800; retrieved line 701, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 20000800,
+        "sourceRow": 32,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:d-plain-ghostflame",
+      "classification": "primary",
+      "rationale": "Ghostflame Dragon — Lake near Abandoned Ailing Village. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 321 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 2045440800; retrieved line 848, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 2045440800,
+        "sourceRow": 187,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:d-garrew",
+      "classification": "primary",
+      "rationale": "Black Knight Garrew — Fog Rift Fort. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 333 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 2047450800; retrieved line 855, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 2047450800,
+        "sourceRow": 194,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:d-edredd",
+      "classification": "primary",
+      "rationale": "Black Knight Edredd — Fort of Reprimand. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 337 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 2049430850; retrieved line 860, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 2049430850,
+        "sourceRow": 199,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:d-ralva",
+      "classification": "primary",
+      "rationale": "Ralva the Great Red Bear — Lake near Highroad Cross. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 334 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 2049450800; retrieved line 861, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 2049450800,
+        "sourceRow": 200,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:d-metyr",
+      "classification": "primary",
+      "rationale": "Metyr, Mother of Fingers — Finger Ruins of Miyr. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 339 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 25000800; retrieved line 706, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 25000800,
+        "sourceRow": 38,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:d-hippo",
+      "classification": "primary",
+      "rationale": "Golden Hippopotamus — Shadow Keep main gate. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 346 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 21000850; retrieved line 703, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 21000850,
+        "sourceRow": 35,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:d-gaius",
+      "classification": "primary",
+      "rationale": "Commander Gaius — Shadow Keep back gate. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 348 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 2049480800; retrieved line 862, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 2049480800,
+        "sourceRow": 201,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:d-hinterland-beast",
+      "classification": "primary",
+      "rationale": "Fallingstar Beast — Crater near Fingerstone Hill. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 352 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 2052480800; retrieved line 870, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 2052480800,
+        "sourceRow": 209,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:d-rakshasa",
+      "classification": "primary",
+      "rationale": "Rakshasa — Eastern Nameless Mausoleum. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 358 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 2051440800; retrieved line 866, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 2051440800,
+        "sourceRow": 205,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:d-jori",
+      "classification": "primary",
+      "rationale": "Jori, Elder Inquisitor — Darklight Catacombs. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 359 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 2052430800; retrieved line 869, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 2052430800,
+        "sourceRow": 208,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:d-ranah",
+      "classification": "primary",
+      "rationale": "Dancer of Ranah — Southern Nameless Mausoleum. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 367 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 2046380800; retrieved line 849, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 2046380800,
+        "sourceRow": 188,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:d-marigga",
+      "classification": "primary",
+      "rationale": "Demi-Human Queen Marigga — Coast north of Cerulean Coast West. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 366 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 2046400800; retrieved line 850, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 2046400800,
+        "sourceRow": 189,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:d-putrescent",
+      "classification": "primary",
+      "rationale": "Putrescent Knight — Garden of Deep Purple. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 369 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 22000800; retrieved line 705, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 22000800,
+        "sourceRow": 37,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:d-charo-bird",
+      "classification": "primary",
+      "rationale": "Death Rite Bird — Lake in Charo's Hidden Grave. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 371 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 2047390800; retrieved line 854, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 2047390800,
+        "sourceRow": 193,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:d-redbear",
+      "classification": "primary",
+      "rationale": "Red Bear — Northern Nameless Mausoleum. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 378 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 2046450800; retrieved line 852, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 2046450800,
+        "sourceRow": 191,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:d-rugalea",
+      "classification": "primary",
+      "rationale": "Rugalea the Great Red Bear — Near Ravine North. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 379 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 2044470800; retrieved line 847, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 2044470800,
+        "sourceRow": 186,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:d-romina",
+      "classification": "primary",
+      "rationale": "Romina, Saint of the Bud — Church of the Bud. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 382 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 2044450800; retrieved line 846, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 2044450800,
+        "sourceRow": 185,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:d-senessax",
+      "classification": "primary",
+      "rationale": "Ancient Dragon Senessax — Jagged Peak Mountainside. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 390 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 2054390850; retrieved line 872, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 2054390850,
+        "sourceRow": 211,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:d-bayle",
+      "classification": "primary",
+      "rationale": "Bayle the Dread — Jagged Peak Summit. Named location-specific checklist encounter and published defeat label support its primary classification; no assertion of direct game behavior.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 391 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 2054390800; retrieved line 871, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 2054390800,
+        "sourceRow": 210,
+        "encounterShape": "single"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-redmane-duo",
+      "classification": "primary",
+      "rationale": "Misbegotten Warrior & Crucible Knight — Redmane Castle plaza. Checklist records one combined encounter; published flag identifies the group or a member, not a separate checkoff per enemy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 142 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 1051360800; retrieved line 834, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 1051360800,
+        "sourceRow": 173,
+        "encounterShape": "group"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-nox-duo",
+      "classification": "primary",
+      "rationale": "Nox Swordstress & Nox Monk — Sellia, Town of Sorcery. Checklist records one combined encounter; published flag identifies the group or a member, not a separate checkoff per enemy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 146 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 1049390800; retrieved line 828, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 1049390800,
+        "sourceRow": 167,
+        "encounterShape": "group"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-caelem-pumpkins",
+      "classification": "primary",
+      "rationale": "Mad Pumpkin Head duo — Caelem Ruins cellar. Checklist records one combined encounter; published flag identifies the group or a member, not a separate checkoff per enemy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 134 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 1048400800; retrieved line 821, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 1048400800,
+        "sourceRow": 160,
+        "encounterShape": "group"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-altus-sentinels",
+      "classification": "primary",
+      "rationale": "Tree Sentinel duo — Outer Wall Phantom Tree approach. Checklist records one combined encounter; published flag identifies the group or a member, not a separate checkoff per enemy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 193 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 1041510800; retrieved line 801, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 1041510800,
+        "sourceRow": 136,
+        "encounterShape": "group"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-abductors",
+      "classification": "primary",
+      "rationale": "Abductor Virgin duo — Subterranean Inquisition Chamber. Checklist records one combined encounter; published flag identifies the group or a member, not a separate checkoff per enemy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 231 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 16000860; retrieved line 697, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 16000860,
+        "sourceRow": 28,
+        "encounterShape": "group"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-fell-twins",
+      "classification": "primary",
+      "rationale": "Fell Twins — Divine Tower of East Altus bridge. Checklist records one combined encounter; published flag identifies the group or a member, not a separate checkoff per enemy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 211 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 34140850; retrieved line 760, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 34140850,
+        "sourceRow": 95,
+        "encounterShape": "group"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-snowfield-cavalry",
+      "classification": "primary",
+      "rationale": "Night's Cavalry duo — Snowfield caravan. Checklist records one combined encounter; published flag identifies the group or a member, not a separate checkoff per enemy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 255 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 1248550800; retrieved line 845, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 1248550800,
+        "sourceRow": 182,
+        "encounterShape": "group"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-godskin-duo",
+      "classification": "primary",
+      "rationale": "Godskin Duo — Dragon Temple. Checklist records one combined encounter; published flag identifies the group or a member, not a separate checkoff per enemy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 275 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 13000850; retrieved line 690, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 13000850,
+        "sourceRow": 21,
+        "encounterShape": "group"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-valiant-gargoyles",
+      "classification": "primary",
+      "rationale": "Valiant Gargoyle duo — Siofra Aqueduct. Checklist records one combined encounter; published flag identifies the group or a member, not a separate checkoff per enemy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 287 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 12020800; retrieved line 678, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 12020800,
+        "sourceRow": 10,
+        "encounterShape": "group"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-fia-champions",
+      "classification": "primary",
+      "rationale": "Fia's Champions — Across the Roots arena. Checklist records one combined encounter; published flag identifies the group or a member, not a separate checkoff per enemy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 313 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 12030800; retrieved line 682, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 12030800,
+        "sourceRow": 13,
+        "encounterShape": "group"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-rennala",
+      "classification": "primary",
+      "rationale": "Rennala, Queen of the Full Moon — Raya Lucaria Grand Library. Named boss and encounter-specific flag agree; count one fight across phases, without inferring phase-level completion.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 111 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 14000800; retrieved line 691, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 14000800,
+        "sourceRow": 22,
+        "encounterShape": "staged"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-rykard",
+      "classification": "primary",
+      "rationale": "God-Devouring Serpent / Rykard, Lord of Blasphemy — Audience Pathway arena. Named boss and encounter-specific flag agree; count one fight across phases, without inferring phase-level completion.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 227 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 16000800; retrieved line 695, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 16000800,
+        "sourceRow": 26,
+        "encounterShape": "staged"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-mountaintops-avatar",
+      "classification": "primary",
+      "rationale": "Erdtree Avatar — Minor Erdtree. Named boss and encounter-specific flag agree; count one fight across phases, without inferring phase-level completion.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 242 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 1052560800; retrieved line 842, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 1052560800,
+        "sourceRow": 180,
+        "encounterShape": "staged"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-malenia",
+      "classification": "primary",
+      "rationale": "Malenia, Blade of Miquella / Goddess of Rot — Elphael, Haligtree Roots. Named boss and encounter-specific flag agree; count one fight across phases, without inferring phase-level completion.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 267 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 15000800; retrieved line 693, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 15000800,
+        "sourceRow": 24,
+        "encounterShape": "staged"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-maliketh",
+      "classification": "primary",
+      "rationale": "Beast Clergyman / Maliketh, the Black Blade — Beside the Great Bridge arena. Named boss and encounter-specific flag agree; count one fight across phases, without inferring phase-level completion.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 277 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 13000800; retrieved line 688, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 13000800,
+        "sourceRow": 19,
+        "encounterShape": "staged"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-hoarah",
+      "classification": "primary",
+      "rationale": "Godfrey, First Elden Lord / Hoarah Loux, Warrior — Elden Throne. Named boss and encounter-specific flag agree; count one fight across phases, without inferring phase-level completion.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 213 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 11050800; retrieved line 674, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 11050800,
+        "sourceRow": 5,
+        "encounterShape": "staged"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-elden-beast",
+      "classification": "primary",
+      "rationale": "Radagon of the Golden Order / Elden Beast — Inside the Erdtree. Named boss and encounter-specific flag agree; count one fight across phases, without inferring phase-level completion.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 214 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 19000800; retrieved line 700, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 19000800,
+        "sourceRow": 31,
+        "encounterShape": "staged"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:d-rellana",
+      "classification": "primary",
+      "rationale": "Rellana, Twin Moon Knight — Castle Ensis. Named boss and encounter-specific flag agree; count one fight across phases, without inferring phase-level completion.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 332 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 2048440800; retrieved line 857, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 2048440800,
+        "sourceRow": 196,
+        "encounterShape": "staged"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:d-messmer",
+      "classification": "primary",
+      "rationale": "Messmer the Impaler / Base Serpent Messmer — Specimen Storehouse, Dark Chamber. Named boss and encounter-specific flag agree; count one fight across phases, without inferring phase-level completion.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 347 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 21010800; retrieved line 704, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 21010800,
+        "sourceRow": 36,
+        "encounterShape": "staged"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:d-midra",
+      "classification": "primary",
+      "rationale": "Midra, Lord of Frenzied Flame — Midra's Manse. Named boss and encounter-specific flag agree; count one fight across phases, without inferring phase-level completion.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 360 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 28000800; retrieved line 707, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 28000800,
+        "sourceRow": 39,
+        "encounterShape": "staged"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:d-consort",
+      "classification": "primary",
+      "rationale": "Promised Consort Radahn / Radahn, Consort of Miquella — Divine Gate Front Staircase arena. Named boss and encounter-specific flag agree; count one fight across phases, without inferring phase-level completion.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 398 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 20010800; retrieved line 702, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 20010800,
+        "sourceRow": 33,
+        "encounterShape": "staged"
+      },
+      "batch": "session38"
+    },
+    {
+      "id": "er:b-chapel-scion",
+      "classification": "primary",
+      "rationale": "Grafted Scion — Chapel of Anticipation. Opening encounter may be missed and revisited via the Four Belfries; one permanent identity.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 81 (archived row correspondence)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published label 10010800; retrieved line 671, 2026-11-26"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 10010800,
+        "sourceRow": 2,
+        "encounterShape": "conditional"
+      },
+      "batch": "session38"
     }
   ],
   "sourceInventories": [
     {
       "url": "https://game-checklists.com/elden-ring/all-bosses/",
       "scope": "210 checklist rows in archived base/DLC inventory",
-      "reconciliation": "65 individually reviewed one-row correspondences classified; remaining rows not adjudicated in this batch",
+      "reconciliation": "181 of 210 archived checklist rows correspond to classified IDs; other rows remain unresolved",
       "evidence": "data/census/base-checklist-review.json; data/census/dlc-checklist-review.json",
-      "unresolved": 145
+      "unresolved": 29
     },
     {
       "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
@@ -1643,6 +4195,13 @@
       "reconciliation": "65 narrow classifications; 2 explicit holds",
       "evidence": "docs/DEFEAT_FLAG_RESEARCH.md; docs/session36-release-blocker-inventory.json",
       "unresolved": 2
+    },
+    {
+      "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+      "scope": "Session 38 selected named arena flag labels (not complete flag inventory)",
+      "reconciliation": "116 individual correspondences supported; explicit conflicts retained in holds; no full inventory claim",
+      "evidence": "data/geography/compass-research.json and per-decision retrieved line locators",
+      "unresolved": 14
     }
   ],
   "holds": [
@@ -1653,11 +4212,68 @@
     {
       "id": "er:b-stray-mimic",
       "reason": "Named checklist and flag label agree, but associated Compass arena has no name. Retain as candidate pending independent individual identity witness."
+    },
+    {
+      "id": "er:b-altus-cavalry",
+      "reason": "Candidate arena is labelled Bell Bearing Hunter and uses 1043530800, also assigned to capital Hunter and Deathbird; published label supports Hunter only."
+    },
+    {
+      "id": "er:b-capital-deathbird",
+      "reason": "Candidate arena labelled Bell Bearing Hunter with 1043530800; do not admit shared flag."
+    },
+    {
+      "id": "er:b-capital-hunter",
+      "reason": "Published 1043530800 labels this Hunter, but candidate mapping shares it with two conflicting IDs; hold until association resolved."
+    },
+    {
+      "id": "er:b-elemer",
+      "reason": "Candidate 1039540800 published as Shaded Castle Bell Bearing Hunter; global Elemer flag exists but not equivalent to arena flag."
+    },
+    {
+      "id": "er:b-stormhill-deathbird",
+      "reason": "Published 1042380800 calls this Death Rite Bird, candidate Deathbird; naming conflict."
+    },
+    {
+      "id": "er:b-weeping-deathbird",
+      "reason": "Published 1044320800 calls this Death Rite Bird, candidate Deathbird; naming conflict."
+    },
+    {
+      "id": "er:b-liurnia-deathbird",
+      "reason": "Published 1037420340 calls this Death Rite Bird, candidate Deathbird; naming conflict."
+    },
+    {
+      "id": "er:b-adula",
+      "reason": "Two retreat/final source rows and published flags; individual final mapping not adjudicated."
+    },
+    {
+      "id": "er:b-lansseax",
+      "reason": "Two source stages; final flag label generic Ancient Dragon; preserve one ID pending further evidence."
+    },
+    {
+      "id": "er:d-altus-ghostflame",
+      "reason": "Two published Ghostflame flags use Scadu Altus; coast and Altus individual mapping unresolved."
+    },
+    {
+      "id": "er:d-coast-ghostflame",
+      "reason": "Two published Ghostflame flags use Scadu Altus; coast and Altus individual mapping unresolved."
+    },
+    {
+      "id": "er:d-hinterland-sentinel-shield",
+      "reason": "Individual equipment-to-flag association unresolved."
+    },
+    {
+      "id": "er:d-hinterland-sentinel-torch",
+      "reason": "Individual equipment-to-flag association unresolved."
+    },
+    {
+      "id": "er:d-rauh-lion",
+      "reason": "Regional flag label says Gravesite Plain; candidate is Rauh. Hold mapping."
     }
   ],
   "limitations": [
     "No final census completeness assertion. Classification decisions are distinct from production admission, numerical guide verification, map calibration, or save integration.",
     "The checklist and community flag reference have distinct publication domains; underlying data lineage is not established. Steam guide index is supplementary and currently carries a removal warning.",
-    "Existing 291 stable IDs remain unchanged; all other candidates remain unadjudicated. No flag execution or coordinate promotion."
+    "Existing 291 stable IDs remain unchanged; all other candidates remain unadjudicated. No flag execution or coordinate promotion.",
+    "Session 38 classifications are manually selected from published labels and archived checklist rows, not automatic matches. Source lineage is not proven; flags are descriptive evidence only. Several labels or duplicate candidate mappings conflict and remain held."
   ]
 }

@@ -92,3 +92,6 @@ Six scoped records and nine guide refinements. Evidence strength explicitly labe
 
 ## Session 37
 65 narrow primary census classifications recorded in release-audit.json, with individual source locators and grouped/staged rationale; 226 stable IDs remain unadjudicated. Patches and Stray Mimic held. No final reconciliation, publication or geographic admission. Steam index carries current removal warning; used only as supplementary historical evidence.
+
+## Session 38
+116 additional narrow classifications; 181 cumulative. 16 explicit holds including three candidates sharing flag 1043530800. No final reconciliation or production admission. 110 unadjudicated IDs (26 primary, 84 extended).
