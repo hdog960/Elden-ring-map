@@ -19,6 +19,18 @@
     {
       "url": "https://github.com/hakkache/Elden-Ring-Dataset-API",
       "finding": "Claims CC0 for underlying Kaggle data; coordinate coverage and upstream chain of rights not established. No data imported."
+    },
+    {
+      "url": "https://github.com/VirusAlex/ERR-MapForGoblins-DLL",
+      "finding": "MIT-style software and icon licensing reported; generation from installed game and mod variants. No verified vanilla boss coordinate table with explicit independent rights review."
+    },
+    {
+      "url": "https://www.eldenringcompass.com/",
+      "finding": "Live read-only save analyzer and map, no explicit redistributable coordinate grant located."
+    },
+    {
+      "url": "https://tarnishedsaga.com/tools/elden-ring-map/",
+      "finding": "Author describes original map based on game coordinates; no reuse grant established."
     }
   ]
 }

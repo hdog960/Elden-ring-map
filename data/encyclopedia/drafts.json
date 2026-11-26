@@ -1,0 +1,381 @@
+{
+  "schema": 1,
+  "status": "research-drafts-not-release",
+  "guides": [
+    {
+      "id": "er:b-margit",
+      "grace": "Castleward Tunnel",
+      "directions": "Follow the tunnel toward Stormveil's fog gate.",
+      "conditions": "Optional for overall story progression; required for the ordinary front route into Stormveil.",
+      "combat": "Delayed cane strikes, light blades and a later hammer leap. Do not dodge on wind-up alone.",
+      "strategy": "Roll into the final swing of a chain; punish hammer landings with a charged attack. Ranged builds should cast after a committed leap, not during his dagger throws. Margit's Shackle can create openings early.",
+      "rewards": "Talisman Pouch; 12,000 runes.",
+      "preparation": "Suggested level 20–30, standard weapon +3 to +5; prioritize vigor.",
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Margit",
+        "https://www.gamerguides.com/elden-ring/guide/limgrave/bosses/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact NG health, stance and damage/status tables require version-specific independent verification.",
+        "Full summon/parry/critical eligibility and exact entrance calibration require review."
+      ]
+    },
+    {
+      "id": "er:b-godrick",
+      "grace": "Secluded Cell",
+      "directions": "Leave the grace and enter the nearby boss fog.",
+      "conditions": "Reach Stormveil's inner courtyard; optional shardbearer in the broader story.",
+      "combat": "Axe chains, wind bursts and a second phase with a dragon arm that breathes fire.",
+      "strategy": "Wait out the wind-up and move toward his flank after the rolling leap. During the transition's fire attack, close distance around the side rather than retreat straight through the flames. Use fast ranged casts after his axe slams.",
+      "rewards": "Godrick's Great Rune; Remembrance of the Grafted; 20,000 runes.",
+      "preparation": "Suggested level 30–40, standard weapon +5 to +8. Bleed may help.",
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Godrick_the_Grafted",
+        "https://www.eldenringwiki.cc/boss-quick-reference/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact NG health, stance and damage/status tables require version-specific independent verification.",
+        "Full summon/parry/critical eligibility and exact entrance calibration require review."
+      ]
+    },
+    {
+      "id": "er:b-limgrave-sentinel",
+      "grace": "The First Step",
+      "directions": "Follow the slope north toward Church of Elleh; the mounted knight patrols between them.",
+      "conditions": "Optional; can return later.",
+      "combat": "Halberd sweeps, horse charges, shield slams; shield can punish spell projectiles.",
+      "strategy": "Let the horse finish a charge before striking its side. Avoid prolonged attacks under the shield; on Torrent make brief passes and disengage. Casters should wait for the shield to lower.",
+      "rewards": "Golden Halberd; 3,200 runes.",
+      "preparation": "Suggested level 25–35, standard weapon +3 or better.",
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Tree_Sentinel",
+        "https://www.eldenringwiki.cc/boss-quick-reference/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact NG health, stance and damage/status tables require version-specific independent verification.",
+        "Full summon/parry/critical eligibility and exact entrance calibration require review."
+      ]
+    },
+    {
+      "id": "er:b-agheel-dragon",
+      "grace": "Agheel Lake North",
+      "directions": "Ride south into Agheel Lake toward the burned ruins and dragon landing area.",
+      "conditions": "Optional field encounter; Torrent useful.",
+      "combat": "Ground and airborne fire breath, stomps, bites and tail swings.",
+      "strategy": "Use Torrent to clear the fire path laterally. Attack the head during breath recovery if safely reachable; otherwise take short hits at the legs and leave before a stomp. Ranged characters can reposition before firing.",
+      "rewards": "Dragon Heart; 5,000 runes; unlocks Agheel's Flame for purchase.",
+      "preparation": "Suggested level 25–35, standard weapon +3 to +5; fire protection helps.",
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Agheel",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact NG health, stance and damage/status tables require version-specific independent verification.",
+        "Full summon/parry/critical eligibility and exact entrance calibration require review."
+      ]
+    },
+    {
+      "id": "er:b-darriwil",
+      "grace": "Agheel Lake South",
+      "directions": "Travel southwest toward the Forlorn Hound Evergaol and activate its center.",
+      "conditions": "Optional evergaol; Blaidd may assist if his quest encounter is prepared. Ordinary spirit ashes unavailable.",
+      "combat": "Quick claw and curved sword chains, sudden repositioning and delayed follow-up swings.",
+      "strategy": "Use a short punish after the final leap or slash rather than attacking the disappearance. A shield or quick weapon helps; casters should use fast spells only when the knight finishes moving.",
+      "rewards": "Bloodhound's Fang.",
+      "preparation": "Suggested level 20–30, standard weapon +3; avoid long casting animations.",
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Darriwil",
+        "https://eldenring.wiki.gg/wiki/Bloodhound%27s_Fang"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact NG health, stance and damage/status tables require version-specific independent verification.",
+        "Full summon/parry/critical eligibility and exact entrance calibration require review."
+      ]
+    },
+    {
+      "id": "er:b-murkwater-patches",
+      "grace": "Murkwater Cave",
+      "directions": "Follow the ravine north from Agheel Lake, then enter the cave along its wall. Open the chest in the boss chamber.",
+      "conditions": "Stop attacking when Patches surrenders to preserve his merchant and quest.",
+      "combat": "Spear thrusts from behind a shield and short-range mist.",
+      "strategy": "Circle the shield rather than repeatedly striking its front; bait a committed thrust and punish from the side. Casters can keep distance from the mist. Do not use lingering damage once he is near surrender.",
+      "rewards": "Surrender resolves the encounter and unlocks his shop; do not require killing him.",
+      "preparation": "Early-game equipment is sufficient; avoid high burst near surrender.",
+      "sources": [
+        "https://www.neoseeker.com/elden-ring/Bosses/Patches",
+        "https://www.gamerguides.com/elden-ring/guide/limgrave/bosses/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact NG health, stance and damage/status tables require version-specific independent verification.",
+        "Full summon/parry/critical eligibility and exact entrance calibration require review."
+      ]
+    },
+    {
+      "id": "er:b-coastal-chiefs",
+      "grace": "Coastal Cave",
+      "directions": "Reach the western Limgrave beach below Church of Elleh and enter the cave in the cliff. Follow the tunnel to the dark chamber.",
+      "conditions": "Optional paired encounter; both chiefs must fall.",
+      "combat": "Two aggressive chiefs with smaller demi-human enemies in a dark arena.",
+      "strategy": "Eliminate nearby small enemies first and try to separate the chiefs. A torch or lantern improves visibility; use sweeping attacks only when both threats are visible. Ranged builds can move between openings instead of standing still.",
+      "rewards": "Tailoring Tools; Sewing Needle; 1,200 runes.",
+      "preparation": "Suggested level 10–20 and an early weapon upgrade; bring a light source.",
+      "sources": [
+        "https://www.pushsquare.com/guides/elden-ring-how-to-complete-coastal-cave",
+        "https://eldenring.redmaw.dev/sheets/walkthrough"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact NG health, stance and damage/status tables require version-specific independent verification.",
+        "Full summon/parry/critical eligibility and exact entrance calibration require review."
+      ]
+    },
+    {
+      "id": "er:b-limgrave-troll",
+      "grace": "Limgrave Tunnels",
+      "directions": "Enter the mine at the northern edge of Agheel Lake and descend its lifts to the lowest boss chamber.",
+      "conditions": "Optional dungeon.",
+      "combat": "Heavy club attacks, stomps and broad swings in a confined room.",
+      "strategy": "Use strike damage or magic rather than relying on light slashes against stone-like skin. Roll after the club commits and attack the legs; back away when it raises a foot. Cast during long recoveries.",
+      "rewards": "Roar Medallion; 1,800 runes. Older guide reward conflict requires patch review.",
+      "preparation": "Suggested level 15–25; bring a strike weapon if available.",
+      "sources": [
+        "https://gamefaqs.gamespot.com/ps5/323053-elden-ring/faqs/80028/dungeon-bosses",
+        "https://gamertweak.com/dungeon-locations-elden-ring/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact NG health, stance and damage/status tables require version-specific independent verification.",
+        "Full summon/parry/critical eligibility and exact entrance calibration require review."
+      ]
+    },
+    {
+      "id": "er:b-murkwater-duelist",
+      "grace": "Murkwater Catacombs",
+      "directions": "Follow the Agheel ravine north past Murkwater Cave to the catacomb entrance; find its lever before returning to the boss door.",
+      "conditions": "Optional dungeon.",
+      "combat": "Aggressive dual-hammer combos and grab attempts.",
+      "strategy": "Let the chained hammer sequence finish before counterattacking; avoid hugging the boss while it reaches for a grab. Fast ranged attacks are safer after a committed slam.",
+      "rewards": "Banished Knight Engvall Ashes; 1,700 runes. Earlier guides list Battle Hammer; verify current patch.",
+      "preparation": "Suggested level 20–30, upgraded weapon and medium equip load.",
+      "sources": [
+        "https://gamefaqs.gamespot.com/ps5/323053-elden-ring/faqs/80028/dungeon-bosses",
+        "https://gamertweak.com/dungeon-locations-elden-ring/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact NG health, stance and damage/status tables require version-specific independent verification.",
+        "Full summon/parry/critical eligibility and exact entrance calibration require review."
+      ]
+    },
+    {
+      "id": "er:d-blackgaol",
+      "grace": "Gravesite Plain",
+      "directions": "Travel northwest to the Western Nameless Mausoleum, descend its stairs and enter the fog.",
+      "conditions": "Requires DLC access. No Spirit Ashes.",
+      "combat": "Greatsword attacks, ranged crossbow volley and sword shockwave.",
+      "strategy": "Walk sideways through the bolts and punish the recovery with one quick attack. Avoid trading with the greatsword; ranged builds should use short casts instead of stationary channels.",
+      "rewards": "Greatsword of Solitude; Solitude armor set; 70,000 runes.",
+      "preparation": "Suggested level 120–150 and upgraded weapon; gather Scadutree Fragments if damage is excessive.",
+      "sources": [
+        "https://eip.gg/elden-ring/guides/blackgaol-knight-boss-guide/",
+        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact NG health, stance and damage/status tables require version-specific independent verification.",
+        "Full summon/parry/critical eligibility and exact entrance calibration require review."
+      ]
+    },
+    {
+      "id": "er:d-belurat-lion",
+      "grace": "Stagefront",
+      "directions": "Complete Belurat, Tower Settlement, then ascend to the Stagefront fog.",
+      "conditions": "DLC access; optional NPC assistance if available.",
+      "combat": "Erratic body lunges, breath attacks and shifting elemental hazards.",
+      "strategy": "Watch the head rather than the costume's body for the next lunge. Avoid lingering lightning zones and frost bursts; strike after a full leap or breath sequence. Casters should keep a clear escape route.",
+      "rewards": "Remembrance of the Dancing Lion; Divine Beast Head; 90,000 runes.",
+      "preparation": "Suggested level 130–150 and several Scadutree Blessing levels; defensive talismans help.",
+      "sources": [
+        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact NG health, stance and damage/status tables require version-specific independent verification.",
+        "Full summon/parry/critical eligibility and exact entrance calibration require review."
+      ]
+    },
+    {
+      "id": "er:d-rellana",
+      "grace": "Castle-Lord's Chamber",
+      "directions": "Cross Castle Ensis to its final chamber and enter the boss fog.",
+      "conditions": "DLC access; optional route through Castle Ensis.",
+      "combat": "Long paired-sword chains, magic projectiles, later fire and magic weapon buffs; twin moon shockwaves.",
+      "strategy": "Dodge the entire sword chain before attacking. When the moons descend, jump the ground shockwaves with deliberate timing. Fast spells or melee pokes are safer than long casts; avoid relying entirely on magic damage.",
+      "rewards": "Remembrance of the Twin Moon Knight.",
+      "preparation": "Suggested level 140–160, high weapon upgrade and roughly blessing 5–8 as advisory guidance.",
+      "sources": [
+        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact NG health, stance and damage/status tables require version-specific independent verification.",
+        "Full summon/parry/critical eligibility and exact entrance calibration require review."
+      ]
+    },
+    {
+      "id": "er:d-onze",
+      "grace": "Belurat Gaol",
+      "directions": "Enter the gaol from the western side of the lake in northern Gravesite Plain, then descend to its final chamber.",
+      "conditions": "Optional DLC dungeon.",
+      "combat": "Rapid sword strings with long advances.",
+      "strategy": "Avoid trying to out-trade the rapid combo; dodge past the final strike and hit once or twice. A spirit summon can distract him while a caster makes short attacks.",
+      "rewards": "Demi-Human Swordsman Yosh Spirit Ashes; 80,000 runes.",
+      "preparation": "Suggested level 120–150, upgraded weapon and early blessing levels.",
+      "sources": [
+        "https://eldenring.exputer.com/characters/demi-human-swordmaster-onze",
+        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact NG health, stance and damage/status tables require version-specific independent verification.",
+        "Full summon/parry/critical eligibility and exact entrance calibration require review."
+      ]
+    },
+    {
+      "id": "er:d-fogrifts-deathknight",
+      "grace": "Fog Rift Catacombs",
+      "directions": "Enter the catacombs below the northwestern approach to Castle Ensis; traverse the trap-filled dungeon to the boss.",
+      "conditions": "Optional DLC dungeon; distinct from Scorpion River Death Knight.",
+      "combat": "Twin axes, lightning lunges and a dangerous life-draining grab.",
+      "strategy": "Move sideways against lightning; do not attempt a punish while the knight begins its grab. Strike after a completed axe chain, or cast quickly at medium distance once the chain ends.",
+      "rewards": "Death Knight's Twin Axes; Crimson Amber Medallion +3; 110,000 runes.",
+      "preparation": "Suggested level 130–150; upgrade weapon and Scadutree Blessing; lightning defense useful.",
+      "sources": [
+        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
+        "https://samurai-gamers.com/elden-ring/sotet-dlc-bosses-list/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact NG health, stance and damage/status tables require version-specific independent verification.",
+        "Full summon/parry/critical eligibility and exact entrance calibration require review."
+      ]
+    },
+    {
+      "id": "er:d-plain-ghostflame",
+      "grace": "Greatbridge, North",
+      "directions": "Ride west to the lake in northern Gravesite Plain.",
+      "conditions": "Optional DLC field encounter; distinct from two other Ghostflame Dragons.",
+      "combat": "Bites, stomps, airborne movement and ghostflame area attacks.",
+      "strategy": "Leave ground covered in ghostflame; move in after the breath finishes. Aim for head openings, and use short casts when it is stationary. Mounted repositioning can help if the fight spreads across the lake.",
+      "rewards": "Dragon Heart; Somber Ancient Dragon Smithing Stone; 100,000 runes.",
+      "preparation": "Suggested level 120–150 and early blessing levels; bring a fully upgraded main weapon.",
+      "sources": [
+        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
+        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact NG health, stance and damage/status tables require version-specific independent verification.",
+        "Full summon/parry/critical eligibility and exact entrance calibration require review."
+      ]
+    }
+  ]
+}

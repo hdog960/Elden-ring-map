@@ -24,7 +24,11 @@
     "invaderVideo": "https://www.youtube.com/watch?v=nTVxkcRnRTQ",
     "furnaceWiki": "https://eldenring.wiki.gg/wiki/Furnace_Golem",
     "furnaceGuide": "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-all-furnace-golem-locations-walking-fire-giants/",
-    "furnaceUnte": "https://eldenring.wiki.gg/wiki/Ruins_of_Unte"
+    "furnaceUnte": "https://eldenring.wiki.gg/wiki/Ruins_of_Unte",
+    "manorWiki": "https://eldenring.wiki.gg/wiki/Volcano_Manor",
+    "manorContracts": "https://eldenring.exputer.com/quests/volcano-manor-contracts",
+    "manorLocations": "https://eldenring.exputer.com/locations/volcano-manor",
+    "manorVideo": "https://www.youtube.com/watch?v=JE9RWRfkG44"
   },
   "rows": [
     {
@@ -3841,6 +3845,106 @@
       ],
       "review": "classification-review",
       "decision": "Distinct from Writheblood Ruins boss."
+    },
+    {
+      "id": "er:b-contract-istvan",
+      "game": "base",
+      "region": "Stormhill",
+      "name": "Old Knight Istvan",
+      "location": "Colosseum approach",
+      "category": "unique-challenge",
+      "hunt": "extended",
+      "layerHint": "surface",
+      "evidence": [
+        "manorWiki",
+        "manorContracts",
+        "manorLocations"
+      ],
+      "review": "classification-review",
+      "decision": "First Manor contract; obtain letter before defeating Rykard."
+    },
+    {
+      "id": "er:b-contract-rileigh",
+      "game": "base",
+      "region": "Altus Plateau",
+      "name": "Rileigh the Idle",
+      "location": "Ravine below Shaded Castle",
+      "category": "unique-challenge",
+      "hunt": "extended",
+      "layerHint": "surface",
+      "evidence": [
+        "manorWiki",
+        "manorContracts",
+        "manorLocations"
+      ],
+      "review": "classification-review",
+      "decision": "Second Manor contract; complete Istvan and collect second letter."
+    },
+    {
+      "id": "er:b-contract-tragoth",
+      "game": "base",
+      "region": "Liurnia",
+      "name": "Great Horned Tragoth",
+      "location": "Magma Wyrm Makar arena",
+      "category": "unique-challenge",
+      "hunt": "extended",
+      "layerHint": "surface",
+      "evidence": [
+        "manorWiki",
+        "manorContracts",
+        "manorLocations"
+      ],
+      "review": "classification-review",
+      "decision": "Patches contract after Istvan; defeat Makar before using invasion sign."
+    },
+    {
+      "id": "er:b-contract-vargram-wilhelm",
+      "game": "base",
+      "region": "Leyndell, Royal Capital",
+      "name": "Vargram the Raging Wolf & Errant Sorcerer Wilhelm",
+      "location": "Fortified Manor",
+      "category": "unique-challenge",
+      "hunt": "extended",
+      "layerHint": "surface",
+      "evidence": [
+        "manorWiki",
+        "manorContracts",
+        "manorLocations"
+      ],
+      "review": "classification-review",
+      "decision": "Bernahl contract; simultaneous opponents, one completion; do before capital changes."
+    },
+    {
+      "id": "er:b-contract-juno",
+      "game": "base",
+      "region": "Mountaintops of the Giants",
+      "name": "Juno Hoslow, Knight of Blood",
+      "location": "Near Shack of the Lofty",
+      "category": "unique-challenge",
+      "hunt": "extended",
+      "layerHint": "surface",
+      "evidence": [
+        "manorWiki",
+        "manorContracts",
+        "manorLocations"
+      ],
+      "review": "classification-review",
+      "decision": "Third Manor contract; obtain Red Letter and reach Mountaintops before ending Manor chain."
+    },
+    {
+      "id": "er:b-inv-ghiza",
+      "game": "base",
+      "region": "Volcano Manor",
+      "name": "Inquisitor Ghiza",
+      "location": "Upper floor of Volcano Manor",
+      "category": "unique-challenge",
+      "hunt": "extended",
+      "layerHint": "surface",
+      "evidence": [
+        "manorVideo"
+      ],
+      "review": "classification-review",
+      "decision": "Scripted invasion; distinct from Manor contracts."
     }
   ]
 }
