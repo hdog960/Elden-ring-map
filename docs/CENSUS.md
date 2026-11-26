@@ -89,3 +89,6 @@ Six scoped records and nine guide refinements. Evidence strength explicitly labe
 
 ## Session 36
 28 encounter reward followups; 11 newly reported figures, 14 conflicts, three without individual rune values. All 67 community flag witnesses agree with candidate Compass flags; not independent game verification. No final admission.
+
+## Session 37
+65 narrow primary census classifications recorded in release-audit.json, with individual source locators and grouped/staged rationale; 226 stable IDs remain unadjudicated. Patches and Stray Mimic held. No final reconciliation, publication or geographic admission. Steam index carries current removal warning; used only as supplementary historical evidence.

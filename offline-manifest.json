@@ -1,5 +1,5 @@
 {
-  "version": "session36-20261126-a",
+  "version": "session37-20261126-a",
   "releaseReady": false,
   "assets": [
     {
@@ -76,7 +76,7 @@
     },
     {
       "path": "data/census/release-audit.json",
-      "gitBlob": "313afba5631cc2ecbafcd8a2bd14fdb2fb61dfc4"
+      "gitBlob": "345b8f85033facf7aeb2c163d9f20b250b5e5cb0"
     },
     {
       "path": "data/census/stable-ids.json",

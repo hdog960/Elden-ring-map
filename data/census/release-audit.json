@@ -1,7 +1,1663 @@
 {
   "schema": 1,
   "status": "research-not-reconciled",
-  "version": "development",
-  "decisions": [],
-  "sourceInventories": []
+  "version": "session37-partial-classification",
+  "decisions": [
+    {
+      "id": "er:b-lakeside-bloodhound",
+      "classification": "primary",
+      "rationale": "Bloodhound Knight — Lakeside Crystal Cave. The location-specific named boss and published defeat label distinguish this encounter from other variants. Classification only; no claim about direct game flag behavior, calibrated coordinates, or guide accuracy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 94 (archived row correspondence, Session 19/18)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published defeat-label ID 31050800; re-inspected source 2026-11-26"
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "guide index line 167 (prior captured index, current page shows removal warning; supplementary only)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 31050800,
+        "sourceRow": 69,
+        "encounterShape": "single"
+      }
+    },
+    {
+      "id": "er:b-forlorn-crusader",
+      "classification": "primary",
+      "rationale": "Misbegotten Crusader — Cave of the Forlorn. The location-specific named boss and published defeat label distinguish this encounter from other variants. Classification only; no claim about direct game flag behavior, calibrated coordinates, or guide accuracy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 258 (archived row correspondence, Session 19/18)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published defeat-label ID 31120800; re-inspected source 2026-11-26"
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "guide index line 378 (prior captured index, current page shows removal warning; supplementary only)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 31120800,
+        "sourceRow": 75,
+        "encounterShape": "single"
+      }
+    },
+    {
+      "id": "er:b-summonwater-mariner",
+      "classification": "primary",
+      "rationale": "Tibia Mariner — Summonwater Village. The location-specific named boss and published defeat label distinguish this encounter from other variants. Classification only; no claim about direct game flag behavior, calibrated coordinates, or guide accuracy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 73 (archived row correspondence, Session 19/18)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published defeat-label ID 1045390800; re-inspected source 2026-11-26"
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "guide index line 130 (prior captured index, current page shows removal warning; supplementary only)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 1045390800,
+        "sourceRow": 156,
+        "encounterShape": "single"
+      }
+    },
+    {
+      "id": "er:b-liurnia-mariner",
+      "classification": "primary",
+      "rationale": "Tibia Mariner — East Liurnia near Artist's Shack. The location-specific named boss and published defeat label distinguish this encounter from other variants. Classification only; no claim about direct game flag behavior, calibrated coordinates, or guide accuracy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 91 (archived row correspondence, Session 19/18)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published defeat-label ID 1039440800; re-inspected source 2026-11-26"
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "guide index line 213 (prior captured index, current page shows removal warning; supplementary only)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 1039440800,
+        "sourceRow": 130,
+        "encounterShape": "single"
+      }
+    },
+    {
+      "id": "er:b-wyndham-mariner",
+      "classification": "primary",
+      "rationale": "Tibia Mariner — Wyndham Ruins. The location-specific named boss and published defeat label distinguish this encounter from other variants. Classification only; no claim about direct game flag behavior, calibrated coordinates, or guide accuracy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 172 (archived row correspondence, Session 19/18)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published defeat-label ID 1038520800; re-inspected source 2026-11-26"
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "guide index line 298 (prior captured index, current page shows removal warning; supplementary only)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 1038520800,
+        "sourceRow": 128,
+        "encounterShape": "single"
+      }
+    },
+    {
+      "id": "er:b-sages-assassin",
+      "classification": "primary",
+      "rationale": "Black Knife Assassin — Sage's Cave hidden arena. The location-specific named boss and published defeat label distinguish this encounter from other variants. Classification only; no claim about direct game flag behavior, calibrated coordinates, or guide accuracy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 170 (archived row correspondence, Session 19/18)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published defeat-label ID 31190800; re-inspected source 2026-11-26"
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "guide index line 272 (prior captured index, current page shows removal warning; supplementary only)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 31190800,
+        "sourceRow": 79,
+        "encounterShape": "single"
+      }
+    },
+    {
+      "id": "er:b-morne-scaly",
+      "classification": "primary",
+      "rationale": "Scaly Misbegotten — Morne Tunnel. The location-specific named boss and published defeat label distinguish this encounter from other variants. Classification only; no claim about direct game flag behavior, calibrated coordinates, or guide accuracy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 58 (archived row correspondence, Session 19/18)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published defeat-label ID 32000800; re-inspected source 2026-11-26"
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "guide index line 155 (prior captured index, current page shows removal warning; supplementary only)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 32000800,
+        "sourceRow": 84,
+        "encounterShape": "single"
+      }
+    },
+    {
+      "id": "er:b-limgrave-troll",
+      "classification": "primary",
+      "rationale": "Stonedigger Troll — Limgrave Tunnels. The location-specific named boss and published defeat label distinguish this encounter from other variants. Classification only; no claim about direct game flag behavior, calibrated coordinates, or guide accuracy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 42 (archived row correspondence, Session 19/18)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published defeat-label ID 32010800; re-inspected source 2026-11-26"
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "guide index line 128 (prior captured index, current page shows removal warning; supplementary only)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 32010800,
+        "sourceRow": 85,
+        "encounterShape": "single"
+      }
+    },
+    {
+      "id": "er:b-oldaltus-troll",
+      "classification": "primary",
+      "rationale": "Stonedigger Troll — Old Altus Tunnel. The location-specific named boss and published defeat label distinguish this encounter from other variants. Classification only; no claim about direct game flag behavior, calibrated coordinates, or guide accuracy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 174 (archived row correspondence, Session 19/18)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published defeat-label ID 32040800; re-inspected source 2026-11-26"
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "guide index line 296 (prior captured index, current page shows removal warning; supplementary only)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 32040800,
+        "sourceRow": 87,
+        "encounterShape": "single"
+      }
+    },
+    {
+      "id": "er:b-groveside-beastman",
+      "classification": "primary",
+      "rationale": "Beastman of Farum Azula — Groveside Cave. The location-specific named boss and published defeat label distinguish this encounter from other variants. Classification only; no claim about direct game flag behavior, calibrated coordinates, or guide accuracy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 39 (archived row correspondence, Session 19/18)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published defeat-label ID 31030800; re-inspected source 2026-11-26"
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "guide index line 94 (prior captured index, current page shows removal warning; supplementary only)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 31030800,
+        "sourceRow": 67,
+        "encounterShape": "single"
+      }
+    },
+    {
+      "id": "er:b-earthbore-runebear",
+      "classification": "primary",
+      "rationale": "Runebear — Earthbore Cave. The location-specific named boss and published defeat label distinguish this encounter from other variants. Classification only; no claim about direct game flag behavior, calibrated coordinates, or guide accuracy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 57 (archived row correspondence, Session 19/18)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published defeat-label ID 31010800; re-inspected source 2026-11-26"
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "guide index line 153 (prior captured index, current page shows removal warning; supplementary only)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 31010800,
+        "sourceRow": 65,
+        "encounterShape": "single"
+      }
+    },
+    {
+      "id": "er:b-weeping-zamor",
+      "classification": "primary",
+      "rationale": "Ancient Hero of Zamor — Weeping Evergaol. The location-specific named boss and published defeat label distinguish this encounter from other variants. Classification only; no claim about direct game flag behavior, calibrated coordinates, or guide accuracy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 62 (archived row correspondence, Session 19/18)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published defeat-label ID 1042330800; re-inspected source 2026-11-26"
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "guide index line 138 (prior captured index, current page shows removal warning; supplementary only)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 1042330800,
+        "sourceRow": 139,
+        "encounterShape": "single"
+      }
+    },
+    {
+      "id": "er:b-limgrave-sentinel",
+      "classification": "primary",
+      "rationale": "Tree Sentinel — First Step road. The location-specific named boss and published defeat label distinguish this encounter from other variants. Classification only; no claim about direct game flag behavior, calibrated coordinates, or guide accuracy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 37 (archived row correspondence, Session 19/18)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published defeat-label ID 1042360800; re-inspected source 2026-11-26"
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "guide index line 132 (prior captured index, current page shows removal warning; supplementary only)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 1042360800,
+        "sourceRow": 140,
+        "encounterShape": "single"
+      }
+    },
+    {
+      "id": "er:b-stormhill-crucible",
+      "classification": "primary",
+      "rationale": "Crucible Knight — Stormhill Evergaol. The location-specific named boss and published defeat label distinguish this encounter from other variants. Classification only; no claim about direct game flag behavior, calibrated coordinates, or guide accuracy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 68 (archived row correspondence, Session 19/18)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published defeat-label ID 1042370800; re-inspected source 2026-11-26"
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "guide index line 101 (prior captured index, current page shows removal warning; supplementary only)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 1042370800,
+        "sourceRow": 141,
+        "encounterShape": "single"
+      }
+    },
+    {
+      "id": "er:b-morne-leonine",
+      "classification": "primary",
+      "rationale": "Leonine Misbegotten — Castle Morne beach. The location-specific named boss and published defeat label distinguish this encounter from other variants. Classification only; no claim about direct game flag behavior, calibrated coordinates, or guide accuracy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 55 (archived row correspondence, Session 19/18)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published defeat-label ID 1043300800; re-inspected source 2026-11-26"
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "guide index line 147 (prior captured index, current page shows removal warning; supplementary only)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 1043300800,
+        "sourceRow": 145,
+        "encounterShape": "single"
+      }
+    },
+    {
+      "id": "er:b-agheel-dragon",
+      "classification": "primary",
+      "rationale": "Flying Dragon Agheel — Agheel Lake. The location-specific named boss and published defeat label distinguish this encounter from other variants. Classification only; no claim about direct game flag behavior, calibrated coordinates, or guide accuracy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 41 (archived row correspondence, Session 19/18)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published defeat-label ID 1043360800; re-inspected source 2026-11-26"
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "guide index line 109 (prior captured index, current page shows removal warning; supplementary only)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 1043360800,
+        "sourceRow": 147,
+        "encounterShape": "single"
+      }
+    },
+    {
+      "id": "er:b-darriwil",
+      "classification": "primary",
+      "rationale": "Bloodhound Knight Darriwil — Forlorn Hound Evergaol. The location-specific named boss and published defeat label distinguish this encounter from other variants. Classification only; no claim about direct game flag behavior, calibrated coordinates, or guide accuracy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 47 (archived row correspondence, Session 19/18)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published defeat-label ID 1044350800; re-inspected source 2026-11-26"
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "guide index line 99 (prior captured index, current page shows removal warning; supplementary only)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 1044350800,
+        "sourceRow": 154,
+        "encounterShape": "single"
+      }
+    },
+    {
+      "id": "er:b-waypoint-pumpkin",
+      "classification": "primary",
+      "rationale": "Mad Pumpkin Head — Waypoint Ruins cellar. The location-specific named boss and published defeat label distinguish this encounter from other variants. Classification only; no claim about direct game flag behavior, calibrated coordinates, or guide accuracy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 46 (archived row correspondence, Session 19/18)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published defeat-label ID 1044360800; re-inspected source 2026-11-26"
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "guide index line 119 (prior captured index, current page shows removal warning; supplementary only)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 1044360800,
+        "sourceRow": 155,
+        "encounterShape": "single"
+      }
+    },
+    {
+      "id": "er:b-tombsward-shade",
+      "classification": "primary",
+      "rationale": "Cemetery Shade — Tombsward Catacombs. The location-specific named boss and published defeat label distinguish this encounter from other variants. Classification only; no claim about direct game flag behavior, calibrated coordinates, or guide accuracy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 60 (archived row correspondence, Session 19/18)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published defeat-label ID 30000800; re-inspected source 2026-11-26"
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "guide index line 140 (prior captured index, current page shows removal warning; supplementary only)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 30000800,
+        "sourceRow": 40,
+        "encounterShape": "single"
+      }
+    },
+    {
+      "id": "er:b-impaler-watchdog",
+      "classification": "primary",
+      "rationale": "Erdtree Burial Watchdog — Impaler's Catacombs. The location-specific named boss and published defeat label distinguish this encounter from other variants. Classification only; no claim about direct game flag behavior, calibrated coordinates, or guide accuracy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 56 (archived row correspondence, Session 19/18)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published defeat-label ID 30010800; re-inspected source 2026-11-26"
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "guide index line 146 (prior captured index, current page shows removal warning; supplementary only)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 30010800,
+        "sourceRow": 41,
+        "encounterShape": "single"
+      }
+    },
+    {
+      "id": "er:b-stormfoot-watchdog",
+      "classification": "primary",
+      "rationale": "Erdtree Burial Watchdog — Stormfoot Catacombs. The location-specific named boss and published defeat label distinguish this encounter from other variants. Classification only; no claim about direct game flag behavior, calibrated coordinates, or guide accuracy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 38 (archived row correspondence, Session 19/18)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published defeat-label ID 30020800; re-inspected source 2026-11-26"
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "guide index line 107 (prior captured index, current page shows removal warning; supplementary only)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 30020800,
+        "sourceRow": 42,
+        "encounterShape": "single"
+      }
+    },
+    {
+      "id": "er:b-murkwater-duelist",
+      "classification": "primary",
+      "rationale": "Grave Warden Duelist — Murkwater Catacombs. The location-specific named boss and published defeat label distinguish this encounter from other variants. Classification only; no claim about direct game flag behavior, calibrated coordinates, or guide accuracy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 44 (archived row correspondence, Session 19/18)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published defeat-label ID 30040800; re-inspected source 2026-11-26"
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "guide index line 115 (prior captured index, current page shows removal warning; supplementary only)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 30040800,
+        "sourceRow": 44,
+        "encounterShape": "single"
+      }
+    },
+    {
+      "id": "er:b-blackknife-shade",
+      "classification": "primary",
+      "rationale": "Cemetery Shade — Black Knife Catacombs main arena. The location-specific named boss and published defeat label distinguish this encounter from other variants. Classification only; no claim about direct game flag behavior, calibrated coordinates, or guide accuracy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 120 (archived row correspondence, Session 19/18)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published defeat-label ID 30050800; re-inspected source 2026-11-26"
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "guide index line 170 (prior captured index, current page shows removal warning; supplementary only)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 30050800,
+        "sourceRow": 45,
+        "encounterShape": "single"
+      }
+    },
+    {
+      "id": "er:b-blackknife-assassin",
+      "classification": "primary",
+      "rationale": "Black Knife Assassin — Black Knife Catacombs hidden arena. The location-specific named boss and published defeat label distinguish this encounter from other variants. Classification only; no claim about direct game flag behavior, calibrated coordinates, or guide accuracy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 121 (archived row correspondence, Session 19/18)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published defeat-label ID 30050850; re-inspected source 2026-11-26"
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "guide index line 165 (prior captured index, current page shows removal warning; supplementary only)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 30050850,
+        "sourceRow": 46,
+        "encounterShape": "single"
+      }
+    },
+    {
+      "id": "er:b-cliffbottom-watchdog",
+      "classification": "primary",
+      "rationale": "Erdtree Burial Watchdog — Cliffbottom Catacombs. The location-specific named boss and published defeat label distinguish this encounter from other variants. Classification only; no claim about direct game flag behavior, calibrated coordinates, or guide accuracy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 89 (archived row correspondence, Session 19/18)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published defeat-label ID 30060800; re-inspected source 2026-11-26"
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "guide index line 186 (prior captured index, current page shows removal warning; supplementary only)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 30060800,
+        "sourceRow": 47,
+        "encounterShape": "single"
+      }
+    },
+    {
+      "id": "er:b-wyndham-watchdog",
+      "classification": "primary",
+      "rationale": "Erdtree Burial Watchdog — Wyndham Catacombs. The location-specific named boss and published defeat label distinguish this encounter from other variants. Classification only; no claim about direct game flag behavior, calibrated coordinates, or guide accuracy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 173 (archived row correspondence, Session 19/18)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published defeat-label ID 30070800; re-inspected source 2026-11-26"
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "guide index line 279 (prior captured index, current page shows removal warning; supplementary only)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 30070800,
+        "sourceRow": 48,
+        "encounterShape": "single"
+      }
+    },
+    {
+      "id": "er:b-sainted-zamor",
+      "classification": "primary",
+      "rationale": "Ancient Hero of Zamor — Sainted Hero's Grave interior. The location-specific named boss and published defeat label distinguish this encounter from other variants. Classification only; no claim about direct game flag behavior, calibrated coordinates, or guide accuracy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 187 (archived row correspondence, Session 19/18)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published defeat-label ID 30080800; re-inspected source 2026-11-26"
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "guide index line 268 (prior captured index, current page shows removal warning; supplementary only)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 30080800,
+        "sourceRow": 49,
+        "encounterShape": "single"
+      }
+    },
+    {
+      "id": "er:b-gelmir-wolf",
+      "classification": "primary",
+      "rationale": "Red Wolf of the Champion — Gelmir Hero's Grave. The location-specific named boss and published defeat label distinguish this encounter from other variants. Classification only; no claim about direct game flag behavior, calibrated coordinates, or guide accuracy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 222 (archived row correspondence, Session 19/18)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published defeat-label ID 30090800; re-inspected source 2026-11-26"
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "guide index line 321 (prior captured index, current page shows removal warning; supplementary only)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 30090800,
+        "sourceRow": 50,
+        "encounterShape": "single"
+      }
+    },
+    {
+      "id": "er:b-deathtouched-assassin",
+      "classification": "primary",
+      "rationale": "Black Knife Assassin — Deathtouched Catacombs. The location-specific named boss and published defeat label distinguish this encounter from other variants. Classification only; no claim about direct game flag behavior, calibrated coordinates, or guide accuracy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 71 (archived row correspondence, Session 19/18)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published defeat-label ID 30110800; re-inspected source 2026-11-26"
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "guide index line 98 (prior captured index, current page shows removal warning; supplementary only)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 30110800,
+        "sourceRow": 53,
+        "encounterShape": "single"
+      }
+    },
+    {
+      "id": "er:b-auriza-duelist",
+      "classification": "primary",
+      "rationale": "Grave Warden Duelist — Auriza Side Tomb. The location-specific named boss and published defeat label distinguish this encounter from other variants. Classification only; no claim about direct game flag behavior, calibrated coordinates, or guide accuracy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 197 (archived row correspondence, Session 19/18)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published defeat-label ID 30130800; re-inspected source 2026-11-26"
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "guide index line 340 (prior captured index, current page shows removal warning; supplementary only)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 30130800,
+        "sourceRow": 56,
+        "encounterShape": "single"
+      }
+    },
+    {
+      "id": "er:b-caelid-shade",
+      "classification": "primary",
+      "rationale": "Cemetery Shade — Caelid Catacombs. The location-specific named boss and published defeat label distinguish this encounter from other variants. Classification only; no claim about direct game flag behavior, calibrated coordinates, or guide accuracy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 139 (archived row correspondence, Session 19/18)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published defeat-label ID 30150800; re-inspected source 2026-11-26"
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "guide index line 224 (prior captured index, current page shows removal warning; supplementary only)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 30150800,
+        "sourceRow": 58,
+        "encounterShape": "single"
+      }
+    },
+    {
+      "id": "er:b-wardead-spirit",
+      "classification": "primary",
+      "rationale": "Putrid Tree Spirit — War-Dead Catacombs. The location-specific named boss and published defeat label distinguish this encounter from other variants. Classification only; no claim about direct game flag behavior, calibrated coordinates, or guide accuracy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 144 (archived row correspondence, Session 19/18)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published defeat-label ID 30160800; re-inspected source 2026-11-26"
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "guide index line 260 (prior captured index, current page shows removal warning; supplementary only)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 30160800,
+        "sourceRow": 59,
+        "encounterShape": "single"
+      }
+    },
+    {
+      "id": "er:b-giantgrave-zamor",
+      "classification": "primary",
+      "rationale": "Ancient Hero of Zamor — Giant-Conquering Hero's Grave. The location-specific named boss and published defeat label distinguish this encounter from other variants. Classification only; no claim about direct game flag behavior, calibrated coordinates, or guide accuracy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 246 (archived row correspondence, Session 19/18)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published defeat-label ID 30170800; re-inspected source 2026-11-26"
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "guide index line 350 (prior captured index, current page shows removal warning; supplementary only)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 30170800,
+        "sourceRow": 60,
+        "encounterShape": "single"
+      }
+    },
+    {
+      "id": "er:b-giants-spirit",
+      "classification": "primary",
+      "rationale": "Ulcerated Tree Spirit — Giants' Mountaintop Catacombs. The location-specific named boss and published defeat label distinguish this encounter from other variants. Classification only; no claim about direct game flag behavior, calibrated coordinates, or guide accuracy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 239 (archived row correspondence, Session 19/18)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published defeat-label ID 30180800; re-inspected source 2026-11-26"
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "guide index line 369 (prior captured index, current page shows removal warning; supplementary only)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 30180800,
+        "sourceRow": 61,
+        "encounterShape": "single"
+      }
+    },
+    {
+      "id": "er:b-snowfield-duelist",
+      "classification": "primary",
+      "rationale": "Putrid Grave Warden Duelist — Consecrated Snowfield Catacombs. The location-specific named boss and published defeat label distinguish this encounter from other variants. Classification only; no claim about direct game flag behavior, calibrated coordinates, or guide accuracy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 254 (archived row correspondence, Session 19/18)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published defeat-label ID 30190800; re-inspected source 2026-11-26"
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "guide index line 384 (prior captured index, current page shows removal warning; supplementary only)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 30190800,
+        "sourceRow": 62,
+        "encounterShape": "single"
+      }
+    },
+    {
+      "id": "er:b-tombsward-miranda",
+      "classification": "primary",
+      "rationale": "Miranda the Blighted Bloom — Tombsward Cave. The location-specific named boss and published defeat label distinguish this encounter from other variants. Classification only; no claim about direct game flag behavior, calibrated coordinates, or guide accuracy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 61 (archived row correspondence, Session 19/18)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published defeat-label ID 31020800; re-inspected source 2026-11-26"
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "guide index line 149 (prior captured index, current page shows removal warning; supplementary only)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 31020800,
+        "sourceRow": 66,
+        "encounterShape": "single"
+      }
+    },
+    {
+      "id": "er:b-stillwater-cleanrot",
+      "classification": "primary",
+      "rationale": "Cleanrot Knight — Stillwater Cave. The location-specific named boss and published defeat label distinguish this encounter from other variants. Classification only; no claim about direct game flag behavior, calibrated coordinates, or guide accuracy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 88 (archived row correspondence, Session 19/18)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published defeat-label ID 31040800; re-inspected source 2026-11-26"
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "guide index line 172 (prior captured index, current page shows removal warning; supplementary only)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 31040800,
+        "sourceRow": 68,
+        "encounterShape": "single"
+      }
+    },
+    {
+      "id": "er:b-margot",
+      "classification": "primary",
+      "rationale": "Demi-Human Queen Margot — Volcano Cave. The location-specific named boss and published defeat label distinguish this encounter from other variants. Classification only; no claim about direct game flag behavior, calibrated coordinates, or guide accuracy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 223 (archived row correspondence, Session 19/18)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published defeat-label ID 31090800; re-inspected source 2026-11-26"
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "guide index line 310 (prior captured index, current page shows removal warning; supplementary only)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 31090800,
+        "sourceRow": 72,
+        "encounterShape": "single"
+      }
+    },
+    {
+      "id": "er:b-highroad-golem",
+      "classification": "primary",
+      "rationale": "Guardian Golem — Highroad Cave. The location-specific named boss and published defeat label distinguish this encounter from other variants. Classification only; no claim about direct game flag behavior, calibrated coordinates, or guide accuracy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 72 (archived row correspondence, Session 19/18)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published defeat-label ID 31170800; re-inspected source 2026-11-26"
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "guide index line 117 (prior captured index, current page shows removal warning; supplementary only)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 31170800,
+        "sourceRow": 77,
+        "encounterShape": "single"
+      }
+    },
+    {
+      "id": "er:b-garris",
+      "classification": "primary",
+      "rationale": "Necromancer Garris — Sage's Cave. The location-specific named boss and published defeat label distinguish this encounter from other variants. Classification only; no claim about direct game flag behavior, calibrated coordinates, or guide accuracy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 169 (archived row correspondence, Session 19/18)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published defeat-label ID 31190850; re-inspected source 2026-11-26"
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "guide index line 287 (prior captured index, current page shows removal warning; supplementary only)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 31190850,
+        "sourceRow": 80,
+        "encounterShape": "single"
+      }
+    },
+    {
+      "id": "er:b-gaol-duelist",
+      "classification": "primary",
+      "rationale": "Frenzied Duelist — Gaol Cave. The location-specific named boss and published defeat label distinguish this encounter from other variants. Classification only; no claim about direct game flag behavior, calibrated coordinates, or guide accuracy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 136 (archived row correspondence, Session 19/18)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published defeat-label ID 31210800; re-inspected source 2026-11-26"
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "guide index line 241 (prior captured index, current page shows removal warning; supplementary only)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 31210800,
+        "sourceRow": 82,
+        "encounterShape": "single"
+      }
+    },
+    {
+      "id": "er:b-raya-crystalian",
+      "classification": "primary",
+      "rationale": "Crystalian — Raya Lucaria Crystal Tunnel. The location-specific named boss and published defeat label distinguish this encounter from other variants. Classification only; no claim about direct game flag behavior, calibrated coordinates, or guide accuracy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 117 (archived row correspondence, Session 19/18)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published defeat-label ID 32020800; re-inspected source 2026-11-26"
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "guide index line 174 (prior captured index, current page shows removal warning; supplementary only)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 32020800,
+        "sourceRow": 86,
+        "encounterShape": "single"
+      }
+    },
+    {
+      "id": "er:b-gael-wyrm",
+      "classification": "primary",
+      "rationale": "Magma Wyrm — Gael Tunnel. The location-specific named boss and published defeat label distinguish this encounter from other variants. Classification only; no claim about direct game flag behavior, calibrated coordinates, or guide accuracy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 135 (archived row correspondence, Session 19/18)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published defeat-label ID 32070800; re-inspected source 2026-11-26"
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "guide index line 247 (prior captured index, current page shows removal warning; supplementary only)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 32070800,
+        "sourceRow": 90,
+        "encounterShape": "single"
+      }
+    },
+    {
+      "id": "er:b-sellia-beast",
+      "classification": "primary",
+      "rationale": "Fallingstar Beast — Sellia Crystal Tunnel. The location-specific named boss and published defeat label distinguish this encounter from other variants. Classification only; no claim about direct game flag behavior, calibrated coordinates, or guide accuracy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 147 (archived row correspondence, Session 19/18)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published defeat-label ID 32080800; re-inspected source 2026-11-26"
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "guide index line 237 (prior captured index, current page shows removal warning; supplementary only)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 32080800,
+        "sourceRow": 91,
+        "encounterShape": "single"
+      }
+    },
+    {
+      "id": "er:b-snowfield-astel",
+      "classification": "primary",
+      "rationale": "Astel, Stars of Darkness — Yelough Anix Tunnel. The location-specific named boss and published defeat label distinguish this encounter from other variants. Classification only; no claim about direct game flag behavior, calibrated coordinates, or guide accuracy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 256 (archived row correspondence, Session 19/18)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published defeat-label ID 32110800; re-inspected source 2026-11-26"
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "guide index line 373 (prior captured index, current page shows removal warning; supplementary only)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 32110800,
+        "sourceRow": 92,
+        "encounterShape": "single"
+      }
+    },
+    {
+      "id": "er:d-fogrifts-deathknight",
+      "classification": "primary",
+      "rationale": "Death Knight — Fog Rift Catacombs. The location-specific named boss and published defeat label distinguish this encounter from other variants. Classification only; no claim about direct game flag behavior, calibrated coordinates, or guide accuracy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 326 (archived row correspondence, Session 19/18)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published defeat-label ID 40000800; re-inspected source 2026-11-26"
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "guide index line 455 (prior captured index, current page shows removal warning; supplementary only)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 40000800,
+        "sourceRow": 99,
+        "encounterShape": "single"
+      }
+    },
+    {
+      "id": "er:d-scorpion-deathknight",
+      "classification": "primary",
+      "rationale": "Death Knight — Scorpion River Catacombs. The location-specific named boss and published defeat label distinguish this encounter from other variants. Classification only; no claim about direct game flag behavior, calibrated coordinates, or guide accuracy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 380 (archived row correspondence, Session 19/18)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published defeat-label ID 40010800; re-inspected source 2026-11-26"
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "guide index line 498 (prior captured index, current page shows removal warning; supplementary only)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 40010800,
+        "sourceRow": 100,
+        "encounterShape": "single"
+      }
+    },
+    {
+      "id": "er:d-onze",
+      "classification": "primary",
+      "rationale": "Demi-Human Swordmaster Onze — Belurat Gaol. The location-specific named boss and published defeat label distinguish this encounter from other variants. Classification only; no claim about direct game flag behavior, calibrated coordinates, or guide accuracy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 322 (archived row correspondence, Session 19/18)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published defeat-label ID 41000800; re-inspected source 2026-11-26"
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "guide index line 449 (prior captured index, current page shows removal warning; supplementary only)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 41000800,
+        "sourceRow": 101,
+        "encounterShape": "single"
+      }
+    },
+    {
+      "id": "er:d-labirith",
+      "classification": "primary",
+      "rationale": "Curseblade Labirith — Bonny Gaol. The location-specific named boss and published defeat label distinguish this encounter from other variants. Classification only; no claim about direct game flag behavior, calibrated coordinates, or guide accuracy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 338 (archived row correspondence, Session 19/18)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published defeat-label ID 41010800; re-inspected source 2026-11-26"
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "guide index line 476 (prior captured index, current page shows removal warning; supplementary only)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 41010800,
+        "sourceRow": 102,
+        "encounterShape": "single"
+      }
+    },
+    {
+      "id": "er:d-lamenter",
+      "classification": "primary",
+      "rationale": "Lamenter — Lamenter's Gaol. The location-specific named boss and published defeat label distinguish this encounter from other variants. Classification only; no claim about direct game flag behavior, calibrated coordinates, or guide accuracy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 372 (archived row correspondence, Session 19/18)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published defeat-label ID 41020800; re-inspected source 2026-11-26"
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "guide index line 468 (prior captured index, current page shows removal warning; supplementary only)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 41020800,
+        "sourceRow": 103,
+        "encounterShape": "single"
+      }
+    },
+    {
+      "id": "er:d-chief-bloodfiend",
+      "classification": "primary",
+      "rationale": "Chief Bloodfiend — Rivermouth Cave. The location-specific named boss and published defeat label distinguish this encounter from other variants. Classification only; no claim about direct game flag behavior, calibrated coordinates, or guide accuracy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 324 (archived row correspondence, Session 19/18)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published defeat-label ID 43000800; re-inspected source 2026-11-26"
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "guide index line 477 (prior captured index, current page shows removal warning; supplementary only)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 43000800,
+        "sourceRow": 104,
+        "encounterShape": "single"
+      }
+    },
+    {
+      "id": "er:d-dragon-man",
+      "classification": "primary",
+      "rationale": "Ancient Dragon-Man — Dragon's Pit. The location-specific named boss and published defeat label distinguish this encounter from other variants. Classification only; no claim about direct game flag behavior, calibrated coordinates, or guide accuracy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 325 (archived row correspondence, Session 19/18)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published defeat-label ID 43010800; re-inspected source 2026-11-26"
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "guide index line 458 (prior captured index, current page shows removal warning; supplementary only)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 43010800,
+        "sourceRow": 105,
+        "encounterShape": "single"
+      }
+    },
+    {
+      "id": "er:b-coastal-chiefs",
+      "classification": "primary",
+      "rationale": "Demi-Human Chiefs — Coastal Cave. The named combined boss fight is one checklist encounter; the flag reference identifies the encounter or one member. Do not create additional completion IDs for its partners. Classification only; no claim about direct game flag behavior, calibrated coordinates, or guide accuracy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 40 (archived row correspondence, Session 19/18)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published defeat-label ID 31150800; re-inspected source 2026-11-26"
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "guide index line 105 (prior captured index, current page shows removal warning; supplementary only)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 31150800,
+        "sourceRow": 76,
+        "encounterShape": "group"
+      }
+    },
+    {
+      "id": "er:b-ordovis-duo",
+      "classification": "primary",
+      "rationale": "Crucible Knight Ordovis & Crucible Knight — Auriza Hero's Grave. The named combined boss fight is one checklist encounter; the flag reference identifies the encounter or one member. Do not create additional completion IDs for its partners. Classification only; no claim about direct game flag behavior, calibrated coordinates, or guide accuracy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 198 (archived row correspondence, Session 19/18)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published defeat-label ID 30100800; re-inspected source 2026-11-26"
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "guide index line 329 (prior captured index, current page shows removal warning; supplementary only)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 30100800,
+        "sourceRow": 51,
+        "encounterShape": "group"
+      }
+    },
+    {
+      "id": "er:b-tricia-duo",
+      "classification": "primary",
+      "rationale": "Perfumer Tricia & Misbegotten Warrior — Unsightly Catacombs. The named combined boss fight is one checklist encounter; the flag reference identifies the encounter or one member. Do not create additional completion IDs for its partners. Classification only; no claim about direct game flag behavior, calibrated coordinates, or guide accuracy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 171 (archived row correspondence, Session 19/18)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published defeat-label ID 30120800; re-inspected source 2026-11-26"
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "guide index line 293 (prior captured index, current page shows removal warning; supplementary only)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 30120800,
+        "sourceRow": 54,
+        "encounterShape": "group"
+      }
+    },
+    {
+      "id": "er:b-minorerdtree-watchdogs",
+      "classification": "primary",
+      "rationale": "Erdtree Burial Watchdog duo — Minor Erdtree Catacombs. The named combined boss fight is one checklist encounter; the flag reference identifies the encounter or one member. Do not create additional completion IDs for its partners. Classification only; no claim about direct game flag behavior, calibrated coordinates, or guide accuracy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 133 (archived row correspondence, Session 19/18)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published defeat-label ID 30140800; re-inspected source 2026-11-26"
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "guide index line 235 (prior captured index, current page shows removal warning; supplementary only)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 30140800,
+        "sourceRow": 57,
+        "encounterShape": "group"
+      }
+    },
+    {
+      "id": "er:b-academy-crystalians",
+      "classification": "primary",
+      "rationale": "Crystalian duo — Academy Crystal Cave. The named combined boss fight is one checklist encounter; the flag reference identifies the encounter or one member. Do not create additional completion IDs for its partners. Classification only; no claim about direct game flag behavior, calibrated coordinates, or guide accuracy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 102 (archived row correspondence, Session 19/18)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published defeat-label ID 31060800; re-inspected source 2026-11-26"
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "guide index line 176 (prior captured index, current page shows removal warning; supplementary only)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 31060800,
+        "sourceRow": 70,
+        "encounterShape": "group"
+      }
+    },
+    {
+      "id": "er:b-seethewater-kindred",
+      "classification": "primary",
+      "rationale": "Kindred of Rot duo — Seethewater Cave. The named combined boss fight is one checklist encounter; the flag reference identifies the encounter or one member. Do not create additional completion IDs for its partners. Classification only; no claim about direct game flag behavior, calibrated coordinates, or guide accuracy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 228 (archived row correspondence, Session 19/18)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published defeat-label ID 31070800; re-inspected source 2026-11-26"
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "guide index line 318 (prior captured index, current page shows removal warning; supplementary only)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 31070800,
+        "sourceRow": 71,
+        "encounterShape": "group"
+      }
+    },
+    {
+      "id": "er:b-dragonbarrow-beastmen",
+      "classification": "primary",
+      "rationale": "Beastman of Farum Azula duo — Dragonbarrow Cave. The named combined boss fight is one checklist encounter; the flag reference identifies the encounter or one member. Do not create additional completion IDs for its partners. Classification only; no claim about direct game flag behavior, calibrated coordinates, or guide accuracy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 158 (archived row correspondence, Session 19/18)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published defeat-label ID 31100800; re-inspected source 2026-11-26"
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "guide index line 218 (prior captured index, current page shows removal warning; supplementary only)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 31100800,
+        "sourceRow": 73,
+        "encounterShape": "group"
+      }
+    },
+    {
+      "id": "er:b-sellia-crystalians",
+      "classification": "primary",
+      "rationale": "Putrid Crystalian trio — Sellia Hideaway. The named combined boss fight is one checklist encounter; the flag reference identifies the encounter or one member. Do not create additional completion IDs for its partners. Classification only; no claim about direct game flag behavior, calibrated coordinates, or guide accuracy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 148 (archived row correspondence, Session 19/18)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published defeat-label ID 31110800; re-inspected source 2026-11-26"
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "guide index line 258 (prior captured index, current page shows removal warning; supplementary only)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 31110800,
+        "sourceRow": 74,
+        "encounterShape": "group"
+      }
+    },
+    {
+      "id": "er:b-perfumer-grotto-duo",
+      "classification": "primary",
+      "rationale": "Omenkiller & Miranda the Blighted Bloom — Perfumer's Grotto. The named combined boss fight is one checklist encounter; the flag reference identifies the encounter or one member. Do not create additional completion IDs for its partners. Classification only; no claim about direct game flag behavior, calibrated coordinates, or guide accuracy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 180 (archived row correspondence, Session 19/18)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published defeat-label ID 31180800; re-inspected source 2026-11-26"
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "guide index line 291 (prior captured index, current page shows removal warning; supplementary only)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 31180800,
+        "sourceRow": 78,
+        "encounterShape": "group"
+      }
+    },
+    {
+      "id": "er:b-abandoned-cleanrots",
+      "classification": "primary",
+      "rationale": "Cleanrot Knight duo — Abandoned Cave. The named combined boss fight is one checklist encounter; the flag reference identifies the encounter or one member. Do not create additional completion IDs for its partners. Classification only; no claim about direct game flag behavior, calibrated coordinates, or guide accuracy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 137 (archived row correspondence, Session 19/18)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published defeat-label ID 31200800; re-inspected source 2026-11-26"
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "guide index line 226 (prior captured index, current page shows removal warning; supplementary only)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 31200800,
+        "sourceRow": 81,
+        "encounterShape": "group"
+      }
+    },
+    {
+      "id": "er:b-altus-crystalians",
+      "classification": "primary",
+      "rationale": "Crystalian duo — Altus Tunnel. The named combined boss fight is one checklist encounter; the flag reference identifies the encounter or one member. Do not create additional completion IDs for its partners. Classification only; no claim about direct game flag behavior, calibrated coordinates, or guide accuracy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 181 (archived row correspondence, Session 19/18)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published defeat-label ID 32050800; re-inspected source 2026-11-26"
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "guide index line 274 (prior captured index, current page shows removal warning; supplementary only)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 32050800,
+        "sourceRow": 88,
+        "encounterShape": "group"
+      }
+    },
+    {
+      "id": "er:b-roadsend-snail",
+      "classification": "primary",
+      "rationale": "Spiritcaller Snail — Road's End Catacombs. The snail and summoned combat stages belong to one encounter, not additional independent completions. Classification only; no claim about direct game flag behavior, calibrated coordinates, or guide accuracy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 99 (archived row correspondence, Session 19/18)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published defeat-label ID 30030800; re-inspected source 2026-11-26"
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "guide index line 211 (prior captured index, current page shows removal warning; supplementary only)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 30030800,
+        "sourceRow": 43,
+        "encounterShape": "staged"
+      }
+    },
+    {
+      "id": "er:b-spiritcaller-cave",
+      "classification": "primary",
+      "rationale": "Spiritcaller Snail — Spiritcaller's Cave. The snail and summoned combat stages belong to one encounter, not additional independent completions. Classification only; no claim about direct game flag behavior, calibrated coordinates, or guide accuracy.",
+      "evidence": [
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 244 (archived row correspondence, Session 19/18)"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+          "locator": "Published defeat-label ID 31220800; re-inspected source 2026-11-26"
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "guide index line 363 (prior captured index, current page shows removal warning; supplementary only)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "witness": {
+        "flag": 31220800,
+        "sourceRow": 83,
+        "encounterShape": "staged"
+      }
+    }
+  ],
+  "sourceInventories": [
+    {
+      "url": "https://game-checklists.com/elden-ring/all-bosses/",
+      "scope": "210 checklist rows in archived base/DLC inventory",
+      "reconciliation": "65 individually reviewed one-row correspondences classified; remaining rows not adjudicated in this batch",
+      "evidence": "data/census/base-checklist-review.json; data/census/dlc-checklist-review.json",
+      "unresolved": 145
+    },
+    {
+      "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
+      "scope": "67 previously documented community flag witnesses only, not the entire flag reference",
+      "reconciliation": "65 narrow classifications; 2 explicit holds",
+      "evidence": "docs/DEFEAT_FLAG_RESEARCH.md; docs/session36-release-blocker-inventory.json",
+      "unresolved": 2
+    }
+  ],
+  "holds": [
+    {
+      "id": "er:b-murkwater-patches",
+      "reason": "Boss identity corroborated; surrender rather than kill is intended completion. Published defeat flag does not prove surrender semantics."
+    },
+    {
+      "id": "er:b-stray-mimic",
+      "reason": "Named checklist and flag label agree, but associated Compass arena has no name. Retain as candidate pending independent individual identity witness."
+    }
+  ],
+  "limitations": [
+    "No final census completeness assertion. Classification decisions are distinct from production admission, numerical guide verification, map calibration, or save integration.",
+    "The checklist and community flag reference have distinct publication domains; underlying data lineage is not established. Steam guide index is supplementary and currently carries a removal warning.",
+    "Existing 291 stable IDs remain unchanged; all other candidates remain unadjudicated. No flag execution or coordinate promotion."
+  ]
 }
