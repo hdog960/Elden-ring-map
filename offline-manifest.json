@@ -1,5 +1,5 @@
 {
-  "version": "session33-20261126-a",
+  "version": "session34-20261126-a",
   "releaseReady": false,
   "assets": [
     {
@@ -84,7 +84,7 @@
     },
     {
       "path": "data/encyclopedia/drafts.json",
-      "gitBlob": "d863be1979ec52389547b7908ee9a80bc7061513"
+      "gitBlob": "9bd7990085c8ee182484ebf3729f759fea482538"
     },
     {
       "path": "data/encyclopedia/stat-evidence.json",

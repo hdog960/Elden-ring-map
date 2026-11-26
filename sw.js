@@ -1,5 +1,5 @@
 /* Version-specific cache. No database access and no automatic skipWaiting. */
-const VERSION="session33-20261126-a",PREFIX="boss-hunter-assets-",CACHE=PREFIX+VERSION;
+const VERSION="session34-20261126-a",PREFIX="boss-hunter-assets-",CACHE=PREFIX+VERSION;
 const ROOT=new URL(self.registration.scope),manifestURL=new URL("offline-manifest.json",ROOT).href;
 const hex=b=>Array.from(new Uint8Array(b),v=>v.toString(16).padStart(2,"0")).join("");
 async function blobHash(buffer){const header=new TextEncoder().encode("blob "+buffer.byteLength+"\0"),bytes=new Uint8Array(header.length+buffer.byteLength);bytes.set(header);bytes.set(new Uint8Array(buffer),header.length);return hex(await crypto.subtle.digest("SHA-1",bytes));}

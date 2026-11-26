@@ -1,0 +1,967 @@
+{
+  "schema": 1,
+  "status": "partial-research-not-final",
+  "scope": "Base-game location-specific reward comparisons; public source agreement is not independent extraction. PCGamesN and Plarium tables show substantial overlap and are not assumed independent. Indexed wiki and targeted source evidence distinguished from retrieved sections.",
+  "records": [
+    {
+      "id": "er:b-chapel-scion",
+      "status": "matching-publications",
+      "runes": 3200,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Chapel of Anticipation, 164–166"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Chapel of Anticipation, 982–985"
+        }
+      ],
+      "note": "Published encounter-specific values agree; independence and exact regulation not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-fringefolk-spirit",
+      "status": "matching-publications",
+      "runes": 15000,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Fringefolk, 107–109"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Fringefolk, 336–344"
+        }
+      ],
+      "note": "Published encounter-specific values agree; independence and exact regulation not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-warmaster-hunter",
+      "status": "matching-publications",
+      "runes": 2700,
+      "evidence": [
+        {
+          "url": "https://gamefaqs.gamespot.com/ps4/265987-elden-ring/faqs/79824/limgrave",
+          "locator": "Warmaster's Shack, indexed boss reward"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Warmaster's Shack, 279–289"
+        }
+      ],
+      "note": "Published encounter-specific values agree; independence and exact regulation not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-stormhill-deathbird",
+      "status": "matching-publications",
+      "runes": 2800,
+      "evidence": [
+        {
+          "url": "https://gamefaqs.gamespot.com/ps4/265987-elden-ring/faqs/79824/limgrave",
+          "locator": "Warmaster's Shack nearby east, indexed boss reward"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Warmaster's Shack East, 293–303"
+        }
+      ],
+      "note": "Published encounter-specific values agree; independence and exact regulation not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-highroad-golem",
+      "status": "matching-publications",
+      "runes": 1700,
+      "evidence": [
+        {
+          "url": "https://gamefaqs.gamespot.com/ps4/265987-elden-ring/faqs/79824/limgrave",
+          "locator": "Highroad Cave indexed boss reward"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Highroad Cave, 197–199"
+        },
+        {
+          "url": "https://plarium.com/en/blog/elden-ring-boss-locations/",
+          "locator": "Highroad Cave, 198"
+        }
+      ],
+      "note": "Published encounter-specific values agree; independence and exact regulation not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-morne-cavalry",
+      "status": "matching-publications",
+      "runes": 3400,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Castle Morne Rampart, 144–146"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Castle Morne Rampart, 480–491"
+        }
+      ],
+      "note": "Published encounter-specific values agree; independence and exact regulation not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-tombsward-miranda",
+      "status": "matching-publications",
+      "runes": 2100,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Tombsward Cave, 160–161"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Tombsward Cave, 535–543"
+        }
+      ],
+      "note": "Published encounter-specific values agree; independence and exact regulation not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-weeping-deathbird",
+      "status": "matching-publications",
+      "runes": 3900,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Castle Morne, 158–159"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Castle Morne Outskirts, 558–569"
+        }
+      ],
+      "note": "Published encounter-specific values agree; independence and exact regulation not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-adan",
+      "status": "matching-publications",
+      "runes": 3800,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Malefactor's Evergaol, 169–170"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Malefactor's Evergaol, 644–652"
+        }
+      ],
+      "note": "Published encounter-specific values agree; independence and exact regulation not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-gatetown-cavalry",
+      "status": "matching-publications",
+      "runes": 5600,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Gate Town Bridge, 179–180"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Gate Town Bridge, 723–733"
+        }
+      ],
+      "note": "Published encounter-specific values agree; independence and exact regulation not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-bellum-cavalry",
+      "status": "matching-publications",
+      "runes": 5600,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Bellum Church, 176–178"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Bellum Highway, 893–904"
+        }
+      ],
+      "note": "Published encounter-specific values agree; independence and exact regulation not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-east-liurnia-avatar",
+      "status": "matching-publications",
+      "runes": 5800,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Eastern Minor Erdtree, 181–184"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Minor Erdtree East, 879–889"
+        }
+      ],
+      "note": "Published encounter-specific values agree; independence and exact regulation not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-west-liurnia-avatar",
+      "status": "matching-publications",
+      "runes": 5800,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Western Minor Erdtree, 185–187"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Minor Erdtree West, 922–933"
+        }
+      ],
+      "note": "Published encounter-specific values agree; independence and exact regulation not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-raya-crystalian",
+      "status": "matching-publications",
+      "runes": 3000,
+      "evidence": [
+        {
+          "url": "https://www.gamerguides.com/elden-ring/database/bosses/liurnia-of-the-lakes-bosses",
+          "locator": "Ringblade, 101–109"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Crystal Tunnel, 810–819"
+        }
+      ],
+      "note": "Published encounter-specific values agree; independence and exact regulation not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-academy-crystalians",
+      "status": "matching-publications",
+      "runes": 3300,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Academy Crystal Cave, 192–193"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Spear and Staff, 780–790"
+        }
+      ],
+      "note": "Published encounter-specific values agree; independence and exact regulation not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-albinauric-omenkiller",
+      "status": "matching-publications",
+      "runes": 4900,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Village of the Albinaurics, 209–210"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Village of the Albinaurics, 908–918"
+        }
+      ],
+      "note": "Published encounter-specific values agree; independence and exact regulation not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-adula",
+      "status": "matching-publications",
+      "runes": 120000,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Cathedral and retreat, 211–216"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Three Sisters and Cathedral, 1044–1069"
+        }
+      ],
+      "note": "Final Cathedral defeat only; Three Sisters retreat is not a second completion.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-smarag",
+      "status": "matching-publications",
+      "runes": 14000,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Lake west of Academy, 214–215"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Temple Quarter, 766–776"
+        }
+      ],
+      "note": "Published encounter-specific values agree; independence and exact regulation not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-liurnia-deathrite",
+      "status": "matching-publications",
+      "runes": 7800,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Gate Town North, 217–218"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Gate Town North, 794–805"
+        }
+      ],
+      "note": "Published encounter-specific values agree; independence and exact regulation not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-vows-hunter",
+      "status": "matching-publications",
+      "runes": 6000,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Church of Vows, 219–220"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Church of Vows, 823–833"
+        }
+      ],
+      "note": "Published encounter-specific values agree; independence and exact regulation not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-royalgrave-onyx",
+      "status": "matching-publications",
+      "runes": 3600,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Royal Grave Evergaol, 197–198"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Royal Grave Evergaol, 1032–1040"
+        },
+        {
+          "url": "https://eldenring.wiki.gg/wiki/Onyx_Lord",
+          "locator": "Indexed historical Alabaster Lord name"
+        },
+        {
+          "url": "https://eldenring.wiki.gg/wiki/Alabaster_Lord",
+          "locator": "Indexed version 1.00 name"
+        }
+      ],
+      "note": "Published historical name Alabaster Lord; retain the current Onyx Lord stable ID.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-rennala",
+      "status": "matching-publications",
+      "runes": 40000,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Academy, 194–196"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Academy, 1143–1153"
+        }
+      ],
+      "note": "Published encounter-specific values agree; independence and exact regulation not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-makar",
+      "status": "matching-publications",
+      "runes": 24000,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Ruin-Strewn Precipice, 237–239"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Ruin-Strewn Precipice, 1157–1167"
+        }
+      ],
+      "note": "Published encounter-specific values agree; independence and exact regulation not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-gael-wyrm",
+      "status": "matching-publications",
+      "runes": 7500,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Gael Tunnel, 242–244"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Gael Tunnel, 1172–1174"
+        }
+      ],
+      "note": "Published encounter-specific values agree; independence and exact regulation not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-caelem-pumpkins",
+      "status": "matching-publications",
+      "runes": 6300,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Caelem Ruins, 248"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Caelem Ruins, 1201–1209"
+        }
+      ],
+      "note": "Visage Shield is chest loot, not a direct drop.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-minorerdtree-watchdogs",
+      "status": "matching-publications",
+      "runes": 7400,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Minor Erdtree Catacombs, 249–250"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Sword and Staff pair, 1190–1197"
+        }
+      ],
+      "note": "Published encounter-specific values agree; independence and exact regulation not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-ekzykes",
+      "status": "matching-publications",
+      "runes": 38000,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Caelid Highway South, 251–252"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Caelid Highway South, 1255–1265"
+        }
+      ],
+      "note": "Published encounter-specific values agree; independence and exact regulation not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-caelid-cavalry",
+      "status": "matching-publications",
+      "runes": 8500,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Caelid Highway South, 253–254"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Caelid Highway South, 1275–1286"
+        }
+      ],
+      "note": "Published encounter-specific values agree; independence and exact regulation not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-oneil",
+      "status": "matching-publications",
+      "runes": 12000,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Aeonia, 255–257"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Aeonia, 1318–1326"
+        }
+      ],
+      "note": "Published encounter-specific values agree; independence and exact regulation not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-nox-duo",
+      "status": "matching-publications",
+      "runes": 6400,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Sellia, 258–259"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Chair-Crypt of Sellia, 1344–1353"
+        }
+      ],
+      "note": "Published encounter-specific values agree; independence and exact regulation not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-sellia-beast",
+      "status": "matching-publications",
+      "runes": 7600,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Sellia Crystal Tunnel, 263–267"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Sellia Crystal Tunnel, 1379–1386"
+        }
+      ],
+      "note": "Published encounter-specific values agree; independence and exact regulation not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-radahn",
+      "status": "matching-publications",
+      "runes": 70000,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Redmane Castle, 268–270"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Wailing Dunes, 1584–1594"
+        }
+      ],
+      "note": "Published encounter-specific values agree; independence and exact regulation not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-caelid-deathrite",
+      "status": "matching-publications",
+      "runes": 15000,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Southern Aeonia, 271–272"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Southern Aeonia, 1304–1314"
+        }
+      ],
+      "note": "Published encounter-specific values agree; independence and exact regulation not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-gaol-duelist",
+      "status": "matching-publications",
+      "runes": 6700,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Gaol Cave, 273–274"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Gaol Cave, 1241–1251"
+        }
+      ],
+      "note": "Published encounter-specific values agree; independence and exact regulation not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-sellia-battlemage",
+      "status": "matching-publications",
+      "runes": 7800,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Sellia Evergaol, 277–278"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Sellia Evergaol, 1402–1409"
+        }
+      ],
+      "note": "Published encounter-specific values agree; independence and exact regulation not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-sellia-crystalians",
+      "status": "matching-publications",
+      "runes": 7000,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Sellia Hideaway, 281–282"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Sellia Hideaway trio, 1427–1437"
+        }
+      ],
+      "note": "Published encounter-specific values agree; independence and exact regulation not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-redmane-duo",
+      "status": "matching-publications",
+      "runes": 16000,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Redmane Castle, 283–284"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Redmane Castle, 1569–1580"
+        }
+      ],
+      "note": "Published encounter-specific values agree; independence and exact regulation not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-tower-apostle",
+      "status": "matching-publications",
+      "runes": 94000,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Divine Tower basement, 290–294"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Divine Tower basement, 1441–1452"
+        }
+      ],
+      "note": "Published encounter-specific values agree; independence and exact regulation not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-dragonbarrow-beastmen",
+      "status": "matching-publications",
+      "runes": 65000,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Dragonbarrow Cave, 295–296"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Dragonbarrow Cave pair, 1484–1491"
+        }
+      ],
+      "note": "Published encounter-specific values agree; independence and exact regulation not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-greyll",
+      "status": "matching-publications",
+      "runes": 80000,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Farum Greatbridge, 297–298"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Farum Greatbridge, 1506–1514"
+        }
+      ],
+      "note": "Published encounter-specific values agree; independence and exact regulation not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-dragonbarrow-hunter",
+      "status": "matching-publications",
+      "runes": 50000,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Isolated Merchant's Shack, 305–306"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Isolated Merchant's Shack, 1470–1480"
+        }
+      ],
+      "note": "Published encounter-specific values agree; independence and exact regulation not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-sanctum-kindred",
+      "status": "matching-publications",
+      "runes": 88000,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Bestial Sanctum, 302–304"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Bestial Sanctum, 1518–1525"
+        }
+      ],
+      "note": "Other regional list entries conflate weapon rewards; keep sanctum-specific weapon pair.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-dragonbarrow-avatar",
+      "status": "matching-publications",
+      "runes": 91000,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Dragonbarrow Fork, 307–309"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Minor Erdtree East in Caelid, 1455–1466"
+        }
+      ],
+      "note": "Published encounter-specific values agree; independence and exact regulation not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-dragonbarrow-cavalry",
+      "status": "matching-publications",
+      "runes": 42000,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Lenne's Rise, 310–311"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Lenne's Rise, 1543–1554"
+        }
+      ],
+      "note": "Published encounter-specific values agree; independence and exact regulation not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-weeping-avatar",
+      "status": "conflict-unresolved",
+      "runes": null,
+      "reportedRunes": [
+        3600,
+        4500
+      ],
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Weeping Peninsula, 153–155: 4500"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Weeping Peninsula, 509–520: 3600"
+        }
+      ],
+      "note": "Published reward disagreement.",
+      "rewardChanged": false
+    },
+    {
+      "id": "er:b-stillwater-cleanrot",
+      "status": "conflict-unresolved",
+      "runes": null,
+      "reportedRunes": [
+        2475,
+        3300
+      ],
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Stillwater Cave, 167–168: 2475"
+        },
+        {
+          "url": "https://www.gamerguides.com/elden-ring/database/bosses/liurnia-of-the-lakes-bosses",
+          "locator": "Stillwater Cave, 93–100: 3300"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Stillwater Cave, 618–626: 3300"
+        }
+      ],
+      "note": "Published reward disagreement; dry ground and backstab openings are documented.",
+      "rewardChanged": false
+    },
+    {
+      "id": "er:b-abandoned-cleanrots",
+      "status": "conflict-unresolved",
+      "runes": null,
+      "reportedRunes": [
+        7000,
+        7800
+      ],
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Abandoned Cave, 275–276: 7000"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Abandoned Cave, 1390–1398: 7000"
+        },
+        {
+          "url": "https://plarium.com/en/blog/elden-ring-boss-locations/",
+          "locator": "Abandoned Cave, 272: 7800"
+        }
+      ],
+      "note": "Published reward disagreement.",
+      "rewardChanged": false
+    },
+    {
+      "id": "er:b-caelid-avatar",
+      "status": "conflict-unresolved",
+      "runes": null,
+      "reportedRunes": [
+        5800,
+        9600
+      ],
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Western Caelid, 245–247: 5800"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Caelid Minor Erdtree West, 1178–1186: 9600"
+        }
+      ],
+      "note": "Published reward disagreement; not the eastern Dragonbarrow avatar.",
+      "rewardChanged": false
+    },
+    {
+      "id": "er:b-wardead-spirit",
+      "status": "conflict-unresolved",
+      "runes": null,
+      "reportedRunes": [
+        64000,
+        67200
+      ],
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "War-Dead Catacombs, 312–314: 64000"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "War-Dead Catacombs, 1598–1608: 67200"
+        },
+        {
+          "url": "https://gamefaqs.gamespot.com/switch-2/524794-elden-ring-tarnished-edition/faqs/79824/caelid-dragonbarrow",
+          "locator": "Indexed War-Dead Catacombs: 67200"
+        },
+        {
+          "url": "https://wiki.eso-ui.com/index.php/Elden_Ring%3APutrid_Tree_Spirit",
+          "locator": "Indexed War-Dead Catacombs: 64000"
+        }
+      ],
+      "note": "Published reward disagreement; possible version effects not verified.",
+      "rewardChanged": false
+    },
+    {
+      "id": "er:b-cliffbottom-watchdog",
+      "status": "previous-report-retained-conflict",
+      "runes": 3200,
+      "reportedRunes": [
+        2700,
+        3200
+      ],
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Cliffbottom, 174–175: 2700"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Cliffbottom, 656–664: 3200"
+        },
+        {
+          "url": "https://www.neoseeker.com/elden-ring/Bosses/Erdtree_Burial_Watchdogs",
+          "locator": "Indexed Cliffbottom reward 3200"
+        },
+        {
+          "url": "https://eldenring.exputer.com/locations/cliffbottom-catacombs",
+          "locator": "Indexed boss reward 3200"
+        }
+      ],
+      "note": "Retain previously reported 3200, corroborated by location-specific sources; contradictory 2700 not silently discarded.",
+      "rewardChanged": false
+    },
+    {
+      "id": "er:b-roadsend-snail",
+      "status": "previous-report-retained-conflict",
+      "runes": 3000,
+      "reportedRunes": [
+        2250,
+        3000
+      ],
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Road's End, 207–208: 2250"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Road's End, 937–947: 3000"
+        }
+      ],
+      "note": "Previously reported 3000 remains provisional; contrary 2250 explicitly recorded.",
+      "rewardChanged": false
+    },
+    {
+      "id": "er:b-garris",
+      "status": "previous-report-retained-conflict",
+      "runes": 9000,
+      "reportedRunes": [
+        0,
+        9000
+      ],
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Sage's Cave, 330–331: 9000"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Sage's Cave, 1625–1635: 0"
+        },
+        {
+          "url": "https://www.neoseeker.com/elden-ring/Bosses/Necromancer_Garris",
+          "locator": "Indexed reward 9000"
+        },
+        {
+          "url": "https://tarnished.app/enemies/necromancer-garris",
+          "locator": "Indexed reward 9000"
+        }
+      ],
+      "note": "Retain previously reported 9000; location-specific corroboration and contradictory zero report recorded.",
+      "rewardChanged": false
+    }
+  ]
+}

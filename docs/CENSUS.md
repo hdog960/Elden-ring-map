@@ -80,3 +80,6 @@ Six scoped records and nine guide refinements. Evidence strength explicitly labe
 
 ## Session 33
 27 DLC encounter reward rows audited with source-section locators; 24 reported figures (one existing), three unresolved discrepancies; separate Ghostflame variants and retain paired-drake semantics. No final admission or ID changes.
+
+## Session 34
+52 base-game reward rows reviewed, 44 reward strings updated, 8 conflicts explicitly documented. Royal Grave Evergaol historical name and Adula retreat clarified without new IDs. No final admission.

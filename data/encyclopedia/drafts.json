@@ -480,11 +480,13 @@
       "conditions": "Optional dangerous early dungeon; return later if necessary.",
       "combat": "Coiling body, lunge, sweeping tail and a charged explosion.",
       "strategy": "Watch the head and shoulders rather than the tail alone. Retreat from its glowing charge; punish the end of the lunge. Keep casts short when it is moving.",
-      "rewards": "Banished Knight Oleg; Golden Seed.",
+      "rewards": "Banished Knight Oleg; Golden Seed; 15,000 runes (reported NG).",
       "preparation": "Level 30–45; vigor and fire damage are useful.",
       "sources": [
         "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
-        "https://gamefaqs.gamespot.com/ps5/323053-elden-ring/faqs/80028/dungeon-bosses"
+        "https://gamefaqs.gamespot.com/ps5/323053-elden-ring/faqs/80028/dungeon-bosses",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+        "https://roundtablehold.net/checklists/bosses.html"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -495,7 +497,8 @@
       },
       "unresolved": [
         "Exact NG numerical combat data and rune reward require independent patch-specific verification.",
-        "Confirm grace, entrance, summon and critical eligibility before publication."
+        "Confirm grace, entrance, summon and critical eligibility before publication.",
+        "Session 34 reward review: Published encounter-specific values agree; independence and exact regulation not established."
       ]
     },
     {
@@ -614,11 +617,13 @@
       "conditions": "Night only; distinct hunter encounter.",
       "combat": "Telekinetic sword extends reach well beyond the body; shield bash and grab.",
       "strategy": "Fight close enough to read the sword hand or stay well outside its extended reach. Dodge late and punish a grounded recovery; don't heal at medium range.",
-      "rewards": "Bone Peddler's Bell Bearing.",
+      "rewards": "Bone Peddler's Bell Bearing; 2,700 runes (reported NG).",
       "preparation": "Level 35–50; physical defense.",
       "sources": [
         "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
-        "https://eldenring.redmaw.dev/sheets/bosses"
+        "https://eldenring.redmaw.dev/sheets/bosses",
+        "https://gamefaqs.gamespot.com/ps4/265987-elden-ring/faqs/79824/limgrave",
+        "https://roundtablehold.net/checklists/bosses.html"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -629,7 +634,8 @@
       },
       "unresolved": [
         "Exact NG numerical combat data and rune reward require independent patch-specific verification.",
-        "Confirm grace, entrance, summon and critical eligibility before publication."
+        "Confirm grace, entrance, summon and critical eligibility before publication.",
+        "Session 34 reward review: Published encounter-specific values agree; independence and exact regulation not established."
       ]
     },
     {
@@ -639,11 +645,13 @@
       "conditions": "Night only; not a Death Rite Bird.",
       "combat": "Pecking, cane swings, leaps and screams.",
       "strategy": "Aim for the head when it lowers; avoid getting trapped under its body during the next swing. Holy damage is particularly useful against undead.",
-      "rewards": "Blue-Feathered Branchsword.",
+      "rewards": "Blue-Feathered Branchsword; 2,800 runes (reported NG).",
       "preparation": "Level 25–40; holy damage option.",
       "sources": [
         "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
-        "https://eldenring.redmaw.dev/sheets/bosses"
+        "https://eldenring.redmaw.dev/sheets/bosses",
+        "https://gamefaqs.gamespot.com/ps4/265987-elden-ring/faqs/79824/limgrave",
+        "https://roundtablehold.net/checklists/bosses.html"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -654,7 +662,8 @@
       },
       "unresolved": [
         "Exact NG numerical combat data and rune reward require independent patch-specific verification.",
-        "Confirm grace, entrance, summon and critical eligibility before publication."
+        "Confirm grace, entrance, summon and critical eligibility before publication.",
+        "Session 34 reward review: Published encounter-specific values agree; independence and exact regulation not established."
       ]
     },
     {
@@ -693,11 +702,14 @@
       "conditions": "Optional dungeon; platforming route.",
       "combat": "Slow halberd swings, stomps and long wind-ups.",
       "strategy": "Strike its ankles to cause a fall, then attack the exposed torso. Avoid standing between its feet during a stomp.",
-      "rewards": "Blue Dancer Charm.",
+      "rewards": "Blue Dancer Charm; 1,700 runes (reported NG).",
       "preparation": "Level 20–30; strike weapon useful.",
       "sources": [
         "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
-        "https://gamefaqs.gamespot.com/ps5/323053-elden-ring/faqs/80028/dungeon-bosses"
+        "https://gamefaqs.gamespot.com/ps5/323053-elden-ring/faqs/80028/dungeon-bosses",
+        "https://gamefaqs.gamespot.com/ps4/265987-elden-ring/faqs/79824/limgrave",
+        "https://roundtablehold.net/checklists/bosses.html",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -708,7 +720,8 @@
       },
       "unresolved": [
         "Exact NG numerical combat data and rune reward require independent patch-specific verification.",
-        "Confirm grace, entrance, summon and critical eligibility before publication."
+        "Confirm grace, entrance, summon and critical eligibility before publication.",
+        "Session 34 reward review: Published encounter-specific values agree; independence and exact regulation not established."
       ]
     },
     {
@@ -805,11 +818,13 @@
       "conditions": "Optional dungeon; poison en route.",
       "combat": "Poison clouds and light pillars from above.",
       "strategy": "Keep fire attacks available, step away when clouds collect and move laterally from the light pattern. Use brief melee bursts instead of standing in the poison.",
-      "rewards": "Viridian Amber Medallion.",
+      "rewards": "Viridian Amber Medallion; 2,100 runes (reported NG).",
       "preparation": "Level 15–30; poison cures.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/guide/weeping-peninsula/bosses/",
-        "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/"
+        "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+        "https://roundtablehold.net/checklists/bosses.html"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -820,7 +835,8 @@
       },
       "unresolved": [
         "Exact NG numerical combat data and rune reward require independent patch-specific verification.",
-        "Confirm grace, entrance, summon and critical eligibility before publication."
+        "Confirm grace, entrance, summon and critical eligibility before publication.",
+        "Session 34 reward review: Published encounter-specific values agree; independence and exact regulation not established."
       ]
     },
     {
@@ -830,11 +846,13 @@
       "conditions": "Night only; separate from Limgrave bird.",
       "combat": "Long cane swings, pecks and hopping attacks.",
       "strategy": "Use holy damage if available; do not stay behind the head when it twists. Strike after the cane settles, or use ranged attacks while circling.",
-      "rewards": "Sacrificial Axe.",
+      "rewards": "Sacrificial Axe; 3,900 runes (reported NG).",
       "preparation": "Level 25–35; night travel on Torrent.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/guide/weeping-peninsula/bosses/",
-        "https://eldenring.redmaw.dev/sheets/bosses"
+        "https://eldenring.redmaw.dev/sheets/bosses",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+        "https://roundtablehold.net/checklists/bosses.html"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -845,7 +863,8 @@
       },
       "unresolved": [
         "Exact NG numerical combat data and rune reward require independent patch-specific verification.",
-        "Confirm grace, entrance, summon and critical eligibility before publication."
+        "Confirm grace, entrance, summon and critical eligibility before publication.",
+        "Session 34 reward review: Published encounter-specific values agree; independence and exact regulation not established."
       ]
     },
     {
@@ -859,7 +878,9 @@
       "preparation": "Level 20–35; fire damage.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/guide/weeping-peninsula/bosses/",
-        "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/"
+        "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+        "https://roundtablehold.net/checklists/bosses.html"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -870,7 +891,8 @@
       },
       "unresolved": [
         "Exact NG numerical combat data and rune reward require independent patch-specific verification.",
-        "Confirm grace, entrance, summon and critical eligibility before publication."
+        "Confirm grace, entrance, summon and critical eligibility before publication.",
+        "Session 34 reward review: Published reward disagreement."
       ]
     },
     {
@@ -908,11 +930,13 @@
       "conditions": "Night only.",
       "combat": "Mounted flail sweeps, charge and dismounted attacks.",
       "strategy": "Let the rider pass before striking its exposed side. Keep distance from the flail's arc and don't chase a retreat into another charge.",
-      "rewards": "Ash of War: Barricade Shield; Nightrider Flail.",
+      "rewards": "Ash of War: Barricade Shield; Nightrider Flail; 3,400 runes (reported NG).",
       "preparation": "Level 20–35.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/guide/weeping-peninsula/bosses/",
-        "https://eldenring.redmaw.dev/sheets/bosses"
+        "https://eldenring.redmaw.dev/sheets/bosses",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+        "https://roundtablehold.net/checklists/bosses.html"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -923,7 +947,8 @@
       },
       "unresolved": [
         "Exact NG numerical combat data and rune reward require independent patch-specific verification.",
-        "Confirm grace, entrance, summon and critical eligibility before publication."
+        "Confirm grace, entrance, summon and critical eligibility before publication.",
+        "Session 34 reward review: Published encounter-specific values agree; independence and exact regulation not established."
       ]
     },
     {
@@ -1264,12 +1289,14 @@
       "conditions": "Optional evergaol; no ordinary Spirit Ashes.",
       "combat": "Flail chains and delayed flame orb explosion.",
       "strategy": "Keep the orb visible and leave its blast area. Bait a flail swing and punish its recovery with quick strikes or casts.",
-      "rewards": "Flame of the Fell God.",
+      "rewards": "Flame of the Fell God; 3,800 runes (reported NG).",
       "preparation": "Level 35–50; fire defense.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/guide/liurnia-of-the-lakes/bosses/",
         "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
-        "https://plarium.com/en/blog/elden-ring-boss-locations/"
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+        "https://roundtablehold.net/checklists/bosses.html"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -1280,7 +1307,8 @@
       },
       "unresolved": [
         "Verify exact current-patch NG statistics, rune rewards and source-specific details per encounter.",
-        "Confirm nearest grace, entrance route, summon and critical eligibility."
+        "Confirm nearest grace, entrance route, summon and critical eligibility.",
+        "Session 34 reward review: Published encounter-specific values agree; independence and exact regulation not established."
       ]
     },
     {
@@ -1320,12 +1348,14 @@
       "conditions": "Night only; independent hunter.",
       "combat": "Telekinetic sword sweeps, shield slam and grab.",
       "strategy": "Avoid lingering at medium range. Dodge toward the flank after the swing and attack once; heal after the committed slam.",
-      "rewards": "Meat Peddler's Bell Bearing.",
+      "rewards": "Meat Peddler's Bell Bearing; 6,000 runes (reported NG).",
       "preparation": "Level 45–60; physical defense.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/guide/liurnia-of-the-lakes/bosses/",
         "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
-        "https://plarium.com/en/blog/elden-ring-boss-locations/"
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+        "https://roundtablehold.net/checklists/bosses.html"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -1336,7 +1366,8 @@
       },
       "unresolved": [
         "Verify exact current-patch NG statistics, rune rewards and source-specific details per encounter.",
-        "Confirm nearest grace, entrance route, summon and critical eligibility."
+        "Confirm nearest grace, entrance route, summon and critical eligibility.",
+        "Session 34 reward review: Published encounter-specific values agree; independence and exact regulation not established."
       ]
     },
     {
@@ -1459,13 +1490,16 @@
       "directions": "Enter the southern cliff cave and descend to the poison-filled chamber.",
       "conditions": "Optional dungeon; poison in arena.",
       "combat": "Sword and spear chains, thrust grab, sacred ground attacks.",
-      "strategy": "Lure the knight onto dry ground; circle after committed thrusts and avoid the golden spear eruption.",
+      "strategy": "Lure the knight onto dry ground; circle after committed thrusts and avoid the golden spear eruption. Lure the knight onto dry ground and look for backstab openings during committed attacks.",
       "rewards": "Winged Sword Insignia.",
       "preparation": "Level 30–45; poison cures.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/guide/liurnia-of-the-lakes/bosses/",
         "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
-        "https://plarium.com/en/blog/elden-ring-boss-locations/"
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+        "https://www.gamerguides.com/elden-ring/database/bosses/liurnia-of-the-lakes-bosses",
+        "https://roundtablehold.net/checklists/bosses.html"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -1476,7 +1510,8 @@
       },
       "unresolved": [
         "Verify exact current-patch NG statistics, rune rewards and source-specific details per encounter.",
-        "Confirm nearest grace, entrance route, summon and critical eligibility."
+        "Confirm nearest grace, entrance route, summon and critical eligibility.",
+        "Session 34 reward review: Published reward disagreement; dry ground and backstab openings are documented."
       ]
     },
     {
@@ -1486,12 +1521,14 @@
       "conditions": "Simultaneous spear and staff encounter.",
       "combat": "Leaping thrusts and ranged crystal sorcery.",
       "strategy": "Use pillars to block the caster. Separate the spear user, break its crystalline guard with stance damage, then target the caster.",
-      "rewards": "Crystal Release.",
+      "rewards": "Crystal Release; 3,300 runes (reported NG).",
       "preparation": "Level 40–55; hammer or stance-breaking magic.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/guide/liurnia-of-the-lakes/bosses/",
         "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
-        "https://plarium.com/en/blog/elden-ring-boss-locations/"
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+        "https://roundtablehold.net/checklists/bosses.html"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -1502,7 +1539,8 @@
       },
       "unresolved": [
         "Verify exact current-patch NG statistics, rune rewards and source-specific details per encounter.",
-        "Confirm nearest grace, entrance route, summon and critical eligibility."
+        "Confirm nearest grace, entrance route, summon and critical eligibility.",
+        "Session 34 reward review: Published encounter-specific values agree; independence and exact regulation not established."
       ]
     },
     {
@@ -1512,12 +1550,14 @@
       "conditions": "Optional single ringblade fight.",
       "combat": "Spinning sweeps and thrown rings.",
       "strategy": "Focus on stance damage until the shell breaks; dodge the returning rings and exploit the weakened shell.",
-      "rewards": "Smithing-Stone Miner's Bell Bearing [1].",
+      "rewards": "Smithing-Stone Miner's Bell Bearing [1]; 3,000 runes (reported NG).",
       "preparation": "Level 30–45; strike weapon.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/guide/liurnia-of-the-lakes/bosses/",
         "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
-        "https://plarium.com/en/blog/elden-ring-boss-locations/"
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.gamerguides.com/elden-ring/database/bosses/liurnia-of-the-lakes-bosses",
+        "https://roundtablehold.net/checklists/bosses.html"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -1528,7 +1568,8 @@
       },
       "unresolved": [
         "Verify exact current-patch NG statistics, rune rewards and source-specific details per encounter.",
-        "Confirm nearest grace, entrance route, summon and critical eligibility."
+        "Confirm nearest grace, entrance route, summon and critical eligibility.",
+        "Session 34 reward review: Published encounter-specific values agree; independence and exact regulation not established."
       ]
     },
     {
@@ -1564,12 +1605,14 @@
       "conditions": "Night only.",
       "combat": "Ghostflame hazards, long sweeps and aerial attacks.",
       "strategy": "Leave burning trails immediately; strike the head after a leap and keep stamina for follow-up dodges.",
-      "rewards": "Ancient Death Rancor.",
+      "rewards": "Ancient Death Rancor; 7,800 runes (reported NG).",
       "preparation": "Level 45–65; holy damage and frost protection.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/guide/liurnia-of-the-lakes/bosses/",
         "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
-        "https://plarium.com/en/blog/elden-ring-boss-locations/"
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+        "https://roundtablehold.net/checklists/bosses.html"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -1580,7 +1623,8 @@
       },
       "unresolved": [
         "Verify exact current-patch NG statistics, rune rewards and source-specific details per encounter.",
-        "Confirm nearest grace, entrance route, summon and critical eligibility."
+        "Confirm nearest grace, entrance route, summon and critical eligibility.",
+        "Session 34 reward review: Published encounter-specific values agree; independence and exact regulation not established."
       ]
     },
     {
@@ -1590,12 +1634,14 @@
       "conditions": "Optional field encounter.",
       "combat": "Staff slams and golden projectiles.",
       "strategy": "Move laterally through the volley and punish the final slam. Fire damage is useful; avoid the cliff edges.",
-      "rewards": "Holy-, Lightning- and Magic-Shrouding Cracked Tears.",
+      "rewards": "Holy-, Lightning- and Magic-Shrouding Cracked Tears; 5,800 runes (reported NG).",
       "preparation": "Level 35–50.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/guide/liurnia-of-the-lakes/bosses/",
         "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
-        "https://plarium.com/en/blog/elden-ring-boss-locations/"
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+        "https://roundtablehold.net/checklists/bosses.html"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -1606,7 +1652,8 @@
       },
       "unresolved": [
         "Verify exact current-patch NG statistics, rune rewards and source-specific details per encounter.",
-        "Confirm nearest grace, entrance route, summon and critical eligibility."
+        "Confirm nearest grace, entrance route, summon and critical eligibility.",
+        "Session 34 reward review: Published encounter-specific values agree; independence and exact regulation not established."
       ]
     },
     {
@@ -1616,12 +1663,14 @@
       "conditions": "Independent from northeastern Avatar.",
       "combat": "Staff swings, slams and light projectiles.",
       "strategy": "Circle around scattered pots, sprint sideways from projectiles, and attack during staff recovery.",
-      "rewards": "Cerulean Crystal Tear; Ruptured Crystal Tear.",
+      "rewards": "Cerulean Crystal Tear; Ruptured Crystal Tear; 5,800 runes (reported NG).",
       "preparation": "Level 35–50; fire damage.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/guide/liurnia-of-the-lakes/bosses/",
         "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
-        "https://plarium.com/en/blog/elden-ring-boss-locations/"
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+        "https://roundtablehold.net/checklists/bosses.html"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -1632,7 +1681,8 @@
       },
       "unresolved": [
         "Verify exact current-patch NG statistics, rune rewards and source-specific details per encounter.",
-        "Confirm nearest grace, entrance route, summon and critical eligibility."
+        "Confirm nearest grace, entrance route, summon and critical eligibility.",
+        "Session 34 reward review: Published encounter-specific values agree; independence and exact regulation not established."
       ]
     },
     {
@@ -1648,7 +1698,10 @@
         "https://www.gamerguides.com/elden-ring/guide/liurnia-of-the-lakes/bosses/",
         "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
-        "https://eldenring.exputer.com/locations/cliffbottom-catacombs"
+        "https://eldenring.exputer.com/locations/cliffbottom-catacombs",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+        "https://roundtablehold.net/checklists/bosses.html",
+        "https://www.neoseeker.com/elden-ring/Bosses/Erdtree_Burial_Watchdogs"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -1660,22 +1713,25 @@
       "unresolved": [
         "Verify exact current-patch NG statistics, rune rewards and source-specific details per encounter.",
         "Confirm nearest grace, entrance route, summon and critical eligibility.",
-        "Published identity/reward review: Rune figure is a published report, not independently reproduced. Exact regulation and final guide admission remain pending."
+        "Published identity/reward review: Rune figure is a published report, not independently reproduced. Exact regulation and final guide admission remain pending.",
+        "Session 34 reward review: Retain previously reported 3200, corroborated by location-specific sources; contradictory 2700 not silently discarded."
       ]
     },
     {
       "id": "er:b-adula",
       "grace": "Cathedral of Manus Celes",
       "directions": "After reaching Moonlight Altar, approach the cathedral.",
-      "conditions": "First appearance at Three Sisters retreats; final defeat tracked here.",
+      "conditions": "First appearance at Three Sisters retreats; final defeat tracked here. The earlier Three Sisters retreat is not a separate defeat.",
       "combat": "Magic breath and sweeping frost blade.",
       "strategy": "Leave the blade's arc and reposition sideways with Torrent during breath attacks. Punish grounded recovery at the head.",
-      "rewards": "Adula's Moonblade; Dragon Hearts.",
+      "rewards": "Adula's Moonblade; Dragon Hearts; 120,000 runes (reported NG).",
       "preparation": "Level 75–100; magic and frost defense.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/guide/liurnia-of-the-lakes/bosses/",
         "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
-        "https://plarium.com/en/blog/elden-ring-boss-locations/"
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+        "https://roundtablehold.net/checklists/bosses.html"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -1686,7 +1742,8 @@
       },
       "unresolved": [
         "Verify exact current-patch NG statistics, rune rewards and source-specific details per encounter.",
-        "Confirm nearest grace, entrance route, summon and critical eligibility."
+        "Confirm nearest grace, entrance route, summon and critical eligibility.",
+        "Session 34 reward review: Final Cathedral defeat only; Three Sisters retreat is not a second completion."
       ]
     },
     {
@@ -1696,12 +1753,14 @@
       "conditions": "Optional; key can be collected without defeating it.",
       "combat": "Magic breath, stomps and aerial dives.",
       "strategy": "Evade breath paths sideways on Torrent; use head openings or short leg hits, and retreat from raised feet.",
-      "rewards": "Dragon Heart; unlocks Smarag's Glintstone Breath.",
+      "rewards": "Dragon Heart; unlocks Smarag's Glintstone Breath; 14,000 runes (reported NG).",
       "preparation": "Level 35–55; magic defense.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/guide/liurnia-of-the-lakes/bosses/",
         "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
-        "https://plarium.com/en/blog/elden-ring-boss-locations/"
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+        "https://roundtablehold.net/checklists/bosses.html"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -1712,7 +1771,8 @@
       },
       "unresolved": [
         "Verify exact current-patch NG statistics, rune rewards and source-specific details per encounter.",
-        "Confirm nearest grace, entrance route, summon and critical eligibility."
+        "Confirm nearest grace, entrance route, summon and critical eligibility.",
+        "Session 34 reward review: Published encounter-specific values agree; independence and exact regulation not established."
       ]
     },
     {
@@ -1722,12 +1782,14 @@
       "conditions": "Night only.",
       "combat": "Mounted charges, sweeps and dismounted attacks.",
       "strategy": "Bait a pass and punish the exposed side as it turns; avoid the broken road edge.",
-      "rewards": "Ash of War: Ice Spear.",
+      "rewards": "Ash of War: Ice Spear; 5,600 runes (reported NG).",
       "preparation": "Level 35–50.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/guide/liurnia-of-the-lakes/bosses/",
         "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
-        "https://plarium.com/en/blog/elden-ring-boss-locations/"
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+        "https://roundtablehold.net/checklists/bosses.html"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -1738,7 +1800,8 @@
       },
       "unresolved": [
         "Verify exact current-patch NG statistics, rune rewards and source-specific details per encounter.",
-        "Confirm nearest grace, entrance route, summon and critical eligibility."
+        "Confirm nearest grace, entrance route, summon and critical eligibility.",
+        "Session 34 reward review: Published encounter-specific values agree; independence and exact regulation not established."
       ]
     },
     {
@@ -1748,12 +1811,14 @@
       "conditions": "Night only; separate from Gate Town Bridge.",
       "combat": "Mounted weapon swings and charges.",
       "strategy": "Let the rider finish a charge before attacking its flank. Keep the horse visible and do not overcommit during turns.",
-      "rewards": "Ash of War: Giant Hunt; Nightrider Glaive.",
+      "rewards": "Ash of War: Giant Hunt; Nightrider Glaive; 5,600 runes (reported NG).",
       "preparation": "Level 40–55.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/guide/liurnia-of-the-lakes/bosses/",
         "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
-        "https://plarium.com/en/blog/elden-ring-boss-locations/"
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+        "https://roundtablehold.net/checklists/bosses.html"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -1764,7 +1829,8 @@
       },
       "unresolved": [
         "Verify exact current-patch NG statistics, rune rewards and source-specific details per encounter.",
-        "Confirm nearest grace, entrance route, summon and critical eligibility."
+        "Confirm nearest grace, entrance route, summon and critical eligibility.",
+        "Session 34 reward review: Published encounter-specific values agree; independence and exact regulation not established."
       ]
     },
     {
@@ -1774,12 +1840,14 @@
       "conditions": "Optional; dogs accompany boss.",
       "combat": "Paired cleaver swings, fire breath and leaps.",
       "strategy": "Clear or distract the dogs, dodge toward the side of the cleaver chains and punish after breath.",
-      "rewards": "Crucible Knot Talisman.",
+      "rewards": "Crucible Knot Talisman; 4,900 runes (reported NG).",
       "preparation": "Level 35–50; fire protection.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/guide/liurnia-of-the-lakes/bosses/",
         "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
-        "https://plarium.com/en/blog/elden-ring-boss-locations/"
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+        "https://roundtablehold.net/checklists/bosses.html"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -1790,22 +1858,27 @@
       },
       "unresolved": [
         "Verify exact current-patch NG statistics, rune rewards and source-specific details per encounter.",
-        "Confirm nearest grace, entrance route, summon and critical eligibility."
+        "Confirm nearest grace, entrance route, summon and critical eligibility.",
+        "Session 34 reward review: Published encounter-specific values agree; independence and exact regulation not established."
       ]
     },
     {
       "id": "er:b-royalgrave-onyx",
       "grace": "Behind Caria Manor",
       "directions": "Reach the plateau beyond the manor and enter Royal Grave Evergaol.",
-      "conditions": "Optional; historical Alabaster Lord alias refers to same fight.",
+      "conditions": "Optional; historical Alabaster Lord alias refers to same fight. Older references may call this boss Alabaster Lord; this is the same Royal Grave Evergaol encounter.",
       "combat": "Gravity projectiles, sword swings and meteors.",
       "strategy": "Leave gravity hazards, close after recovery and avoid casting while meteors descend.",
-      "rewards": "Meteorite sorcery.",
+      "rewards": "Meteorite sorcery; 3,600 runes (reported NG).",
       "preparation": "Level 40–55; magic defense.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/guide/liurnia-of-the-lakes/bosses/",
         "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
-        "https://plarium.com/en/blog/elden-ring-boss-locations/"
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+        "https://roundtablehold.net/checklists/bosses.html",
+        "https://eldenring.wiki.gg/wiki/Onyx_Lord",
+        "https://eldenring.wiki.gg/wiki/Alabaster_Lord"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -1816,7 +1889,8 @@
       },
       "unresolved": [
         "Verify exact current-patch NG statistics, rune rewards and source-specific details per encounter.",
-        "Confirm nearest grace, entrance route, summon and critical eligibility."
+        "Confirm nearest grace, entrance route, summon and critical eligibility.",
+        "Session 34 reward review: Published historical name Alabaster Lord; retain the current Onyx Lord stable ID."
       ]
     },
     {
@@ -1863,7 +1937,9 @@
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
         "https://www.dualshockers.com/elden-ring-roads-end-catacombs-walkthrough/",
         "https://eldenring.redmaw.dev/sheets/walkthrough",
-        "https://eip.gg/elden-ring/guides/roads-end-catacombs-dungeon-walkthrough/"
+        "https://eip.gg/elden-ring/guides/roads-end-catacombs-dungeon-walkthrough/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+        "https://roundtablehold.net/checklists/bosses.html"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -1875,7 +1951,8 @@
       "unresolved": [
         "Verify exact current-patch NG statistics, rune rewards and source-specific details per encounter.",
         "Confirm nearest grace, entrance route, summon and critical eligibility.",
-        "Published identity/reward review: Watchdog's Staff and Raya Lucaria Soldier Ashes are separate dungeon loot, not boss drops. Exact regulation and final guide admission remain pending."
+        "Published identity/reward review: Watchdog's Staff and Raya Lucaria Soldier Ashes are separate dungeon loot, not boss drops. Exact regulation and final guide admission remain pending.",
+        "Session 34 reward review: Previously reported 3000 remains provisional; contrary 2250 explicitly recorded."
       ]
     },
     {
@@ -1971,12 +2048,14 @@
       "conditions": "Shardbearer; two phases counted once.",
       "combat": "Shield-bearing students, then sorcery beams, moon and summons.",
       "strategy": "Hit singing glowing students until shield falls, then burst damage. In phase two close diagonally and punish spell recovery; evade summons until gone.",
-      "rewards": "Great Rune of the Unborn; Remembrance of the Full Moon Queen.",
+      "rewards": "Great Rune of the Unborn; Remembrance of the Full Moon Queen; 40,000 runes (reported NG).",
       "preparation": "Level 40–60; physical damage and magic defense.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/guide/liurnia-of-the-lakes/bosses/",
         "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
-        "https://plarium.com/en/blog/elden-ring-boss-locations/"
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+        "https://roundtablehold.net/checklists/bosses.html"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -1987,7 +2066,8 @@
       },
       "unresolved": [
         "Verify exact current-patch NG statistics, rune rewards and source-specific details per encounter.",
-        "Confirm nearest grace, entrance route, summon and critical eligibility."
+        "Confirm nearest grace, entrance route, summon and critical eligibility.",
+        "Session 34 reward review: Published encounter-specific values agree; independence and exact regulation not established."
       ]
     },
     {
@@ -1997,12 +2077,14 @@
       "conditions": "Optional route into Altus.",
       "combat": "Magma trails, sword slams and charge.",
       "strategy": "Do not follow the magma charge. Wait beside its path and punish the head or legs after the slam.",
-      "rewards": "Magma Wyrm's Scalesword; Dragon Heart.",
+      "rewards": "Magma Wyrm's Scalesword; Dragon Heart; 24,000 runes (reported NG).",
       "preparation": "Level 45–60; fire defense.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/guide/liurnia-of-the-lakes/bosses/",
         "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
-        "https://plarium.com/en/blog/elden-ring-boss-locations/"
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+        "https://roundtablehold.net/checklists/bosses.html"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -2013,7 +2095,8 @@
       },
       "unresolved": [
         "Verify exact current-patch NG statistics, rune rewards and source-specific details per encounter.",
-        "Confirm nearest grace, entrance route, summon and critical eligibility."
+        "Confirm nearest grace, entrance route, summon and critical eligibility.",
+        "Session 34 reward review: Published encounter-specific values agree; independence and exact regulation not established."
       ]
     },
     {
@@ -2023,12 +2106,14 @@
       "conditions": "Festival activation required; paired plaza fight can be restored afterward.",
       "combat": "Opening bow volleys, gravity-infused sword chains, airborne meteor return.",
       "strategy": "Use the arena summon signs while approaching; dodge arrows on release. When he vanishes, move away from the meteor landing. Attack from the flank after his sword chain.",
-      "rewards": "Radahn's Great Rune; Remembrance of the Starscourge.",
+      "rewards": "Radahn's Great Rune; Remembrance of the Starscourge; 70,000 runes (reported NG).",
       "preparation": "Level 60–80; vigor and upgraded weapon.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/database/bosses/caelid-bosses",
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
-        "https://www.gamerguides.com/elden-ring/database/locations/caelid"
+        "https://www.gamerguides.com/elden-ring/database/locations/caelid",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+        "https://roundtablehold.net/checklists/bosses.html"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -2039,7 +2124,8 @@
       },
       "unresolved": [
         "Confirm exact NG numerical statistics and patch-dependent reward values.",
-        "Verify route, summon eligibility and exact source-specific details."
+        "Verify route, summon eligibility and exact source-specific details.",
+        "Session 34 reward review: Published encounter-specific values agree; independence and exact regulation not established."
       ]
     },
     {
@@ -2049,12 +2135,14 @@
       "conditions": "Festival temporarily suppresses this encounter.",
       "combat": "Misbegotten rushes first; Crucible Knight enters during the fight.",
       "strategy": "Burst down the first opponent before the knight closes. Keep both in view if they overlap; against the knight, wait for its last sword or tail swing.",
-      "rewards": "Ruins Greatsword.",
+      "rewards": "Ruins Greatsword; 16,000 runes (reported NG).",
       "preparation": "Level 50–70; stagger-capable weapon.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/database/bosses/caelid-bosses",
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
-        "https://www.gamerguides.com/elden-ring/database/locations/caelid"
+        "https://www.gamerguides.com/elden-ring/database/locations/caelid",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+        "https://roundtablehold.net/checklists/bosses.html"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -2065,7 +2153,8 @@
       },
       "unresolved": [
         "Confirm exact NG numerical statistics and patch-dependent reward values.",
-        "Verify route, summon eligibility and exact source-specific details."
+        "Verify route, summon eligibility and exact source-specific details.",
+        "Session 34 reward review: Published encounter-specific values agree; independence and exact regulation not established."
       ]
     },
     {
@@ -2110,7 +2199,9 @@
       "sources": [
         "https://www.gamerguides.com/elden-ring/database/bosses/caelid-bosses",
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
-        "https://www.gamerguides.com/elden-ring/database/locations/caelid"
+        "https://www.gamerguides.com/elden-ring/database/locations/caelid",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+        "https://roundtablehold.net/checklists/bosses.html"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -2121,7 +2212,8 @@
       },
       "unresolved": [
         "Confirm exact NG numerical statistics and patch-dependent reward values.",
-        "Verify route, summon eligibility and exact source-specific details."
+        "Verify route, summon eligibility and exact source-specific details.",
+        "Session 34 reward review: Published reward disagreement."
       ]
     },
     {
@@ -2131,12 +2223,14 @@
       "conditions": "Optional; reward is important to Millicent's quest.",
       "combat": "Halberd swings, summoned soldiers and rot-producing area attacks.",
       "strategy": "Remove nearby soldiers or use a distraction. Retreat from the wind-up of the wide rot storm and close after it ends. Torrent helps avoid swamp hazards outside the arena.",
-      "rewards": "Commander's Standard; Unalloyed Gold Needle.",
+      "rewards": "Commander's Standard; Unalloyed Gold Needle; 12,000 runes (reported NG).",
       "preparation": "Level 45–65; rot cures.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/database/bosses/caelid-bosses",
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
-        "https://www.gamerguides.com/elden-ring/database/locations/caelid"
+        "https://www.gamerguides.com/elden-ring/database/locations/caelid",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+        "https://roundtablehold.net/checklists/bosses.html"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -2147,7 +2241,8 @@
       },
       "unresolved": [
         "Confirm exact NG numerical statistics and patch-dependent reward values.",
-        "Verify route, summon eligibility and exact source-specific details."
+        "Verify route, summon eligibility and exact source-specific details.",
+        "Session 34 reward review: Published encounter-specific values agree; independence and exact regulation not established."
       ]
     },
     {
@@ -2157,12 +2252,14 @@
       "conditions": "Night only.",
       "combat": "Long weapon swings, ghostflame blasts and aerial dives.",
       "strategy": "Keep a retreat route away from the lingering flames; holy damage and head hits can be effective. Punish a grounded dive rather than pursuing every leap.",
-      "rewards": "Death's Poker.",
+      "rewards": "Death's Poker; 15,000 runes (reported NG).",
       "preparation": "Level 55–75; frost defense and holy damage.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/database/bosses/caelid-bosses",
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
-        "https://www.gamerguides.com/elden-ring/database/locations/caelid"
+        "https://www.gamerguides.com/elden-ring/database/locations/caelid",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+        "https://roundtablehold.net/checklists/bosses.html"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -2173,7 +2270,8 @@
       },
       "unresolved": [
         "Confirm exact NG numerical statistics and patch-dependent reward values.",
-        "Verify route, summon eligibility and exact source-specific details."
+        "Verify route, summon eligibility and exact source-specific details.",
+        "Session 34 reward review: Published encounter-specific values agree; independence and exact regulation not established."
       ]
     },
     {
@@ -2183,12 +2281,14 @@
       "conditions": "Optional field dragon.",
       "combat": "Rot breath, stomps, tail sweeps and a broad rot cloud.",
       "strategy": "Leave the entire cloud area on Torrent rather than trying to roll through it. Approach the head after a short breath sequence or use brief leg attacks when safe.",
-      "rewards": "Dragon Heart; unlocks Ekzykes's Decay for purchase.",
+      "rewards": "Dragon Heart; unlocks Ekzykes's Decay for purchase; 38,000 runes (reported NG).",
       "preparation": "Level 50–70; rot cures.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/database/bosses/caelid-bosses",
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
-        "https://www.gamerguides.com/elden-ring/database/locations/caelid"
+        "https://www.gamerguides.com/elden-ring/database/locations/caelid",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+        "https://roundtablehold.net/checklists/bosses.html"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -2199,7 +2299,8 @@
       },
       "unresolved": [
         "Confirm exact NG numerical statistics and patch-dependent reward values.",
-        "Verify route, summon eligibility and exact source-specific details."
+        "Verify route, summon eligibility and exact source-specific details.",
+        "Session 34 reward review: Published encounter-specific values agree; independence and exact regulation not established."
       ]
     },
     {
@@ -2209,12 +2310,14 @@
       "conditions": "Two simultaneous watchdogs, sword and staff.",
       "combat": "Floating impacts, sword arcs and ranged attacks.",
       "strategy": "Keep both statues on screen and avoid being between their impact zones. Focus one down; crystal darts may disrupt the constructs, but do not depend on that interaction.",
-      "rewards": "Mad Pumpkin Head Ashes.",
+      "rewards": "Mad Pumpkin Head Ashes; 7,400 runes (reported NG).",
       "preparation": "Level 40–60; strike damage.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/database/bosses/caelid-bosses",
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
-        "https://www.gamerguides.com/elden-ring/database/locations/caelid"
+        "https://www.gamerguides.com/elden-ring/database/locations/caelid",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+        "https://roundtablehold.net/checklists/bosses.html"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -2225,7 +2328,8 @@
       },
       "unresolved": [
         "Confirm exact NG numerical statistics and patch-dependent reward values.",
-        "Verify route, summon eligibility and exact source-specific details."
+        "Verify route, summon eligibility and exact source-specific details.",
+        "Session 34 reward review: Published encounter-specific values agree; independence and exact regulation not established."
       ]
     },
     {
@@ -2235,12 +2339,14 @@
       "conditions": "Optional dungeon; transporter chest can bring you here early.",
       "combat": "Charging horns, gravity pull and ground eruptions.",
       "strategy": "Fight away from the tunnel walls; move sideways when horns lower and strike the head during recovery. Leave the gravity effect before it detonates.",
-      "rewards": "Somberstone Miner's Bell Bearing [1]; upgrade stones; gravity materials.",
+      "rewards": "Somberstone Miner's Bell Bearing [1]; upgrade stones; gravity materials; 7,600 runes (reported NG).",
       "preparation": "Level 55–70; upgraded weapon.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/database/bosses/caelid-bosses",
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
-        "https://www.gamerguides.com/elden-ring/database/locations/caelid"
+        "https://www.gamerguides.com/elden-ring/database/locations/caelid",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+        "https://roundtablehold.net/checklists/bosses.html"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -2251,7 +2357,8 @@
       },
       "unresolved": [
         "Confirm exact NG numerical statistics and patch-dependent reward values.",
-        "Verify route, summon eligibility and exact source-specific details."
+        "Verify route, summon eligibility and exact source-specific details.",
+        "Session 34 reward review: Published encounter-specific values agree; independence and exact regulation not established."
       ]
     },
     {
@@ -2261,12 +2368,14 @@
       "conditions": "Optional dungeon.",
       "combat": "Chained axe swings, close-range grab and stomps.",
       "strategy": "Stay near enough to read the chain attack but leave grab range. Counter after the overhead swing; do not try to cast through the stomp.",
-      "rewards": "Putrid Corpse Ashes.",
+      "rewards": "Putrid Corpse Ashes; 6,700 runes (reported NG).",
       "preparation": "Level 40–55; physical defense.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/database/bosses/caelid-bosses",
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
-        "https://www.gamerguides.com/elden-ring/database/locations/caelid"
+        "https://www.gamerguides.com/elden-ring/database/locations/caelid",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+        "https://roundtablehold.net/checklists/bosses.html"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -2277,7 +2386,8 @@
       },
       "unresolved": [
         "Confirm exact NG numerical statistics and patch-dependent reward values.",
-        "Verify route, summon eligibility and exact source-specific details."
+        "Verify route, summon eligibility and exact source-specific details.",
+        "Session 34 reward review: Published encounter-specific values agree; independence and exact regulation not established."
       ]
     },
     {
@@ -2287,12 +2397,14 @@
       "conditions": "Optional dungeon.",
       "combat": "Magma rushes, wide sword arcs and slams.",
       "strategy": "Do not follow its charge through lava. Circle to its side as it stops, strike briefly and move away before the next sweep.",
-      "rewards": "Moonveil; Dragon Heart.",
+      "rewards": "Moonveil; Dragon Heart; 7,500 runes (reported NG).",
       "preparation": "Level 35–55; fire protection.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/database/bosses/caelid-bosses",
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
-        "https://www.gamerguides.com/elden-ring/database/locations/caelid"
+        "https://www.gamerguides.com/elden-ring/database/locations/caelid",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+        "https://roundtablehold.net/checklists/bosses.html"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -2303,7 +2415,8 @@
       },
       "unresolved": [
         "Confirm exact NG numerical statistics and patch-dependent reward values.",
-        "Verify route, summon eligibility and exact source-specific details."
+        "Verify route, summon eligibility and exact source-specific details.",
+        "Session 34 reward review: Published encounter-specific values agree; independence and exact regulation not established."
       ]
     },
     {
@@ -2313,12 +2426,14 @@
       "conditions": "Night only; separate from Lenne's Rise rider.",
       "combat": "Mounted sweeps and charges.",
       "strategy": "Let each charge pass, then hit the horse's exposed side. If unhorsed, avoid long attacks before it can recover.",
-      "rewards": "Ash of War: Poison Moth Flight.",
+      "rewards": "Ash of War: Poison Moth Flight; 8,500 runes (reported NG).",
       "preparation": "Level 40–60.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/database/bosses/caelid-bosses",
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
-        "https://www.gamerguides.com/elden-ring/database/locations/caelid"
+        "https://www.gamerguides.com/elden-ring/database/locations/caelid",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+        "https://roundtablehold.net/checklists/bosses.html"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -2329,7 +2444,8 @@
       },
       "unresolved": [
         "Confirm exact NG numerical statistics and patch-dependent reward values.",
-        "Verify route, summon eligibility and exact source-specific details."
+        "Verify route, summon eligibility and exact source-specific details.",
+        "Session 34 reward review: Published encounter-specific values agree; independence and exact regulation not established."
       ]
     },
     {
@@ -2339,12 +2455,14 @@
       "conditions": "Optional sealed arena; two combatants.",
       "combat": "Flexible sword sweeps and long-reaching monk weapon attacks.",
       "strategy": "Keep the faster opponent separated; use a summon or terrain to divide attention. Punish the extended weapon after it retracts.",
-      "rewards": "Nox Flowing Sword; Lusat's Glintstone Staff is separate chest loot.",
+      "rewards": "Nox Flowing Sword; Lusat's Glintstone Staff is separate chest loot; 6,400 runes (reported NG).",
       "preparation": "Level 45–60.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/database/bosses/caelid-bosses",
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
-        "https://www.gamerguides.com/elden-ring/database/locations/caelid"
+        "https://www.gamerguides.com/elden-ring/database/locations/caelid",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+        "https://roundtablehold.net/checklists/bosses.html"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -2355,7 +2473,8 @@
       },
       "unresolved": [
         "Confirm exact NG numerical statistics and patch-dependent reward values.",
-        "Verify route, summon eligibility and exact source-specific details."
+        "Verify route, summon eligibility and exact source-specific details.",
+        "Session 34 reward review: Published encounter-specific values agree; independence and exact regulation not established."
       ]
     },
     {
@@ -2370,7 +2489,9 @@
       "sources": [
         "https://www.gamerguides.com/elden-ring/database/bosses/caelid-bosses",
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
-        "https://www.gamerguides.com/elden-ring/database/locations/caelid"
+        "https://www.gamerguides.com/elden-ring/database/locations/caelid",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+        "https://roundtablehold.net/checklists/bosses.html"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -2381,7 +2502,8 @@
       },
       "unresolved": [
         "Confirm exact NG numerical statistics and patch-dependent reward values.",
-        "Verify route, summon eligibility and exact source-specific details."
+        "Verify route, summon eligibility and exact source-specific details.",
+        "Session 34 reward review: Published reward disagreement; not the eastern Dragonbarrow avatar."
       ]
     },
     {
@@ -2391,12 +2513,14 @@
       "conditions": "Three simultaneous opponents; Lusat's quest seal is a separate route.",
       "combat": "Spear thrusts, ringblade throws and staff spells that build rot.",
       "strategy": "Use strike or heavy stance damage to break each shell. Isolate one target with terrain or a summon; don't spread damage over all three.",
-      "rewards": "Crystal Torrent.",
+      "rewards": "Crystal Torrent; 7,000 runes (reported NG).",
       "preparation": "Level 55–75; strike weapon and rot cures.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/database/bosses/caelid-bosses",
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
-        "https://www.gamerguides.com/elden-ring/database/locations/caelid"
+        "https://www.gamerguides.com/elden-ring/database/locations/caelid",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+        "https://roundtablehold.net/checklists/bosses.html"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -2407,7 +2531,8 @@
       },
       "unresolved": [
         "Confirm exact NG numerical statistics and patch-dependent reward values.",
-        "Verify route, summon eligibility and exact source-specific details."
+        "Verify route, summon eligibility and exact source-specific details.",
+        "Session 34 reward review: Published encounter-specific values agree; independence and exact regulation not established."
       ]
     },
     {
@@ -2422,7 +2547,11 @@
       "sources": [
         "https://www.gamerguides.com/elden-ring/database/bosses/caelid-bosses",
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
-        "https://www.gamerguides.com/elden-ring/database/locations/caelid"
+        "https://www.gamerguides.com/elden-ring/database/locations/caelid",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+        "https://roundtablehold.net/checklists/bosses.html",
+        "https://gamefaqs.gamespot.com/switch-2/524794-elden-ring-tarnished-edition/faqs/79824/caelid-dragonbarrow",
+        "https://wiki.eso-ui.com/index.php/Elden_Ring%3APutrid_Tree_Spirit"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -2433,7 +2562,8 @@
       },
       "unresolved": [
         "Confirm exact NG numerical statistics and patch-dependent reward values.",
-        "Verify route, summon eligibility and exact source-specific details."
+        "Verify route, summon eligibility and exact source-specific details.",
+        "Session 34 reward review: Published reward disagreement; possible version effects not verified."
       ]
     },
     {
@@ -2443,12 +2573,14 @@
       "conditions": "Two enemies, one completion.",
       "combat": "Hammer slams and flail swings, protected helmets.",
       "strategy": "Attack exposed torsos rather than helmets. Keep both attackers in view; use a fast weapon or summon to separate them.",
-      "rewards": "Visage Shield in chest beyond arena, not direct drop.",
+      "rewards": "Visage Shield in chest beyond arena, not direct drop; 6,300 runes (reported NG).",
       "preparation": "Level 40–60.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/database/bosses/caelid-bosses",
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
-        "https://www.gamerguides.com/elden-ring/database/locations/caelid"
+        "https://www.gamerguides.com/elden-ring/database/locations/caelid",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+        "https://roundtablehold.net/checklists/bosses.html"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -2459,7 +2591,8 @@
       },
       "unresolved": [
         "Confirm exact NG numerical statistics and patch-dependent reward values.",
-        "Verify route, summon eligibility and exact source-specific details."
+        "Verify route, summon eligibility and exact source-specific details.",
+        "Session 34 reward review: Visage Shield is chest loot, not a direct drop."
       ]
     },
     {
@@ -2469,12 +2602,14 @@
       "conditions": "Two beastmen, one encounter.",
       "combat": "Large sword chains and ranged knife pressure.",
       "strategy": "Prioritize the smaller ranged enemy if exposed, then fight the larger beastman. Avoid swinging while both are beginning their combos.",
-      "rewards": "Flamedrake Talisman +2.",
+      "rewards": "Flamedrake Talisman +2; 65,000 runes (reported NG).",
       "preparation": "Level 75–100.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/database/bosses/dragonbarrow-bosses",
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
-        "https://eldenring.redmaw.dev/sheets/bosses"
+        "https://eldenring.redmaw.dev/sheets/bosses",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+        "https://roundtablehold.net/checklists/bosses.html"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -2485,7 +2620,8 @@
       },
       "unresolved": [
         "Confirm exact NG numerical statistics and patch-dependent reward values.",
-        "Verify route, summon eligibility and exact source-specific details."
+        "Verify route, summon eligibility and exact source-specific details.",
+        "Session 34 reward review: Published encounter-specific values agree; independence and exact regulation not established."
       ]
     },
     {
@@ -2495,12 +2631,14 @@
       "conditions": "Night only; high-damage hunter variant.",
       "combat": "Extended telekinetic sword, shield strikes and grab.",
       "strategy": "Stay near the flank after committed swings, not at the end of the sword's range. Heal only after a long recovery.",
-      "rewards": "Gravity Stone Peddler's Bell Bearing.",
+      "rewards": "Gravity Stone Peddler's Bell Bearing; 50,000 runes (reported NG).",
       "preparation": "Level 90–120; physical defense.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/database/bosses/dragonbarrow-bosses",
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
-        "https://eldenring.redmaw.dev/sheets/bosses"
+        "https://eldenring.redmaw.dev/sheets/bosses",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+        "https://roundtablehold.net/checklists/bosses.html"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -2511,7 +2649,8 @@
       },
       "unresolved": [
         "Confirm exact NG numerical statistics and patch-dependent reward values.",
-        "Verify route, summon eligibility and exact source-specific details."
+        "Verify route, summon eligibility and exact source-specific details.",
+        "Session 34 reward review: Published encounter-specific values agree; independence and exact regulation not established."
       ]
     },
     {
@@ -2521,12 +2660,14 @@
       "conditions": "Optional; separate from Forbidden Lands kindred.",
       "combat": "Long weapon arcs, black flame-like projectiles and aerial slams.",
       "strategy": "Stay mobile, don't fight on the steps if the camera becomes unreliable, and punish the landing rather than the flight. Strike damage can be useful.",
-      "rewards": "Gargoyle's Blackblade; Gargoyle's Black Halberd.",
+      "rewards": "Gargoyle's Blackblade; Gargoyle's Black Halberd; 88,000 runes (reported NG).",
       "preparation": "Level 80–110.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/database/bosses/dragonbarrow-bosses",
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
-        "https://eldenring.redmaw.dev/sheets/bosses"
+        "https://eldenring.redmaw.dev/sheets/bosses",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+        "https://roundtablehold.net/checklists/bosses.html"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -2537,7 +2678,8 @@
       },
       "unresolved": [
         "Confirm exact NG numerical statistics and patch-dependent reward values.",
-        "Verify route, summon eligibility and exact source-specific details."
+        "Verify route, summon eligibility and exact source-specific details.",
+        "Session 34 reward review: Other regional list entries conflate weapon rewards; keep sanctum-specific weapon pair."
       ]
     },
     {
@@ -2547,12 +2689,14 @@
       "conditions": "Optional; bridge limits maneuvering.",
       "combat": "Fire breath, stomps and flying dives.",
       "strategy": "Use the length of the bridge to escape breath attacks; keep away from the edge. Strike the head after a grounded breath only when the route out is clear.",
-      "rewards": "Dragon Heart.",
+      "rewards": "Dragon Heart; 80,000 runes (reported NG).",
       "preparation": "Level 70–100; fire defense.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/database/bosses/dragonbarrow-bosses",
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
-        "https://eldenring.redmaw.dev/sheets/bosses"
+        "https://eldenring.redmaw.dev/sheets/bosses",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+        "https://roundtablehold.net/checklists/bosses.html"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -2563,7 +2707,8 @@
       },
       "unresolved": [
         "Confirm exact NG numerical statistics and patch-dependent reward values.",
-        "Verify route, summon eligibility and exact source-specific details."
+        "Verify route, summon eligibility and exact source-specific details.",
+        "Session 34 reward review: Published encounter-specific values agree; independence and exact regulation not established."
       ]
     },
     {
@@ -2573,12 +2718,14 @@
       "conditions": "Optional dungeon; careful platforming required.",
       "combat": "Twinblade spins, black flame throws and stretching torso attacks.",
       "strategy": "Roll through committed horizontal slashes. Avoid healing while a black flame projectile is ready; punish the long body extension. Sleep may create openings.",
-      "rewards": "Godskin Apostle set.",
+      "rewards": "Godskin Apostle set; 94,000 runes (reported NG).",
       "preparation": "Level 75–100; vigor.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/database/bosses/dragonbarrow-bosses",
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
-        "https://eldenring.redmaw.dev/sheets/bosses"
+        "https://eldenring.redmaw.dev/sheets/bosses",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+        "https://roundtablehold.net/checklists/bosses.html"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -2589,7 +2736,8 @@
       },
       "unresolved": [
         "Confirm exact NG numerical statistics and patch-dependent reward values.",
-        "Verify route, summon eligibility and exact source-specific details."
+        "Verify route, summon eligibility and exact source-specific details.",
+        "Session 34 reward review: Published encounter-specific values agree; independence and exact regulation not established."
       ]
     },
     {
@@ -2599,12 +2747,14 @@
       "conditions": "Night only; high-damage rider distinct from Caelid Highway.",
       "combat": "Mounted polearm sweeps and long charges.",
       "strategy": "Fight away from the cliff edge, let the charge pass, then strike the horse's flank. Avoid chasing a turn with a slow attack.",
-      "rewards": "Ash of War: Bloodhound's Step.",
+      "rewards": "Ash of War: Bloodhound's Step; 42,000 runes (reported NG).",
       "preparation": "Level 75–100.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/database/bosses/dragonbarrow-bosses",
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
-        "https://eldenring.redmaw.dev/sheets/bosses"
+        "https://eldenring.redmaw.dev/sheets/bosses",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+        "https://roundtablehold.net/checklists/bosses.html"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -2615,7 +2765,8 @@
       },
       "unresolved": [
         "Confirm exact NG numerical statistics and patch-dependent reward values.",
-        "Verify route, summon eligibility and exact source-specific details."
+        "Verify route, summon eligibility and exact source-specific details.",
+        "Session 34 reward review: Published encounter-specific values agree; independence and exact regulation not established."
       ]
     },
     {
@@ -2625,12 +2776,14 @@
       "conditions": "Optional; distinct from northwestern Caelid encounter.",
       "combat": "Staff attacks, golden projectiles and rot clouds.",
       "strategy": "Move away from the rot slam before returning; use fire and short attacks during staff recovery. Keep a clear path around the tree.",
-      "rewards": "Opaline Hardtear; Stonebarb Cracked Tear.",
+      "rewards": "Opaline Hardtear; Stonebarb Cracked Tear; 91,000 runes (reported NG).",
       "preparation": "Level 75–100; rot cures.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/database/bosses/dragonbarrow-bosses",
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
-        "https://eldenring.redmaw.dev/sheets/bosses"
+        "https://eldenring.redmaw.dev/sheets/bosses",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+        "https://roundtablehold.net/checklists/bosses.html"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -2641,7 +2794,8 @@
       },
       "unresolved": [
         "Confirm exact NG numerical statistics and patch-dependent reward values.",
-        "Verify route, summon eligibility and exact source-specific details."
+        "Verify route, summon eligibility and exact source-specific details.",
+        "Session 34 reward review: Published encounter-specific values agree; independence and exact regulation not established."
       ]
     },
     {
@@ -2651,12 +2805,14 @@
       "conditions": "Optional evergaol.",
       "combat": "Glintstone projectiles, hammer sorcery and club swings.",
       "strategy": "Close diagonally after a projectile releases; do not trade against the hammer. Interrupt or punish a finished cast with quick hits.",
-      "rewards": "Battlemage Hugues Ashes.",
+      "rewards": "Battlemage Hugues Ashes; 7,800 runes (reported NG).",
       "preparation": "Level 45–65; magic defense.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/database/bosses/dragonbarrow-bosses",
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
-        "https://eldenring.redmaw.dev/sheets/bosses"
+        "https://eldenring.redmaw.dev/sheets/bosses",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+        "https://roundtablehold.net/checklists/bosses.html"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -2667,7 +2823,8 @@
       },
       "unresolved": [
         "Confirm exact NG numerical statistics and patch-dependent reward values.",
-        "Verify route, summon eligibility and exact source-specific details."
+        "Verify route, summon eligibility and exact source-specific details.",
+        "Session 34 reward review: Published encounter-specific values agree; independence and exact regulation not established."
       ]
     },
     {
@@ -2923,7 +3080,10 @@
         "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
         "https://www.neoseeker.com/elden-ring/walkthrough/Southern_Altus_Plateau",
         "https://eip.gg/elden-ring/guides/sages-cave-dungeon-walkthrough/",
-        "https://www.pushsquare.com/guides/elden-ring-how-to-complete-sages-cave"
+        "https://www.pushsquare.com/guides/elden-ring-how-to-complete-sages-cave",
+        "https://roundtablehold.net/checklists/bosses.html",
+        "https://www.neoseeker.com/elden-ring/Bosses/Necromancer_Garris",
+        "https://tarnished.app/enemies/necromancer-garris"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -2935,7 +3095,8 @@
       "unresolved": [
         "Confirm exact current-patch numerical combat statistics and reward values.",
         "Verify grace, access route and combat eligibility against individual encounter sources.",
-        "Published identity/reward review: Two separate boss chambers; Garris uses death sorceries. Exact regulation and final guide admission remain pending."
+        "Published identity/reward review: Two separate boss chambers; Garris uses death sorceries. Exact regulation and final guide admission remain pending.",
+        "Session 34 reward review: Retain previously reported 9000; location-specific corroboration and contradictory zero report recorded."
       ]
     },
     {
@@ -3755,12 +3916,13 @@
       "conditions": "Opening defeat optional; can revisit for revenge.",
       "combat": "Rapid multiple sword strikes, shield and jumping attacks.",
       "strategy": "Avoid the full sword flurry and punish after the leap or slam. Return with an upgraded weapon if the opening character cannot safely trade.",
-      "rewards": "Ornamental Straight Sword; Golden Beast Crest Shield.",
+      "rewards": "Ornamental Straight Sword; Golden Beast Crest Shield; 3,200 runes (reported NG).",
       "preparation": "Starting challenge or return at level 25–40.",
       "sources": [
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
         "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
-        "https://eldenring.wiki.gg/wiki/Boss"
+        "https://eldenring.wiki.gg/wiki/Boss",
+        "https://roundtablehold.net/checklists/bosses.html"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -3771,7 +3933,8 @@
       },
       "unresolved": [
         "Confirm exact current-patch numerical combat statistics and reward values.",
-        "Verify grace, access route and combat eligibility against individual encounter sources."
+        "Verify grace, access route and combat eligibility against individual encounter sources.",
+        "Session 34 reward review: Published encounter-specific values agree; independence and exact regulation not established."
       ]
     },
     {
