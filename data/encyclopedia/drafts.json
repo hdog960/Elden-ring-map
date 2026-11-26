@@ -867,11 +867,15 @@
       "conditions": "Optional dungeon.",
       "combat": "Short charge, claw strings, hug grab and lunges.",
       "strategy": "Stay near the flank but leave when it begins the grab. Do not roll away repeatedly into the bear's pursuit; use its committed movement to pass beside it.",
-      "rewards": "Spelldrake Talisman.",
+      "rewards": "Spelldrake Talisman; 2,600 runes (reported NG).",
       "preparation": "Level 25–40; strong vigor.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/guide/weeping-peninsula/bosses/",
-        "https://gamefaqs.gamespot.com/ps5/323053-elden-ring/faqs/80028/dungeon-bosses"
+        "https://gamefaqs.gamespot.com/ps5/323053-elden-ring/faqs/80028/dungeon-bosses",
+        "https://lorearmory.com/eldenring/bosses/",
+        "https://www.youtube.com/watch?v=yZXSz5J_l_o",
+        "https://www.gamerguides.com/elden-ring/guide/weeping-peninsula/bosses/how-to-beat-the-runebear-in-earthbore-cave/",
+        "https://eldenring.exputer.com/locations/earthbore-cave"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -881,8 +885,7 @@
         "statusThresholds": null
       },
       "unresolved": [
-        "Exact NG numerical combat data and rune reward require independent patch-specific verification.",
-        "Confirm grace, entrance, summon and critical eligibility before publication."
+        "Exact regulation, full combat table and calibrated marker remain unqualified; scoped published numerical research recorded separately."
       ]
     },
     {
@@ -1197,12 +1200,16 @@
       "conditions": "Requires Moonlight Altar access; no ordinary Spirit Ashes.",
       "combat": "Fast knife chains, grabs and red-black aerial attack.",
       "strategy": "Sprint away from the charged leap; punish ordinary leaps when she lands. Use frost or a stagger-capable weapon.",
-      "rewards": "Black Knife Tiche Spirit Ashes.",
+      "rewards": "Black Knife Tiche Spirit Ashes; 80,000 runes reported by multiple sources (one secondary guide lists 88,000).",
       "preparation": "Level 75–100; upgraded weapon and vigor.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/guide/liurnia-of-the-lakes/bosses/",
         "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
-        "https://plarium.com/en/blog/elden-ring-boss-locations/"
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://eldenring.fandom.com/wiki/Alecto%2C_Black_Knife_Ringleader",
+        "https://www.gamerguides.com/elden-ring/database/bosses/liurnia-of-the-lakes-bosses/alecto-black-knife-ringleader",
+        "https://lorearmory.com/eldenring/bosses/",
+        "https://eldenringpoisewiki.fun/"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -1212,8 +1219,8 @@
         "statusThresholds": null
       },
       "unresolved": [
-        "Verify exact current-patch NG statistics, rune rewards and source-specific details per encounter.",
-        "Confirm nearest grace, entrance route, summon and critical eligibility."
+        "Exact regulation, full combat table and calibrated marker remain unqualified; scoped published numerical research recorded separately.",
+        "80,000 versus 88,000 rune discrepancy recorded; no exact regulation lineage."
       ]
     },
     {
@@ -1716,13 +1723,17 @@
       "directions": "Find the illusory floor covering the cellar in Kingsrealm Ruins.",
       "conditions": "Optional hidden cellar.",
       "combat": "Rapid multi-limb attacks, poison and teleports.",
-      "strategy": "A healing incantation near it can inflict heavy damage and stagger. Otherwise dodge toward the flank after its rush.",
-      "rewards": "Runes; Frozen Needle is separate chest loot beyond boss.",
+      "strategy": "A healing incantation near it can inflict heavy damage and stagger. Otherwise dodge toward the flank after its rush. Direct healing incantations inflict damage and can break its stance; do not confuse this with weapon healing skills.",
+      "rewards": "3,100 runes; Frozen Needle is separate chest loot beyond the boss.",
       "preparation": "Level 35–50; healing incantation or poison cures.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/guide/liurnia-of-the-lakes/bosses/",
         "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
-        "https://plarium.com/en/blog/elden-ring-boss-locations/"
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://tarnished.app/enemies/royal-revenant",
+        "https://www.gamerguides.com/elden-ring/guide/liurnia-of-the-lakes/locations/how-to-find-and-complete-the-kingsrealm-ruins-in-liurnia",
+        "https://lorearmory.com/eldenring/bosses/",
+        "https://www.pureeldenring.com/bosses/royal-revenant"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -1732,8 +1743,7 @@
         "statusThresholds": null
       },
       "unresolved": [
-        "Verify exact current-patch NG statistics, rune rewards and source-specific details per encounter.",
-        "Confirm nearest grace, entrance route, summon and critical eligibility."
+        "Kingsrealm-specific indexed HP 3077; general enemy table reports fractional 1538.614 with unclear variant. Do not use generic enemy HP as boss HP. Additional encounter-specific corroboration needed."
       ]
     },
     {
@@ -3497,13 +3507,17 @@
       "directions": "Climb the great root toward Erdtree Sanctuary and enter the golden shade's arena.",
       "conditions": "Mandatory capital encounter on ordinary progression.",
       "combat": "Axe slams, sweeping chains and ground stomp.",
-      "strategy": "Jump or dodge ground shockwaves as appropriate, then counter after the final axe slam. Avoid greedy attacks while the axe is being raised.",
-      "rewards": "Talisman Pouch.",
+      "strategy": "Jump or dodge ground shockwaves as appropriate, then counter after the final axe slam. Avoid greedy attacks while the axe is being raised. Lightning and piercing damage are favorable; bleed and other common status effects are ineffective against the spectral form.",
+      "rewards": "Talisman Pouch on first playthrough; 80,000 runes reported NG.",
       "preparation": "Level 75–95.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/database/bosses/altus-plateau-bosses",
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
-        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+        "https://tarnishedwiki.com/godfrey-first-elden-lord-golden-shade-boss-guide-elden-ring/",
+        "https://lorearmory.com/eldenring/bosses/",
+        "https://www.powerpyx.com/elden-ring-leyndell-royal-capital-walkthrough/",
+        "https://www.youtube.com/watch?v=mzVnyAECIVc"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -3513,8 +3527,7 @@
         "statusThresholds": null
       },
       "unresolved": [
-        "Confirm exact current-patch numerical combat statistics and reward values.",
-        "Verify grace, access route and combat eligibility against individual encounter sources."
+        "Exact regulation, full combat table and calibrated marker remain unqualified; scoped published numerical research recorded separately."
       ]
     },
     {
@@ -7477,6 +7490,62 @@
       },
       "unresolved": [
         "Exact defeat flag, patch-specific combat statistics and calibrated position pending."
+      ]
+    },
+    {
+      "id": "er:b-capital-rampart-gargoyle",
+      "grace": "West Capital Rampart",
+      "directions": "Follow the rampart south from the grace toward the golden sapling and Oracle Envoys.",
+      "conditions": "Optional before Leyndell becomes Ashen Capital. Defeat before Maliketh as a conservative progression cutoff.",
+      "combat": "Long-range greatsword and halberd attacks; ranged shout.",
+      "strategy": "Clear nearby enemies first; avoid the rampart edge and wait for the end of its long swings. A stairwell can offer cover but attacks may reach through it.",
+      "rewards": "Gargoyle's Halberd. Golden Seed beside the sapling is separate pickup loot, not a defeat reward.",
+      "preparation": "Upgraded weapon, enough vigor and stamina to survive heavy melee hits.",
+      "sources": [
+        "https://eldenring.fandom.com/wiki/Valiant_Gargoyle",
+        "https://eldenring.wiki.gg/wiki/Valiant_Gargoyle",
+        "https://www.powerpyx.com/elden-ring-leyndell-royal-capital-walkthrough/",
+        "https://roundtablehold.net/checklists/weapons.html",
+        "https://wiki.eso-ui.com/index.php/Elden_Ring%3AValiant_Gargoyles"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact defeat event flag, current regulation, direct respawn test and calibrated position pending."
+      ]
+    },
+    {
+      "id": "er:b-outskirts-gargoyle",
+      "grace": "Outer Wall Phantom Tree",
+      "directions": "Climb the long stairs northeast from the grace until the gargoyle descends.",
+      "conditions": "Optional ambush. Complete before late capital transformation as a precaution; exact disappearance trigger unqualified.",
+      "combat": "Great axe and twinblade swings with wide reach.",
+      "strategy": "Fight on open ground, dodge into a committed attack and punish the recovery; avoid extended twinblade chains.",
+      "rewards": "Gargoyle's Great Axe (ordinary, not Black Axe).",
+      "preparation": "Upgraded weapon, enough vigor and stamina to survive heavy melee hits.",
+      "sources": [
+        "https://eldenring.fandom.com/wiki/Valiant_Gargoyle",
+        "https://eldenring.wiki.gg/wiki/Valiant_Gargoyle",
+        "https://www.neoseeker.com/elden-ring/walkthrough/Capital_Outskirts",
+        "https://eldenring.wiki.gg/wiki/Gargoyle%27s_Great_Axe",
+        "https://roundtablehold.net/checklists/weapons.html",
+        "https://wiki.eso-ui.com/index.php/Elden_Ring%3AValiant_Gargoyles",
+        "https://www.youtube.com/watch?v=6W94lBiYiOA"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact defeat event flag, current regulation, direct respawn test and calibrated position pending."
       ]
     }
   ]

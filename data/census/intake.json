@@ -139,7 +139,19 @@
     "d-church-tree-spirit-iris-s24-2": "https://eip.gg/elden-ring/guides/shadow-keep/",
     "d-church-tree-spirit-iris-s24-3": "https://tarnishedsaga.com/locations/shadow-keep-church-district/",
     "d-church-tree-spirit-iris-s24-4": "https://eldenring.wiki.gg/wiki/Iris_of_Occultation",
-    "d-church-tree-spirit-iris-s24-5": "https://www.reddit.com/r/Eldenring/comments/1dnr4z9/dlc_tree_spirit_in_shadow_keep_church_district/"
+    "d-church-tree-spirit-iris-s24-5": "https://www.reddit.com/r/Eldenring/comments/1dnr4z9/dlc_tree_spirit_in_shadow_keep_church_district/",
+    "b-capital-rampart-gargoyle-s27-1": "https://eldenring.fandom.com/wiki/Valiant_Gargoyle",
+    "b-capital-rampart-gargoyle-s27-2": "https://eldenring.wiki.gg/wiki/Valiant_Gargoyle",
+    "b-capital-rampart-gargoyle-s27-3": "https://www.powerpyx.com/elden-ring-leyndell-royal-capital-walkthrough/",
+    "b-capital-rampart-gargoyle-s27-4": "https://roundtablehold.net/checklists/weapons.html",
+    "b-capital-rampart-gargoyle-s27-5": "https://wiki.eso-ui.com/index.php/Elden_Ring%3AValiant_Gargoyles",
+    "b-outskirts-gargoyle-s27-1": "https://eldenring.fandom.com/wiki/Valiant_Gargoyle",
+    "b-outskirts-gargoyle-s27-2": "https://eldenring.wiki.gg/wiki/Valiant_Gargoyle",
+    "b-outskirts-gargoyle-s27-3": "https://www.neoseeker.com/elden-ring/walkthrough/Capital_Outskirts",
+    "b-outskirts-gargoyle-s27-4": "https://eldenring.wiki.gg/wiki/Gargoyle%27s_Great_Axe",
+    "b-outskirts-gargoyle-s27-5": "https://roundtablehold.net/checklists/weapons.html",
+    "b-outskirts-gargoyle-s27-6": "https://wiki.eso-ui.com/index.php/Elden_Ring%3AValiant_Gargoyles",
+    "b-outskirts-gargoyle-s27-7": "https://www.youtube.com/watch?v=6W94lBiYiOA"
   },
   "rows": [
     {
@@ -4758,6 +4770,46 @@
         "d-church-tree-spirit-iris-s24-5"
       ],
       "decision": "Distinct second non-respawning spirit; player reports of automatic defeat/iris reward are not proof of a manually fought encounter. Exact event flag pending. Provisional extended admission only."
+    },
+    {
+      "id": "er:b-capital-rampart-gargoyle",
+      "game": "base",
+      "region": "Leyndell, Royal Capital",
+      "name": "Valiant Gargoyle",
+      "location": "West Capital Rampart phantom tree",
+      "layerHint": "surface",
+      "hunt": "extended",
+      "category": "unique-elite",
+      "review": "classification-review",
+      "evidence": [
+        "b-capital-rampart-gargoyle-s27-1",
+        "b-capital-rampart-gargoyle-s27-2",
+        "b-capital-rampart-gargoyle-s27-3",
+        "b-capital-rampart-gargoyle-s27-4",
+        "b-capital-rampart-gargoyle-s27-5"
+      ],
+      "decision": "Two family inventories describe non-respawn and this exact location; PowerPyx and Roundtable corroborate its named reward. No direct reload observation or exact event flag. Provisional extended only."
+    },
+    {
+      "id": "er:b-outskirts-gargoyle",
+      "game": "base",
+      "region": "Capital Outskirts",
+      "name": "Valiant Gargoyle",
+      "location": "Stairs northeast of Outer Wall Phantom Tree",
+      "layerHint": "surface",
+      "hunt": "extended",
+      "category": "unique-elite",
+      "review": "classification-review",
+      "evidence": [
+        "b-outskirts-gargoyle-s27-1",
+        "b-outskirts-gargoyle-s27-2",
+        "b-outskirts-gargoyle-s27-3",
+        "b-outskirts-gargoyle-s27-4",
+        "b-outskirts-gargoyle-s27-5",
+        "b-outskirts-gargoyle-s27-6",
+        "b-outskirts-gargoyle-s27-7"
+      ],
+      "decision": "Family documentation and encounter video explicitly classify non-respawn; weapon-specific sources and walkthrough agree ordinary Great Axe. Gamer Guides capital boss page names Black Axe; contradicted by multiple more specific reward sources. Provisional extended only."
     }
   ]
 }

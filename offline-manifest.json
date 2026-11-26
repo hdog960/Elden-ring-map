@@ -1,5 +1,5 @@
 {
-  "version": "session26-20261126-a",
+  "version": "session27-20261126-a",
   "releaseReady": false,
   "assets": [
     {
@@ -25,6 +25,10 @@
     {
       "path": "data/census/base-checklist-review.json",
       "gitBlob": "9d1eabdaa445638fcf083fc1d36a06d4a1988f12"
+    },
+    {
+      "path": "data/census/capital-gargoyle-review.json",
+      "gitBlob": "c26499cde85e3e7dfd327ca03872f38eff6cae32"
     },
     {
       "path": "data/census/church-spirit-review.json",
@@ -56,7 +60,7 @@
     },
     {
       "path": "data/census/intake.json",
-      "gitBlob": "7a7bd944ff0812c46a1a030feba76d338e27f029"
+      "gitBlob": "62c41e4308740ba9db51deb887eb08da5b19874d"
     },
     {
       "path": "data/census/named-encounter-review.json",
@@ -72,15 +76,15 @@
     },
     {
       "path": "data/census/stable-ids.json",
-      "gitBlob": "ec8d5329230260307ca268d3a2f4838338de0aab"
+      "gitBlob": "d366f836c11b186dc50b1fa28d4bf2efba97b38c"
     },
     {
       "path": "data/encyclopedia/drafts.json",
-      "gitBlob": "a4c9588c5bc425fddc38e16b3566bf67d06b5ffd"
+      "gitBlob": "0a7355107f1613ae1f269d04d390054dda9e1bfc"
     },
     {
       "path": "data/encyclopedia/stat-evidence.json",
-      "gitBlob": "fa8c5c97de35e96a9e70a809f718718f9e08589d"
+      "gitBlob": "a1ae5de353241222b2a60c28cea67ed1ed20f00e"
     },
     {
       "path": "data/geography/compass-research.json",

@@ -623,6 +623,59 @@
         "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/"
       ],
       "note": "Full guide and Lore Armory index agree displayed HP; Lore Armory reports stance 80. Two walkthroughs independently corroborate reward. Exact regulation unverified."
+    },
+    {
+      "id": "er:b-alecto",
+      "scope": "Ringleader's Evergaol, solo NG, not ordinary Black Knife Assassins",
+      "health": 17482,
+      "stance": 80,
+      "runes": 80000,
+      "sources": [
+        "https://eldenring.fandom.com/wiki/Alecto%2C_Black_Knife_Ringleader",
+        "https://www.gamerguides.com/elden-ring/database/bosses/liurnia-of-the-lakes-bosses/alecto-black-knife-ringleader",
+        "https://lorearmory.com/eldenring/bosses/",
+        "https://eldenringpoisewiki.fun/",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/"
+      ],
+      "note": "Full Fandom entry agrees with indexed Lore Armory HP and stance; Poise Wiki supports stance, Gamer Guides supports 80000 rune reward. Plarium reports 88000; retained as discrepancy, not accepted. Lore Armory claims 1.17.3 build 25827938, not independently reproduced."
+    },
+    {
+      "id": "er:b-godfrey-shade",
+      "scope": "Royal Capital Golden Shade, solo NG; not physical Godfrey or Hoarah Loux",
+      "health": 7099,
+      "stance": 120,
+      "runes": 80000,
+      "negations": {
+        "standard": 10,
+        "slash": 10,
+        "strike": 10,
+        "pierce": 0,
+        "magic": 20,
+        "fire": 20,
+        "lightning": 0,
+        "holy": 40
+      },
+      "sources": [
+        "https://tarnishedwiki.com/godfrey-first-elden-lord-golden-shade-boss-guide-elden-ring/",
+        "https://lorearmory.com/eldenring/bosses/",
+        "https://www.powerpyx.com/elden-ring-leyndell-royal-capital-walkthrough/",
+        "https://www.youtube.com/watch?v=mzVnyAECIVc"
+      ],
+      "note": "Full variant guide, indexed Lore Armory and video agree HP; indexed database and video agree stance; PowerPyx confirms reward. Negations from variant guide, not independently fully reproduced. Lore Armory claims 1.17.3; exact regulation not independently verified."
+    },
+    {
+      "id": "er:b-earthbore-runebear",
+      "scope": "Earthbore Cave dungeon boss, solo NG; excludes roaming bears and named DLC bears",
+      "health": 3311,
+      "stance": 80,
+      "runes": 2600,
+      "sources": [
+        "https://lorearmory.com/eldenring/bosses/",
+        "https://www.youtube.com/watch?v=yZXSz5J_l_o",
+        "https://www.gamerguides.com/elden-ring/guide/weeping-peninsula/bosses/how-to-beat-the-runebear-in-earthbore-cave/",
+        "https://eldenring.exputer.com/locations/earthbore-cave"
+      ],
+      "note": "Indexed boss row and encounter video description agree HP and stance. Two walkthroughs agree rune reward. Lore Armory claims 1.17.3; exact regulation not independently verified."
     }
   ],
   "limitations": [

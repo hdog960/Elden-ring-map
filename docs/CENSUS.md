@@ -59,3 +59,6 @@ No new stable IDs; 286 total. Five scoped records added (Regal Ancestor, Fortiss
 
 ## Session 26
 Six variant-scoped numerical records: Red Wolf (Academy), Ancestor Spirit (lower Siofra), Royal Knight Loretta (Caria), Nokstella Dragonkin, named Elemer, Castle Morne Leonine. 35 total. Eight guides refined including Godskin Duo and Valiant Gargoyles, whose shared/variant stats remain unresolved rather than inventing combined stance. 286 IDs unchanged. No geography admission. Previous research interface and offline lifecycle passed exact-head CI.
+
+## Session 27
+Two separate non-respawning capital gargoyles provisionally admitted; Halberd at West Capital Rampart, Great Axe northeast of Outer Wall Phantom Tree. Golden Seed separate loot; Black Axe source conflict rejected. Ashen and dismembered gargoyles held. Three scoped stat records (Alecto, Golden Shade, Earthbore Runebear), 38 total; Kingsrealm Revenant reward and healing mechanics refined, HP variant unresolved. 288 IDs, 207 primary/81 extended. No geography admission.
