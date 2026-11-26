@@ -433,6 +433,83 @@
         "https://tarnishedsaga.com/bosses/putrescent-knight/"
       ],
       "note": "Full Gamer Guides HP/reward plus indexed Lore Armory HP/stance and Poise Wiki 100. No separate horse ID, no exact regulation qualification. Published Holy -20, Slash 40 corroborated; remaining negations omitted pending additional evidence."
+    },
+    {
+      "id": "er:b-regal-ancestor",
+      "scope": "Nokron Regal variant, solo NG reported; initial health before healing",
+      "health": 6301,
+      "stance": 120,
+      "runes": 24000,
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/nokron-eternal-city-bosses/regal-ancestor-spirit/",
+        "https://tarnishedwiki.com/regal-ancestor-spirit-boss-guide-elden-ring/",
+        "https://lorearmory.com/eldenring/bosses/"
+      ],
+      "note": "Two full pages agree HP and reward; indexed Lore Armory row supplies stance. Healing is additional to initial HP; exact regulation unverified."
+    },
+    {
+      "id": "er:b-fortissax",
+      "scope": "Deathbed Dream, solo NG reported; base stance, not effective stance after body-part multipliers",
+      "health": 12903,
+      "stance": 140,
+      "runes": 90000,
+      "sources": [
+        "https://tarnishedwiki.com/lichdragon-fortissax-boss-guide-elden-ring/",
+        "https://www.pureeldenring.com/bosses/lichdragon-fortissax",
+        "https://eldenring.wiki.gg/wiki/Stance",
+        "https://eldenring.wiki.gg/wiki/Fortissax"
+      ],
+      "note": "Full guide confirms HP and reward; indexed Pure Elden Ring and Eldenpedia corroborate HP and base stance. Effective stance damage varies by hit location. Exact regulation unverified."
+    },
+    {
+      "id": "er:b-haligtree-loretta",
+      "scope": "Haligtree physical Loretta only, solo NG reported; not Caria Manor projection",
+      "health": 13397,
+      "stance": 80,
+      "runes": 200000,
+      "sources": [
+        "https://tarnishedwiki.com/loretta-knight-of-the-haligtree-boss-guide-elden-ring/",
+        "https://lorearmory.com/eldenring/bosses/",
+        "https://eldenringpoisewiki.fun/",
+        "https://eldenring.wiki.gg/wiki/Runes"
+      ],
+      "note": "Full guide and indexed database agree health; poise index corroborates stance and rune list confirms reward. Exact regulation unverified."
+    },
+    {
+      "id": "er:d-belurat-lion",
+      "scope": "Belurat, Tower Settlement, solo NG; excludes Rauh variant",
+      "health": 22571,
+      "stance": 120,
+      "runes": 120000,
+      "negations": {
+        "standard": 30,
+        "slash": 20,
+        "strike": 30,
+        "pierce": 0,
+        "magic": 40,
+        "fire": 0,
+        "lightning": 40,
+        "holy": 40
+      },
+      "sources": [
+        "https://tarnished.app/enemies/divine-beast-dancing-lion",
+        "https://www.gamerguides.com/elden-ring-shadow-of-the-erdtree/database/bosses/legend/divine-beast-dancing-lion-belurat-tower-settlement",
+        "https://tarnishedwiki.com/divine-beast-dancing-lion-boss-guide/"
+      ],
+      "note": "Two full variant-specific tables agree HP, reward and all eight damage negations; third guide agrees HP/reward. Status buildup tables disagree, omitted. Exact regulation unverified."
+    },
+    {
+      "id": "er:b-rykard",
+      "scope": "Rykard second health bar only, solo NG; first serpent bar not included",
+      "health": 59174,
+      "stance": 120,
+      "runes": 130000,
+      "sources": [
+        "https://tarnished.app/enemies/rykard--lord-of-blasphemy",
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3292574189",
+        "https://www.pushsquare.com/guides/elden-ring-how-to-beat-rykard-lord-of-blasphemy"
+      ],
+      "note": "Full solo table and indexed Steam guide agree second-bar health; reward independently corroborated. First-bar sources disagree (30439 versus 30493), not promoted; separate phase record pending. Exact regulation unverified."
     }
   ],
   "limitations": [

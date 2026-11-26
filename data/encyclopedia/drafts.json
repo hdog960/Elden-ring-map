@@ -260,12 +260,15 @@
       "directions": "Complete Belurat, Tower Settlement, then ascend to the Stagefront fog.",
       "conditions": "DLC access; optional NPC assistance if available.",
       "combat": "Erratic body lunges, breath attacks and shifting elemental hazards.",
-      "strategy": "Watch the head rather than the costume's body for the next lunge. Avoid lingering lightning zones and frost bursts; strike after a full leap or breath sequence. Casters should keep a clear escape route.",
-      "rewards": "Remembrance of the Dancing Lion; Divine Beast Head; 90,000 runes.",
+      "strategy": "Watch the head rather than the costume's body for the next lunge. Avoid lingering lightning zones and frost bursts; strike after a full leap or breath sequence. Casters should keep a clear escape route. Pierce and fire have zero negation in the cited table; critical hits are possible after a stance break. Redmane Freyja is an available NPC summon.",
+      "rewards": "Remembrance of the Dancing Lion; Divine Beast Head; 120,000 runes (reported NG).",
       "preparation": "Suggested level 130–150 and several Scadutree Blessing levels; defensive talismans help.",
       "sources": [
         "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
-        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/"
+        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
+        "https://tarnished.app/enemies/divine-beast-dancing-lion",
+        "https://www.gamerguides.com/elden-ring-shadow-of-the-erdtree/database/bosses/legend/divine-beast-dancing-lion-belurat-tower-settlement",
+        "https://tarnishedwiki.com/divine-beast-dancing-lion-boss-guide/"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -275,8 +278,7 @@
         "statusThresholds": null
       },
       "unresolved": [
-        "Exact NG health, stance and damage/status tables require version-specific independent verification.",
-        "Full summon/parry/critical eligibility and exact entrance calibration require review."
+        "Scoped combat research is recorded separately; exact regulation, full combat tables and calibrated map position remain unqualified."
       ]
     },
     {
@@ -3454,16 +3456,19 @@
     {
       "id": "er:b-rykard",
       "grace": "Audience Pathway",
-      "directions": "Reach the audience via the manor's dungeon teleporter or Tanith's completed contract route.",
+      "directions": "Reach the audience via the manor's dungeon teleporter or Tanith's completed contract route. Pick up the Serpent-Hunter on the left after entering.",
       "conditions": "Ending Rykard fight can close outstanding manor contracts; two phases one encounter.",
       "combat": "Serpent bites and poison, then sword arcs and pursuing flaming skulls.",
       "strategy": "Equip the Serpent-Hunter found inside the arena and use its extended attacks. Stay out of lava; when skulls pursue, keep moving until the barrage ends.",
-      "rewards": "Rykard's Great Rune; Remembrance of the Blasphemous.",
+      "rewards": "Rykard's Great Rune; Remembrance of the Blasphemous; 130,000 runes (reported NG).",
       "preparation": "Level 70–100; upgrade Serpent-Hunter if needed.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/database/bosses/altus-plateau-bosses",
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
-        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+        "https://tarnished.app/enemies/rykard--lord-of-blasphemy",
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3292574189",
+        "https://www.pushsquare.com/guides/elden-ring-how-to-beat-rykard-lord-of-blasphemy"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -3473,8 +3478,8 @@
         "statusThresholds": null
       },
       "unresolved": [
-        "Confirm exact current-patch numerical combat statistics and reward values.",
-        "Verify grace, access route and combat eligibility against individual encounter sources."
+        "Scoped combat research is recorded separately; exact regulation, full combat tables and calibrated map position remain unqualified.",
+        "First serpent bar HP reports conflict; do not interpret second-bar value as total fight HP."
       ]
     },
     {
@@ -4161,13 +4166,17 @@
       "directions": "Traverse the branches and buildings of the Haligtree to the promenade arena.",
       "conditions": "Required to enter Elphael by ordinary route.",
       "combat": "Mounted polearm, magic greatbow and multiple glintblades.",
-      "strategy": "Close diagonally after the magic volley releases; punish her polearm leap. Keep enough stamina to evade the additional arrows in later attacks.",
-      "rewards": "Loretta's Mastery; Loretta's War Sickle.",
+      "strategy": "Close diagonally after the magic volley releases; punish her polearm leap. Keep enough stamina to evade the additional arrows in later attacks. Lightning damage is favorable; parrying or breaking stance only briefly stuns her rather than enabling a critical hit.",
+      "rewards": "Loretta's Mastery; Loretta's War Sickle; 200,000 runes (reported NG).",
       "preparation": "Level 110–140; magic defense.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/guide/consecrated-snowfields/",
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
-        "https://eldenring.redmaw.dev/sheets/bosses"
+        "https://eldenring.redmaw.dev/sheets/bosses",
+        "https://tarnishedwiki.com/loretta-knight-of-the-haligtree-boss-guide-elden-ring/",
+        "https://lorearmory.com/eldenring/bosses/",
+        "https://eldenringpoisewiki.fun/",
+        "https://eldenring.wiki.gg/wiki/Runes"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -4177,8 +4186,7 @@
         "statusThresholds": null
       },
       "unresolved": [
-        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
-        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+        "Scoped combat research is recorded separately; exact regulation, full combat tables and calibrated map position remain unqualified."
       ]
     },
     {
@@ -4214,12 +4222,14 @@
       "conditions": "Required; shared health pool, individual enemies can respawn.",
       "combat": "Apostle stretching blade, Noble rapier and rolling body, black flame projectiles.",
       "strategy": "Sleep can isolate one enemy. Use pillars to break line of sight and protect against the roll; focus on one at a time and attack safely until the shared bar empties.",
-      "rewards": "Smithing-Stone Miner's Bell Bearing [4]; Ash of War: Black Flame Tornado.",
+      "rewards": "Smithing-Stone Miner's Bell Bearing [4]; Ash of War: Black Flame Tornado. 170,000 runes (reported NG).",
       "preparation": "Level 110–140; sleep tools.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/guide/mountaintops-of-the-giants/bosses/",
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
-        "https://eldenring.redmaw.dev/sheets/bosses"
+        "https://eldenring.redmaw.dev/sheets/bosses",
+        "https://tarnishedwiki.com/godskin-duo-boss-guide-elden-ring/",
+        "https://eldenring.wiki.gg/wiki/Godskin_Duo"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -4230,7 +4240,8 @@
       },
       "unresolved": [
         "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
-        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+        "Verify nearest grace, precise route, summon and critical eligibility before publication.",
+        "Shared bar HP reports differ (26,350 versus roughly 24,000); individual stance values are not a shared encounter stance."
       ]
     },
     {
@@ -4456,13 +4467,16 @@
       "directions": "Light the six flame pillars in the upper Nokron forest and touch the remains at the northern Hallowhorn Grounds.",
       "conditions": "Optional remembrance; distinct from lower Siofra Spirit.",
       "combat": "Airborne leaps, breath and healing from spirit animals.",
-      "strategy": "Punish grounded recoveries and do not chase its teleport. Maintain pressure when it begins healing if safe; use fast ranged hits when it moves away.",
-      "rewards": "Remembrance of the Regal Ancestor.",
+      "strategy": "Punish grounded recoveries and do not chase its teleport. Maintain pressure when it begins healing if safe; use fast ranged hits when it moves away. Fire and holy damage are favored; later heals restore less.",
+      "rewards": "Remembrance of the Regal Ancestor; 24,000 runes (reported NG).",
       "preparation": "Level 65–85.",
       "sources": [
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
         "https://eldenring.redmaw.dev/sheets/bosses",
-        "https://www.eldenringwiki.cc/locations/underground-rivers/"
+        "https://www.eldenringwiki.cc/locations/underground-rivers/",
+        "https://www.gamerguides.com/elden-ring/database/bosses/nokron-eternal-city-bosses/regal-ancestor-spirit/",
+        "https://tarnishedwiki.com/regal-ancestor-spirit-boss-guide-elden-ring/",
+        "https://lorearmory.com/eldenring/bosses/"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -4472,8 +4486,7 @@
         "statusThresholds": null
       },
       "unresolved": [
-        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
-        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+        "Scoped combat research is recorded separately; exact regulation, full combat tables and calibrated map position remain unqualified."
       ]
     },
     {
@@ -4639,15 +4652,19 @@
       "id": "er:b-fortissax",
       "grace": "Prince of Death's Throne",
       "directions": "Advance Fia's quest, give her the Cursemark of Death and enter her dream when available.",
-      "conditions": "Quest-dependent optional remembrance.",
+      "conditions": "Quest-dependent optional remembrance. Killing Fia before the dream becomes available can lock out the fight.",
       "combat": "Lightning, deathblight clouds and sweeping red lightning attacks.",
-      "strategy": "Keep clear of deathblight mist, move when lightning attaches to your position and punish the lowered head after committed attacks. Do not linger directly beneath the dragon.",
-      "rewards": "Remembrance of the Lichdragon.",
+      "strategy": "Keep clear of deathblight mist, move when lightning attaches to your position and punish the lowered head after committed attacks. Do not linger directly beneath the dragon. Prefer piercing attacks when practical; holy and lightning damage are strongly resisted.",
+      "rewards": "Remembrance of the Lichdragon; 90,000 runes (reported NG). Mending Rune of the Death-Prince is a separate quest pickup.",
       "preparation": "Level 90–120; lightning defense.",
       "sources": [
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
         "https://eldenring.redmaw.dev/sheets/bosses",
-        "https://www.eldenringwiki.cc/locations/underground-rivers/"
+        "https://www.eldenringwiki.cc/locations/underground-rivers/",
+        "https://tarnishedwiki.com/lichdragon-fortissax-boss-guide-elden-ring/",
+        "https://www.pureeldenring.com/bosses/lichdragon-fortissax",
+        "https://eldenring.wiki.gg/wiki/Stance",
+        "https://eldenring.wiki.gg/wiki/Fortissax"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -4657,8 +4674,7 @@
         "statusThresholds": null
       },
       "unresolved": [
-        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
-        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+        "Scoped combat research is recorded separately; exact regulation, full combat tables and calibrated map position remain unqualified."
       ]
     },
     {
@@ -5433,7 +5449,7 @@
       "id": "er:b-towerbridge-noble",
       "grace": "Liurnia Tower Bridge",
       "directions": "Cross from Carian Study Hall after using the inverted statue.",
-      "conditions": "Progress Ranni's quest until the Carian Inverted Statue is obtained; invert the Study Hall to reach the bridge. This optional guard can be bypassed.",
+      "conditions": "Progress Ranni's quest until the Carian Inverted Statue is obtained; invert the Study Hall to reach the bridge. This optional guard can be bypassed. Published enemy documentation explicitly identifies this bridge variant as non-respawning and without Spirit Ash access.",
       "combat": "Rapier chains, black flame and rolling attack.",
       "strategy": "Use width of bridge to evade the roll, avoid falling, and punish the final thrust. Sleep may create openings.",
       "rewards": "Godskin Noble set.",
@@ -5454,7 +5470,7 @@
         "statusThresholds": null
       },
       "unresolved": [
-        "Exact defeat flag, respawn observation, current combat stats and map position still pending; retain extended classification."
+        "Exact defeat flag, direct reload observation, current combat stats and map position still pending."
       ]
     },
     {

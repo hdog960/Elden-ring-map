@@ -1,5 +1,5 @@
 {
-  "version": "session24-20261126-a",
+  "version": "session25-20261126-a",
   "releaseReady": false,
   "assets": [
     {
@@ -76,11 +76,11 @@
     },
     {
       "path": "data/encyclopedia/drafts.json",
-      "gitBlob": "4a744adfeefe3ef45025d20c2d1584f3f0f9b39d"
+      "gitBlob": "a0c70d0ccbc835f920ae68964c1e92f08255b8ae"
     },
     {
       "path": "data/encyclopedia/stat-evidence.json",
-      "gitBlob": "6fd6927ba5c13cb17441b4776f35ebcd5c3c9075"
+      "gitBlob": "f749ad7c967eab2ac91267bffb2ffcc46d67c761"
     },
     {
       "path": "data/geography/compass-research.json",
@@ -108,7 +108,7 @@
     },
     {
       "path": "src/app.js",
-      "gitBlob": "748f44b1b748e0eec3b6cfdec6f3b4bcbb324408"
+      "gitBlob": "1469bb079151234ea1dd951c8b1fd213808c961d"
     },
     {
       "path": "src/atlas-preview.js",
@@ -136,7 +136,7 @@
     },
     {
       "path": "src/encyclopedia.js",
-      "gitBlob": "e4b04b95682e5964fd02393e49e1fea7e1fa2ace"
+      "gitBlob": "cd3fda36a1a1620e93294d2608a8aa13efa9154d"
     },
     {
       "path": "src/map-admission.js",

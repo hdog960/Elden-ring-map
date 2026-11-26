@@ -53,3 +53,6 @@ Five provisional extended additions: Madding Hand and four Shadow Keep summon-si
 
 ## Session 24
 Two distinct non-respawning Shadow Keep Church District spirits provisionally admitted with distinct reward and location evidence. Logur full Fandom page confirms identity but lacks explicit non-respawn. Five individual numerical research records: Niall, Astel Naturalborn (boss variant), Gaius, Metyr, Putrescent Knight. No patch qualification or production admission. 286 IDs, 207 primary/79 extended; no geography change. Browser update lifecycle failed on session23; out-of-scope observer isolates natural activation before reopening, no skipWaiting or relaxed assertion.
+
+## Session 25
+No new stable IDs; 286 total. Five scoped records added (Regal Ancestor, Fortissax, Haligtree Loretta, Belurat Lion, Rykard second phase); 29 total. Belurat reward corrected to 120000, Godskin Duo reward corroborated but shared HP conflict withheld, Tower Bridge Noble documented non-respawn. Development-only research panel with explicit scope and conflict; no numerical release promotion. Existing offline activation gate passed. Logur remains held. No terrain changes.
