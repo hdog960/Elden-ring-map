@@ -1,0 +1,3574 @@
+{
+  "schema": 1,
+  "status": "permission-backed-research-not-production",
+  "permission": "https://github.com/EthanShoeDev/elden-ring-compass/issues/13#issuecomment-7180600988",
+  "source": {
+    "repository": "EthanShoeDev/elden-ring-compass",
+    "commit": "cd0f6093cd1990803287445e330cd1cabb5694ea",
+    "bossBlob": "158f71f44bb015633255e8e340c5271a763cc477",
+    "conversionBlob": "f99565ecda3ded6288ff6d2cce65777d4b551c36",
+    "affineBlob": "a987603dc2140073b0968a39694527ac3980e6f9",
+    "provenance": "GameAreaParam arena locations with source MSB placement overrides; source uses EMEVD names. No upstream code or art copied."
+  },
+  "projection": {
+    "size": 10496,
+    "tile": 256,
+    "offsetX": -7168,
+    "offsetY": 16640
+  },
+  "arenas": [
+    {
+      "name": "Godrick the Grafted",
+      "mapId": "m10_00_00_00",
+      "defeatFlagId": 10000800,
+      "x": -233.63999938964844,
+      "z": 349.6000061035156,
+      "isDlc": false
+    },
+    {
+      "name": "Margit, the Fell Omen",
+      "mapId": "m10_00_00_00",
+      "defeatFlagId": 10000850,
+      "x": -16.940000534057617,
+      "z": -17.600000381469727,
+      "isDlc": false
+    },
+    {
+      "name": "Grafted Scion",
+      "mapId": "m10_01_00_00",
+      "defeatFlagId": 10010800,
+      "x": -16.940000534057617,
+      "z": -17.600000381469727,
+      "isDlc": false
+    },
+    {
+      "name": "Morgott, the Omen King",
+      "mapId": "m11_00_00_00",
+      "defeatFlagId": 11000800,
+      "x": 67.41000366210938,
+      "z": -455.17999267578125,
+      "isDlc": false
+    },
+    {
+      "name": "Godfrey, First Elden Lord",
+      "mapId": "m11_00_00_00",
+      "defeatFlagId": 11000850,
+      "x": -131.55999755859375,
+      "z": -386.3599853515625,
+      "isDlc": false
+    },
+    {
+      "name": "Godfrey, First Elden Lord",
+      "mapId": "m11_05_00_00",
+      "defeatFlagId": 11050800,
+      "x": 41.02000045776367,
+      "z": -421.2799987792969,
+      "isDlc": false
+    },
+    {
+      "name": "Sir Gideon Ofnir, the All-Knowing",
+      "mapId": "m11_05_00_00",
+      "defeatFlagId": 11050850,
+      "x": -132.33999633789062,
+      "z": -386.6199951171875,
+      "isDlc": false
+    },
+    {
+      "name": "Dragonkin Soldier of Nokstella",
+      "mapId": "m12_01_00_00",
+      "defeatFlagId": 12010800,
+      "x": -193,
+      "z": 59.7599983215332,
+      "isDlc": false
+    },
+    {
+      "name": "Dragonkin Soldier",
+      "mapId": "m12_01_00_00",
+      "defeatFlagId": 12010850,
+      "x": -224.5399932861328,
+      "z": -306.44000244140625,
+      "isDlc": false
+    },
+    {
+      "name": null,
+      "mapId": "m12_03_00_00",
+      "defeatFlagId": 12020390,
+      "x": -884.2080078125,
+      "z": -320.6730041503906,
+      "isDlc": false
+    },
+    {
+      "name": "Valiant Gargoyle",
+      "mapId": "m12_02_00_00",
+      "defeatFlagId": 12020800,
+      "x": 1213.2099609375,
+      "z": 1934.449951171875,
+      "isDlc": false
+    },
+    {
+      "name": "Dragonkin Soldier",
+      "mapId": "m12_02_00_00",
+      "defeatFlagId": 12020830,
+      "x": 1240.0999755859375,
+      "z": 1738.1600341796875,
+      "isDlc": false
+    },
+    {
+      "name": "Mimic Tear",
+      "mapId": "m12_02_00_00",
+      "defeatFlagId": 12020850,
+      "x": 995.9400024414062,
+      "z": 1146.5400390625,
+      "isDlc": false
+    },
+    {
+      "name": "Fia's Champion",
+      "mapId": "m12_03_00_00",
+      "defeatFlagId": 12030800,
+      "x": -370.1109924316406,
+      "z": -203.44500732421875,
+      "isDlc": false
+    },
+    {
+      "name": "Lichdragon Fortissax",
+      "mapId": "m12_03_00_00",
+      "defeatFlagId": 12030850,
+      "x": -448.77099609375,
+      "z": -273.1090087890625,
+      "isDlc": false
+    },
+    {
+      "name": "Astel, Naturalborn of the Void",
+      "mapId": "m12_04_00_00",
+      "defeatFlagId": 12040800,
+      "x": -100,
+      "z": -125,
+      "isDlc": false
+    },
+    {
+      "name": "Mohg, Lord of Blood",
+      "mapId": "m12_05_00_00",
+      "defeatFlagId": 12050800,
+      "x": 1552.510009765625,
+      "z": 1234.4200439453125,
+      "isDlc": false
+    },
+    {
+      "name": "Ancestor Spirit",
+      "mapId": "m12_08_00_00",
+      "defeatFlagId": 12080800,
+      "x": 1530.6800537109375,
+      "z": -1052.550048828125,
+      "isDlc": false
+    },
+    {
+      "name": "Regal Ancestor Spirit",
+      "mapId": "m12_09_00_00",
+      "defeatFlagId": 12090800,
+      "x": 1184.7900390625,
+      "z": 1899.7099609375,
+      "isDlc": false
+    },
+    {
+      "name": "Maliketh, the Black Blade",
+      "mapId": "m13_00_00_00",
+      "defeatFlagId": 13000800,
+      "x": 197.2100067138672,
+      "z": 374.75,
+      "isDlc": false
+    },
+    {
+      "name": "Dragonlord Placidusax",
+      "mapId": "m13_00_00_00",
+      "defeatFlagId": 13000830,
+      "x": 14.449999809265137,
+      "z": 329.5,
+      "isDlc": false
+    },
+    {
+      "name": "Godskin Duo",
+      "mapId": "m13_00_00_00",
+      "defeatFlagId": 13000850,
+      "x": -3.549999952316284,
+      "z": 406.5199890136719,
+      "isDlc": false
+    },
+    {
+      "name": "Rennala, Queen of the Full Moon",
+      "mapId": "m14_00_00_00",
+      "defeatFlagId": 14000800,
+      "x": 70.4000015258789,
+      "z": -23.420000076293945,
+      "isDlc": false
+    },
+    {
+      "name": "Red Wolf of Radagon",
+      "mapId": "m14_00_00_00",
+      "defeatFlagId": 14000850,
+      "x": 151.24000549316406,
+      "z": -222.99000549316406,
+      "isDlc": false
+    },
+    {
+      "name": "Malenia, Blade of Miquella",
+      "mapId": "m15_00_00_00",
+      "defeatFlagId": 15000800,
+      "x": -25.8700008392334,
+      "z": 477.4100036621094,
+      "isDlc": false
+    },
+    {
+      "name": "Loretta, Knight of the Haligtree",
+      "mapId": "m15_00_00_00",
+      "defeatFlagId": 15000850,
+      "x": 174.3699951171875,
+      "z": 307.8999938964844,
+      "isDlc": false
+    },
+    {
+      "name": "Rykard, Lord of Blasphemy",
+      "mapId": "m16_00_00_00",
+      "defeatFlagId": 16000800,
+      "x": 93.69000244140625,
+      "z": -118.41000366210938,
+      "isDlc": false
+    },
+    {
+      "name": "Godskin Noble",
+      "mapId": "m16_00_00_00",
+      "defeatFlagId": 16000850,
+      "x": 62.31999969482422,
+      "z": -211.47999572753906,
+      "isDlc": false
+    },
+    {
+      "name": "Abductor Virgin (Swinging Sickle)",
+      "mapId": "m16_00_00_00",
+      "defeatFlagId": 16000860,
+      "x": 229.67100524902344,
+      "z": -251.97300720214844,
+      "isDlc": false
+    },
+    {
+      "name": "Ulcerated Tree Spirit",
+      "mapId": "m18_00_00_00",
+      "defeatFlagId": 18000800,
+      "x": 29.5,
+      "z": 53.470001220703125,
+      "isDlc": false
+    },
+    {
+      "name": "Soldier of Godrick",
+      "mapId": "m18_00_00_00",
+      "defeatFlagId": 18000850,
+      "x": -40.939998626708984,
+      "z": 41.099998474121094,
+      "isDlc": false
+    },
+    {
+      "name": "Elden Beast",
+      "mapId": "m19_00_00_00",
+      "defeatFlagId": 19000800,
+      "x": 213.99000549316406,
+      "z": -686.969970703125,
+      "isDlc": false
+    },
+    {
+      "name": "Divine Beast Dancing Lion",
+      "mapId": "m20_00_00_00",
+      "defeatFlagId": 20000800,
+      "x": -43.02000045776367,
+      "z": 336.6099853515625,
+      "isDlc": true
+    },
+    {
+      "name": "Radahn, Consort of Miquella",
+      "mapId": "m20_01_00_00",
+      "defeatFlagId": 20010800,
+      "x": -287.239990234375,
+      "z": -141.2100067138672,
+      "isDlc": true
+    },
+    {
+      "name": "Needle Knight Leda",
+      "mapId": "m20_01_00_00",
+      "defeatFlagId": 20010850,
+      "x": -221.55999755859375,
+      "z": -328.75,
+      "isDlc": true
+    },
+    {
+      "name": "Golden Hippopotamus",
+      "mapId": "m21_00_00_00",
+      "defeatFlagId": 21000850,
+      "x": 100.4469985961914,
+      "z": 148.08999633789062,
+      "isDlc": true
+    },
+    {
+      "name": "Base Serpent Messmer",
+      "mapId": "m21_01_00_00",
+      "defeatFlagId": 21010800,
+      "x": 77.54000091552734,
+      "z": 393.2179870605469,
+      "isDlc": true
+    },
+    {
+      "name": "Putrescent Knight",
+      "mapId": "m22_00_00_00",
+      "defeatFlagId": 22000800,
+      "x": -70.0989990234375,
+      "z": 104.28900146484375,
+      "isDlc": true
+    },
+    {
+      "name": "Metyr, Mother of Fingers",
+      "mapId": "m25_00_00_00",
+      "defeatFlagId": 25000800,
+      "x": 4.320000171661377,
+      "z": -2.319999933242798,
+      "isDlc": true
+    },
+    {
+      "name": "Midra, Lord of Frenzied Flame",
+      "mapId": "m28_00_00_00",
+      "defeatFlagId": 28000800,
+      "x": -11.746000289916992,
+      "z": -92.35600280761719,
+      "isDlc": true
+    },
+    {
+      "name": "Cemetery Shade",
+      "mapId": "m30_00_00_00",
+      "defeatFlagId": 30000800,
+      "x": 2.619999885559082,
+      "z": 65.55999755859375,
+      "isDlc": false
+    },
+    {
+      "name": "Erdtree Burial Watchdog",
+      "mapId": "m30_01_00_00",
+      "defeatFlagId": 30010800,
+      "x": -34.13999938964844,
+      "z": -156.38999938964844,
+      "isDlc": false
+    },
+    {
+      "name": "Erdtree Burial Watchdog",
+      "mapId": "m30_02_00_00",
+      "defeatFlagId": 30020800,
+      "x": 103.66999816894531,
+      "z": 74.18000030517578,
+      "isDlc": false
+    },
+    {
+      "name": "Spiritcaller Snail",
+      "mapId": "m30_03_00_00",
+      "defeatFlagId": 30030800,
+      "x": 90.5,
+      "z": 24.290000915527344,
+      "isDlc": false
+    },
+    {
+      "name": "Grave Warden Duelist",
+      "mapId": "m30_04_00_00",
+      "defeatFlagId": 30040800,
+      "x": -20.40999984741211,
+      "z": 98.5199966430664,
+      "isDlc": false
+    },
+    {
+      "name": "Cemetery Shade",
+      "mapId": "m30_05_00_00",
+      "defeatFlagId": 30050800,
+      "x": -189.41000366210938,
+      "z": 121.20999908447266,
+      "isDlc": false
+    },
+    {
+      "name": "Black Knife Assassin",
+      "mapId": "m30_05_00_00",
+      "defeatFlagId": 30050850,
+      "x": -225.77999877929688,
+      "z": 16.8700008392334,
+      "isDlc": false
+    },
+    {
+      "name": "Erdtree Burial Watchdog",
+      "mapId": "m30_06_00_00",
+      "defeatFlagId": 30060800,
+      "x": 20.860000610351562,
+      "z": -18.719999313354492,
+      "isDlc": false
+    },
+    {
+      "name": "Erdtree Burial Watchdog",
+      "mapId": "m30_07_00_00",
+      "defeatFlagId": 30070800,
+      "x": -127.12000274658203,
+      "z": 221.80999755859375,
+      "isDlc": false
+    },
+    {
+      "name": "Ancient Hero of Zamor",
+      "mapId": "m30_08_00_00",
+      "defeatFlagId": 30080800,
+      "x": 336.1099853515625,
+      "z": 13.739999771118164,
+      "isDlc": false
+    },
+    {
+      "name": "Red Wolf of the Champion",
+      "mapId": "m30_09_00_00",
+      "defeatFlagId": 30090800,
+      "x": -148.10000610351562,
+      "z": 97.0199966430664,
+      "isDlc": false
+    },
+    {
+      "name": "Crucible Knight Ordovis",
+      "mapId": "m30_10_00_00",
+      "defeatFlagId": 30100800,
+      "x": -108.8499984741211,
+      "z": 343.7200012207031,
+      "isDlc": false
+    },
+    {
+      "name": "Crucible Knight Ordovis",
+      "mapId": "m30_10_00_00",
+      "defeatFlagId": 30100800,
+      "x": -101.56999969482422,
+      "z": 340.4700012207031,
+      "isDlc": false
+    },
+    {
+      "name": "Black Knife Assassin",
+      "mapId": "m30_11_00_00",
+      "defeatFlagId": 30110800,
+      "x": -208.77999877929688,
+      "z": 23.670000076293945,
+      "isDlc": false
+    },
+    {
+      "name": "Misbegotten Warrior",
+      "mapId": "m30_12_00_00",
+      "defeatFlagId": 30120800,
+      "x": 7.630000114440918,
+      "z": 235.83999633789062,
+      "isDlc": false
+    },
+    {
+      "name": "Misbegotten Warrior",
+      "mapId": "m30_12_00_00",
+      "defeatFlagId": 30120800,
+      "x": 9.619999885559082,
+      "z": 239.61000061035156,
+      "isDlc": false
+    },
+    {
+      "name": "Grave Warden Duelist",
+      "mapId": "m30_13_00_00",
+      "defeatFlagId": 30130800,
+      "x": 4.3470001220703125,
+      "z": 78.96199798583984,
+      "isDlc": false
+    },
+    {
+      "name": "Erdtree Burial Watchdog (Sword)",
+      "mapId": "m30_14_00_00",
+      "defeatFlagId": 30140800,
+      "x": -123.4000015258789,
+      "z": -33.959999084472656,
+      "isDlc": false
+    },
+    {
+      "name": "Cemetery Shade",
+      "mapId": "m30_15_00_00",
+      "defeatFlagId": 30150800,
+      "x": 125.70999908447266,
+      "z": 258.0299987792969,
+      "isDlc": false
+    },
+    {
+      "name": "Putrid Tree Spirit",
+      "mapId": "m30_16_00_00",
+      "defeatFlagId": 30160800,
+      "x": -127.38999938964844,
+      "z": -89.48999786376953,
+      "isDlc": false
+    },
+    {
+      "name": "Ancient Hero of Zamor",
+      "mapId": "m30_17_00_00",
+      "defeatFlagId": 30170800,
+      "x": -7.610000133514404,
+      "z": -35.834999084472656,
+      "isDlc": false
+    },
+    {
+      "name": "Ulcerated Tree Spirit",
+      "mapId": "m30_18_00_00",
+      "defeatFlagId": 30180800,
+      "x": -134.19500732421875,
+      "z": 156.6179962158203,
+      "isDlc": false
+    },
+    {
+      "name": "Putrid Grave Warden Duelist",
+      "mapId": "m30_19_00_00",
+      "defeatFlagId": 30190800,
+      "x": 68.2969970703125,
+      "z": -160.6280059814453,
+      "isDlc": false
+    },
+    {
+      "name": null,
+      "mapId": "m30_20_00_00",
+      "defeatFlagId": 30200810,
+      "x": -89.68900299072266,
+      "z": -264.3909912109375,
+      "isDlc": false
+    },
+    {
+      "name": "Patches",
+      "mapId": "m31_00_00_00",
+      "defeatFlagId": 31000800,
+      "x": -140.25999450683594,
+      "z": 42.91999816894531,
+      "isDlc": false
+    },
+    {
+      "name": "Runebear",
+      "mapId": "m31_01_00_00",
+      "defeatFlagId": 31010800,
+      "x": -143.89999389648438,
+      "z": -146.57000732421875,
+      "isDlc": false
+    },
+    {
+      "name": "Miranda Blossom",
+      "mapId": "m31_02_00_00",
+      "defeatFlagId": 31020800,
+      "x": -117.18000030517578,
+      "z": 0.9100000262260437,
+      "isDlc": false
+    },
+    {
+      "name": "Beastman of Farum Azula",
+      "mapId": "m31_03_00_00",
+      "defeatFlagId": 31030800,
+      "x": -120.79000091552734,
+      "z": 80.7699966430664,
+      "isDlc": false
+    },
+    {
+      "name": "Cleanrot Knight",
+      "mapId": "m31_04_00_00",
+      "defeatFlagId": 31040800,
+      "x": 97.86000061035156,
+      "z": -166.72000122070312,
+      "isDlc": false
+    },
+    {
+      "name": "Bloodhound Knight",
+      "mapId": "m31_05_00_00",
+      "defeatFlagId": 31050800,
+      "x": -166.6999969482422,
+      "z": -18.600000381469727,
+      "isDlc": false
+    },
+    {
+      "name": "Crystalian (Staff)",
+      "mapId": "m31_06_00_00",
+      "defeatFlagId": 31060800,
+      "x": 191.16000366210938,
+      "z": 104.37000274658203,
+      "isDlc": false
+    },
+    {
+      "name": "Kindred of Rot",
+      "mapId": "m31_07_00_00",
+      "defeatFlagId": 31070800,
+      "x": -127.26000213623047,
+      "z": 260.2099914550781,
+      "isDlc": false
+    },
+    {
+      "name": "Demi-Human Queen Margot",
+      "mapId": "m31_09_00_00",
+      "defeatFlagId": 31090800,
+      "x": -63.90999984741211,
+      "z": -75.06999969482422,
+      "isDlc": false
+    },
+    {
+      "name": "Beastman of Farum Azula (Cleaver)",
+      "mapId": "m31_10_00_00",
+      "defeatFlagId": 31100800,
+      "x": 30.649999618530273,
+      "z": 19.059999465942383,
+      "isDlc": false
+    },
+    {
+      "name": "Putrid Crystalian (Spear)",
+      "mapId": "m31_11_00_00",
+      "defeatFlagId": 31110800,
+      "x": -145.7899932861328,
+      "z": 135.72000122070312,
+      "isDlc": false
+    },
+    {
+      "name": "Misbegotten Crusader",
+      "mapId": "m31_12_00_00",
+      "defeatFlagId": 31120800,
+      "x": -23.020000457763672,
+      "z": 112.94999694824219,
+      "isDlc": false
+    },
+    {
+      "name": "Demi-Human Chief",
+      "mapId": "m31_15_00_00",
+      "defeatFlagId": 31150800,
+      "x": 30.889999389648438,
+      "z": -99.83999633789062,
+      "isDlc": false
+    },
+    {
+      "name": "Guardian Golem",
+      "mapId": "m31_17_00_00",
+      "defeatFlagId": 31170800,
+      "x": 74.41999816894531,
+      "z": 148.67999267578125,
+      "isDlc": false
+    },
+    {
+      "name": "Miranda the Blighted Bloom",
+      "mapId": "m31_18_00_00",
+      "defeatFlagId": 31180800,
+      "x": -94.33999633789062,
+      "z": 181.7100067138672,
+      "isDlc": false
+    },
+    {
+      "name": "Black Knife Assassin",
+      "mapId": "m31_19_00_00",
+      "defeatFlagId": 31190800,
+      "x": 130.99000549316406,
+      "z": -12.699999809265137,
+      "isDlc": false
+    },
+    {
+      "name": "Necromancer Garris",
+      "mapId": "m31_19_00_00",
+      "defeatFlagId": 31190850,
+      "x": 108.32499694824219,
+      "z": -45.18600082397461,
+      "isDlc": false
+    },
+    {
+      "name": "Cleanrot Knight (Spear)",
+      "mapId": "m31_20_00_00",
+      "defeatFlagId": 31200800,
+      "x": 166.14999389648438,
+      "z": 149.83999633789062,
+      "isDlc": false
+    },
+    {
+      "name": "Frenzied Duelist",
+      "mapId": "m31_21_00_00",
+      "defeatFlagId": 31210800,
+      "x": -164.0399932861328,
+      "z": 56.9900016784668,
+      "isDlc": false
+    },
+    {
+      "name": "Spiritcaller Snail",
+      "mapId": "m31_22_00_00",
+      "defeatFlagId": 31220800,
+      "x": -45.5099983215332,
+      "z": -118.0999984741211,
+      "isDlc": false
+    },
+    {
+      "name": "Scaly Misbegotten",
+      "mapId": "m32_00_00_00",
+      "defeatFlagId": 32000800,
+      "x": 83.33999633789062,
+      "z": -24.239999771118164,
+      "isDlc": false
+    },
+    {
+      "name": "Stonedigger Troll",
+      "mapId": "m32_01_00_00",
+      "defeatFlagId": 32010800,
+      "x": 26.049999237060547,
+      "z": -1.2799999713897705,
+      "isDlc": false
+    },
+    {
+      "name": "Crystalian",
+      "mapId": "m32_02_00_00",
+      "defeatFlagId": 32020800,
+      "x": 12.5,
+      "z": 19.450000762939453,
+      "isDlc": false
+    },
+    {
+      "name": "Stonedigger Troll",
+      "mapId": "m32_04_00_00",
+      "defeatFlagId": 32040800,
+      "x": -299.1199951171875,
+      "z": -120.37000274658203,
+      "isDlc": false
+    },
+    {
+      "name": "Crystalian (Ringblade)",
+      "mapId": "m32_05_00_00",
+      "defeatFlagId": 32050800,
+      "x": 56.439998626708984,
+      "z": -35.130001068115234,
+      "isDlc": false
+    },
+    {
+      "name": "Crystalian (Ringblade)",
+      "mapId": "m32_05_00_00",
+      "defeatFlagId": 32050800,
+      "x": 53.189998626708984,
+      "z": -37.900001525878906,
+      "isDlc": false
+    },
+    {
+      "name": "Magma Wyrm",
+      "mapId": "m32_07_00_00",
+      "defeatFlagId": 32070800,
+      "x": -24.170000076293945,
+      "z": 162.44000244140625,
+      "isDlc": false
+    },
+    {
+      "name": "Fallingstar Beast",
+      "mapId": "m32_08_00_00",
+      "defeatFlagId": 32080800,
+      "x": -75.62999725341797,
+      "z": 231.9600067138672,
+      "isDlc": false
+    },
+    {
+      "name": "Astel, Stars of Darkness",
+      "mapId": "m32_11_00_00",
+      "defeatFlagId": 32110800,
+      "x": 49.47999954223633,
+      "z": 86.19999694824219,
+      "isDlc": false
+    },
+    {
+      "name": "Onyx Lord",
+      "mapId": "m34_12_00_00",
+      "defeatFlagId": 34120800,
+      "x": -49.459999084472656,
+      "z": -195.9199981689453,
+      "isDlc": false
+    },
+    {
+      "name": "Godskin Apostle",
+      "mapId": "m34_13_00_00",
+      "defeatFlagId": 34130800,
+      "x": 76.83000183105469,
+      "z": -101.86000061035156,
+      "isDlc": false
+    },
+    {
+      "name": "Fell Twin",
+      "mapId": "m34_14_00_00",
+      "defeatFlagId": 34140850,
+      "x": 572.7000122070312,
+      "z": -321,
+      "isDlc": false
+    },
+    {
+      "name": "Mohg, the Omen",
+      "mapId": "m35_00_00_00",
+      "defeatFlagId": 35000800,
+      "x": 74.54000091552734,
+      "z": -80.61000061035156,
+      "isDlc": false
+    },
+    {
+      "name": "Esgar, Priest of Blood",
+      "mapId": "m35_00_00_00",
+      "defeatFlagId": 35000850,
+      "x": -203.8470001220703,
+      "z": -306.8659973144531,
+      "isDlc": false
+    },
+    {
+      "name": "Magma Wyrm Makar",
+      "mapId": "m39_20_00_00",
+      "defeatFlagId": 39200800,
+      "x": -106.66999816894531,
+      "z": -1310.489990234375,
+      "isDlc": false
+    },
+    {
+      "name": "Death Knight",
+      "mapId": "m40_00_00_00",
+      "defeatFlagId": 40000800,
+      "x": -426.55999755859375,
+      "z": -33.970001220703125,
+      "isDlc": true
+    },
+    {
+      "name": "Death Knight",
+      "mapId": "m40_01_00_00",
+      "defeatFlagId": 40010800,
+      "x": 186.63499450683594,
+      "z": -139.0330047607422,
+      "isDlc": true
+    },
+    {
+      "name": "Demi-Human Swordmaster Onze",
+      "mapId": "m41_00_00_00",
+      "defeatFlagId": 41000800,
+      "x": -178.66000366210938,
+      "z": -198.6300048828125,
+      "isDlc": true
+    },
+    {
+      "name": "Curseblade Labirith",
+      "mapId": "m41_01_00_00",
+      "defeatFlagId": 41010800,
+      "x": -194.07000732421875,
+      "z": 89.83999633789062,
+      "isDlc": true
+    },
+    {
+      "name": "Lamenter",
+      "mapId": "m41_02_00_00",
+      "defeatFlagId": 41020800,
+      "x": 152.60000610351562,
+      "z": -14.960000038146973,
+      "isDlc": true
+    },
+    {
+      "name": "Chief Bloodfiend",
+      "mapId": "m43_00_00_00",
+      "defeatFlagId": 43000800,
+      "x": 134.5330047607422,
+      "z": 138.67999267578125,
+      "isDlc": true
+    },
+    {
+      "name": "Ancient Dragon-Man",
+      "mapId": "m43_01_00_00",
+      "defeatFlagId": 43010800,
+      "x": 37.560001373291016,
+      "z": 4.199999809265137,
+      "isDlc": true
+    },
+    {
+      "name": "Alecto, Black Knife Ringleader",
+      "mapId": "m60_33_42_00",
+      "defeatFlagId": 1033420800,
+      "x": -40.56999969482422,
+      "z": 86.23999786376953,
+      "isDlc": false
+    },
+    {
+      "name": "Erdtree Avatar",
+      "mapId": "m60_33_43_00",
+      "defeatFlagId": 1033430800,
+      "x": 43.41999816894531,
+      "z": 28.770000457763672,
+      "isDlc": false
+    },
+    {
+      "name": "Bols, Carian Knight",
+      "mapId": "m60_33_45_00",
+      "defeatFlagId": 1033450800,
+      "x": -52.29999923706055,
+      "z": -29.600000381469727,
+      "isDlc": false
+    },
+    {
+      "name": "Glintstone Dragon Adula",
+      "mapId": "m60_34_42_00",
+      "defeatFlagId": 1034420800,
+      "x": 101.58000183105469,
+      "z": -42.529998779296875,
+      "isDlc": false
+    },
+    {
+      "name": "Glintstone Dragon Smarag",
+      "mapId": "m60_34_45_00",
+      "defeatFlagId": 1034450800,
+      "x": -8.09000015258789,
+      "z": -10.619999885559082,
+      "isDlc": false
+    },
+    {
+      "name": "Royal Revenant",
+      "mapId": "m60_34_48_00",
+      "defeatFlagId": 1034480800,
+      "x": 46.25,
+      "z": 77.02999877929688,
+      "isDlc": false
+    },
+    {
+      "name": "Glintstone Dragon Adula",
+      "mapId": "m60_34_50_00",
+      "defeatFlagId": 1034500800,
+      "x": 76.01000213623047,
+      "z": 63.310001373291016,
+      "isDlc": false
+    },
+    {
+      "name": "Omenkiller",
+      "mapId": "m60_35_42_00",
+      "defeatFlagId": 1035420800,
+      "x": -38.61000061035156,
+      "z": -17.899999618530273,
+      "isDlc": false
+    },
+    {
+      "name": "Royal Knight Loretta",
+      "mapId": "m60_35_50_00",
+      "defeatFlagId": 1035500800,
+      "x": -31.850000381469727,
+      "z": 100.61000061035156,
+      "isDlc": false
+    },
+    {
+      "name": "Magma Wyrm",
+      "mapId": "m60_35_53_00",
+      "defeatFlagId": 1035530800,
+      "x": -3.7899999618530273,
+      "z": -70.69000244140625,
+      "isDlc": false
+    },
+    {
+      "name": "Death Rite Bird",
+      "mapId": "m60_36_45_00",
+      "defeatFlagId": 1036450340,
+      "x": -63.61000061035156,
+      "z": 36.970001220703125,
+      "isDlc": false
+    },
+    {
+      "name": "Night's Cavalry",
+      "mapId": "m60_36_48_00",
+      "defeatFlagId": 1036480340,
+      "x": 21.790000915527344,
+      "z": 28.790000915527344,
+      "isDlc": false
+    },
+    {
+      "name": "Onyx Lord",
+      "mapId": "m60_36_50_00",
+      "defeatFlagId": 1036500800,
+      "x": 121.08999633789062,
+      "z": 10.9399995803833,
+      "isDlc": false
+    },
+    {
+      "name": "Full-Grown Fallingstar Beast",
+      "mapId": "m60_36_54_00",
+      "defeatFlagId": 1036540800,
+      "x": 100.62699890136719,
+      "z": -41.75899887084961,
+      "isDlc": false
+    },
+    {
+      "name": "Deathbird",
+      "mapId": "m60_37_42_00",
+      "defeatFlagId": 1037420340,
+      "x": -51.529998779296875,
+      "z": 96.25,
+      "isDlc": false
+    },
+    {
+      "name": "Bell Bearing Hunter",
+      "mapId": "m60_37_46_00",
+      "defeatFlagId": 1037460800,
+      "x": -48.34000015258789,
+      "z": 9.789999961853027,
+      "isDlc": false
+    },
+    {
+      "name": "Ancient Dragon Lansseax",
+      "mapId": "m60_37_51_00",
+      "defeatFlagId": 1037510800,
+      "x": 98.54000091552734,
+      "z": 29.049999237060547,
+      "isDlc": false
+    },
+    {
+      "name": "Demi-Human Queen Maggie",
+      "mapId": "m60_37_53_00",
+      "defeatFlagId": 1037530800,
+      "x": 52.79399871826172,
+      "z": -88.34300231933594,
+      "isDlc": false
+    },
+    {
+      "name": "Ulcerated Tree Spirit",
+      "mapId": "m60_37_54_00",
+      "defeatFlagId": 1037540810,
+      "x": -33.38999938964844,
+      "z": -72.87999725341797,
+      "isDlc": false
+    },
+    {
+      "name": "Adan, Thief of Fire",
+      "mapId": "m60_38_41_00",
+      "defeatFlagId": 1038410800,
+      "x": 3.890000104904175,
+      "z": -124.93000030517578,
+      "isDlc": false
+    },
+    {
+      "name": "Erdtree Avatar",
+      "mapId": "m60_38_48_00",
+      "defeatFlagId": 1038480800,
+      "x": -30.170000076293945,
+      "z": -102.91999816894531,
+      "isDlc": false
+    },
+    {
+      "name": "Demi-Human Queen Gilika",
+      "mapId": "m60_38_51_00",
+      "defeatFlagId": 1038510800,
+      "x": -32.459999084472656,
+      "z": 0.5400000214576721,
+      "isDlc": false
+    },
+    {
+      "name": "Tibia Mariner",
+      "mapId": "m60_38_52_00",
+      "defeatFlagId": 1038520800,
+      "x": -127.15699768066406,
+      "z": 71.56199645996094,
+      "isDlc": false
+    },
+    {
+      "name": "Night's Cavalry",
+      "mapId": "m60_39_43_00",
+      "defeatFlagId": 1039430340,
+      "x": -125.30000305175781,
+      "z": -8.130000114440918,
+      "isDlc": false
+    },
+    {
+      "name": "Tibia Mariner",
+      "mapId": "m60_39_44_00",
+      "defeatFlagId": 1039440800,
+      "x": -81.58999633789062,
+      "z": -41.36000061035156,
+      "isDlc": false
+    },
+    {
+      "name": "Godefroy the Grafted",
+      "mapId": "m60_39_50_00",
+      "defeatFlagId": 1039500800,
+      "x": -45.619998931884766,
+      "z": -86.06999969482422,
+      "isDlc": false
+    },
+    {
+      "name": "Elemer of the Briar",
+      "mapId": "m60_39_54_00",
+      "defeatFlagId": 1039540800,
+      "x": -53.720001220703125,
+      "z": 56.5099983215332,
+      "isDlc": false
+    },
+    {
+      "name": "Black Knife Assassin",
+      "mapId": "m60_40_52_00",
+      "defeatFlagId": 1040520800,
+      "x": 51.63999938964844,
+      "z": 7.320000171661377,
+      "isDlc": false
+    },
+    {
+      "name": "Sanguine Noble",
+      "mapId": "m60_40_53_00",
+      "defeatFlagId": 1040530800,
+      "x": -92.8499984741211,
+      "z": 71.05000305175781,
+      "isDlc": false
+    },
+    {
+      "name": "Fallingstar Beast",
+      "mapId": "m60_41_50_00",
+      "defeatFlagId": 1041500800,
+      "x": 42.84000015258789,
+      "z": 109.23999786376953,
+      "isDlc": false
+    },
+    {
+      "name": "Tree Sentinel",
+      "mapId": "m60_41_51_00",
+      "defeatFlagId": 1041510800,
+      "x": 91.08999633789062,
+      "z": -31.350000381469727,
+      "isDlc": false
+    },
+    {
+      "name": "Ancient Dragon Lansseax",
+      "mapId": "m60_41_52_00",
+      "defeatFlagId": 1041520800,
+      "x": 39.970001220703125,
+      "z": -115.02999877929688,
+      "isDlc": false
+    },
+    {
+      "name": "Wormface",
+      "mapId": "m60_41_53_00",
+      "defeatFlagId": 1041530800,
+      "x": -77.4800033569336,
+      "z": 29.229999542236328,
+      "isDlc": false
+    },
+    {
+      "name": "Ancient Hero of Zamor",
+      "mapId": "m60_42_33_00",
+      "defeatFlagId": 1042330800,
+      "x": -126.38999938964844,
+      "z": 108.76000213623047,
+      "isDlc": false
+    },
+    {
+      "name": "Tree Sentinel",
+      "mapId": "m60_42_36_00",
+      "defeatFlagId": 1042360800,
+      "x": -11.65999984741211,
+      "z": 47.459999084472656,
+      "isDlc": false
+    },
+    {
+      "name": "Crucible Knight",
+      "mapId": "m60_42_37_00",
+      "defeatFlagId": 1042370800,
+      "x": -83.61000061035156,
+      "z": 65,
+      "isDlc": false
+    },
+    {
+      "name": "Deathbird",
+      "mapId": "m60_42_38_00",
+      "defeatFlagId": 1042380800,
+      "x": 120.54000091552734,
+      "z": 50.970001220703125,
+      "isDlc": false
+    },
+    {
+      "name": "Bell Bearing Hunter",
+      "mapId": "m60_42_38_00",
+      "defeatFlagId": 1042380850,
+      "x": 12.300000190734863,
+      "z": 89.58999633789062,
+      "isDlc": false
+    },
+    {
+      "name": "Godskin Apostle",
+      "mapId": "m60_42_55_00",
+      "defeatFlagId": 1042550800,
+      "x": -35.54999923706055,
+      "z": -38.970001220703125,
+      "isDlc": false
+    },
+    {
+      "name": "Leonine Misbegotten",
+      "mapId": "m60_43_30_00",
+      "defeatFlagId": 1043300800,
+      "x": -32.209999084472656,
+      "z": -21.90999984741211,
+      "isDlc": false
+    },
+    {
+      "name": "Erdtree Avatar",
+      "mapId": "m60_43_33_00",
+      "defeatFlagId": 1043330800,
+      "x": -55.400001525878906,
+      "z": 21.959999084472656,
+      "isDlc": false
+    },
+    {
+      "name": "Flying Dragon Agheel",
+      "mapId": "m60_43_36_00",
+      "defeatFlagId": 1043360800,
+      "x": -95.5,
+      "z": 80.2300033569336,
+      "isDlc": false
+    },
+    {
+      "name": "Night's Cavalry",
+      "mapId": "m60_43_37_00",
+      "defeatFlagId": 1043370800,
+      "x": 72.45999908447266,
+      "z": -94.69999694824219,
+      "isDlc": false
+    },
+    {
+      "name": "Bell Bearing Hunter",
+      "mapId": "m60_39_51_00",
+      "defeatFlagId": 1043530800,
+      "x": -16.75,
+      "z": -110.62999725341797,
+      "isDlc": false
+    },
+    {
+      "name": "Bell Bearing Hunter",
+      "mapId": "m60_43_53_00",
+      "defeatFlagId": 1043530800,
+      "x": -9.890000343322754,
+      "z": 3.190000057220459,
+      "isDlc": false
+    },
+    {
+      "name": "Bell Bearing Hunter",
+      "mapId": "m60_44_53_00",
+      "defeatFlagId": 1043530800,
+      "x": -23.579999923706055,
+      "z": 75.98999786376953,
+      "isDlc": false
+    },
+    {
+      "name": "Deathbird",
+      "mapId": "m60_44_32_00",
+      "defeatFlagId": 1044320800,
+      "x": -103.37999725341797,
+      "z": 7.570000171661377,
+      "isDlc": false
+    },
+    {
+      "name": "Night's Cavalry",
+      "mapId": "m60_44_32_00",
+      "defeatFlagId": 1044320850,
+      "x": 36.61000061035156,
+      "z": 102.44999694824219,
+      "isDlc": false
+    },
+    {
+      "name": "Bloodhound Knight Darriwil",
+      "mapId": "m60_44_34_00",
+      "defeatFlagId": 1044350800,
+      "x": -17.399999618530273,
+      "z": 119.83000183105469,
+      "isDlc": false
+    },
+    {
+      "name": "Mad Pumpkin Head",
+      "mapId": "m60_44_36_00",
+      "defeatFlagId": 1044360800,
+      "x": 17.389999389648438,
+      "z": 29.780000686645508,
+      "isDlc": false
+    },
+    {
+      "name": "Tibia Mariner",
+      "mapId": "m60_45_39_00",
+      "defeatFlagId": 1045390800,
+      "x": -35.04999923706055,
+      "z": 1.2899999618530273,
+      "isDlc": false
+    },
+    {
+      "name": "Draconic Tree Sentinel",
+      "mapId": "m60_45_52_00",
+      "defeatFlagId": 1045520800,
+      "x": 27.690000534057617,
+      "z": 43.91999816894531,
+      "isDlc": false
+    },
+    {
+      "name": "Putrid Avatar",
+      "mapId": "m60_47_40_00",
+      "defeatFlagId": 1047400800,
+      "x": -102.33999633789062,
+      "z": 102.54000091552734,
+      "isDlc": false
+    },
+    {
+      "name": "Decaying Ekzykes",
+      "mapId": "m60_48_37_00",
+      "defeatFlagId": 1048370800,
+      "x": -48.09000015258789,
+      "z": -42.66999816894531,
+      "isDlc": false
+    },
+    {
+      "name": "Mad Pumpkin Head (Hammer)",
+      "mapId": "m60_48_40_00",
+      "defeatFlagId": 1048400800,
+      "x": -118.79000091552734,
+      "z": -91.27999877929688,
+      "isDlc": false
+    },
+    {
+      "name": "Bell Bearing Hunter",
+      "mapId": "m60_48_41_00",
+      "defeatFlagId": 1048410800,
+      "x": -86.9800033569336,
+      "z": -70.16000366210938,
+      "isDlc": false
+    },
+    {
+      "name": "Night's Cavalry",
+      "mapId": "m60_48_51_00",
+      "defeatFlagId": 1048510800,
+      "x": -93.19999694824219,
+      "z": 47.68000030517578,
+      "isDlc": false
+    },
+    {
+      "name": "Death Rite Bird",
+      "mapId": "m60_48_57_00",
+      "defeatFlagId": 1048570800,
+      "x": -106.88999938964844,
+      "z": 116.4800033569336,
+      "isDlc": false
+    },
+    {
+      "name": "Night's Cavalry",
+      "mapId": "m60_49_37_00",
+      "defeatFlagId": 1049370800,
+      "x": -116.5199966430664,
+      "z": -7.900000095367432,
+      "isDlc": false
+    },
+    {
+      "name": "Death Rite Bird",
+      "mapId": "m60_49_37_00",
+      "defeatFlagId": 1049370850,
+      "x": 112.20999908447266,
+      "z": 15.510000228881836,
+      "isDlc": false
+    },
+    {
+      "name": "Commander O'Neil",
+      "mapId": "m60_49_38_00",
+      "defeatFlagId": 1049380800,
+      "x": -25.219999313354492,
+      "z": 50.56999969482422,
+      "isDlc": false
+    },
+    {
+      "name": "Nox Monk",
+      "mapId": "m60_49_39_00",
+      "defeatFlagId": 1049390800,
+      "x": 94.0199966430664,
+      "z": 86.54000091552734,
+      "isDlc": false
+    },
+    {
+      "name": "Battlemage Hugues",
+      "mapId": "m60_49_39_00",
+      "defeatFlagId": 1049390850,
+      "x": -89.47000122070312,
+      "z": -1.090000033378601,
+      "isDlc": false
+    },
+    {
+      "name": "Black Blade Kindred",
+      "mapId": "m60_49_52_00",
+      "defeatFlagId": 1049520800,
+      "x": -20.309999465942383,
+      "z": 54.709999084472656,
+      "isDlc": false
+    },
+    {
+      "name": "Great Wyrm Theodorix",
+      "mapId": "m60_50_56_00",
+      "defeatFlagId": 1050560800,
+      "x": 15.430000305175781,
+      "z": 9.550000190734863,
+      "isDlc": false
+    },
+    {
+      "name": "Death Rite Bird",
+      "mapId": "m60_50_57_00",
+      "defeatFlagId": 1050570800,
+      "x": 64.5999984741211,
+      "z": -79.5,
+      "isDlc": false
+    },
+    {
+      "name": "Putrid Avatar",
+      "mapId": "m60_50_57_00",
+      "defeatFlagId": 1050570850,
+      "x": -85.37999725341797,
+      "z": -56.41999816894531,
+      "isDlc": false
+    },
+    {
+      "name": "Crucible Knight",
+      "mapId": "m60_51_36_00",
+      "defeatFlagId": 1051360800,
+      "x": 78.38999938964844,
+      "z": 37.63999938964844,
+      "isDlc": false
+    },
+    {
+      "name": "Putrid Avatar",
+      "mapId": "m60_51_40_00",
+      "defeatFlagId": 1051400800,
+      "x": 37.400001525878906,
+      "z": 70.2300033569336,
+      "isDlc": false
+    },
+    {
+      "name": "Black Blade Kindred",
+      "mapId": "m60_51_43_00",
+      "defeatFlagId": 1051430800,
+      "x": 60.88999938964844,
+      "z": -63.970001220703125,
+      "isDlc": false
+    },
+    {
+      "name": "Commander Niall",
+      "mapId": "m60_51_57_00",
+      "defeatFlagId": 1051570800,
+      "x": 78.08000183105469,
+      "z": 210.22999572753906,
+      "isDlc": false
+    },
+    {
+      "name": "Flying Dragon Greyll",
+      "mapId": "m60_52_41_00",
+      "defeatFlagId": 1052410800,
+      "x": -110.47000122070312,
+      "z": 107.52999877929688,
+      "isDlc": false
+    },
+    {
+      "name": "Night's Cavalry",
+      "mapId": "m60_52_41_00",
+      "defeatFlagId": 1052410850,
+      "x": 8.279999732971191,
+      "z": 115.70999908447266,
+      "isDlc": false
+    },
+    {
+      "name": "Fire Giant",
+      "mapId": "m60_52_52_00",
+      "defeatFlagId": 1052520800,
+      "x": 104.5999984741211,
+      "z": 58.66999816894531,
+      "isDlc": false
+    },
+    {
+      "name": "Erdtree Avatar",
+      "mapId": "m60_52_56_00",
+      "defeatFlagId": 1052560800,
+      "x": -58.97999954223633,
+      "z": 70.18000030517578,
+      "isDlc": false
+    },
+    {
+      "name": "Roundtable Knight Vyke",
+      "mapId": "m60_53_56_00",
+      "defeatFlagId": 1053560800,
+      "x": -52.5,
+      "z": -116.27999877929688,
+      "isDlc": false
+    },
+    {
+      "name": "Night's Cavalry (Glaive)",
+      "mapId": "m60_48_55_00",
+      "defeatFlagId": 1248550800,
+      "x": 108.16999816894531,
+      "z": -33.08000183105469,
+      "isDlc": false
+    },
+    {
+      "name": "Starscourge Radahn",
+      "mapId": "m60_52_38_00",
+      "defeatFlagId": 1252380800,
+      "x": -46.9900016784668,
+      "z": -39.65999984741211,
+      "isDlc": false
+    },
+    {
+      "name": "Borealis the Freezing Fog",
+      "mapId": "m60_54_56_00",
+      "defeatFlagId": 1254560800,
+      "x": -124.93000030517578,
+      "z": 54.68000030517578,
+      "isDlc": false
+    },
+    {
+      "name": "Romina, Saint of the Bud",
+      "mapId": "m61_44_45_00",
+      "defeatFlagId": 2044450800,
+      "x": -61.24399948120117,
+      "z": 110.56800079345703,
+      "isDlc": true
+    },
+    {
+      "name": "Rugalea the Great Red Bear",
+      "mapId": "m61_44_47_00",
+      "defeatFlagId": 2044470800,
+      "x": -52.119998931884766,
+      "z": 112.27999877929688,
+      "isDlc": true
+    },
+    {
+      "name": "Ghostflame Dragon",
+      "mapId": "m61_45_44_00",
+      "defeatFlagId": 2045440800,
+      "x": 59.09700012207031,
+      "z": -73.88700103759766,
+      "isDlc": true
+    },
+    {
+      "name": "Dancer of Ranah",
+      "mapId": "m61_46_38_00",
+      "defeatFlagId": 2046380800,
+      "x": -24.899999618530273,
+      "z": -96.83000183105469,
+      "isDlc": true
+    },
+    {
+      "name": "Demi-Human Queen Marigga",
+      "mapId": "m61_46_40_00",
+      "defeatFlagId": 2046400800,
+      "x": -71.77999877929688,
+      "z": -12.529999732971191,
+      "isDlc": true
+    },
+    {
+      "name": "Knight of the Solitary Gaol",
+      "mapId": "m61_46_41_00",
+      "defeatFlagId": 2046410800,
+      "x": -177.91000366210938,
+      "z": 54.75,
+      "isDlc": true
+    },
+    {
+      "name": "Red Bear",
+      "mapId": "m61_46_45_00",
+      "defeatFlagId": 2046450800,
+      "x": 109.19999694824219,
+      "z": -80.75,
+      "isDlc": true
+    },
+    {
+      "name": "Divine Beast Dancing Lion",
+      "mapId": "m61_46_46_00",
+      "defeatFlagId": 2046460800,
+      "x": -62.7239990234375,
+      "z": -40.74800109863281,
+      "isDlc": true
+    },
+    {
+      "name": "Death Rite Bird",
+      "mapId": "m61_47_39_00",
+      "defeatFlagId": 2047390800,
+      "x": 93.0199966430664,
+      "z": 55.779998779296875,
+      "isDlc": true
+    },
+    {
+      "name": "Black Knight Garrew",
+      "mapId": "m61_47_44_00",
+      "defeatFlagId": 2047450800,
+      "x": -27.670000076293945,
+      "z": 117.33999633789062,
+      "isDlc": true
+    },
+    {
+      "name": "Ghostflame Dragon",
+      "mapId": "m61_48_39_00",
+      "defeatFlagId": 2048380850,
+      "x": -90.02999877929688,
+      "z": -91.5999984741211,
+      "isDlc": true
+    },
+    {
+      "name": "Rellana, Twin Moon Knight",
+      "mapId": "m61_48_44_00",
+      "defeatFlagId": 2048440800,
+      "x": -55.4900016784668,
+      "z": 50.560001373291016,
+      "isDlc": true
+    },
+    {
+      "name": "Jagged Peak Drake",
+      "mapId": "m61_49_41_00",
+      "defeatFlagId": 2049410800,
+      "x": 80.58999633789062,
+      "z": -106.26000213623047,
+      "isDlc": true
+    },
+    {
+      "name": "Ghostflame Dragon",
+      "mapId": "m61_49_43_00",
+      "defeatFlagId": 2049430800,
+      "x": -8.795000076293945,
+      "z": 116.91200256347656,
+      "isDlc": true
+    },
+    {
+      "name": "Black Knight Edredd",
+      "mapId": "m61_49_43_00",
+      "defeatFlagId": 2049430850,
+      "x": 68.87999725341797,
+      "z": -95.66000366210938,
+      "isDlc": true
+    },
+    {
+      "name": "Ralva the Great Red Bear",
+      "mapId": "m61_49_45_00",
+      "defeatFlagId": 2049450800,
+      "x": 62.849998474121094,
+      "z": 123.83000183105469,
+      "isDlc": true
+    },
+    {
+      "name": "Commander Gaius",
+      "mapId": "m61_49_48_00",
+      "defeatFlagId": 2049480800,
+      "x": 80.91000366210938,
+      "z": 6.880000114440918,
+      "isDlc": true
+    },
+    {
+      "name": "Tree Sentinel",
+      "mapId": "m61_50_47_00",
+      "defeatFlagId": 2050470800,
+      "x": 14.859999656677246,
+      "z": 106.52999877929688,
+      "isDlc": true
+    },
+    {
+      "name": null,
+      "mapId": "m61_50_48_00",
+      "defeatFlagId": 2050480800,
+      "x": -50.68000030517578,
+      "z": 86.66999816894531,
+      "isDlc": true
+    },
+    {
+      "name": "Tree Sentinel",
+      "mapId": "m61_50_48_00",
+      "defeatFlagId": 2050480860,
+      "x": 47.619998931884766,
+      "z": -63.279998779296875,
+      "isDlc": true
+    },
+    {
+      "name": "Rakshasa",
+      "mapId": "m61_51_44_00",
+      "defeatFlagId": 2051440800,
+      "x": 5.079999923706055,
+      "z": 94.23999786376953,
+      "isDlc": true
+    },
+    {
+      "name": "Count Ymir, Mother of Fingers",
+      "mapId": "m61_51_45_00",
+      "defeatFlagId": 2051450800,
+      "x": -95.16999816894531,
+      "z": -5.550000190734863,
+      "isDlc": true
+    },
+    {
+      "name": "Jagged Peak Drake",
+      "mapId": "m61_52_40_00",
+      "defeatFlagId": 2052400800,
+      "x": -69.75,
+      "z": -77.81999969482422,
+      "isDlc": true
+    },
+    {
+      "name": "Jori, Elder Inquisitor",
+      "mapId": "m61_52_43_00",
+      "defeatFlagId": 2052430800,
+      "x": -68.0999984741211,
+      "z": 67.91000366210938,
+      "isDlc": true
+    },
+    {
+      "name": "Fallingstar Beast",
+      "mapId": "m61_52_48_00",
+      "defeatFlagId": 2052480800,
+      "x": 39.209999084472656,
+      "z": 117,
+      "isDlc": true
+    },
+    {
+      "name": "Bayle the Dread",
+      "mapId": "m61_54_39_00",
+      "defeatFlagId": 2054390800,
+      "x": 112.04000091552734,
+      "z": 26.010000228881836,
+      "isDlc": true
+    },
+    {
+      "name": "Ancient Dragon Senessax",
+      "mapId": "m61_54_39_00",
+      "defeatFlagId": 2054390850,
+      "x": -72.87999725341797,
+      "z": 19.440000534057617,
+      "isDlc": true
+    }
+  ],
+  "translations": [
+    {
+      "srcMapId": "m10_00_00",
+      "master": "M00",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 10499,
+      "addZ": 9830
+    },
+    {
+      "srcMapId": "m11_00_00",
+      "master": "M00",
+      "srcX": -90,
+      "srcZ": 66,
+      "addX": 11665,
+      "addZ": 13319
+    },
+    {
+      "srcMapId": "m11_00_00",
+      "master": "M00",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 11665,
+      "addZ": 13319
+    },
+    {
+      "srcMapId": "m11_05_00",
+      "master": "M00",
+      "srcX": -184,
+      "srcZ": -163,
+      "addX": 11665,
+      "addZ": 13319
+    },
+    {
+      "srcMapId": "m11_05_00",
+      "master": "M00",
+      "srcX": -90,
+      "srcZ": 66,
+      "addX": 11665,
+      "addZ": 13319
+    },
+    {
+      "srcMapId": "m11_05_00",
+      "master": "M00",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 11665,
+      "addZ": 13319
+    },
+    {
+      "srcMapId": "m11_10_00",
+      "master": "M00",
+      "srcX": -306,
+      "srcZ": -298,
+      "addX": 10332,
+      "addZ": 9338
+    },
+    {
+      "srcMapId": "m12_01_00",
+      "master": "M01",
+      "srcX": -800,
+      "srcZ": -1586,
+      "addX": 9544,
+      "addZ": 12103
+    },
+    {
+      "srcMapId": "m12_01_00",
+      "master": "M01",
+      "srcX": 401,
+      "srcZ": -123,
+      "addX": 9544,
+      "addZ": 12103
+    },
+    {
+      "srcMapId": "m12_01_00",
+      "master": "M01",
+      "srcX": 1693,
+      "srcZ": 1246,
+      "addX": 9509,
+      "addZ": 12109
+    },
+    {
+      "srcMapId": "m12_02_00",
+      "master": "M01",
+      "srcX": 929,
+      "srcZ": 1188,
+      "addX": 11008,
+      "addZ": 8448
+    },
+    {
+      "srcMapId": "m12_02_00",
+      "master": "M01",
+      "srcX": 1550,
+      "srcZ": 1911,
+      "addX": 11010,
+      "addZ": 8445
+    },
+    {
+      "srcMapId": "m12_03_00",
+      "master": "M01",
+      "srcX": 673,
+      "srcZ": 228,
+      "addX": 11999,
+      "addZ": 13724
+    },
+    {
+      "srcMapId": "m12_04_00",
+      "master": "M01",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 8832,
+      "addZ": 10624
+    },
+    {
+      "srcMapId": "m12_05_00",
+      "master": "M01",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 11184,
+      "addZ": 8606
+    },
+    {
+      "srcMapId": "m12_07_00",
+      "master": "M01",
+      "srcX": 599,
+      "srcZ": 975,
+      "addX": 11008,
+      "addZ": 8448
+    },
+    {
+      "srcMapId": "m12_07_00",
+      "master": "M01",
+      "srcX": 736,
+      "srcZ": 1164,
+      "addX": 11008,
+      "addZ": 8448
+    },
+    {
+      "srcMapId": "m13_00_00",
+      "master": "M00",
+      "srcX": -2510,
+      "srcZ": -668,
+      "addX": 15657,
+      "addZ": 11804
+    },
+    {
+      "srcMapId": "m13_00_00",
+      "master": "M00",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 13952,
+      "addZ": 13696
+    },
+    {
+      "srcMapId": "m14_00_00",
+      "master": "M00",
+      "srcX": -256,
+      "srcZ": -256,
+      "addX": 8976,
+      "addZ": 11842
+    },
+    {
+      "srcMapId": "m14_00_00",
+      "master": "M00",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 8976,
+      "addZ": 11842
+    },
+    {
+      "srcMapId": "m15_00_00",
+      "master": "M00",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 12782,
+      "addZ": 15271
+    },
+    {
+      "srcMapId": "m15_00_00",
+      "master": "M00",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 12416,
+      "addZ": 14720
+    },
+    {
+      "srcMapId": "m16_00_00",
+      "master": "M00",
+      "srcX": -10,
+      "srcZ": 16,
+      "addX": 9356,
+      "addZ": 13806
+    },
+    {
+      "srcMapId": "m16_00_00",
+      "master": "M00",
+      "srcX": 244,
+      "srcZ": -366,
+      "addX": 9356,
+      "addZ": 13806
+    },
+    {
+      "srcMapId": "m18_00_00",
+      "master": "M00",
+      "srcX": -1,
+      "srcZ": 2,
+      "addX": 11027,
+      "addZ": 9242
+    },
+    {
+      "srcMapId": "m20_00_00",
+      "master": "M10",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 11500,
+      "addZ": 11045
+    },
+    {
+      "srcMapId": "m20_01_00",
+      "master": "M10",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 11520,
+      "addZ": 11570
+    },
+    {
+      "srcMapId": "m21_00_00",
+      "master": "M10",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 12466,
+      "addZ": 12007
+    },
+    {
+      "srcMapId": "m21_01_00",
+      "master": "M10",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 12466,
+      "addZ": 12007
+    },
+    {
+      "srcMapId": "m21_02_00",
+      "master": "M10",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 12466,
+      "addZ": 12007
+    },
+    {
+      "srcMapId": "m22_00_00",
+      "master": "M10",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 12672,
+      "addZ": 9200
+    },
+    {
+      "srcMapId": "m25_00_00",
+      "master": "M10",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 12672,
+      "addZ": 12672
+    },
+    {
+      "srcMapId": "m25_00_00",
+      "master": "M10",
+      "srcX": 10,
+      "srcZ": -1,
+      "addX": 13068,
+      "addZ": 11850
+    },
+    {
+      "srcMapId": "m28_00_00",
+      "master": "M10",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 12640,
+      "addZ": 10512
+    },
+    {
+      "srcMapId": "m30_00_00",
+      "master": "M00",
+      "srcX": -95,
+      "srcZ": 74,
+      "addX": 11136,
+      "addZ": 8576
+    },
+    {
+      "srcMapId": "m30_01_00",
+      "master": "M00",
+      "srcX": -59,
+      "srcZ": -69,
+      "addX": 11648,
+      "addZ": 8832
+    },
+    {
+      "srcMapId": "m30_02_00",
+      "master": "M00",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 10624,
+      "addZ": 9600
+    },
+    {
+      "srcMapId": "m30_03_00",
+      "master": "M00",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 8576,
+      "addZ": 11136
+    },
+    {
+      "srcMapId": "m30_04_00",
+      "master": "M00",
+      "srcX": 86,
+      "srcZ": 62,
+      "addX": 11136,
+      "addZ": 9856
+    },
+    {
+      "srcMapId": "m30_05_00",
+      "master": "M00",
+      "srcX": -73,
+      "srcZ": 112,
+      "addX": 10112,
+      "addZ": 12416
+    },
+    {
+      "srcMapId": "m30_06_00",
+      "master": "M00",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 10112,
+      "addZ": 10624
+    },
+    {
+      "srcMapId": "m30_07_00",
+      "master": "M00",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 9856,
+      "addZ": 13440
+    },
+    {
+      "srcMapId": "m30_08_00",
+      "master": "M00",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 10368,
+      "addZ": 13440
+    },
+    {
+      "srcMapId": "m30_09_00",
+      "master": "M00",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 9600,
+      "addZ": 13696
+    },
+    {
+      "srcMapId": "m30_10_00",
+      "master": "M00",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 11648,
+      "addZ": 13184
+    },
+    {
+      "srcMapId": "m30_11_00",
+      "master": "M00",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 11136,
+      "addZ": 10112
+    },
+    {
+      "srcMapId": "m30_12_00",
+      "master": "M00",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 9344,
+      "addZ": 13184
+    },
+    {
+      "srcMapId": "m30_13_00",
+      "master": "M00",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 11648,
+      "addZ": 13440
+    },
+    {
+      "srcMapId": "m30_14_00",
+      "master": "M00",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 12160,
+      "addZ": 10368
+    },
+    {
+      "srcMapId": "m30_15_00",
+      "master": "M00",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 12416,
+      "addZ": 9344
+    },
+    {
+      "srcMapId": "m30_16_00",
+      "master": "M00",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 13440,
+      "addZ": 10624
+    },
+    {
+      "srcMapId": "m30_17_00",
+      "master": "M00",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 12928,
+      "addZ": 13696
+    },
+    {
+      "srcMapId": "m30_18_00",
+      "master": "M00",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 12928,
+      "addZ": 13696
+    },
+    {
+      "srcMapId": "m30_19_00",
+      "master": "M00",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 12928,
+      "addZ": 14208
+    },
+    {
+      "srcMapId": "m30_20_00",
+      "master": "M00",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 12672,
+      "addZ": 13952
+    },
+    {
+      "srcMapId": "m31_00_00",
+      "master": "M00",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 11136,
+      "addZ": 9600
+    },
+    {
+      "srcMapId": "m31_01_00",
+      "master": "M00",
+      "srcX": -106,
+      "srcZ": -43,
+      "addX": 11392,
+      "addZ": 8832
+    },
+    {
+      "srcMapId": "m31_02_00",
+      "master": "M00",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 10880,
+      "addZ": 8576
+    },
+    {
+      "srcMapId": "m31_03_00",
+      "master": "M00",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 10880,
+      "addZ": 9600
+    },
+    {
+      "srcMapId": "m31_04_00",
+      "master": "M00",
+      "srcX": 10,
+      "srcZ": -35,
+      "addX": 10112,
+      "addZ": 10368
+    },
+    {
+      "srcMapId": "m31_05_00",
+      "master": "M00",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 9600,
+      "addZ": 10624
+    },
+    {
+      "srcMapId": "m31_06_00",
+      "master": "M00",
+      "srcX": 74,
+      "srcZ": 118,
+      "addX": 8832,
+      "addZ": 11648
+    },
+    {
+      "srcMapId": "m31_07_00",
+      "master": "M00",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 9600,
+      "addZ": 13696
+    },
+    {
+      "srcMapId": "m31_09_00",
+      "master": "M00",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 9600,
+      "addZ": 14208
+    },
+    {
+      "srcMapId": "m31_10_00",
+      "master": "M00",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 13184,
+      "addZ": 10368
+    },
+    {
+      "srcMapId": "m31_11_00",
+      "master": "M00",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 12928,
+      "addZ": 10112
+    },
+    {
+      "srcMapId": "m31_12_00",
+      "master": "M00",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 12928,
+      "addZ": 14464
+    },
+    {
+      "srcMapId": "m31_15_00",
+      "master": "M00",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 10624,
+      "addZ": 9344
+    },
+    {
+      "srcMapId": "m31_17_00",
+      "master": "M00",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 11136,
+      "addZ": 10112
+    },
+    {
+      "srcMapId": "m31_18_00",
+      "master": "M00",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 10624,
+      "addZ": 13184
+    },
+    {
+      "srcMapId": "m31_19_00",
+      "master": "M00",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 9600,
+      "addZ": 13440
+    },
+    {
+      "srcMapId": "m31_20_00",
+      "master": "M00",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 12416,
+      "addZ": 10112
+    },
+    {
+      "srcMapId": "m31_21_00",
+      "master": "M00",
+      "srcX": -256,
+      "srcZ": 0,
+      "addX": 12160,
+      "addZ": 9856
+    },
+    {
+      "srcMapId": "m31_21_00",
+      "master": "M00",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 12160,
+      "addZ": 9856
+    },
+    {
+      "srcMapId": "m31_22_00",
+      "master": "M00",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 13696,
+      "addZ": 14464
+    },
+    {
+      "srcMapId": "m32_00_00",
+      "master": "M00",
+      "srcX": 36,
+      "srcZ": -68,
+      "addX": 11136,
+      "addZ": 8576
+    },
+    {
+      "srcMapId": "m32_01_00",
+      "master": "M00",
+      "srcX": 127,
+      "srcZ": -8,
+      "addX": 10880,
+      "addZ": 9600
+    },
+    {
+      "srcMapId": "m32_02_00",
+      "master": "M00",
+      "srcX": -112,
+      "srcZ": 26,
+      "addX": 9600,
+      "addZ": 12160
+    },
+    {
+      "srcMapId": "m32_04_00",
+      "master": "M00",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 10112,
+      "addZ": 13696
+    },
+    {
+      "srcMapId": "m32_05_00",
+      "master": "M00",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 10624,
+      "addZ": 13440
+    },
+    {
+      "srcMapId": "m32_07_00",
+      "master": "M00",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 11904,
+      "addZ": 10112
+    },
+    {
+      "srcMapId": "m32_08_00",
+      "master": "M00",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 12672,
+      "addZ": 10112
+    },
+    {
+      "srcMapId": "m32_11_00",
+      "master": "M00",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 12160,
+      "addZ": 14208
+    },
+    {
+      "srcMapId": "m34_10_00",
+      "master": "M00",
+      "srcX": 125,
+      "srcZ": 26,
+      "addX": 10499,
+      "addZ": 9830
+    },
+    {
+      "srcMapId": "m34_11_00",
+      "master": "M00",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 10085,
+      "addZ": 11430
+    },
+    {
+      "srcMapId": "m34_12_00",
+      "master": "M00",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 11136,
+      "addZ": 12928
+    },
+    {
+      "srcMapId": "m34_13_00",
+      "master": "M00",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 12672,
+      "addZ": 10624
+    },
+    {
+      "srcMapId": "m34_13_00",
+      "master": "M00",
+      "srcX": 512,
+      "srcZ": -512,
+      "addX": 12672,
+      "addZ": 10624
+    },
+    {
+      "srcMapId": "m34_14_00",
+      "master": "M00",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 11665,
+      "addZ": 13319
+    },
+    {
+      "srcMapId": "m34_15_00",
+      "master": "M00",
+      "srcX": 5,
+      "srcZ": 28,
+      "addX": 13163,
+      "addZ": 11821
+    },
+    {
+      "srcMapId": "m34_15_00",
+      "master": "M00",
+      "srcX": 22,
+      "srcZ": 82,
+      "addX": 13162,
+      "addZ": 11822
+    },
+    {
+      "srcMapId": "m34_16_00",
+      "master": "M00",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 10085,
+      "addZ": 11430
+    },
+    {
+      "srcMapId": "m35_00_00",
+      "master": "M00",
+      "srcX": -184,
+      "srcZ": -163,
+      "addX": 11665,
+      "addZ": 13319
+    },
+    {
+      "srcMapId": "m39_20_00",
+      "master": "M00",
+      "srcX": 121,
+      "srcZ": -1520,
+      "addX": 9649,
+      "addZ": 14345
+    },
+    {
+      "srcMapId": "m40_00_00",
+      "master": "M10",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 12160,
+      "addZ": 11904
+    },
+    {
+      "srcMapId": "m40_01_00",
+      "master": "M10",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 11392,
+      "addZ": 11904
+    },
+    {
+      "srcMapId": "m40_02_00",
+      "master": "M10",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 13184,
+      "addZ": 11136
+    },
+    {
+      "srcMapId": "m41_00_00",
+      "master": "M10",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 11648,
+      "addZ": 11392
+    },
+    {
+      "srcMapId": "m41_01_00",
+      "master": "M10",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 12928,
+      "addZ": 11136
+    },
+    {
+      "srcMapId": "m41_02_00",
+      "master": "M10",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 11904,
+      "addZ": 10368
+    },
+    {
+      "srcMapId": "m42_00_00",
+      "master": "M10",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 12416,
+      "addZ": 10880
+    },
+    {
+      "srcMapId": "m42_02_00",
+      "master": "M10",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 12416,
+      "addZ": 11392
+    },
+    {
+      "srcMapId": "m42_03_00",
+      "master": "M10",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 12416,
+      "addZ": 12416
+    },
+    {
+      "srcMapId": "m43_00_00",
+      "master": "M10",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 11904,
+      "addZ": 11392
+    },
+    {
+      "srcMapId": "m43_01_00",
+      "master": "M10",
+      "srcX": 0,
+      "srcZ": 0,
+      "addX": 12416,
+      "addZ": 10624
+    }
+  ],
+  "associations": [
+    {
+      "sourceRow": 0,
+      "id": "er:b-godrick",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 1,
+      "id": "er:b-margit",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 3,
+      "id": "er:b-morgott",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 4,
+      "id": "er:b-godfrey-shade",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 5,
+      "id": "er:b-hoarah",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 6,
+      "id": "er:b-gideon",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 7,
+      "id": "er:b-nokstella-dragonkin",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 10,
+      "id": "er:b-valiant-gargoyles",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 12,
+      "id": "er:b-mimic",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 13,
+      "id": "er:b-fia-champions",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 14,
+      "id": "er:b-fortissax",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 15,
+      "id": "er:b-naturalborn",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 16,
+      "id": "er:b-mohg-blood",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 17,
+      "id": "er:b-ancestor",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 18,
+      "id": "er:b-regal-ancestor",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 19,
+      "id": "er:b-maliketh",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 20,
+      "id": "er:b-placidusax",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 21,
+      "id": "er:b-godskin-duo",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 22,
+      "id": "er:b-rennala",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 23,
+      "id": "er:b-raya-wolf",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 24,
+      "id": "er:b-malenia",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 25,
+      "id": "er:b-haligtree-loretta",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 26,
+      "id": "er:b-rykard",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 27,
+      "id": "er:b-eiglay-noble",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 28,
+      "id": "er:b-abductors",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 29,
+      "id": "er:b-fringefolk-spirit",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 30,
+      "id": "er:b-tutorial-soldier",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 31,
+      "id": "er:b-elden-beast",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 32,
+      "id": "er:d-belurat-lion",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 33,
+      "id": "er:d-consort",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 34,
+      "id": "er:d-leda-allies",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 35,
+      "id": "er:d-hippo",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 36,
+      "id": "er:d-messmer",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 37,
+      "id": "er:d-putrescent",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 38,
+      "id": "er:d-metyr",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 39,
+      "id": "er:d-midra",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 40,
+      "id": "er:b-tombsward-shade",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 41,
+      "id": "er:b-impaler-watchdog",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 42,
+      "id": "er:b-stormfoot-watchdog",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 43,
+      "id": "er:b-roadsend-snail",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 44,
+      "id": "er:b-murkwater-duelist",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 45,
+      "id": "er:b-blackknife-shade",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 46,
+      "id": "er:b-blackknife-assassin",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 47,
+      "id": "er:b-cliffbottom-watchdog",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 48,
+      "id": "er:b-wyndham-watchdog",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 49,
+      "id": "er:b-sainted-zamor",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 50,
+      "id": "er:b-gelmir-wolf",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 51,
+      "id": "er:b-ordovis-duo",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 53,
+      "id": "er:b-deathtouched-assassin",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 54,
+      "id": "er:b-tricia-duo",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 56,
+      "id": "er:b-auriza-duelist",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 57,
+      "id": "er:b-minorerdtree-watchdogs",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 58,
+      "id": "er:b-caelid-shade",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 59,
+      "id": "er:b-wardead-spirit",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 60,
+      "id": "er:b-giantgrave-zamor",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 61,
+      "id": "er:b-giants-spirit",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 62,
+      "id": "er:b-snowfield-duelist",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 64,
+      "id": "er:b-murkwater-patches",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 65,
+      "id": "er:b-earthbore-runebear",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 66,
+      "id": "er:b-tombsward-miranda",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 67,
+      "id": "er:b-groveside-beastman",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 68,
+      "id": "er:b-stillwater-cleanrot",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 69,
+      "id": "er:b-lakeside-bloodhound",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 70,
+      "id": "er:b-academy-crystalians",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 71,
+      "id": "er:b-seethewater-kindred",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 72,
+      "id": "er:b-margot",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 73,
+      "id": "er:b-dragonbarrow-beastmen",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 74,
+      "id": "er:b-sellia-crystalians",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 75,
+      "id": "er:b-forlorn-crusader",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 76,
+      "id": "er:b-coastal-chiefs",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 77,
+      "id": "er:b-highroad-golem",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 78,
+      "id": "er:b-perfumer-grotto-duo",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 79,
+      "id": "er:b-sages-assassin",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 80,
+      "id": "er:b-garris",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 81,
+      "id": "er:b-abandoned-cleanrots",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 82,
+      "id": "er:b-gaol-duelist",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 83,
+      "id": "er:b-spiritcaller-cave",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 84,
+      "id": "er:b-morne-scaly",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 85,
+      "id": "er:b-limgrave-troll",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 86,
+      "id": "er:b-raya-crystalian",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 87,
+      "id": "er:b-oldaltus-troll",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 88,
+      "id": "er:b-altus-crystalians",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 90,
+      "id": "er:b-gael-wyrm",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 91,
+      "id": "er:b-sellia-beast",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 92,
+      "id": "er:b-snowfield-astel",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 93,
+      "id": "er:b-sealed-onyx",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 94,
+      "id": "er:b-tower-apostle",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 95,
+      "id": "er:b-fell-twins",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 96,
+      "id": "er:b-mohg-omen",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 97,
+      "id": "er:b-esgar",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 98,
+      "id": "er:b-makar",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 101,
+      "id": "er:d-onze",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 102,
+      "id": "er:d-labirith",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 103,
+      "id": "er:d-lamenter",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 104,
+      "id": "er:d-chief-bloodfiend",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 105,
+      "id": "er:d-dragon-man",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 106,
+      "id": "er:b-alecto",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 107,
+      "id": "er:b-west-liurnia-avatar",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 108,
+      "id": "er:b-bols",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 109,
+      "id": "er:b-adula",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 110,
+      "id": "er:b-smarag",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 111,
+      "id": "er:b-kingsrealm-revenant",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 113,
+      "id": "er:b-albinauric-omenkiller",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 114,
+      "id": "er:b-caria-loretta",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 115,
+      "id": "er:b-gelmir-wyrm",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 116,
+      "id": "er:b-liurnia-deathrite",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 117,
+      "id": "er:b-bellum-cavalry",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 118,
+      "id": "er:b-royalgrave-onyx",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 119,
+      "id": "er:b-fullgrown-beast",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 120,
+      "id": "er:b-liurnia-deathbird",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 121,
+      "id": "er:b-vows-hunter",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 123,
+      "id": "er:b-maggie",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 124,
+      "id": "er:b-gelmir-spirit",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 125,
+      "id": "er:b-adan",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 126,
+      "id": "er:b-east-liurnia-avatar",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 127,
+      "id": "er:b-gilika",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 128,
+      "id": "er:b-wyndham-mariner",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 129,
+      "id": "er:b-gatetown-cavalry",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 130,
+      "id": "er:b-liurnia-mariner",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 131,
+      "id": "er:b-godefroy",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 132,
+      "id": "er:b-elemer",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 133,
+      "id": "er:b-sainted-assassin",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 134,
+      "id": "er:b-sanguine",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 135,
+      "id": "er:b-altus-beast",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 136,
+      "id": "er:b-altus-sentinels",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 138,
+      "id": "er:b-wormface",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 139,
+      "id": "er:b-weeping-zamor",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 140,
+      "id": "er:b-limgrave-sentinel",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 141,
+      "id": "er:b-stormhill-crucible",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 142,
+      "id": "er:b-stormhill-deathbird",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 143,
+      "id": "er:b-warmaster-hunter",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 144,
+      "id": "er:b-dominula-apostle",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 145,
+      "id": "er:b-morne-leonine",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 146,
+      "id": "er:b-weeping-avatar",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 147,
+      "id": "er:b-agheel-dragon",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 148,
+      "id": "er:b-agheel-cavalry",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 152,
+      "id": "er:b-weeping-deathbird",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 153,
+      "id": "er:b-morne-cavalry",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 154,
+      "id": "er:b-darriwil",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 155,
+      "id": "er:b-waypoint-pumpkin",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 156,
+      "id": "er:b-summonwater-mariner",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 157,
+      "id": "er:b-capital-draconic",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 158,
+      "id": "er:b-caelid-avatar",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 159,
+      "id": "er:b-ekzykes",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 160,
+      "id": "er:b-caelem-pumpkins",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 161,
+      "id": "er:b-dragonbarrow-hunter",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 162,
+      "id": "er:b-forbidden-cavalry",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 164,
+      "id": "er:b-caelid-cavalry",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 165,
+      "id": "er:b-caelid-deathrite",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 166,
+      "id": "er:b-oneil",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 167,
+      "id": "er:b-nox-duo",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 168,
+      "id": "er:b-sellia-battlemage",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 169,
+      "id": "er:b-forbidden-kindred",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 170,
+      "id": "er:b-theodorix",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 172,
+      "id": "er:b-snowfield-avatar",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 173,
+      "id": "er:b-redmane-duo",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 174,
+      "id": "er:b-dragonbarrow-avatar",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 175,
+      "id": "er:b-sanctum-kindred",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 176,
+      "id": "er:b-niall",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 177,
+      "id": "er:b-greyll",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 178,
+      "id": "er:b-dragonbarrow-cavalry",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 179,
+      "id": "er:b-fire-giant",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 180,
+      "id": "er:b-mountaintops-avatar",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 181,
+      "id": "er:b-vyke",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 182,
+      "id": "er:b-snowfield-cavalry",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 183,
+      "id": "er:b-radahn",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 184,
+      "id": "er:b-borealis",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 185,
+      "id": "er:d-romina",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 186,
+      "id": "er:d-rugalea",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 188,
+      "id": "er:d-ranah",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 189,
+      "id": "er:d-marigga",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 190,
+      "id": "er:d-blackgaol",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 191,
+      "id": "er:d-redbear",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 192,
+      "id": "er:d-rauh-lion",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 193,
+      "id": "er:d-charo-bird",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 194,
+      "id": "er:d-garrew",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 196,
+      "id": "er:d-rellana",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 197,
+      "id": "er:d-drake-solo",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 198,
+      "id": "er:d-altus-ghostflame",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 199,
+      "id": "er:d-edredd",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 200,
+      "id": "er:d-ralva",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 201,
+      "id": "er:d-gaius",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 205,
+      "id": "er:d-rakshasa",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 206,
+      "id": "er:d-ymir",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 207,
+      "id": "er:d-drake-duo",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 208,
+      "id": "er:d-jori",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 209,
+      "id": "er:d-hinterland-beast",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 210,
+      "id": "er:d-bayle",
+      "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 211,
+      "id": "er:d-senessax",
+      "status": "candidate-identity-match"
+    }
+  ],
+  "heldSourceRows": [
+    2,
+    8,
+    9,
+    11,
+    63,
+    99,
+    100,
+    122,
+    137,
+    149,
+    150,
+    151,
+    163,
+    171,
+    187,
+    195,
+    202,
+    203,
+    204
+  ],
+  "notes": [
+    "Associations are review candidates, not final identity decisions. Some legacy conversions are ambiguous or absent.",
+    "No raw game art, tiles, icons, encryption material or save data imported. Arena locations are not necessarily dungeon entrances."
+  ],
+  "previewLayers": [
+    {
+      "id": "surface",
+      "name": "Lands Between",
+      "bounds": [
+        768,
+        1024,
+        7680,
+        9472
+      ],
+      "artifact": "assets/atlas-surface.svg"
+    },
+    {
+      "id": "underground",
+      "name": "Subterranean Realms",
+      "bounds": [
+        1024,
+        2560,
+        6144,
+        7680
+      ],
+      "artifact": "assets/atlas-underground.svg"
+    },
+    {
+      "id": "shadow",
+      "name": "Realm of Shadow",
+      "bounds": [
+        3328,
+        3328,
+        7424,
+        7936
+      ],
+      "artifact": "assets/atlas-shadow.svg"
+    }
+  ]
+}

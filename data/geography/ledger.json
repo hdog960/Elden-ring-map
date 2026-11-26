@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "status": "awaiting-licensed-calibration",
+  "status": "permission-granted-research-projection-not-admitted",
   "layers": [],
   "positions": [],
   "leads": [
     {
       "url": "https://github.com/EthanShoeDev/elden-ring-compass",
-      "finding": "Prebuilt data extracted from installed game; no repository license displayed. No redistribution grant established."
+      "finding": "Written permission verified in issue #13, comment #7180600988. Pinned source cd0f6093cd1990803287445e330cd1cabb5694ea; factual subset staged separately in compass-research.json; no final ledger admission."
     },
     {
       "url": "https://github.com/egormagurin/EldenRingMap",

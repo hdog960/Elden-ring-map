@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "source": "https://github.com/EthanShoeDev/elden-ring-compass/issues/13",
+  "grant": "https://github.com/EthanShoeDev/elden-ring-compass/issues/13#issuecomment-7180600988",
+  "grantor": "EthanShoeDev",
+  "verbatim": "Absolutely! Please drop a link to your app when you get your mvp ready!",
+  "scope": [
+    "factual base and DLC boss coordinates",
+    "encounter identifiers",
+    "map calibration parameters",
+    "free public GitHub Pages and offline redistribution"
+  ],
+  "excluded": [
+    "copyrighted map artwork",
+    "icons",
+    "proprietary code"
+  ],
+  "followup": "https://github.com/hdog960/Elden-ring-map/pull/1#issuecomment-7181029533",
+  "status": "grant-confirmed; underlying game rights and independent accuracy review remain separate"
+}

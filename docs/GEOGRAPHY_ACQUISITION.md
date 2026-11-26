@@ -10,3 +10,6 @@ Run `node scripts/review-survey.mjs /path/survey.json /path/evidence /path/new-r
 
 ## Submitted request
 Creator posted https://github.com/EthanShoeDev/elden-ring-compass/issues/13 (Personal boss map). Verified open and zero comments. Do not duplicate or interpret silence as permission. Upon response verify author authority, scope, upstream restrictions and offline redistribution; coordinate accuracy and original basemap calibration remain separate requirements.
+
+## Permission granted
+Confirmed repository owner response https://github.com/EthanShoeDev/elden-ring-compass/issues/13#issuecomment-7180600988. Scope archived in data/geography/permission.json. Creator acknowledged request to share MVP. Source pin and data provenance in compass-research.json. Continue actual independent anchor/terrain observation, do not use official map art. Send verified public MVP link only at creator-authorized release.

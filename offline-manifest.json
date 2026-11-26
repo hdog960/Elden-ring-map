@@ -1,7 +1,19 @@
 {
-  "version": "session13-20261125-a",
+  "version": "session14-20261125-a",
   "releaseReady": false,
   "assets": [
+    {
+      "path": "assets/atlas-shadow.svg",
+      "gitBlob": "24d03ed2745ed27406ec370db8c9cb983b8d050c"
+    },
+    {
+      "path": "assets/atlas-surface.svg",
+      "gitBlob": "341b0ced83d263fb6be9e7841469afca8fcb38db"
+    },
+    {
+      "path": "assets/atlas-underground.svg",
+      "gitBlob": "7a54098f4dbb2b7f6cc370e275ca8a0ceca96da2"
+    },
     {
       "path": "assets/icon.svg",
       "gitBlob": "36d2145e28f6425f8e284d1be0bbc151e9f4d3db"
@@ -43,8 +55,16 @@
       "gitBlob": "ce2603636c3da2cca1d71bd8264712c9ad335db9"
     },
     {
+      "path": "data/geography/compass-research.json",
+      "gitBlob": "de06a0fa2c1c5875491c4b359ec55d16fc811e3a"
+    },
+    {
       "path": "data/geography/ledger.json",
-      "gitBlob": "70124e316331705a4c93cfaabbdaad825bb01646"
+      "gitBlob": "6297fd95c0cc86decc6bc0dad2ce04b03ea13681"
+    },
+    {
+      "path": "data/geography/permission.json",
+      "gitBlob": "ea95c631a0033d3f25cee4683a5c1d90c16be186"
     },
     {
       "path": "index.html",
@@ -56,7 +76,11 @@
     },
     {
       "path": "src/app.js",
-      "gitBlob": "fdfbc7c7429cd9b04a3ed238b76c34c0fd4f0318"
+      "gitBlob": "145fa044dbde6409245a2fcaae377300c01d05f5"
+    },
+    {
+      "path": "src/atlas-preview.js",
+      "gitBlob": "7495079bc5895eb6707147af29010bb59c19e2db"
     },
     {
       "path": "src/calibration.js",
@@ -69,6 +93,10 @@
     {
       "path": "src/census.js",
       "gitBlob": "1e9087b23f1f6ebab9629eb4a12570cfe020db12"
+    },
+    {
+      "path": "src/compass-projection.js",
+      "gitBlob": "3b6156cb0462867ad19725a65b600fc2e746074f"
     },
     {
       "path": "src/dashboard.js",
@@ -120,7 +148,7 @@
     },
     {
       "path": "src/style.css",
-      "gitBlob": "4234bfc40f5c3370c135f94bce29e2ee288920ba"
+      "gitBlob": "ee85fa4ac98993846e6c8142145c9b7a799a4e45"
     },
     {
       "path": "src/survey.js",
