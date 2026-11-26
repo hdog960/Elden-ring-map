@@ -5022,17 +5022,20 @@
     },
     {
       "id": "er:d-midra",
-      "grace": "Midra's Manse",
+      "grace": "Second Floor Chamber",
       "directions": "Cross Abyssal Woods using stealth around untouchable enemies and reach the final manse chamber.",
       "conditions": "Optional remembrance; initial frail Midra leads into main fight.",
       "combat": "Frenzied flame beams, sword swings and delayed explosions.",
       "strategy": "Dodge the delayed sword strike and avoid the flame cone. Leave the glowing explosion area and return after it ends; maintain focus resistance if madness is troublesome.",
-      "rewards": "Remembrance of the Lord of Frenzied Flame.",
+      "rewards": "Remembrance of the Lord of Frenzied Flame; 410,000 runes (reported NG).",
       "preparation": "Level 150–175; high blessing.",
       "sources": [
         "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
         "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
-        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/"
+        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/",
+        "https://tarnished.app/enemies/midra-lord-of-frenzied-flame",
+        "https://lorearmory.com/eldenring/bosses/",
+        "https://www.gamerguides.com/elden-ring-shadow-of-the-erdtree/database/bosses/legend/midra-lord-of-frenzied-flame"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -5042,8 +5045,8 @@
         "statusThresholds": null
       },
       "unresolved": [
-        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
-        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+        "Initial human phase and exact regulation-specific stats remain unqualified; transformed-phase research recorded separately.",
+        "Verify summon/critical eligibility and calibrated marker before release."
       ]
     },
     {
@@ -7009,6 +7012,236 @@
       },
       "unresolved": [
         "Verify exact defeat flag, current regulation, route and map position; combat statistics not yet qualified."
+      ]
+    },
+    {
+      "id": "er:d-fire-knight-kood",
+      "grace": "Dark Chamber Entrance",
+      "directions": "Approach the chamber from the upper Specimen Storehouse route.",
+      "conditions": "One-time named enemy; explicit non-respawn source, weapon and helm cross-check.",
+      "combat": "Flaming greatsword attacks and fire incantations.",
+      "strategy": "Avoid the narrow bridge edge; punish the end of a committed thrust or casting sequence.",
+      "rewards": "Winged Serpent Helm; Ash of War: Flame Spear.",
+      "preparation": "Area-appropriate upgraded weapon; suitable defenses and, for the DLC, Scadutree Blessing.",
+      "sources": [
+        "https://eldenring.fandom.com/wiki/Fire_Knight_Kood",
+        "https://eldenring.wiki.gg/wiki/Ash_of_War%3A_Flame_Spear",
+        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-best-armor/",
+        "https://eldenring.redmaw.dev/sheets/dlc-walkthrough"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact regulation, defeat flag, calibrated position and independent combat qualification pending."
+      ]
+    },
+    {
+      "id": "er:d-fire-knight-salza",
+      "grace": "West Rampart",
+      "directions": "Cross west toward Rauh; Salza attacks from the far end.",
+      "conditions": "Explicit non-respawn source; location and two named rewards corroborated.",
+      "combat": "Overhead fire rain and close-range attacks.",
+      "strategy": "Keep moving out of falling fire; use cover or Torrent on the bridge and close during a casting recovery.",
+      "rewards": "Salza's Hood; Rain of Fire.",
+      "preparation": "Area-appropriate upgraded weapon; suitable defenses and, for the DLC, Scadutree Blessing.",
+      "sources": [
+        "https://eldenring.fandom.com/wiki/Fire_Knight_Salza",
+        "https://eldenring.wiki.gg/wiki/Rain_of_Fire",
+        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-best-armor/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact regulation, defeat flag, calibrated position and independent combat qualification pending."
+      ]
+    },
+    {
+      "id": "er:d-fire-knight-wego",
+      "grace": "Sunken Chapel",
+      "directions": "Drain the Church District water, then enter the cathedral area.",
+      "conditions": "Explicit non-respawn source; drainage requirement and helm independently described.",
+      "combat": "Fire Knight melee and incantations.",
+      "strategy": "Use the cathedral's space to evade attacks; punish committed melee or spell recovery.",
+      "rewards": "Death Mask Helm.",
+      "preparation": "Area-appropriate upgraded weapon; suitable defenses and, for the DLC, Scadutree Blessing.",
+      "sources": [
+        "https://eldenring.fandom.com/wiki/Fire_Knight_Wego",
+        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-best-armor/",
+        "https://tarnished.app/armour/death-mask-helm",
+        "https://tarnishedsaga.com/locations/shadow-keep-church-district/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact regulation, defeat flag, calibrated position and independent combat qualification pending."
+      ]
+    },
+    {
+      "id": "er:d-devonia",
+      "grace": "Rauh Ancient Ruins, East",
+      "directions": "Find the lone hammer-wielding Crucible Knight near the eastern ruins grace.",
+      "conditions": "Explicit non-respawn in Eldenpedia; distinct named rewards and location in Polygon.",
+      "combat": "Hammer swings, charged holy attacks and a centaur-like Crucible transformation.",
+      "strategy": "Dodge the charged attack on release; avoid trading with heavy swings and punish the final recovery.",
+      "rewards": "Devonia's Hammer; Crucible Hammer-Helm.",
+      "preparation": "Area-appropriate upgraded weapon; suitable defenses and, for the DLC, Scadutree Blessing.",
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Crucible_Knight_Devonia",
+        "https://www.polygon.com/elden-ring-shadow-erdtree-guide/24180254/all-dlc-boss-locations-bosses-in-order",
+        "https://eldenring.exputer.com/weapons/devonia-s-hammer"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact regulation, defeat flag, calibrated position and independent combat qualification pending."
+      ]
+    },
+    {
+      "id": "er:d-moonrithyll",
+      "grace": "Castle Ensis Checkpoint",
+      "directions": "Follow the castle's main route to the Carian Knight guarding the central approach.",
+      "conditions": "Named one-time gate encounter on special enemy inventory, location and guaranteed sword corroborated; direct reload test pending.",
+      "combat": "Greatsword thrusts and jumps with delayed magical glintblades.",
+      "strategy": "Avoid the sword follow-up and approaching glintblades; use brief openings after a jumping slam.",
+      "rewards": "Moonrithyll's Knight Sword.",
+      "preparation": "Area-appropriate upgraded weapon; suitable defenses and, for the DLC, Scadutree Blessing.",
+      "sources": [
+        "https://eldenring.fandom.com/wiki/Bosses",
+        "https://eldenring.fandom.com/wiki/Moonrithyll%2C_Carian_Knight",
+        "https://www.neoseeker.com/elden-ring-shadow-of-the-erdtree/walkthrough/Castle_Ensis",
+        "https://eldenring.exputer.com/weapons/moonrithyll-s-knight-sword"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact regulation, defeat flag, calibrated position and independent combat qualification pending."
+      ]
+    },
+    {
+      "id": "er:d-inv-anna",
+      "grace": "Cathedral of Manus Metyr",
+      "directions": "Advance Ymir's quest, descend the ladder beneath his throne, and approach the hanging bell.",
+      "conditions": "Scripted unique invasion during quest, separate from Jolan and Metyr.",
+      "combat": "Fast claw strikes, projectiles and bleed buildup.",
+      "strategy": "Keep distance from extended claw chains, then counter with a brief attack; prepare robustness.",
+      "rewards": "Claws of Night.",
+      "preparation": "Area-appropriate upgraded weapon; suitable defenses and, for the DLC, Scadutree Blessing.",
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Claws_of_Night",
+        "https://eip.gg/elden-ring/guides/finger-ruins-of-miyr/",
+        "https://eldenring.exputer.com/locations/cathedral-of-manus-metyr"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact regulation, defeat flag, calibrated position and independent combat qualification pending."
+      ]
+    },
+    {
+      "id": "er:d-inv-hornsent-rauh",
+      "grace": "Church of the Bud, Main Entrance",
+      "directions": "Follow the stairs leading toward the church after progressing Hornsent's surviving quest route.",
+      "conditions": "Distinct quest invasion; commonly triggered after summoning Hornsent for Messmer and advancing dialogue; exact necessity disputed. Can be locked out by alternate quest outcomes. Do not count an Enir-Ilim participant as this invasion.",
+      "combat": "Aggressive curved sword combinations.",
+      "strategy": "Avoid prolonged trades and punish a completed combination.",
+      "rewards": "Falx; Hornsent's equipment.",
+      "preparation": "Area-appropriate upgraded weapon; suitable defenses and, for the DLC, Scadutree Blessing.",
+      "sources": [
+        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-hornsent-questline-walkthrough",
+        "https://www.pcgamer.com/games/rpg/elden-ring-hornsent-quest/",
+        "https://eldenring.exputer.com/quests/hornsent-s-quest",
+        "https://www.reddit.com/r/eldenringdiscussion/comments/1eloj7d"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact regulation, defeat flag, calibrated position and independent combat qualification pending."
+      ]
+    },
+    {
+      "id": "er:b-moongrum",
+      "grace": "Debate Parlor",
+      "directions": "Continue through the academy toward the lift leading to Rennala.",
+      "conditions": "Named hostile NPC and special enemy inventory; location and guaranteed shield corroborated; direct reload test pending.",
+      "combat": "Sword and shield, parries and Carian Piercer.",
+      "strategy": "Avoid predictable single melee strikes into the shield; use spacing and punish committed casts.",
+      "rewards": "Carian Knight's Shield.",
+      "preparation": "Area-appropriate upgraded weapon; suitable defenses and, for the DLC, Scadutree Blessing.",
+      "sources": [
+        "https://eldenring.fandom.com/wiki/Bosses",
+        "https://eldenring.wiki.gg/wiki/Moongrum",
+        "https://www.gamerguides.com/elden-ring/guide/academy-of-raya-lucaria/equipment/all-armor-and-shields-in-the-academy-of-raya-lucaria/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact regulation, defeat flag, calibrated position and independent combat qualification pending."
+      ]
+    },
+    {
+      "id": "er:b-baleful-shadow",
+      "grace": "Nokstella Waterfall Basin",
+      "directions": "Speak repeatedly to miniature Ranni at an underground grace, advance through Nokstella, and approach the passage toward Lake of Rot.",
+      "conditions": "Persistent scripted quest defeat; not Blaidd's later encounter and not the Dragonkin Soldier.",
+      "combat": "Aggressive greatsword lunges and red-black blade attacks.",
+      "strategy": "Bait a committed lunge, dodge and counter; leave space for a follow-up.",
+      "rewards": "Discarded Palace Key awarded through Ranni's quest after defeat; not an ordinary enemy drop.",
+      "preparation": "Area-appropriate upgraded weapon; suitable defenses and, for the DLC, Scadutree Blessing.",
+      "sources": [
+        "https://eldenring.fandom.com/wiki/Bosses",
+        "https://eldenring.exputer.com/quests/ranni-s-quest",
+        "https://tarnished.app/enemies/baleful-shadow",
+        "https://eldenring.fandom.com/wiki/Baleful_Shadow"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact regulation, defeat flag, calibrated position and independent combat qualification pending."
       ]
     }
   ]

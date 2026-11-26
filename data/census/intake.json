@@ -81,7 +81,39 @@
     "drainage-spirit-s21-1": "https://eldenring.wiki.gg/wiki/Golden_Seed",
     "drainage-spirit-s21-2": "https://www.dualshockers.com/elden-ring-millicent-quest-walkthrough/",
     "drainage-spirit-s21-3": "https://eldenring.exputer.com/quests/millicent-s-quest",
-    "drainage-spirit-s21-4": "https://www.reddit.com/r/Eldenring/comments/1ejs2nj/a_list_of_all_nonbossnpc_enemies_that_dont_respawn/"
+    "drainage-spirit-s21-4": "https://www.reddit.com/r/Eldenring/comments/1ejs2nj/a_list_of_all_nonbossnpc_enemies_that_dont_respawn/",
+    "d-fire-knight-kood-s22-1": "https://eldenring.fandom.com/wiki/Fire_Knight_Kood",
+    "d-fire-knight-kood-s22-2": "https://eldenring.wiki.gg/wiki/Ash_of_War%3A_Flame_Spear",
+    "d-fire-knight-kood-s22-3": "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-best-armor/",
+    "d-fire-knight-kood-s22-4": "https://eldenring.redmaw.dev/sheets/dlc-walkthrough",
+    "d-fire-knight-salza-s22-1": "https://eldenring.fandom.com/wiki/Fire_Knight_Salza",
+    "d-fire-knight-salza-s22-2": "https://eldenring.wiki.gg/wiki/Rain_of_Fire",
+    "d-fire-knight-salza-s22-3": "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-best-armor/",
+    "d-fire-knight-wego-s22-1": "https://eldenring.fandom.com/wiki/Fire_Knight_Wego",
+    "d-fire-knight-wego-s22-2": "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-best-armor/",
+    "d-fire-knight-wego-s22-3": "https://tarnished.app/armour/death-mask-helm",
+    "d-fire-knight-wego-s22-4": "https://tarnishedsaga.com/locations/shadow-keep-church-district/",
+    "d-devonia-s22-1": "https://eldenring.wiki.gg/wiki/Crucible_Knight_Devonia",
+    "d-devonia-s22-2": "https://www.polygon.com/elden-ring-shadow-erdtree-guide/24180254/all-dlc-boss-locations-bosses-in-order",
+    "d-devonia-s22-3": "https://eldenring.exputer.com/weapons/devonia-s-hammer",
+    "d-moonrithyll-s22-1": "https://eldenring.fandom.com/wiki/Bosses",
+    "d-moonrithyll-s22-2": "https://eldenring.fandom.com/wiki/Moonrithyll%2C_Carian_Knight",
+    "d-moonrithyll-s22-3": "https://www.neoseeker.com/elden-ring-shadow-of-the-erdtree/walkthrough/Castle_Ensis",
+    "d-moonrithyll-s22-4": "https://eldenring.exputer.com/weapons/moonrithyll-s-knight-sword",
+    "d-inv-anna-s22-1": "https://eldenring.wiki.gg/wiki/Claws_of_Night",
+    "d-inv-anna-s22-2": "https://eip.gg/elden-ring/guides/finger-ruins-of-miyr/",
+    "d-inv-anna-s22-3": "https://eldenring.exputer.com/locations/cathedral-of-manus-metyr",
+    "d-inv-hornsent-rauh-s22-1": "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-hornsent-questline-walkthrough",
+    "d-inv-hornsent-rauh-s22-2": "https://www.pcgamer.com/games/rpg/elden-ring-hornsent-quest/",
+    "d-inv-hornsent-rauh-s22-3": "https://eldenring.exputer.com/quests/hornsent-s-quest",
+    "d-inv-hornsent-rauh-s22-4": "https://www.reddit.com/r/eldenringdiscussion/comments/1eloj7d",
+    "b-moongrum-s22-1": "https://eldenring.fandom.com/wiki/Bosses",
+    "b-moongrum-s22-2": "https://eldenring.wiki.gg/wiki/Moongrum",
+    "b-moongrum-s22-3": "https://www.gamerguides.com/elden-ring/guide/academy-of-raya-lucaria/equipment/all-armor-and-shields-in-the-academy-of-raya-lucaria/",
+    "b-baleful-shadow-s22-1": "https://eldenring.fandom.com/wiki/Bosses",
+    "b-baleful-shadow-s22-2": "https://eldenring.exputer.com/quests/ranni-s-quest",
+    "b-baleful-shadow-s22-3": "https://tarnished.app/enemies/baleful-shadow",
+    "b-baleful-shadow-s22-4": "https://eldenring.fandom.com/wiki/Baleful_Shadow"
   },
   "rows": [
     {
@@ -4405,6 +4437,164 @@
         "drainage-spirit-s21-4"
       ],
       "decision": "Quest walkthrough explicitly requires defeat then area reload, corroborating persistent defeat separate from both quest duels. Provisional extended candidate; not a primary boss or final release admission."
+    },
+    {
+      "id": "er:d-fire-knight-kood",
+      "game": "dlc",
+      "name": "Fire Knight Kood",
+      "region": "Shadow Keep",
+      "location": "Bridge leading to Dark Chamber",
+      "layerHint": "shadow",
+      "hunt": "extended",
+      "category": "unique-elite",
+      "review": "classification-review",
+      "evidence": [
+        "d-fire-knight-kood-s22-1",
+        "d-fire-knight-kood-s22-2",
+        "d-fire-knight-kood-s22-3",
+        "d-fire-knight-kood-s22-4"
+      ],
+      "decision": "One-time named enemy; explicit non-respawn source, weapon and helm cross-check. Provisional extended only."
+    },
+    {
+      "id": "er:d-fire-knight-salza",
+      "game": "dlc",
+      "name": "Fire Knight Salza",
+      "region": "Shadow Keep",
+      "location": "Bridge west of West Rampart",
+      "layerHint": "shadow",
+      "hunt": "extended",
+      "category": "unique-elite",
+      "review": "classification-review",
+      "evidence": [
+        "d-fire-knight-salza-s22-1",
+        "d-fire-knight-salza-s22-2",
+        "d-fire-knight-salza-s22-3"
+      ],
+      "decision": "Explicit non-respawn source; location and two named rewards corroborated. Provisional extended only."
+    },
+    {
+      "id": "er:d-fire-knight-wego",
+      "game": "dlc",
+      "name": "Fire Knight Wego",
+      "region": "Shadow Keep",
+      "location": "Drained Church District cathedral",
+      "layerHint": "shadow",
+      "hunt": "extended",
+      "category": "unique-elite",
+      "review": "classification-review",
+      "evidence": [
+        "d-fire-knight-wego-s22-1",
+        "d-fire-knight-wego-s22-2",
+        "d-fire-knight-wego-s22-3",
+        "d-fire-knight-wego-s22-4"
+      ],
+      "decision": "Explicit non-respawn source; drainage requirement and helm independently described. Provisional extended only."
+    },
+    {
+      "id": "er:d-devonia",
+      "game": "dlc",
+      "name": "Crucible Knight Devonia",
+      "region": "Ancient Ruins of Rauh",
+      "location": "Rauh Ancient Ruins, East",
+      "layerHint": "shadow",
+      "hunt": "extended",
+      "category": "unique-elite",
+      "review": "classification-review",
+      "evidence": [
+        "d-devonia-s22-1",
+        "d-devonia-s22-2",
+        "d-devonia-s22-3"
+      ],
+      "decision": "Explicit non-respawn in Eldenpedia; distinct named rewards and location in Polygon. Provisional extended only."
+    },
+    {
+      "id": "er:d-moonrithyll",
+      "game": "dlc",
+      "name": "Moonrithyll, Carian Knight",
+      "region": "Gravesite Plain",
+      "location": "Castle Ensis central gate approach",
+      "layerHint": "shadow",
+      "hunt": "extended",
+      "category": "unique-elite",
+      "review": "classification-review",
+      "evidence": [
+        "d-moonrithyll-s22-1",
+        "d-moonrithyll-s22-2",
+        "d-moonrithyll-s22-3",
+        "d-moonrithyll-s22-4"
+      ],
+      "decision": "Named one-time gate encounter on special enemy inventory, location and guaranteed sword corroborated; direct reload test pending. Provisional extended only."
+    },
+    {
+      "id": "er:d-inv-anna",
+      "game": "dlc",
+      "name": "Swordhand of Night Anna",
+      "region": "Scadu Altus",
+      "location": "Finger Ruins of Miyr",
+      "layerHint": "shadow",
+      "hunt": "extended",
+      "category": "unique-challenge",
+      "review": "classification-review",
+      "evidence": [
+        "d-inv-anna-s22-1",
+        "d-inv-anna-s22-2",
+        "d-inv-anna-s22-3"
+      ],
+      "decision": "Scripted unique invasion during quest, separate from Jolan and Metyr. Provisional extended only."
+    },
+    {
+      "id": "er:d-inv-hornsent-rauh",
+      "game": "dlc",
+      "name": "Hornsent (Rauh invasion)",
+      "region": "Ancient Ruins of Rauh",
+      "location": "Stairs approaching Church of the Bud",
+      "layerHint": "shadow",
+      "hunt": "extended",
+      "category": "unique-challenge",
+      "review": "classification-review",
+      "evidence": [
+        "d-inv-hornsent-rauh-s22-1",
+        "d-inv-hornsent-rauh-s22-2",
+        "d-inv-hornsent-rauh-s22-3",
+        "d-inv-hornsent-rauh-s22-4"
+      ],
+      "decision": "Distinct quest invasion; commonly triggered after summoning Hornsent for Messmer and advancing dialogue; exact necessity disputed. Can be locked out by alternate quest outcomes. Do not count an Enir-Ilim participant as this invasion. Provisional extended only."
+    },
+    {
+      "id": "er:b-moongrum",
+      "game": "base",
+      "name": "Moongrum, Carian Knight",
+      "region": "Liurnia",
+      "location": "Academy of Raya Lucaria lift courtyard",
+      "layerHint": "surface",
+      "hunt": "extended",
+      "category": "unique-elite",
+      "review": "classification-review",
+      "evidence": [
+        "b-moongrum-s22-1",
+        "b-moongrum-s22-2",
+        "b-moongrum-s22-3"
+      ],
+      "decision": "Named hostile NPC and special enemy inventory; location and guaranteed shield corroborated; direct reload test pending. Provisional extended only."
+    },
+    {
+      "id": "er:b-baleful-shadow",
+      "game": "base",
+      "name": "Baleful Shadow",
+      "region": "Ainsel River",
+      "location": "Passage beyond Nokstella toward Lake of Rot",
+      "layerHint": "underground",
+      "hunt": "extended",
+      "category": "unique-challenge",
+      "review": "classification-review",
+      "evidence": [
+        "b-baleful-shadow-s22-1",
+        "b-baleful-shadow-s22-2",
+        "b-baleful-shadow-s22-3",
+        "b-baleful-shadow-s22-4"
+      ],
+      "decision": "Persistent scripted quest defeat; not Blaidd's later encounter and not the Dragonkin Soldier. Provisional extended only."
     }
   ]
 }

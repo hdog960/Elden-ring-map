@@ -44,3 +44,6 @@ Twelve row-specific extended research entries in data/census/extended-elite-revi
 
 ## Session 21
 Nine provisional extended additions: Lake of Rot Alabaster Lord; Deeproot, capital and both Elphael avatars; Stormveil, outskirts, Grand Cloister and Drainage Channel spirits. Family-level non-respawn plus specific location/reward evidence supports provisional intake only; direct flag verification remains required for final adjudication. Three held (Yelough Lords, capital lower spirit, Ashen group). All 261 previous IDs preserved; 270 total, 207 primary/63 extended. Added shared-bar Ashen Godfrey combat research (17 records). No map additions.
+
+## Session 22
+Nine distinct provisional extended named encounters added with source-backed guides and stable IDs: Kood, Salza, Wego, Devonia, Moonrithyll, Anna, Rauh Hornsent, Moongrum and Baleful Shadow. Kood reward is Flame Spear. Hornsent conditional spawn requirements disputed; keep separate from final Leda group. Logur, Madding Hand, Leda branch choices and optional Tarnished Pack scope held. Midra transformed HP/stance/runes added; conflicting thresholds omitted. 279 IDs, 207 primary/72 extended. No production census claim.

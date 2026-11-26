@@ -1,0 +1,127 @@
+{
+  "schema": 1,
+  "status": "provisional-named-encounters-not-release",
+  "records": [
+    {
+      "id": "er:d-fire-knight-kood",
+      "decision": "One-time named enemy; explicit non-respawn source, weapon and helm cross-check.",
+      "sources": [
+        "https://eldenring.fandom.com/wiki/Fire_Knight_Kood",
+        "https://eldenring.wiki.gg/wiki/Ash_of_War%3A_Flame_Spear",
+        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-best-armor/",
+        "https://eldenring.redmaw.dev/sheets/dlc-walkthrough"
+      ]
+    },
+    {
+      "id": "er:d-fire-knight-salza",
+      "decision": "Explicit non-respawn source; location and two named rewards corroborated.",
+      "sources": [
+        "https://eldenring.fandom.com/wiki/Fire_Knight_Salza",
+        "https://eldenring.wiki.gg/wiki/Rain_of_Fire",
+        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-best-armor/"
+      ]
+    },
+    {
+      "id": "er:d-fire-knight-wego",
+      "decision": "Explicit non-respawn source; drainage requirement and helm independently described.",
+      "sources": [
+        "https://eldenring.fandom.com/wiki/Fire_Knight_Wego",
+        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-best-armor/",
+        "https://tarnished.app/armour/death-mask-helm",
+        "https://tarnishedsaga.com/locations/shadow-keep-church-district/"
+      ]
+    },
+    {
+      "id": "er:d-devonia",
+      "decision": "Explicit non-respawn in Eldenpedia; distinct named rewards and location in Polygon.",
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Crucible_Knight_Devonia",
+        "https://www.polygon.com/elden-ring-shadow-erdtree-guide/24180254/all-dlc-boss-locations-bosses-in-order",
+        "https://eldenring.exputer.com/weapons/devonia-s-hammer"
+      ]
+    },
+    {
+      "id": "er:d-moonrithyll",
+      "decision": "Named one-time gate encounter on special enemy inventory, location and guaranteed sword corroborated; direct reload test pending.",
+      "sources": [
+        "https://eldenring.fandom.com/wiki/Bosses",
+        "https://eldenring.fandom.com/wiki/Moonrithyll%2C_Carian_Knight",
+        "https://www.neoseeker.com/elden-ring-shadow-of-the-erdtree/walkthrough/Castle_Ensis",
+        "https://eldenring.exputer.com/weapons/moonrithyll-s-knight-sword"
+      ]
+    },
+    {
+      "id": "er:d-inv-anna",
+      "decision": "Scripted unique invasion during quest, separate from Jolan and Metyr.",
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Claws_of_Night",
+        "https://eip.gg/elden-ring/guides/finger-ruins-of-miyr/",
+        "https://eldenring.exputer.com/locations/cathedral-of-manus-metyr"
+      ]
+    },
+    {
+      "id": "er:d-inv-hornsent-rauh",
+      "decision": "Distinct quest invasion; commonly triggered after summoning Hornsent for Messmer and advancing dialogue; exact necessity disputed. Can be locked out by alternate quest outcomes. Do not count an Enir-Ilim participant as this invasion.",
+      "sources": [
+        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-hornsent-questline-walkthrough",
+        "https://www.pcgamer.com/games/rpg/elden-ring-hornsent-quest/",
+        "https://eldenring.exputer.com/quests/hornsent-s-quest",
+        "https://www.reddit.com/r/eldenringdiscussion/comments/1eloj7d"
+      ]
+    },
+    {
+      "id": "er:b-moongrum",
+      "decision": "Named hostile NPC and special enemy inventory; location and guaranteed shield corroborated; direct reload test pending.",
+      "sources": [
+        "https://eldenring.fandom.com/wiki/Bosses",
+        "https://eldenring.wiki.gg/wiki/Moongrum",
+        "https://www.gamerguides.com/elden-ring/guide/academy-of-raya-lucaria/equipment/all-armor-and-shields-in-the-academy-of-raya-lucaria/"
+      ]
+    },
+    {
+      "id": "er:b-baleful-shadow",
+      "decision": "Persistent scripted quest defeat; not Blaidd's later encounter and not the Dragonkin Soldier.",
+      "sources": [
+        "https://eldenring.fandom.com/wiki/Bosses",
+        "https://eldenring.exputer.com/quests/ranni-s-quest",
+        "https://tarnished.app/enemies/baleful-shadow",
+        "https://eldenring.fandom.com/wiki/Baleful_Shadow"
+      ]
+    }
+  ],
+  "holds": [
+    {
+      "name": "Logur, the Beast Claw",
+      "reason": "Named NPC and guaranteed Beast Claw supported; explicit non-respawn evidence not retrieved.",
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Beast_Claw_%28weapon%29",
+        "https://eip.gg/elden-ring/guides/gravesite-plain/"
+      ]
+    },
+    {
+      "name": "Madding Hand",
+      "reason": "Named NPC and weapon supported; permanence not yet corroborated.",
+      "sources": [
+        "https://eldenring.exputer.com/weapons/madding-hand",
+        "https://www.polygon.com/elden-ring-shadow-erdtree-guide/24180256/all-new-dlc-weapon-locations"
+      ]
+    },
+    {
+      "name": "Leda/Hornsent and Leda/Ansbach summon-sign choices",
+      "reason": "Branch-specific outcomes need explicit mutually exclusive encounter model before adding IDs.",
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Needle_Knight_Leda",
+        "https://eldenring.exputer.com/quests/hornsent-s-quest",
+        "https://www.polygon.com/elden-ring-shadow-erdtree-guide/24183286/sir-ansbach-questline-steps-dlc-sote"
+      ]
+    },
+    {
+      "name": "Tarnished Pack NPC invaders",
+      "reason": "New official patch 1.17 optional content needs separate ownership and scope decision; no automatic inclusion.",
+      "sources": [
+        "https://www.bandainamcoent.com/news/elden-ring-patch-notes-version-1-17",
+        "https://www.pcgamer.com/games/rpg/one-of-elden-rings-top-sleuths-has-already-unmasked-its-new-dlc-characters/"
+      ]
+    }
+  ]
+}

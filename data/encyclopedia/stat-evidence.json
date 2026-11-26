@@ -308,6 +308,29 @@
         "https://www.gamerguides.com/elden-ring/guide/leyndell-ashen-capital/bosses/how-to-beat-godfrey-first-elden-lord-hoarah-loux-warrior-in-the-elden-throne/"
       ],
       "note": "Not the golden shade; two published guides report shared HP, stance reported in VCGamers; reward corroborated by Gamer Guides. Exact regulation and source lineage remain unverified."
+    },
+    {
+      "id": "er:d-midra",
+      "scope": "Transformed Midra only, solo NG, excludes initial human phase",
+      "health": 47171,
+      "stance": 80,
+      "runes": 410000,
+      "negations": {
+        "standard": 20,
+        "slash": 0,
+        "strike": 20,
+        "pierce": 20,
+        "magic": 20,
+        "fire": 40,
+        "lightning": 20,
+        "holy": 20
+      },
+      "sources": [
+        "https://tarnished.app/enemies/midra-lord-of-frenzied-flame",
+        "https://lorearmory.com/eldenring/bosses/",
+        "https://www.gamerguides.com/elden-ring-shadow-of-the-erdtree/database/bosses/legend/midra-lord-of-frenzied-flame"
+      ],
+      "note": "Three sources agree transformed HP; stance corroborated by first two; full Gamer Guides table supplies negations and reward. Resistance thresholds disagree with tarnished.app; omitted. Exact regulation unverified."
     }
   ],
   "limitations": [
