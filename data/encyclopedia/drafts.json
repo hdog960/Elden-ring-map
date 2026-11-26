@@ -537,11 +537,13 @@
       "conditions": "Night only; independent from all other cavalry.",
       "combat": "Mounted sweeping attacks and charges; can fight on foot after losing mount.",
       "strategy": "Avoid standing directly in the horse's path. Attack its flank after a sweep; a ranged build can circle and cast in short windows.",
-      "rewards": "Ash of War: Repeating Thrust.",
+      "rewards": "Ash of War: Repeating Thrust; 2,400 runes (reported NG).",
       "preparation": "Level 20–35; medium equip load.",
       "sources": [
         "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
-        "https://eldenring.redmaw.dev/sheets/bosses"
+        "https://eldenring.redmaw.dev/sheets/bosses",
+        "https://eldenring.redmaw.dev/sheets/walkthrough",
+        "https://www.dualshockers.com/elden-ring-nights-cavalry-locations-rewards/"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -552,7 +554,8 @@
       },
       "unresolved": [
         "Exact NG numerical combat data and rune reward require independent patch-specific verification.",
-        "Confirm grace, entrance, summon and critical eligibility before publication."
+        "Confirm grace, entrance, summon and critical eligibility before publication.",
+        "Session 36: Night-only bridge. Exact patch and independent game reproduction remain unqualified."
       ]
     },
     {
@@ -880,7 +883,8 @@
         "https://www.gamerguides.com/elden-ring/guide/weeping-peninsula/bosses/",
         "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
         "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
-        "https://roundtablehold.net/checklists/bosses.html"
+        "https://roundtablehold.net/checklists/bosses.html",
+        "https://eldenring.redmaw.dev/sheets/walkthrough"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -892,7 +896,8 @@
       "unresolved": [
         "Exact NG numerical combat data and rune reward require independent patch-specific verification.",
         "Confirm grace, entrance, summon and critical eligibility before publication.",
-        "Session 34 reward review: Published reward disagreement."
+        "Session 34 reward review: Published reward disagreement.",
+        "Session 36: 3600 gains corroboration; 4500 unresolved. Exact patch and independent game reproduction remain unqualified."
       ]
     },
     {
@@ -1465,12 +1470,14 @@
       "conditions": "Optional evergaol.",
       "combat": "Giant sword slams and conjured greatblades.",
       "strategy": "Move laterally as the blades release; close during the sword slam's recovery and strike its legs.",
-      "rewards": "Greatblade Phalanx.",
+      "rewards": "Greatblade Phalanx; 4,600 runes (reported NG).",
       "preparation": "Level 35–50; physical and magic defense.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/guide/liurnia-of-the-lakes/bosses/",
         "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
-        "https://plarium.com/en/blog/elden-ring-boss-locations/"
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.neoseeker.com/elden-ring/Bosses/Bols_Carian_Knight",
+        "https://www.gamepressure.com/elden-ring/bols-carian-knight/z0fe05"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -1481,7 +1488,8 @@
       },
       "unresolved": [
         "Verify exact current-patch NG statistics, rune rewards and source-specific details per encounter.",
-        "Confirm nearest grace, entrance route, summon and critical eligibility."
+        "Confirm nearest grace, entrance route, summon and critical eligibility.",
+        "Session 36: Cuckoo's Evergaol. Exact patch and independent game reproduction remain unqualified."
       ]
     },
     {
@@ -1499,7 +1507,9 @@
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
         "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
         "https://www.gamerguides.com/elden-ring/database/bosses/liurnia-of-the-lakes-bosses",
-        "https://roundtablehold.net/checklists/bosses.html"
+        "https://roundtablehold.net/checklists/bosses.html",
+        "https://eldenring.redmaw.dev/sheets/walkthrough",
+        "https://eip.gg/elden-ring/guides/liurnia-of-the-lakes-boss-guides/"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -1511,7 +1521,8 @@
       "unresolved": [
         "Verify exact current-patch NG statistics, rune rewards and source-specific details per encounter.",
         "Confirm nearest grace, entrance route, summon and critical eligibility.",
-        "Session 34 reward review: Published reward disagreement; dry ground and backstab openings are documented."
+        "Session 34 reward review: Published reward disagreement; dry ground and backstab openings are documented.",
+        "Session 36: 3300 gains corroboration; 2475 unresolved. Exact patch and independent game reproduction remain unqualified."
       ]
     },
     {
@@ -1579,12 +1590,14 @@
       "conditions": "Night only; distinct from Death Rite Bird.",
       "combat": "Cane attacks, pecks and leaping slashes.",
       "strategy": "Avoid nearby lake enemies, use holy damage, and strike the head after a committed peck.",
-      "rewards": "Red-Feathered Branchsword.",
+      "rewards": "Red-Feathered Branchsword; 6,600 runes (reported NG).",
       "preparation": "Level 35–50; holy damage.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/guide/liurnia-of-the-lakes/bosses/",
         "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
-        "https://plarium.com/en/blog/elden-ring-boss-locations/"
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://eldenring.redmaw.dev/sheets/walkthrough",
+        "https://eip.gg/elden-ring/guides/liurnia-of-the-lakes-boss-guides/"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -1595,7 +1608,8 @@
       },
       "unresolved": [
         "Verify exact current-patch NG statistics, rune rewards and source-specific details per encounter.",
-        "Confirm nearest grace, entrance route, summon and critical eligibility."
+        "Confirm nearest grace, entrance route, summon and critical eligibility.",
+        "Session 36: Scenic Isle, not Death Rite Bird. Exact patch and independent game reproduction remain unqualified."
       ]
     },
     {
@@ -2551,7 +2565,8 @@
         "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
         "https://roundtablehold.net/checklists/bosses.html",
         "https://gamefaqs.gamespot.com/switch-2/524794-elden-ring-tarnished-edition/faqs/79824/caelid-dragonbarrow",
-        "https://wiki.eso-ui.com/index.php/Elden_Ring%3APutrid_Tree_Spirit"
+        "https://wiki.eso-ui.com/index.php/Elden_Ring%3APutrid_Tree_Spirit",
+        "https://eldenring.redmaw.dev/sheets/walkthrough"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -2563,7 +2578,8 @@
       "unresolved": [
         "Confirm exact NG numerical statistics and patch-dependent reward values.",
         "Verify route, summon eligibility and exact source-specific details.",
-        "Session 34 reward review: Published reward disagreement; possible version effects not verified."
+        "Session 34 reward review: Published reward disagreement; possible version effects not verified.",
+        "Session 36: 64000 gains location-specific report; 67200 unresolved. Exact patch and independent game reproduction remain unqualified."
       ]
     },
     {
@@ -2868,33 +2884,9 @@
         "https://www.gamerguides.com/elden-ring/database/bosses/altus-plateau-bosses",
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
         "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
-        "https://gist.github.com/gracenotes/745ee2d07878f81067fc23f43670a808/2998ef66b03b8666099825de1b74822d4b1f32e7"
-      ],
-      "review": "draft-researched",
-      "numericStats": {
-        "health": null,
-        "stance": null,
-        "negations": null,
-        "statusThresholds": null
-      },
-      "unresolved": [
-        "Confirm exact current-patch numerical combat statistics and reward values.",
-        "Verify grace, access route and combat eligibility against individual encounter sources."
-      ]
-    },
-    {
-      "id": "er:b-sainted-zamor",
-      "grace": "Sainted Hero's Grave",
-      "directions": "Enter the grave behind the outdoor assassin; use lighted floor circles to expose shadow enemies and unlock the final route.",
-      "conditions": "Optional interior boss, separate from the assassin outside.",
-      "combat": "Curved sword spins, frost breath and fast later combinations.",
-      "strategy": "Circle away from the breath cone and punish its recovery. Avoid the final spin of its long chain; fire may be useful.",
-      "rewards": "Ancient Dragon Knight Kristoff Ashes; 24,000 runes (reported NG).",
-      "preparation": "Level 60–80; frost protection.",
-      "sources": [
-        "https://www.gamerguides.com/elden-ring/database/bosses/altus-plateau-bosses",
-        "https://plarium.com/en/blog/elden-ring-boss-locations/",
-        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+        "https://gist.github.com/gracenotes/745ee2d07878f81067fc23f43670a808/2998ef66b03b8666099825de1b74822d4b1f32e7",
+        "https://eldenring.redmaw.dev/sheets/walkthrough",
+        "https://www.gamerguides.com/elden-ring/database/bosses/altus-plateau-bosses/nights-cavalry-altus-plateau/",
         "https://roundtablehold.net/checklists/bosses.html"
       ],
       "review": "draft-researched",
@@ -2907,7 +2899,38 @@
       "unresolved": [
         "Confirm exact current-patch numerical combat statistics and reward values.",
         "Verify grace, access route and combat eligibility against individual encounter sources.",
-        "Session 35 reward review: Published encounter-specific reward reports agree; exact patch and independence not established."
+        "Session 36: 10000 supported; 10500 contrary report unresolved. Exact patch and independent game reproduction remain unqualified."
+      ]
+    },
+    {
+      "id": "er:b-sainted-zamor",
+      "grace": "Sainted Hero's Grave",
+      "directions": "Enter the grave behind the outdoor assassin; use lighted floor circles to expose shadow enemies and unlock the final route.",
+      "conditions": "Optional interior boss, separate from the assassin outside.",
+      "combat": "Curved sword spins, frost breath and fast later combinations.",
+      "strategy": "Circle away from the breath cone and punish its recovery. Avoid the final spin of its long chain; fire may be useful.",
+      "rewards": "Ancient Dragon Knight Kristoff Ashes; 24,000 runes (reported NG). Conflicting report: 20,000 runes; exact value unresolved.",
+      "preparation": "Level 60–80; frost protection.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/altus-plateau-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+        "https://roundtablehold.net/checklists/bosses.html",
+        "https://eldenring.redmaw.dev/sheets/walkthrough",
+        "https://www.neoseeker.com/elden-ring/Bosses/Ancient_Hero_of_Zamor"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact current-patch numerical combat statistics and reward values.",
+        "Verify grace, access route and combat eligibility against individual encounter sources.",
+        "Session 35 reward review: Published encounter-specific reward reports agree; exact patch and independence not established.",
+        "Session 36: Earlier 24000 now expressly disputed by 20000. Exact patch and independent game reproduction remain unqualified."
       ]
     },
     {
@@ -2923,7 +2946,9 @@
         "https://www.gamerguides.com/elden-ring/database/bosses/altus-plateau-bosses",
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
         "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
-        "https://roundtablehold.net/checklists/bosses.html"
+        "https://roundtablehold.net/checklists/bosses.html",
+        "https://eldenring.redmaw.dev/sheets/walkthrough",
+        "https://www.neoseeker.com/elden-ring/Bosses/Black_Knife_Assassins"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -2935,7 +2960,8 @@
       "unresolved": [
         "Confirm exact current-patch numerical combat statistics and reward values.",
         "Verify grace, access route and combat eligibility against individual encounter sources.",
-        "Session 35 reward review: Published rune values conflict."
+        "Session 35 reward review: Published rune values conflict.",
+        "Session 36: 10800 gains corroboration; 11339 unresolved. Exact patch and independent game reproduction remain unqualified."
       ]
     },
     {
@@ -2951,7 +2977,9 @@
         "https://www.gamerguides.com/elden-ring/database/bosses/altus-plateau-bosses",
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
         "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
-        "https://roundtablehold.net/checklists/bosses.html"
+        "https://roundtablehold.net/checklists/bosses.html",
+        "https://eldenring.redmaw.dev/sheets/walkthrough",
+        "https://wiki.eso-ui.com/index.php/Elden_Ring%3ACrystalian"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -2963,7 +2991,8 @@
       "unresolved": [
         "Confirm exact current-patch numerical combat statistics and reward values.",
         "Verify grace, access route and combat eligibility against individual encounter sources.",
-        "Session 35 reward review: Published rune values conflict."
+        "Session 35 reward review: Published rune values conflict.",
+        "Session 36: 9000 gains corroboration; 1800 unresolved. Exact patch and independent game reproduction remain unqualified."
       ]
     },
     {
@@ -3160,7 +3189,8 @@
         "https://www.gamerguides.com/elden-ring/database/bosses/altus-plateau-bosses",
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
         "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
-        "https://roundtablehold.net/checklists/bosses.html"
+        "https://roundtablehold.net/checklists/bosses.html",
+        "https://eldenring.redmaw.dev/sheets/walkthrough"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -3172,7 +3202,8 @@
       "unresolved": [
         "Confirm exact current-patch numerical combat statistics and reward values.",
         "Verify grace, access route and combat eligibility against individual encounter sources.",
-        "Session 35 reward review: Published rune values conflict."
+        "Session 35 reward review: Published rune values conflict.",
+        "Session 36: 8400 gains corroboration; 8500 unresolved. Exact patch and independent game reproduction remain unqualified."
       ]
     },
     {
@@ -3922,12 +3953,14 @@
       "conditions": "Optional; dogs accompany boss.",
       "combat": "Bleed daggers, blood incantations and aggressive dogs.",
       "strategy": "Eliminate the dogs first or use a summon to divide them. Stay out of bloodflame and punish Esgar's missed lunge with quick attacks.",
-      "rewards": "Lord of Blood's Exultation.",
+      "rewards": "Lord of Blood's Exultation; 30,000 runes (reported NG).",
       "preparation": "Level 75–95; bleed resistance.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/database/bosses/altus-plateau-bosses",
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
-        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+        "https://eldenring.redmaw.dev/sheets/walkthrough",
+        "https://roundtablehold.net/checklists/bosses.html"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -3938,7 +3971,8 @@
       },
       "unresolved": [
         "Confirm exact current-patch numerical combat statistics and reward values.",
-        "Verify grace, access route and combat eligibility against individual encounter sources."
+        "Verify grace, access route and combat eligibility against individual encounter sources.",
+        "Session 36: Priest and dogs. Exact patch and independent game reproduction remain unqualified."
       ]
     },
     {
@@ -3954,7 +3988,9 @@
         "https://www.gamerguides.com/elden-ring/database/bosses/altus-plateau-bosses",
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
         "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
-        "https://roundtablehold.net/checklists/bosses.html"
+        "https://roundtablehold.net/checklists/bosses.html",
+        "https://eldenring.redmaw.dev/sheets/walkthrough",
+        "https://tarnishedwiki.com/mohg-the-omen-boss-guide-elden-ring/"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -3966,7 +4002,8 @@
       "unresolved": [
         "Confirm exact current-patch numerical combat statistics and reward values.",
         "Verify grace, access route and combat eligibility against individual encounter sources.",
-        "Session 35 reward review: Published rune values conflict; distinct from Lord of Blood."
+        "Session 35 reward review: Published rune values conflict; distinct from Lord of Blood.",
+        "Session 36: 100000 gains corroboration; 75000 unresolved. Exact patch and independent game reproduction remain unqualified."
       ]
     },
     {
@@ -4004,12 +4041,14 @@
       "conditions": "Optional tutorial encounter; not the ordinary Godrick soldiers in the overworld.",
       "combat": "Basic straight sword and shield strikes.",
       "strategy": "Practice a guard counter after blocking a single swing, or dodge and counter. Keep enough stamina to recover.",
-      "rewards": "Runes; tutorial progression.",
+      "rewards": "400 runes (reported NG); tutorial progression.",
       "preparation": "Starting equipment sufficient.",
       "sources": [
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
         "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
-        "https://eldenring.wiki.gg/wiki/Boss"
+        "https://eldenring.wiki.gg/wiki/Boss",
+        "https://eldenring.redmaw.dev/sheets/walkthrough",
+        "https://eldenring.wiki.gg/wiki/Runes"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -4020,7 +4059,8 @@
       },
       "unresolved": [
         "Confirm exact current-patch numerical combat statistics and reward values.",
-        "Verify grace, access route and combat eligibility against individual encounter sources."
+        "Verify grace, access route and combat eligibility against individual encounter sources.",
+        "Session 36: Tutorial; gesture separately collected. Exact patch and independent game reproduction remain unqualified."
       ]
     },
     {
@@ -4203,12 +4243,14 @@
       "conditions": "Optional; low visibility on initial approach.",
       "combat": "Frost breath, freezing roar and airborne sweeps.",
       "strategy": "When it roars, retreat well outside the frost area. Use Torrent to move laterally from breath; strike the head after a grounded attack. Consider strike damage rather than relying on slashing.",
-      "rewards": "Dragon Heart; unlocks Borealis's Mist.",
+      "rewards": "Dragon Heart; unlocks Borealis's Mist; 100,000 runes (reported NG).",
       "preparation": "Level 95–125; frost resistance.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/guide/mountaintops-of-the-giants/bosses/",
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
-        "https://eldenring.redmaw.dev/sheets/bosses"
+        "https://eldenring.redmaw.dev/sheets/bosses",
+        "https://eldenring.redmaw.dev/sheets/walkthrough",
+        "https://eip.gg/elden-ring/guides/mountaintops-of-the-giants-bosses/"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -4219,22 +4261,26 @@
       },
       "unresolved": [
         "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
-        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+        "Verify nearest grace, precise route, summon and critical eligibility before publication.",
+        "Session 36: Freezing Lake. Exact patch and independent game reproduction remain unqualified."
       ]
     },
     {
       "id": "er:b-mountaintops-deathrite",
       "grace": "Snow Valley Ruins Overlook",
       "directions": "Follow the cliff route toward Castle Sol and locate the bird's snowy arena below the approach.",
-      "conditions": "Check night conditions for reliable encounter access.",
+      "conditions": "Day or night spawning reported by encounter-specific sources; night is a fallback, not an established mandatory requirement.",
       "combat": "Ghostflame sweeps, explosions and airborne attacks.",
       "strategy": "Leave the ghostflame lines before returning. Use holy damage and target its head during grounded recovery; keep clear of cliff edges.",
-      "rewards": "Death Ritual Spear.",
+      "rewards": "Death Ritual Spear; 77,000 runes (reported NG).",
       "preparation": "Level 100–125; holy damage.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/guide/mountaintops-of-the-giants/bosses/",
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
-        "https://eldenring.redmaw.dev/sheets/bosses"
+        "https://eldenring.redmaw.dev/sheets/bosses",
+        "https://eip.gg/elden-ring/guides/mountaintops-of-the-giants-bosses/",
+        "https://wiki.eso-ui.com/index.php/Elden_Ring%3ADeath_Rite_Bird",
+        "https://eldenring.wiki.gg/wiki/Death_Rite_Bird"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -4245,7 +4291,8 @@
       },
       "unresolved": [
         "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
-        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+        "Verify nearest grace, precise route, summon and critical eligibility before publication.",
+        "Session 36: Two sources permit daytime spawn; not a mandatory night gate. Exact patch and independent game reproduction remain unqualified."
       ]
     },
     {
@@ -4313,12 +4360,14 @@
       "conditions": "Optional; separate from the Liurnia invasion.",
       "combat": "War spear thrusts and dragon lightning incantations.",
       "strategy": "Wait until lightning lands before closing, dodge the spear's delayed reach and counter with quick attacks. Avoid trading while his weapon is buffed.",
-      "rewards": "Fingerprint set; Vyke's Dragonbolt.",
+      "rewards": "Fingerprint set; Vyke's Dragonbolt; 75,000 runes (reported NG).",
       "preparation": "Level 90–115; lightning defense.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/guide/mountaintops-of-the-giants/bosses/",
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
-        "https://eldenring.redmaw.dev/sheets/bosses"
+        "https://eldenring.redmaw.dev/sheets/bosses",
+        "https://eldenring.redmaw.dev/sheets/walkthrough",
+        "https://eip.gg/elden-ring/guides/mountaintops-of-the-giants-bosses/"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -4329,7 +4378,8 @@
       },
       "unresolved": [
         "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
-        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+        "Verify nearest grace, precise route, summon and critical eligibility before publication.",
+        "Session 36: Evergaol, distinct from invasion. Exact patch and independent game reproduction remain unqualified."
       ]
     },
     {
@@ -4577,7 +4627,8 @@
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
         "https://eldenring.redmaw.dev/sheets/bosses",
         "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
-        "https://roundtablehold.net/checklists/bosses.html"
+        "https://roundtablehold.net/checklists/bosses.html",
+        "https://eldenring.redmaw.dev/sheets/walkthrough"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -4589,7 +4640,8 @@
       "unresolved": [
         "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
         "Verify nearest grace, precise route, summon and critical eligibility before publication.",
-        "Session 35 reward review: Published rune values conflict; both sources list Rotten Gravekeeper Cloak and Great Grave Glovewort."
+        "Session 35 reward review: Published rune values conflict; both sources list Rotten Gravekeeper Cloak and Great Grave Glovewort.",
+        "Session 36: 78000 gains location-specific report; 8000 unresolved. Two Great Grave Gloveworts reported. Exact patch and independent game reproduction remain unqualified."
       ]
     },
     {
@@ -4752,7 +4804,10 @@
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
         "https://eldenring.redmaw.dev/sheets/bosses",
         "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
-        "https://roundtablehold.net/checklists/bosses.html"
+        "https://roundtablehold.net/checklists/bosses.html",
+        "https://eldenring.redmaw.dev/sheets/walkthrough",
+        "https://eldenring.wiki.gg/wiki/Gideon_Ofnir",
+        "https://eldenring.wiki.gg/wiki/Runes"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -4764,7 +4819,8 @@
       "unresolved": [
         "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
         "Verify nearest grace, precise route, summon and critical eligibility before publication.",
-        "Session 35 reward review: Published rune values conflict."
+        "Session 35 reward review: Published rune values conflict.",
+        "Session 36: Three values; no definitive figure. Exact patch and independent game reproduction remain unqualified."
       ]
     },
     {
@@ -4863,12 +4919,14 @@
       "conditions": "Optional; separate from Nokstella and Lake of Rot soldiers.",
       "combat": "Long arm sweeps, crawling rush and slams.",
       "strategy": "Stay beside its legs or at the flank and dodge the committed arm strike. Do not stand directly in front of its reaching hand.",
-      "rewards": "Dragon Halberd.",
+      "rewards": "Dragon Halberd; 16,000 runes (reported NG).",
       "preparation": "Level 40–60.",
       "sources": [
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
         "https://eldenring.redmaw.dev/sheets/bosses",
-        "https://www.eldenringwiki.cc/locations/underground-rivers/"
+        "https://www.eldenringwiki.cc/locations/underground-rivers/",
+        "https://eldenring.redmaw.dev/sheets/walkthrough",
+        "https://www.neoseeker.com/elden-ring/Bosses/Dragonkin_Soldier"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -4879,7 +4937,8 @@
       },
       "unresolved": [
         "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
-        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+        "Verify nearest grace, precise route, summon and critical eligibility before publication.",
+        "Session 36: Upper Siofra. Exact patch and independent game reproduction remain unqualified."
       ]
     },
     {
@@ -4889,12 +4948,14 @@
       "conditions": "Optional quest-area progression; copies player build.",
       "combat": "Copies weapons, spells and consumables.",
       "strategy": "Enter with a deliberately simpler loadout then re-equip, or fight using knowledge of your own weapon's attacks. Do not give the copy dangerous consumables if unnecessary.",
-      "rewards": "Larval Tears; Silver Tear Mask.",
+      "rewards": "Larval Tear ×2; Silver Tear Mask; 10,000 runes (reported NG).",
       "preparation": "Level 65–85.",
       "sources": [
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
         "https://eldenring.redmaw.dev/sheets/bosses",
-        "https://www.eldenringwiki.cc/locations/underground-rivers/"
+        "https://www.eldenringwiki.cc/locations/underground-rivers/",
+        "https://eldenring.redmaw.dev/sheets/walkthrough",
+        "https://www.powerpyx.com/elden-ring-nokron-eternal-city-walkthrough/"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -4905,7 +4966,8 @@
       },
       "unresolved": [
         "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
-        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+        "Verify nearest grace, precise route, summon and critical eligibility before publication.",
+        "Session 36: Ashes separate chest. Exact patch and independent game reproduction remain unqualified."
       ]
     },
     {
@@ -4943,7 +5005,7 @@
       "conditions": "Two gargoyles, one completion; onward coffin leads to Deeproot.",
       "combat": "Greatsword, halberd, twinblade and poison breath.",
       "strategy": "Finish the first as quickly as safely possible before the second closes. Leave poison clouds and use strike damage; don't stand between the two.",
-      "rewards": "Gargoyle's Greatsword; Gargoyle's Twinblade; 32,000 runes (reported NG).",
+      "rewards": "Gargoyle's Greatsword; Gargoyle's Twinblade; 32,000 runes (reported NG). Conflicting report: 30,000 runes; exact value unresolved.",
       "preparation": "Level 75–95; poison cures.",
       "sources": [
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
@@ -4953,7 +5015,9 @@
         "https://tarnished.app/enemies/valiant-gargoyle",
         "https://www.pushsquare.com/guides/elden-ring-how-to-beat-valiant-gargoyle",
         "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
-        "https://roundtablehold.net/checklists/bosses.html"
+        "https://roundtablehold.net/checklists/bosses.html",
+        "https://eldenring.redmaw.dev/sheets/walkthrough",
+        "https://eldenring.wiki.gg/wiki/Valiant_Gargoyles"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -4965,7 +5029,8 @@
       "unresolved": [
         "Gamer Guides reports 32000 runes for the Aqueduct duo; general gargoyle entry reports 30000. Variant-specific reward and individual HP need verification; no combined health or stance inferred.",
         "Exact regulation and calibrated map position remain unqualified.",
-        "Session 35 reward review: Published encounter-specific reward reports agree; exact patch and independence not established."
+        "Session 35 reward review: Published encounter-specific reward reports agree; exact patch and independence not established.",
+        "Session 36: Earlier 32000 remains disputed by 30000. Exact patch and independent game reproduction remain unqualified."
       ]
     },
     {
@@ -5004,13 +5069,16 @@
       "directions": "Use the raised platform switches to create safer footing in the lake and approach the sleeping soldier in the basin.",
       "conditions": "Optional; rot environment complicates fight.",
       "combat": "Long arm sweeps and crawling slams.",
-      "strategy": "Raise nearby platforms before engaging if possible. Fight from dry footing, use rot remedies and punish a completed arm slam rather than pursuing through the lake.",
+      "strategy": "Raise nearby platforms before engaging if possible. Fight from dry footing, use rot remedies and punish a completed arm slam rather than pursuing through the lake. Raise nearby platforms using pressure plates for dry fighting space.",
       "rewards": "Dragonscale Blade.",
       "preparation": "Level 75–100; rot cures.",
       "sources": [
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
         "https://eldenring.redmaw.dev/sheets/bosses",
-        "https://www.eldenringwiki.cc/locations/underground-rivers/"
+        "https://www.eldenringwiki.cc/locations/underground-rivers/",
+        "https://eldenring.redmaw.dev/sheets/walkthrough",
+        "https://tarnished.app/enemies/dragonkin-soldier",
+        "https://www.neoseeker.com/elden-ring/Bosses/Dragonkin_Soldier"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -5021,7 +5089,8 @@
       },
       "unresolved": [
         "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
-        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+        "Verify nearest grace, precise route, summon and critical eligibility before publication.",
+        "Session 36: 58000 supported; 5800 contrary report unresolved. Exact patch and independent game reproduction remain unqualified."
       ]
     },
     {
@@ -5154,7 +5223,9 @@
         "https://eldenring.redmaw.dev/sheets/bosses",
         "https://www.eldenringwiki.cc/locations/underground-rivers/",
         "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
-        "https://roundtablehold.net/checklists/bosses.html"
+        "https://roundtablehold.net/checklists/bosses.html",
+        "https://eldenring.redmaw.dev/sheets/walkthrough",
+        "https://www.powerpyx.com/elden-ring-mohgwyn-palace-walkthrough/"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -5166,7 +5237,8 @@
       "unresolved": [
         "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
         "Verify nearest grace, precise route, summon and critical eligibility before publication.",
-        "Session 35 reward review: Published rune values conflict; distinct from Mohg the Omen."
+        "Session 35 reward review: Published rune values conflict; distinct from Mohg the Omen.",
+        "Session 36: 420000 agrees with existing stat research; contrary 315000 unresolved. Exact patch and independent game reproduction remain unqualified."
       ]
     },
     {
@@ -5328,7 +5400,9 @@
       "sources": [
         "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
         "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
-        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/"
+        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/",
+        "https://eldenring.wiki.gg/wiki/Dryleaf_Arts",
+        "https://eldenring.exputer.com/characters/dryleaf-dane"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -5339,7 +5413,8 @@
       },
       "unresolved": [
         "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
-        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+        "Verify nearest grace, precise route, summon and critical eligibility before publication.",
+        "Session 36: No rune amount established; preserve duel classification hold. Exact patch and independent game reproduction remain unqualified."
       ]
     },
     {
@@ -5442,7 +5517,9 @@
         "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
         "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/",
         "https://eldenring.wiki.gg/wiki/Tree_Sentinel",
-        "https://tarnished.app/enemies/tree-sentinel"
+        "https://tarnished.app/enemies/tree-sentinel",
+        "https://eldenring.redmaw.dev/sheets/dlc-walkthrough",
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -5453,7 +5530,8 @@
       },
       "unresolved": [
         "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
-        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+        "Verify nearest grace, precise route, summon and critical eligibility before publication.",
+        "Session 36: Pair evidence only; no individual equipment-to-rune assignment. Exact patch and independent game reproduction remain unqualified."
       ]
     },
     {
@@ -5470,7 +5548,9 @@
         "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
         "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/",
         "https://eldenring.wiki.gg/wiki/Tree_Sentinel",
-        "https://tarnished.app/enemies/tree-sentinel"
+        "https://tarnished.app/enemies/tree-sentinel",
+        "https://eldenring.redmaw.dev/sheets/dlc-walkthrough",
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -5481,7 +5561,8 @@
       },
       "unresolved": [
         "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
-        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+        "Verify nearest grace, precise route, summon and critical eligibility before publication.",
+        "Session 36: Pair evidence only; no individual equipment-to-rune assignment. Exact patch and independent game reproduction remain unqualified."
       ]
     },
     {
@@ -5863,12 +5944,14 @@
       "conditions": "Optional ancient dragon encountered en route to Bayle.",
       "combat": "Lightning claws, delayed ground lightning and broad sweeps.",
       "strategy": "Move onto dry footing when possible and avoid the delayed lightning after each claw. Punish head openings or use short flank attacks, then disengage.",
-      "rewards": "Ancient Dragon Smithing Stone; Somber Ancient Dragon Smithing Stone.",
+      "rewards": "Ancient Dragon Smithing Stone; Somber Ancient Dragon Smithing Stone; 200,000 runes (reported NG).",
       "preparation": "Level 145–175; lightning defense.",
       "sources": [
         "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
         "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
-        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/"
+        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/",
+        "https://www.pushsquare.com/guides/elden-ring-how-to-beat-ancient-dragon-senessax",
+        "https://www.gamerguides.com/elden-ring-shadow-of-the-erdtree/database/bosses/great-enemy/ancient-dragon-senessax"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -5879,7 +5962,8 @@
       },
       "unresolved": [
         "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
-        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+        "Verify nearest grace, precise route, summon and critical eligibility before publication.",
+        "Session 36: Jagged Peak. Exact patch and independent game reproduction remain unqualified."
       ]
     },
     {

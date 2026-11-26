@@ -1,0 +1,679 @@
+{
+  "schema": 1,
+  "status": "partial-research-not-final",
+  "scope": "Published source reports, fetched line locators distinguished from indexed and carried-forward evidence. No independent game extraction.",
+  "records": [
+    {
+      "id": "er:b-tutorial-soldier",
+      "status": "matching-published-reports",
+      "runes": 400,
+      "reportedRunes": [
+        400
+      ],
+      "evidence": [
+        {
+          "url": "https://eldenring.redmaw.dev/sheets/walkthrough",
+          "locator": "line 93",
+          "runes": 400
+        },
+        {
+          "url": "https://eldenring.wiki.gg/wiki/Runes",
+          "locator": "indexed NG table",
+          "runes": 400
+        }
+      ],
+      "note": "Tutorial; gesture separately collected."
+    },
+    {
+      "id": "er:b-agheel-cavalry",
+      "status": "matching-published-reports",
+      "runes": 2400,
+      "reportedRunes": [
+        2400
+      ],
+      "evidence": [
+        {
+          "url": "https://eldenring.redmaw.dev/sheets/walkthrough",
+          "locator": "line 404",
+          "runes": 2400
+        },
+        {
+          "url": "https://www.dualshockers.com/elden-ring-nights-cavalry-locations-rewards/",
+          "locator": "indexed Agheel bridge",
+          "runes": 2400
+        }
+      ],
+      "note": "Night-only bridge."
+    },
+    {
+      "id": "er:b-bols",
+      "status": "matching-published-reports",
+      "runes": 4600,
+      "reportedRunes": [
+        4600
+      ],
+      "evidence": [
+        {
+          "url": "https://www.neoseeker.com/elden-ring/Bosses/Bols_Carian_Knight",
+          "locator": "indexed",
+          "runes": 4600
+        },
+        {
+          "url": "https://www.gamepressure.com/elden-ring/bols-carian-knight/z0fe05",
+          "locator": "indexed",
+          "runes": 4600
+        }
+      ],
+      "note": "Cuckoo's Evergaol."
+    },
+    {
+      "id": "er:b-liurnia-deathbird",
+      "status": "matching-published-reports",
+      "runes": 6600,
+      "reportedRunes": [
+        6600
+      ],
+      "evidence": [
+        {
+          "url": "https://eldenring.redmaw.dev/sheets/walkthrough",
+          "locator": "line 964",
+          "runes": 6600
+        },
+        {
+          "url": "https://eip.gg/elden-ring/guides/liurnia-of-the-lakes-boss-guides/",
+          "locator": "lines 666–674",
+          "runes": 6600
+        }
+      ],
+      "note": "Scenic Isle, not Death Rite Bird."
+    },
+    {
+      "id": "er:b-esgar",
+      "status": "matching-published-reports",
+      "runes": 30000,
+      "reportedRunes": [
+        30000
+      ],
+      "evidence": [
+        {
+          "url": "https://eldenring.redmaw.dev/sheets/walkthrough",
+          "locator": "line 2719",
+          "runes": 30000
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "lines 2386–2390",
+          "runes": 30000
+        }
+      ],
+      "note": "Priest and dogs."
+    },
+    {
+      "id": "er:b-borealis",
+      "status": "matching-published-reports",
+      "runes": 100000,
+      "reportedRunes": [
+        100000
+      ],
+      "evidence": [
+        {
+          "url": "https://eldenring.redmaw.dev/sheets/walkthrough",
+          "locator": "line 2934",
+          "runes": 100000
+        },
+        {
+          "url": "https://eip.gg/elden-ring/guides/mountaintops-of-the-giants-bosses/",
+          "locator": "lines 680–688",
+          "runes": 100000
+        }
+      ],
+      "note": "Freezing Lake."
+    },
+    {
+      "id": "er:b-mountaintops-deathrite",
+      "status": "matching-published-reports",
+      "runes": 77000,
+      "reportedRunes": [
+        77000
+      ],
+      "evidence": [
+        {
+          "url": "https://eip.gg/elden-ring/guides/mountaintops-of-the-giants-bosses/",
+          "locator": "lines 644–652",
+          "runes": 77000
+        },
+        {
+          "url": "https://wiki.eso-ui.com/index.php/Elden_Ring%3ADeath_Rite_Bird",
+          "locator": "indexed Mountaintops",
+          "runes": 77000
+        },
+        {
+          "url": "https://eldenring.wiki.gg/wiki/Death_Rite_Bird",
+          "locator": "indexed day/night",
+          "runes": null
+        }
+      ],
+      "note": "Two sources permit daytime spawn; not a mandatory night gate."
+    },
+    {
+      "id": "er:b-vyke",
+      "status": "matching-published-reports",
+      "runes": 75000,
+      "reportedRunes": [
+        75000
+      ],
+      "evidence": [
+        {
+          "url": "https://eldenring.redmaw.dev/sheets/walkthrough",
+          "locator": "line 2948",
+          "runes": 75000
+        },
+        {
+          "url": "https://eip.gg/elden-ring/guides/mountaintops-of-the-giants-bosses/",
+          "locator": "lines 665–675",
+          "runes": 75000
+        }
+      ],
+      "note": "Evergaol, distinct from invasion."
+    },
+    {
+      "id": "er:b-siofra-dragonkin",
+      "status": "matching-published-reports",
+      "runes": 16000,
+      "reportedRunes": [
+        16000
+      ],
+      "evidence": [
+        {
+          "url": "https://eldenring.redmaw.dev/sheets/walkthrough",
+          "locator": "line 1369",
+          "runes": 16000
+        },
+        {
+          "url": "https://www.neoseeker.com/elden-ring/Bosses/Dragonkin_Soldier",
+          "locator": "indexed Siofra",
+          "runes": 16000
+        }
+      ],
+      "note": "Upper Siofra."
+    },
+    {
+      "id": "er:b-mimic",
+      "status": "matching-published-reports",
+      "runes": 10000,
+      "reportedRunes": [
+        10000
+      ],
+      "evidence": [
+        {
+          "url": "https://eldenring.redmaw.dev/sheets/walkthrough",
+          "locator": "lines 1651–1666",
+          "runes": 10000
+        },
+        {
+          "url": "https://www.powerpyx.com/elden-ring-nokron-eternal-city-walkthrough/",
+          "locator": "indexed",
+          "runes": 10000
+        }
+      ],
+      "note": "Ashes separate chest."
+    },
+    {
+      "id": "er:d-senessax",
+      "status": "matching-published-reports",
+      "runes": 200000,
+      "reportedRunes": [
+        200000
+      ],
+      "evidence": [
+        {
+          "url": "https://www.pushsquare.com/guides/elden-ring-how-to-beat-ancient-dragon-senessax",
+          "locator": "indexed",
+          "runes": 200000
+        },
+        {
+          "url": "https://www.gamerguides.com/elden-ring-shadow-of-the-erdtree/database/bosses/great-enemy/ancient-dragon-senessax",
+          "locator": "indexed",
+          "runes": 200000
+        }
+      ],
+      "note": "Jagged Peak."
+    },
+    {
+      "id": "er:b-altus-cavalry",
+      "status": "unresolved-conflict",
+      "runes": null,
+      "reportedRunes": [
+        10000,
+        10500
+      ],
+      "evidence": [
+        {
+          "url": "https://eldenring.redmaw.dev/sheets/walkthrough",
+          "locator": "line 1736",
+          "runes": 10000
+        },
+        {
+          "url": "https://www.gamerguides.com/elden-ring/database/bosses/altus-plateau-bosses/nights-cavalry-altus-plateau/",
+          "locator": "indexed",
+          "runes": 10000
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "indexed Altus Highway",
+          "runes": 10500
+        }
+      ],
+      "note": "10000 supported; 10500 contrary report unresolved."
+    },
+    {
+      "id": "er:b-rot-dragonkin",
+      "status": "unresolved-conflict",
+      "runes": null,
+      "reportedRunes": [
+        5800,
+        58000
+      ],
+      "evidence": [
+        {
+          "url": "https://eldenring.redmaw.dev/sheets/walkthrough",
+          "locator": "line 1896",
+          "runes": 58000
+        },
+        {
+          "url": "https://tarnished.app/enemies/dragonkin-soldier",
+          "locator": "indexed Lake of Rot NG",
+          "runes": 58000
+        },
+        {
+          "url": "https://www.neoseeker.com/elden-ring/Bosses/Dragonkin_Soldier",
+          "locator": "indexed Lake of Rot",
+          "runes": 5800
+        }
+      ],
+      "note": "58000 supported; 5800 contrary report unresolved."
+    },
+    {
+      "id": "er:b-gideon",
+      "status": "unresolved-conflict",
+      "runes": null,
+      "reportedRunes": [
+        35500,
+        150000,
+        180000
+      ],
+      "evidence": [
+        {
+          "url": "https://eldenring.redmaw.dev/sheets/walkthrough",
+          "locator": "line 3457",
+          "runes": 150000
+        },
+        {
+          "url": "https://eldenring.wiki.gg/wiki/Gideon_Ofnir",
+          "locator": "indexed",
+          "runes": 150000
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "line 2876",
+          "runes": 180000
+        },
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "indexed",
+          "runes": 35500
+        },
+        {
+          "url": "https://eldenring.wiki.gg/wiki/Runes",
+          "locator": "indexed",
+          "runes": 180000
+        }
+      ],
+      "note": "Three values; no definitive figure."
+    },
+    {
+      "id": "er:b-mohg-omen",
+      "status": "unresolved-conflict",
+      "runes": null,
+      "reportedRunes": [
+        75000,
+        100000
+      ],
+      "evidence": [
+        {
+          "url": "https://eldenring.redmaw.dev/sheets/walkthrough",
+          "locator": "line 2755",
+          "runes": 100000
+        },
+        {
+          "url": "https://tarnishedwiki.com/mohg-the-omen-boss-guide-elden-ring/",
+          "locator": "indexed",
+          "runes": 100000
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "line 2398",
+          "runes": 75000
+        }
+      ],
+      "note": "100000 gains corroboration; 75000 unresolved."
+    },
+    {
+      "id": "er:b-mohg-blood",
+      "status": "unresolved-conflict",
+      "runes": null,
+      "reportedRunes": [
+        315000,
+        420000
+      ],
+      "evidence": [
+        {
+          "url": "https://eldenring.redmaw.dev/sheets/walkthrough",
+          "locator": "line 3226",
+          "runes": 420000
+        },
+        {
+          "url": "https://www.powerpyx.com/elden-ring-mohgwyn-palace-walkthrough/",
+          "locator": "indexed",
+          "runes": 420000
+        },
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "prior Session35 report not re-fetched",
+          "runes": 315000
+        }
+      ],
+      "note": "420000 agrees with existing stat research; contrary 315000 unresolved."
+    },
+    {
+      "id": "er:b-sainted-assassin",
+      "status": "unresolved-conflict",
+      "runes": null,
+      "reportedRunes": [
+        10800,
+        11339
+      ],
+      "evidence": [
+        {
+          "url": "https://eldenring.redmaw.dev/sheets/walkthrough",
+          "locator": "line 2178",
+          "runes": 10800
+        },
+        {
+          "url": "https://www.neoseeker.com/elden-ring/Bosses/Black_Knife_Assassins",
+          "locator": "indexed Sainted exterior",
+          "runes": 10800
+        },
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "indexed",
+          "runes": 11339
+        }
+      ],
+      "note": "10800 gains corroboration; 11339 unresolved."
+    },
+    {
+      "id": "er:b-altus-crystalians",
+      "status": "unresolved-conflict",
+      "runes": null,
+      "reportedRunes": [
+        1800,
+        9000
+      ],
+      "evidence": [
+        {
+          "url": "https://eldenring.redmaw.dev/sheets/walkthrough",
+          "locator": "line 2132",
+          "runes": 9000
+        },
+        {
+          "url": "https://wiki.eso-ui.com/index.php/Elden_Ring%3ACrystalian",
+          "locator": "indexed Altus pair",
+          "runes": 9000
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "indexed Altus pair",
+          "runes": 1800
+        }
+      ],
+      "note": "9000 gains corroboration; 1800 unresolved."
+    },
+    {
+      "id": "er:b-perfumer-grotto-duo",
+      "status": "unresolved-conflict",
+      "runes": null,
+      "reportedRunes": [
+        8400,
+        8500
+      ],
+      "evidence": [
+        {
+          "url": "https://eldenring.redmaw.dev/sheets/walkthrough",
+          "locator": "line 2095",
+          "runes": 8400
+        },
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "indexed",
+          "runes": 8400
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "indexed",
+          "runes": 8500
+        }
+      ],
+      "note": "8400 gains corroboration; 8500 unresolved."
+    },
+    {
+      "id": "er:b-snowfield-duelist",
+      "status": "unresolved-conflict",
+      "runes": null,
+      "reportedRunes": [
+        8000,
+        78000
+      ],
+      "evidence": [
+        {
+          "url": "https://eldenring.redmaw.dev/sheets/walkthrough",
+          "locator": "line 3125",
+          "runes": 78000
+        },
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "prior Session35 report not re-fetched",
+          "runes": 8000
+        }
+      ],
+      "note": "78000 gains location-specific report; 8000 unresolved. Two Great Grave Gloveworts reported."
+    },
+    {
+      "id": "er:b-weeping-avatar",
+      "status": "unresolved-conflict",
+      "runes": null,
+      "reportedRunes": [
+        3600,
+        4500
+      ],
+      "evidence": [
+        {
+          "url": "https://eldenring.redmaw.dev/sheets/walkthrough",
+          "locator": "line 547",
+          "runes": 3600
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "prior Session34 report",
+          "runes": 3600
+        },
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "prior Session34 report",
+          "runes": 4500
+        }
+      ],
+      "note": "3600 gains corroboration; 4500 unresolved."
+    },
+    {
+      "id": "er:b-stillwater-cleanrot",
+      "status": "unresolved-conflict",
+      "runes": null,
+      "reportedRunes": [
+        2475,
+        3300
+      ],
+      "evidence": [
+        {
+          "url": "https://eldenring.redmaw.dev/sheets/walkthrough",
+          "locator": "line 783",
+          "runes": 3300
+        },
+        {
+          "url": "https://eip.gg/elden-ring/guides/liurnia-of-the-lakes-boss-guides/",
+          "locator": "lines 677–685",
+          "runes": 3300
+        },
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "prior Session34 report",
+          "runes": 2475
+        }
+      ],
+      "note": "3300 gains corroboration; 2475 unresolved."
+    },
+    {
+      "id": "er:b-wardead-spirit",
+      "status": "unresolved-conflict",
+      "runes": null,
+      "reportedRunes": [
+        64000,
+        67200
+      ],
+      "evidence": [
+        {
+          "url": "https://eldenring.redmaw.dev/sheets/walkthrough",
+          "locator": "line 3041",
+          "runes": 64000
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "prior Session34 report",
+          "runes": 67200
+        }
+      ],
+      "note": "64000 gains location-specific report; 67200 unresolved."
+    },
+    {
+      "id": "er:b-sainted-zamor",
+      "status": "unresolved-conflict",
+      "runes": null,
+      "reportedRunes": [
+        20000,
+        24000
+      ],
+      "evidence": [
+        {
+          "url": "https://eldenring.redmaw.dev/sheets/walkthrough",
+          "locator": "line 2194",
+          "runes": 20000
+        },
+        {
+          "url": "https://www.neoseeker.com/elden-ring/Bosses/Ancient_Hero_of_Zamor",
+          "locator": "indexed",
+          "runes": 20000
+        },
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "indexed",
+          "runes": 24000
+        }
+      ],
+      "note": "Earlier 24000 now expressly disputed by 20000."
+    },
+    {
+      "id": "er:b-valiant-gargoyles",
+      "status": "unresolved-conflict",
+      "runes": null,
+      "reportedRunes": [
+        30000,
+        32000
+      ],
+      "evidence": [
+        {
+          "url": "https://eldenring.redmaw.dev/sheets/walkthrough",
+          "locator": "line 1703",
+          "runes": 30000
+        },
+        {
+          "url": "https://eldenring.wiki.gg/wiki/Valiant_Gargoyles",
+          "locator": "indexed",
+          "runes": 30000
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "prior Session35 report",
+          "runes": 32000
+        }
+      ],
+      "note": "Earlier 32000 remains disputed by 30000."
+    },
+    {
+      "id": "er:d-dane",
+      "status": "no-individual-rune-value-established",
+      "runes": null,
+      "reportedRunes": [],
+      "evidence": [
+        {
+          "url": "https://eldenring.wiki.gg/wiki/Dryleaf_Arts",
+          "locator": "indexed duel reward",
+          "runes": null
+        },
+        {
+          "url": "https://eldenring.exputer.com/characters/dryleaf-dane",
+          "locator": "indexed",
+          "runes": null
+        }
+      ],
+      "note": "No rune amount established; preserve duel classification hold."
+    },
+    {
+      "id": "er:d-hinterland-sentinel-shield",
+      "status": "no-individual-rune-value-established",
+      "runes": null,
+      "reportedRunes": [],
+      "evidence": [
+        {
+          "url": "https://eldenring.redmaw.dev/sheets/dlc-walkthrough",
+          "locator": "indexed pair sequence",
+          "runes": null
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "indexed pair",
+          "runes": null
+        }
+      ],
+      "note": "Pair evidence only; no individual equipment-to-rune assignment."
+    },
+    {
+      "id": "er:d-hinterland-sentinel-torch",
+      "status": "no-individual-rune-value-established",
+      "runes": null,
+      "reportedRunes": [],
+      "evidence": [
+        {
+          "url": "https://eldenring.redmaw.dev/sheets/dlc-walkthrough",
+          "locator": "indexed pair sequence",
+          "runes": null
+        },
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "indexed pair",
+          "runes": null
+        }
+      ],
+      "note": "Pair evidence only; no individual equipment-to-rune assignment."
+    }
+  ]
+}
