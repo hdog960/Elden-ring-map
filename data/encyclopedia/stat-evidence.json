@@ -12,7 +12,8 @@
         "https://almanauts.com/eldenring/bosses/",
         "https://eldenringpoisewiki.fun/"
       ],
-      "note": "Stormveil only, not capital apparition."
+      "note": "Stormveil only, not capital apparition.",
+      "evidenceStrength": "legacy-unclassified"
     },
     {
       "id": "er:b-godrick",
@@ -24,7 +25,8 @@
         "https://lorearmory.com/eldenring/bosses/",
         "https://almanauts.com/eldenring/bosses/"
       ],
-      "note": "Shared health across transformation."
+      "note": "Shared health across transformation.",
+      "evidenceStrength": "legacy-unclassified"
     },
     {
       "id": "er:b-malenia",
@@ -36,7 +38,8 @@
         "https://almanauts.com/eldenring/bosses/",
         "https://eldenringpoisewiki.fun/"
       ],
-      "note": "Not combined health; second phase remains unverified."
+      "note": "Not combined health; second phase remains unverified.",
+      "evidenceStrength": "legacy-unclassified"
     },
     {
       "id": "er:d-consort",
@@ -47,7 +50,8 @@
         "https://eldenring.wiki.gg/wiki/Promised_Consort_Radahn",
         "https://almanauts.com/eldenring/bosses/"
       ],
-      "note": "65% transition per Eldenpedia; current exact regulation and stance corroboration require review."
+      "note": "65% transition per Eldenpedia; current exact regulation and stance corroboration require review.",
+      "evidenceStrength": "legacy-unclassified"
     },
     {
       "id": "er:b-morgott",
@@ -71,7 +75,8 @@
         "https://eldenringpoisewiki.fun/",
         "https://gamertagmythras.com/blog/elden-ring/elden-ring-stance-break-guide"
       ],
-      "note": "Eldenpedia direct stat excerpt reports 120000 runes; older quick-reference lists 70000, do not silently resolve patch discrepancy. Three parries for critical per Eldenpedia."
+      "note": "Eldenpedia direct stat excerpt reports 120000 runes; older quick-reference lists 70000, do not silently resolve patch discrepancy. Three parries for critical per Eldenpedia.",
+      "evidenceStrength": "legacy-unclassified"
     },
     {
       "id": "er:b-mohg-blood",
@@ -85,7 +90,8 @@
         "https://almanauts.com/eldenring/bosses/",
         "https://gamertagmythras.com/blog/elden-ring/elden-ring-stance-break-guide"
       ],
-      "note": "Do not conflate with sewer Mohg. HP and rune reward supported; stance kind still to verify."
+      "note": "Do not conflate with sewer Mohg. HP and rune reward supported; stance kind still to verify.",
+      "evidenceStrength": "legacy-unclassified"
     },
     {
       "id": "er:b-radahn",
@@ -111,7 +117,8 @@
         "https://www.gamerguides.com/elden-ring/database/bosses/caelid-bosses/starscourge-radahn",
         "https://tarnished.app/enemies/starscourge-radahn"
       ],
-      "note": "Corrected prior 120 base poise: Eldenpedia Poise overview, Gamer Guides and tarnished.app independently report 200. Exact regulation version remains unverified. Removed incorrect Consort of Miquella source URL; do not use DLC source for base Radahn."
+      "note": "Corrected prior 120 base poise: Eldenpedia Poise overview, Gamer Guides and tarnished.app independently report 200. Exact regulation version remains unverified. Removed incorrect Consort of Miquella source URL; do not use DLC source for base Radahn.",
+      "evidenceStrength": "legacy-unclassified"
     },
     {
       "id": "er:d-bayle",
@@ -136,7 +143,8 @@
         "https://eldenring.wiki.gg/wiki/Bayle_the_Dread",
         "https://lorearmory.com/eldenring/bosses/"
       ],
-      "note": "HP corroborated; Eldenpedia excerpt exposes base and effective poise with modifier but mixes NG tabs, verify exact NG scope before admission."
+      "note": "HP corroborated; Eldenpedia excerpt exposes base and effective poise with modifier but mixes NG tabs, verify exact NG scope before admission.",
+      "evidenceStrength": "legacy-unclassified"
     },
     {
       "id": "er:d-rellana",
@@ -149,7 +157,8 @@
         "https://segmentnext.com/how-to-beat-rellana-twin-moon-knight-in-elden-ring/",
         "https://www.gamerguides.com/elden-ring-shadow-of-the-erdtree/database/bosses/legend/rellana-twin-moon-knight"
       ],
-      "note": "Two source excerpts report HP/stance, Gamer Guides full table confirms HP and runes; exact regulation version unverified."
+      "note": "Two source excerpts report HP/stance, Gamer Guides full table confirms HP and runes; exact regulation version unverified.",
+      "evidenceStrength": "legacy-unclassified"
     },
     {
       "id": "er:d-messmer",
@@ -161,7 +170,8 @@
         "https://tarnished.app/enemies/messmer-the-impaler",
         "https://www.gamerguides.com/elden-ring-shadow-of-the-erdtree/database/bosses/demigod/messmer-the-impaler"
       ],
-      "note": "Full source tables agree HP and runes, tarnished.app explicitly solo NG and stance 120. Holy negation disagrees (0 vs 40); no negation promoted."
+      "note": "Full source tables agree HP and runes, tarnished.app explicitly solo NG and stance 120. Holy negation disagrees (0 vs 40); no negation promoted.",
+      "evidenceStrength": "legacy-unclassified"
     },
     {
       "id": "er:d-romina",
@@ -178,7 +188,8 @@
         35798,
         25683
       ],
-      "note": "HP sources disagree; no settled HP. Mobalytics reports stance 80; Gamer Guides reports rune reward. Exact patch verification outstanding."
+      "note": "HP sources disagree; no settled HP. Mobalytics reports stance 80; Gamer Guides reports rune reward. Exact patch verification outstanding.",
+      "evidenceStrength": "legacy-unclassified"
     },
     {
       "id": "er:b-fire-giant",
@@ -191,7 +202,8 @@
         "https://eldenring.wiki.gg/wiki/Fire_Giant",
         "https://www.gamerguides.com/elden-ring/database/bosses/mountaintops-of-the-giants-boss"
       ],
-      "note": "Full solo NG table and two corroborating indexed sources; exact patch unverified."
+      "note": "Full solo NG table and two corroborating indexed sources; exact patch unverified.",
+      "evidenceStrength": "legacy-unclassified"
     },
     {
       "id": "er:b-rennala",
@@ -204,7 +216,8 @@
         "https://tarnishedforge.com/bosses/rennala-queen-of-the-full-moon",
         "https://eldenring.wiki.gg/wiki/Rennala_Queen_of_the_Full_Moon"
       ],
-      "note": "Second health bar only; not combined HP. Exact patch unverified."
+      "note": "Second health bar only; not combined HP. Exact patch unverified.",
+      "evidenceStrength": "legacy-unclassified"
     },
     {
       "id": "er:b-placidusax",
@@ -218,7 +231,8 @@
         "https://www.gamerguides.com/elden-ring/database/bosses/crumbling-farum-azula-bosses/dragonlord-placidusax/",
         "https://eldenring.wiki.gg/wiki/Placidusax"
       ],
-      "note": "HP and stance reported by first two sources; reward confirmed separately. Source lineage and exact patch unverified."
+      "note": "HP and stance reported by first two sources; reward confirmed separately. Source lineage and exact patch unverified.",
+      "evidenceStrength": "legacy-unclassified"
     },
     {
       "id": "er:b-maliketh",
@@ -241,7 +255,8 @@
         "https://www.dexerto.com/elden-ring/how-to-defeat-maliketh-in-elden-ring-boss-stats-weaknesses-tips-2641174/",
         "https://gamertagmythras.com/blog/elden-ring/elden-ring-maliketh-boss-guide"
       ],
-      "note": "Full solo NG table corroborated by published guides; exact regulation not independently verified."
+      "note": "Full solo NG table corroborated by published guides; exact regulation not independently verified.",
+      "evidenceStrength": "legacy-unclassified"
     },
     {
       "id": "er:b-elden-beast",
@@ -294,7 +309,8 @@
         "https://tarnished.app/enemies/radagon-of-the-golden-order",
         "https://www.dexerto.com/elden-ring/elden-ring-radagon-guide-how-to-beat-the-elden-beast-1775869/"
       ],
-      "note": "Distinct health bars, not additive stance; rune reward only on final victory. Exact regulation unverified."
+      "note": "Distinct health bars, not additive stance; rune reward only on final victory. Exact regulation unverified.",
+      "evidenceStrength": "legacy-unclassified"
     },
     {
       "id": "er:b-hoarah",
@@ -307,7 +323,8 @@
         "https://www.vcgamers.com/news/en/godfrey-elden-ring/",
         "https://www.gamerguides.com/elden-ring/guide/leyndell-ashen-capital/bosses/how-to-beat-godfrey-first-elden-lord-hoarah-loux-warrior-in-the-elden-throne/"
       ],
-      "note": "Not the golden shade; two published guides report shared HP, stance reported in VCGamers; reward corroborated by Gamer Guides. Exact regulation and source lineage remain unverified."
+      "note": "Not the golden shade; two published guides report shared HP, stance reported in VCGamers; reward corroborated by Gamer Guides. Exact regulation and source lineage remain unverified.",
+      "evidenceStrength": "legacy-unclassified"
     },
     {
       "id": "er:d-midra",
@@ -330,7 +347,8 @@
         "https://lorearmory.com/eldenring/bosses/",
         "https://www.gamerguides.com/elden-ring-shadow-of-the-erdtree/database/bosses/legend/midra-lord-of-frenzied-flame"
       ],
-      "note": "Three sources agree transformed HP; stance corroborated by first two; full Gamer Guides table supplies negations and reward. Resistance thresholds disagree with tarnished.app; omitted. Exact regulation unverified."
+      "note": "Three sources agree transformed HP; stance corroborated by first two; full Gamer Guides table supplies negations and reward. Resistance thresholds disagree with tarnished.app; omitted. Exact regulation unverified.",
+      "evidenceStrength": "legacy-unclassified"
     },
     {
       "id": "er:d-avatar",
@@ -344,7 +362,8 @@
         "https://www.gamerguides.com/elden-ring-shadow-of-the-erdtree/database/bosses/legend/scadutree-avatar",
         "https://www.windowscentral.com/gaming/elden-ring-dlc-scadutree-avatar-location-and-how-to-beat-in-shadow-of-the-erdtree"
       ],
-      "note": "First-phase HP and stance supported by Eldenpedia and Lore Armory range. Gamer Guides reports 12403 HP without phase label, not used as phase-one or total health. Later bars and critical carryover require verification; no exact regulation claim."
+      "note": "First-phase HP and stance supported by Eldenpedia and Lore Armory range. Gamer Guides reports 12403 HP without phase label, not used as phase-one or total health. Later bars and critical carryover require verification; no exact regulation claim.",
+      "evidenceStrength": "legacy-unclassified"
     },
     {
       "id": "er:b-niall",
@@ -367,7 +386,8 @@
         "https://lorearmory.com/eldenring/bosses/",
         "https://tarnishedsaga.com/bosses/commander-niall/"
       ],
-      "note": "Full solo table and indexed second database agree health/stance and reward; exact regulation unverified. Do not use Commander O'Neil stats."
+      "note": "Full solo table and indexed second database agree health/stance and reward; exact regulation unverified. Do not use Commander O'Neil stats.",
+      "evidenceStrength": "legacy-unclassified"
     },
     {
       "id": "er:b-naturalborn",
@@ -381,7 +401,8 @@
         "https://tarnished.app/enemies/astel--naturalborn-of-the-void",
         "https://eldenring.fandom.com/wiki/Astel%2C_Naturalborn_of_the_Void"
       ],
-      "note": "Named boss HP corroborated in variant-specific Pure Elden Ring and Almanauts. Tarnished.app default table instead shows 1642 HP/20 stance for an unspecified variant; its description reports boss HP and stance. Pure Elden Ring labels poise 40, not assumed equivalent to stance 120. No negation or threshold promotion."
+      "note": "Named boss HP corroborated in variant-specific Pure Elden Ring and Almanauts. Tarnished.app default table instead shows 1642 HP/20 stance for an unspecified variant; its description reports boss HP and stance. Pure Elden Ring labels poise 40, not assumed equivalent to stance 120. No negation or threshold promotion.",
+      "evidenceStrength": "legacy-unclassified"
     },
     {
       "id": "er:d-gaius",
@@ -404,7 +425,8 @@
         "https://www.gamerguides.com/elden-ring-shadow-of-the-erdtree/database/bosses/legend/commander-gaius",
         "https://timesaver.gg/blog/how-to-beat-commander-gaius-elden-ring"
       ],
-      "note": "Two full tables agree HP, rune reward and all eight negations. Third source reports v1.17 but cites Fextralife; no independent regulation verification. Status buildup differs in sources; omitted."
+      "note": "Two full tables agree HP, rune reward and all eight negations. Third source reports v1.17 but cites Fextralife; no independent regulation verification. Status buildup differs in sources; omitted.",
+      "evidenceStrength": "legacy-unclassified"
     },
     {
       "id": "er:d-metyr",
@@ -418,7 +440,8 @@
         "https://eldenring.fandom.com/wiki/Metyr%2C_Mother_of_Fingers",
         "https://eldenring.wiki.gg/wiki/Metyr%2C_Mother_of_Fingers"
       ],
-      "note": "Two full pages agree health and reward; indexed wiki snippets agree stance 120. Wiki live pages inaccessible; exact regulation and other stats unqualified."
+      "note": "Two full pages agree health and reward; indexed wiki snippets agree stance 120. Wiki live pages inaccessible; exact regulation and other stats unqualified.",
+      "evidenceStrength": "legacy-unclassified"
     },
     {
       "id": "er:d-putrescent",
@@ -432,7 +455,8 @@
         "https://eldenringpoisewiki.fun/",
         "https://tarnishedsaga.com/bosses/putrescent-knight/"
       ],
-      "note": "Full Gamer Guides HP/reward plus indexed Lore Armory HP/stance and Poise Wiki 100. No separate horse ID, no exact regulation qualification. Published Holy -20, Slash 40 corroborated; remaining negations omitted pending additional evidence."
+      "note": "Full Gamer Guides HP/reward plus indexed Lore Armory HP/stance and Poise Wiki 100. No separate horse ID, no exact regulation qualification. Published Holy -20, Slash 40 corroborated; remaining negations omitted pending additional evidence.",
+      "evidenceStrength": "legacy-unclassified"
     },
     {
       "id": "er:b-regal-ancestor",
@@ -445,7 +469,8 @@
         "https://tarnishedwiki.com/regal-ancestor-spirit-boss-guide-elden-ring/",
         "https://lorearmory.com/eldenring/bosses/"
       ],
-      "note": "Two full pages agree HP and reward; indexed Lore Armory row supplies stance. Healing is additional to initial HP; exact regulation unverified."
+      "note": "Two full pages agree HP and reward; indexed Lore Armory row supplies stance. Healing is additional to initial HP; exact regulation unverified.",
+      "evidenceStrength": "legacy-unclassified"
     },
     {
       "id": "er:b-fortissax",
@@ -459,7 +484,8 @@
         "https://eldenring.wiki.gg/wiki/Stance",
         "https://eldenring.wiki.gg/wiki/Fortissax"
       ],
-      "note": "Full guide confirms HP and reward; indexed Pure Elden Ring and Eldenpedia corroborate HP and base stance. Effective stance damage varies by hit location. Exact regulation unverified."
+      "note": "Full guide confirms HP and reward; indexed Pure Elden Ring and Eldenpedia corroborate HP and base stance. Effective stance damage varies by hit location. Exact regulation unverified.",
+      "evidenceStrength": "legacy-unclassified"
     },
     {
       "id": "er:b-haligtree-loretta",
@@ -473,7 +499,8 @@
         "https://eldenringpoisewiki.fun/",
         "https://eldenring.wiki.gg/wiki/Runes"
       ],
-      "note": "Full guide and indexed database agree health; poise index corroborates stance and rune list confirms reward. Exact regulation unverified."
+      "note": "Full guide and indexed database agree health; poise index corroborates stance and rune list confirms reward. Exact regulation unverified.",
+      "evidenceStrength": "legacy-unclassified"
     },
     {
       "id": "er:d-belurat-lion",
@@ -496,7 +523,8 @@
         "https://www.gamerguides.com/elden-ring-shadow-of-the-erdtree/database/bosses/legend/divine-beast-dancing-lion-belurat-tower-settlement",
         "https://tarnishedwiki.com/divine-beast-dancing-lion-boss-guide/"
       ],
-      "note": "Two full variant-specific tables agree HP, reward and all eight damage negations; third guide agrees HP/reward. Status buildup tables disagree, omitted. Exact regulation unverified."
+      "note": "Two full variant-specific tables agree HP, reward and all eight damage negations; third guide agrees HP/reward. Status buildup tables disagree, omitted. Exact regulation unverified.",
+      "evidenceStrength": "legacy-unclassified"
     },
     {
       "id": "er:b-rykard",
@@ -509,7 +537,8 @@
         "https://steamcommunity.com/sharedfiles/filedetails/?id=3292574189",
         "https://www.pushsquare.com/guides/elden-ring-how-to-beat-rykard-lord-of-blasphemy"
       ],
-      "note": "Full solo table and indexed Steam guide agree second-bar health; reward independently corroborated. First-bar sources disagree (30439 versus 30493), not promoted; separate phase record pending. Exact regulation unverified."
+      "note": "Full solo table and indexed Steam guide agree second-bar health; reward independently corroborated. First-bar sources disagree (30439 versus 30493), not promoted; separate phase record pending. Exact regulation unverified.",
+      "evidenceStrength": "legacy-unclassified"
     },
     {
       "id": "er:b-raya-wolf",
@@ -532,7 +561,8 @@
         "https://www.pureeldenring.com/bosses/red-wolf-of-ragadon",
         "https://lorearmory.com/eldenring/bosses/"
       ],
-      "note": "Dexerto gives displayed integer HP and stance; Pure Elden Ring has fractional 2204.818 and damage table. Lore Armory index corroborates integer HP and stance. Regulation not independently verified."
+      "note": "Dexerto gives displayed integer HP and stance; Pure Elden Ring has fractional 2204.818 and damage table. Lore Armory index corroborates integer HP and stance. Regulation not independently verified.",
+      "evidenceStrength": "legacy-unclassified"
     },
     {
       "id": "er:b-ancestor",
@@ -556,7 +586,8 @@
         "https://www.neoseeker.com/elden-ring/Bosses/Ancestral_Spirit",
         "https://www.powerpyx.com/elden-ring-siofra-river-walkthrough/"
       ],
-      "note": "Solo table and Gamer Guides agree HP and runes; Neoseeker agrees rune reward. Older PowerPyx walkthrough lists 10000 runes; retain historical discrepancy. Exact regulation not independently verified."
+      "note": "Solo table and Gamer Guides agree HP and runes; Neoseeker agrees rune reward. Older PowerPyx walkthrough lists 10000 runes; retain historical discrepancy. Exact regulation not independently verified.",
+      "evidenceStrength": "legacy-unclassified"
     },
     {
       "id": "er:b-caria-loretta",
@@ -570,7 +601,8 @@
         "https://tarnished.app/enemies/royal-knight-loretta",
         "https://eldenringpoisewiki.fun/"
       ],
-      "note": "Guide and indexed enemy table agree displayed HP and reward; fractional 4214.76 and stance 80 reported by Pure Elden Ring. Poise Wiki independently corroborates stance. Exact regulation unverified."
+      "note": "Guide and indexed enemy table agree displayed HP and reward; fractional 4214.76 and stance 80 reported by Pure Elden Ring. Poise Wiki independently corroborates stance. Exact regulation unverified.",
+      "evidenceStrength": "legacy-unclassified"
     },
     {
       "id": "er:b-nokstella-dragonkin",
@@ -585,7 +617,8 @@
         "https://lorearmory.com/eldenring/bosses/",
         "https://www.neoseeker.com/elden-ring/Bosses/Dragonkin_Soldier_of_Nokstella"
       ],
-      "note": "Variant-specific HP corroborated by three published sources; Lore Armory row reports stance 120; Neoseeker corroborates rune reward and Frozen Lightning Spear. Exact regulation not independently verified."
+      "note": "Variant-specific HP corroborated by three published sources; Lore Armory row reports stance 120; Neoseeker corroborates rune reward and Frozen Lightning Spear. Exact regulation not independently verified.",
+      "evidenceStrength": "legacy-unclassified"
     },
     {
       "id": "er:b-elemer",
@@ -608,7 +641,8 @@
         "https://tarnishedsaga.com/bosses/elemer-of-the-briar/",
         "https://lorearmory.com/eldenring/bosses/"
       ],
-      "note": "Two full pages agree health and reward; Lore Armory index agrees health and stance. Negations from full solo table; exact regulation not independently verified."
+      "note": "Two full pages agree health and reward; Lore Armory index agrees health and stance. Negations from full solo table; exact regulation not independently verified.",
+      "evidenceStrength": "legacy-unclassified"
     },
     {
       "id": "er:b-morne-leonine",
@@ -622,7 +656,8 @@
         "https://www.neoseeker.com/elden-ring/walkthrough/Castle_Morne",
         "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/"
       ],
-      "note": "Full guide and Lore Armory index agree displayed HP; Lore Armory reports stance 80. Two walkthroughs independently corroborate reward. Exact regulation unverified."
+      "note": "Full guide and Lore Armory index agree displayed HP; Lore Armory reports stance 80. Two walkthroughs independently corroborate reward. Exact regulation unverified.",
+      "evidenceStrength": "legacy-unclassified"
     },
     {
       "id": "er:b-alecto",
@@ -637,7 +672,8 @@
         "https://eldenringpoisewiki.fun/",
         "https://plarium.com/en/blog/elden-ring-boss-locations/"
       ],
-      "note": "Full Fandom entry agrees with indexed Lore Armory HP and stance; Poise Wiki supports stance, Gamer Guides supports 80000 rune reward. Plarium reports 88000; retained as discrepancy, not accepted. Lore Armory claims 1.17.3 build 25827938, not independently reproduced."
+      "note": "Full Fandom entry agrees with indexed Lore Armory HP and stance; Poise Wiki supports stance, Gamer Guides supports 80000 rune reward. Plarium reports 88000; retained as discrepancy, not accepted. Lore Armory claims 1.17.3 build 25827938, not independently reproduced.",
+      "evidenceStrength": "legacy-unclassified"
     },
     {
       "id": "er:b-godfrey-shade",
@@ -661,7 +697,8 @@
         "https://www.powerpyx.com/elden-ring-leyndell-royal-capital-walkthrough/",
         "https://www.youtube.com/watch?v=mzVnyAECIVc"
       ],
-      "note": "Full variant guide, indexed Lore Armory and video agree HP; indexed database and video agree stance; PowerPyx confirms reward. Negations from variant guide, not independently fully reproduced. Lore Armory claims 1.17.3; exact regulation not independently verified."
+      "note": "Full variant guide, indexed Lore Armory and video agree HP; indexed database and video agree stance; PowerPyx confirms reward. Negations from variant guide, not independently fully reproduced. Lore Armory claims 1.17.3; exact regulation not independently verified.",
+      "evidenceStrength": "legacy-unclassified"
     },
     {
       "id": "er:b-earthbore-runebear",
@@ -675,7 +712,8 @@
         "https://www.gamerguides.com/elden-ring/guide/weeping-peninsula/bosses/how-to-beat-the-runebear-in-earthbore-cave/",
         "https://eldenring.exputer.com/locations/earthbore-cave"
       ],
-      "note": "Indexed boss row and encounter video description agree HP and stance. Two walkthroughs agree rune reward. Lore Armory claims 1.17.3; exact regulation not independently verified."
+      "note": "Indexed boss row and encounter video description agree HP and stance. Two walkthroughs agree rune reward. Lore Armory claims 1.17.3; exact regulation not independently verified.",
+      "evidenceStrength": "legacy-unclassified"
     },
     {
       "id": "er:b-agheel-dragon",
@@ -697,7 +735,8 @@
         "https://tarnished.app/enemies/flying-dragon-agheel",
         "https://www.dexerto.com/elden-ring/how-to-beat-flying-dragon-agheel-in-elden-ring-1767669/"
       ],
-      "note": "Both full sources agree HP and stance, and Tarnished.app lists 5000 runes and all eight negations. No independent regulation reproduction; damage negation from one table."
+      "note": "Both full sources agree HP and stance, and Tarnished.app lists 5000 runes and all eight negations. No independent regulation reproduction; damage negation from one table.",
+      "evidenceStrength": "legacy-unclassified"
     },
     {
       "id": "er:b-limgrave-troll",
@@ -721,7 +760,8 @@
         "https://www.gamerguides.com/elden-ring/database/bosses/limgrave-bosses/stonedigger-troll-limgrave-tunnels",
         "https://eldenring.fandom.com/wiki/Stonedigger_Troll"
       ],
-      "note": "Solo table reports 1295 HP and 45 stance; variant-specific Pure Elden Ring index reports 1295.035, full page blocked. Gamer Guides confirms 1800 and Roar Medallion. Negations from solo table only. Exact regulation not qualified."
+      "note": "Solo table reports 1295 HP and 45 stance; variant-specific Pure Elden Ring index reports 1295.035, full page blocked. Gamer Guides confirms 1800 and Roar Medallion. Negations from solo table only. Exact regulation not qualified.",
+      "evidenceStrength": "legacy-unclassified"
     },
     {
       "id": "er:b-stormhill-crucible",
@@ -744,7 +784,8 @@
         "https://tarnishedwiki.com/crucible-knight-boss-guide-elden-ring/",
         "https://www.youtube.com/watch?v=Xt3VMmKb0io"
       ],
-      "note": "Solo table reports 2782 and video description specifically reports 2782 for Stormhill. Independent guide confirms all negations and reward. Stance reported by table; exact regulation unverified."
+      "note": "Solo table reports 2782 and video description specifically reports 2782 for Stormhill. Independent guide confirms all negations and reward. Stance reported by table; exact regulation unverified.",
+      "evidenceStrength": "legacy-unclassified"
     },
     {
       "id": "er:b-darriwil",
@@ -763,7 +804,8 @@
         "https://eldenring.wiki.gg/wiki/Runes",
         "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/"
       ],
-      "note": "HP reports disagree: Almanauts 1450, Gamer Guides 1480. Poise Wiki and Almanauts agree stance 65. Gamer Guides and Eldenpedia rune index list 1900, older PowerPyx lists 1400; do not infer patch lineage. Exact regulation unverified."
+      "note": "HP reports disagree: Almanauts 1450, Gamer Guides 1480. Poise Wiki and Almanauts agree stance 65. Gamer Guides and Eldenpedia rune index list 1900, older PowerPyx lists 1400; do not infer patch lineage. Exact regulation unverified.",
+      "evidenceStrength": "legacy-unclassified"
     },
     {
       "id": "er:b-limgrave-sentinel",
@@ -778,7 +820,8 @@
         "https://tarnished.app/enemies/tree-sentinel",
         "https://wiki.eso-ui.com/index.php/Elden_Ring%3ATree_Sentinel"
       ],
-      "note": "Dexerto and encounter-specific video agree HP and reward; Almanauts index corroborates minimum HP and stance; Dexerto critical claim conflicts with video and enemy documentation, so no critical recommendation. Generic tarnished.app HP defaults to DLC variant and is not used. Exact regulation unverified."
+      "note": "Dexerto and encounter-specific video agree HP and reward; Almanauts index corroborates minimum HP and stance; Dexerto critical claim conflicts with video and enemy documentation, so no critical recommendation. Generic tarnished.app HP defaults to DLC variant and is not used. Exact regulation unverified.",
+      "evidenceStrength": "legacy-unclassified"
     },
     {
       "id": "er:b-groveside-beastman",
@@ -792,7 +835,8 @@
         "https://eldenringpoisewiki.fun/",
         "https://www.gamerguides.com/elden-ring/guide/limgrave/locations/how-to-find-and-complete-the-groveside-cave-in-limgrave/"
       ],
-      "note": "Indexed cave-specific HP and stance corroborated by database range minimum and Poise Wiki cave-specific stance. Gamer Guides location walkthrough confirms reward. Exact regulation not verified; indexed wiki evidence not a direct reload."
+      "note": "Indexed cave-specific HP and stance corroborated by database range minimum and Poise Wiki cave-specific stance. Gamer Guides location walkthrough confirms reward. Exact regulation not verified; indexed wiki evidence not a direct reload.",
+      "evidenceStrength": "legacy-unclassified"
     },
     {
       "id": "er:b-stormfoot-watchdog",
@@ -806,7 +850,8 @@
         "https://www.gamerguides.com/elden-ring/guide/limgrave/bosses/how-to-beat-erdtree-burial-watchdog-in-stormfoot-catacombs/",
         "https://tarnishedwiki.com/erdtree-burial-watchdog-boss-guide-elden-ring/"
       ],
-      "note": "Indexed location wiki and variant-specific enemy combo entry agree HP; stance corroborated by wiki and enemy table. Gamer Guides corroborates reward. Exact regulation unverified."
+      "note": "Indexed location wiki and variant-specific enemy combo entry agree HP; stance corroborated by wiki and enemy table. Gamer Guides corroborates reward. Exact regulation unverified.",
+      "evidenceStrength": "legacy-unclassified"
     },
     {
       "id": "er:b-waypoint-pumpkin",
@@ -820,7 +865,8 @@
         "https://www.gamerguides.com/elden-ring/guide/limgrave/bosses/how-to-beat-mad-pumpkin-head-in-waypoint-ruins/1000",
         "https://www.pureeldenring.com/npcs/mad-pumpkin-head-flail-boss-limgrave-waypoint-ruins"
       ],
-      "note": "Two indexed location-specific displayed HP sources agree 1328; stance 65 corroborated by both. Pure Elden Ring lists 664 in an NPC HP field, scale semantics unverified; not treated as directly comparable displayed boss HP. Gamer Guides corroborates reward. Exact regulation unverified."
+      "note": "Two indexed location-specific displayed HP sources agree 1328; stance 65 corroborated by both. Pure Elden Ring lists 664 in an NPC HP field, scale semantics unverified; not treated as directly comparable displayed boss HP. Gamer Guides corroborates reward. Exact regulation unverified.",
+      "evidenceStrength": "legacy-unclassified"
     },
     {
       "id": "er:b-tombsward-shade",
@@ -845,7 +891,8 @@
         "https://rankedboost.com/elden-ring/cemetery-shade/",
         "https://eip.gg/elden-ring/guides/weeping-peninsula-boss-guides/"
       ],
-      "note": "Location-specific HP and rune evidence in Eldenpedia and Tarnished.app indexed variant; RankedBoost concurs. Family stance and negations supported by Tarnished.app. Exact regulation unverified."
+      "note": "Location-specific HP and rune evidence in Eldenpedia and Tarnished.app indexed variant; RankedBoost concurs. Family stance and negations supported by Tarnished.app. Exact regulation unverified.",
+      "evidenceStrength": "legacy-unclassified"
     },
     {
       "id": "er:b-blackknife-shade",
@@ -869,7 +916,8 @@
         "https://eldenring.fandom.com/wiki/Cemetery_Shade",
         "https://eldenring.wiki.gg/wiki/Black_Knife_Catacombs"
       ],
-      "note": "Eldenpedia location-specific table and Tarnished.app full solo table agree HP/runes/negations; Fandom mirrors location values. Exact regulation unverified."
+      "note": "Eldenpedia location-specific table and Tarnished.app full solo table agree HP/runes/negations; Fandom mirrors location values. Exact regulation unverified.",
+      "evidenceStrength": "legacy-unclassified"
     },
     {
       "id": "er:b-caelid-shade",
@@ -893,7 +941,8 @@
         "https://tarnished.app/enemies/cemetery-shade",
         "https://www.neoseeker.com/elden-ring/Bosses/Cemetery_Shade"
       ],
-      "note": "Indexed Eldenpedia and Fandom tables give matching location HP/runes; these wikis may share lineage, so independent HP reproduction remains pending. Tarnished.app family stance and damage table corroborate general combat properties. Exact regulation unverified."
+      "note": "Indexed Eldenpedia and Fandom tables give matching location HP/runes; these wikis may share lineage, so independent HP reproduction remains pending. Tarnished.app family stance and damage table corroborate general combat properties. Exact regulation unverified.",
+      "evidenceStrength": "limited-corroboration"
     },
     {
       "id": "er:b-deathtouched-assassin",
@@ -918,7 +967,8 @@
         "https://eldenringpoisewiki.fun/",
         "https://www.gamerguides.com/elden-ring/guide/limgrave/bosses/how-to-beat-beastman-of-farum-azula-in-groveside-cave/"
       ],
-      "note": "Indexed wiki and variant-specific Tarnished.app agree maximum HP and reward; independent poise index identifies Limgrave boss stance. Starts wounded; do not use full HP as damage required. Exact regulation unverified."
+      "note": "Indexed wiki and variant-specific Tarnished.app agree maximum HP and reward; independent poise index identifies Limgrave boss stance. Starts wounded; do not use full HP as damage required. Exact regulation unverified.",
+      "evidenceStrength": "legacy-unclassified"
     },
     {
       "id": "er:b-blackknife-assassin",
@@ -943,7 +993,8 @@
         "https://eldenringpoisewiki.fun/",
         "https://eldenring.wiki.gg/wiki/Black_Knife_Catacombs"
       ],
-      "note": "Indexed location-specific wiki tables agree HP and runes but may share lineage; independent HP reproduction pending. Family stance corroborated by Tarnished.app and Poise Wiki. Exact regulation unverified."
+      "note": "Indexed location-specific wiki tables agree HP and runes but may share lineage; independent HP reproduction pending. Family stance corroborated by Tarnished.app and Poise Wiki. Exact regulation unverified.",
+      "evidenceStrength": "limited-corroboration"
     },
     {
       "id": "er:b-sages-assassin",
@@ -958,7 +1009,8 @@
         "https://eldenringpoisewiki.fun/",
         "https://www.neoseeker.com/elden-ring/Bosses/Black_Knife_Assassins"
       ],
-      "note": "Indexed Fandom location table reports 3929 HP and 9000 reward; Eldenpedia family index and independent encounter guide support distinct identity; second independent location-specific numerical table remains pending. Family stance supported by two sources. Exact regulation unverified."
+      "note": "Indexed Fandom location table reports 3929 HP and 9000 reward; Eldenpedia family index and independent encounter guide support distinct identity; second independent location-specific numerical table remains pending. Family stance supported by two sources. Exact regulation unverified.",
+      "evidenceStrength": "limited-corroboration"
     },
     {
       "id": "er:b-morne-scaly",
@@ -973,7 +1025,8 @@
         "https://eldenringpoisewiki.fun/",
         "https://www.gamerguides.com/elden-ring/database/bosses/weeping-peninsula-bosses/scaly-misbegotten"
       ],
-      "note": "Location-specific Eldenpedia, RankedBoost and indexed Lore Armory agree HP; Lore Armory and Poise Wiki agree stance. Gamer Guides confirms reward. Exact regulation unverified."
+      "note": "Location-specific Eldenpedia, RankedBoost and indexed Lore Armory agree HP; Lore Armory and Poise Wiki agree stance. Gamer Guides confirms reward. Exact regulation unverified.",
+      "evidenceStrength": "legacy-unclassified"
     },
     {
       "id": "er:b-weeping-zamor",
@@ -987,7 +1040,145 @@
         "https://lorearmory.com/eldenring/bosses/",
         "https://www.neoseeker.com/elden-ring/Bosses/Ancient_Hero_of_Zamor"
       ],
-      "note": "Indexed Fandom and Tarnished.app location-specific tables agree HP and runes; family stance supported by Tarnished.app and Lore Armory. Exact regulation unverified."
+      "note": "Indexed Fandom and Tarnished.app location-specific tables agree HP and runes; family stance supported by Tarnished.app and Lore Armory. Exact regulation unverified.",
+      "evidenceStrength": "legacy-unclassified"
+    },
+    {
+      "id": "er:b-lakeside-bloodhound",
+      "scope": "Lakeside Crystal Cave solo NG; not Darriwil or roaming knights",
+      "health": 1985,
+      "stance": 65,
+      "runes": 3600,
+      "negations": {
+        "standard": 10,
+        "strike": 10,
+        "slash": 10,
+        "pierce": 0,
+        "magic": 0,
+        "fire": 0,
+        "lightning": -20,
+        "holy": 0
+      },
+      "evidenceStrength": "matching-publications",
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Bloodhound_Knight",
+        "https://lorearmory.com/eldenring/bosses/",
+        "https://www.gamerguides.com/elden-ring/database/bosses/liurnia-of-the-lakes-bosses/bloodhound-knight"
+      ],
+      "note": "Indexed location-specific wiki and Lore Armory agree HP; latter reports stance. Full Gamer Guides confirms reward. Wiki full page blocked. Source lineage and exact regulation not independently reproduced."
+    },
+    {
+      "id": "er:b-gilika",
+      "scope": "Lux Ruins cellar, Altus Plateau, solo NG",
+      "health": 3284,
+      "stance": 80,
+      "runes": 8500,
+      "evidenceStrength": "matching-publications",
+      "sources": [
+        "https://tarnished.app/enemies/demi-human-queen-gilika",
+        "https://exputer.com/guides/elden-ring-lux-ruins/",
+        "https://wiki.eso-ui.com/index.php/Elden_Ring%3ADemi-Human_Queen_Gilika",
+        "https://eldenringpoisewiki.fun/"
+      ],
+      "note": "Indexed Tarnished.app and original eXputer guide agree HP; Poise Wiki reports 80, with separate unscaled base HP 1222; ESO-UI corroborates runes. Exact regulation not reproduced."
+    },
+    {
+      "id": "er:b-forlorn-crusader",
+      "scope": "Cave of the Forlorn solo NG; excludes Stone Coffin Fissure spirit",
+      "health": 9130,
+      "stance": 80,
+      "runes": 93000,
+      "negations": {
+        "standard": 10,
+        "slash": 0,
+        "strike": 10,
+        "pierce": 10,
+        "magic": 20,
+        "fire": 0,
+        "lightning": 20,
+        "holy": 40
+      },
+      "evidenceStrength": "matching-publications",
+      "sources": [
+        "https://tarnished.app/enemies/misbegotten-crusader",
+        "https://eldenring.wiki.gg/wiki/Misbegotten_Warrior",
+        "https://lorearmory.com/eldenring/bosses/"
+      ],
+      "note": "Full Tarnished.app table and indexed location-specific wiki agree HP/runes; Lore Armory agrees HP/stance. Data lineage and exact regulation not independently reproduced."
+    },
+    {
+      "id": "er:b-summonwater-mariner",
+      "scope": "Summonwater Village solo NG; excludes later mariners",
+      "health": 3176,
+      "stance": 80,
+      "runes": 2400,
+      "negations": {
+        "standard": 10,
+        "strike": -40,
+        "slash": 10,
+        "pierce": 35,
+        "magic": 20,
+        "fire": 20,
+        "lightning": 40,
+        "holy": -40
+      },
+      "evidenceStrength": "matching-publications",
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Tibia_Mariner",
+        "https://almanauts.com/eldenring/ng-plus/",
+        "https://www.gamerguides.com/elden-ring/database/bosses/limgrave-bosses/tibia-mariner-summonwater-village",
+        "https://wiki.eso-ui.com/index.php/Elden_Ring%3ATibia_Mariner"
+      ],
+      "note": "Indexed location table and Almanauts exact location scaling row agree HP. Wiki reports stance and negations; Gamer Guides confirms reward. Full wiki blocked; source lineage and exact regulation not reproduced."
+    },
+    {
+      "id": "er:b-liurnia-mariner",
+      "scope": "Eastern Liurnia graveyard near Carian Study Hall, solo NG",
+      "health": 5155,
+      "stance": 80,
+      "runes": 4700,
+      "negations": {
+        "standard": 10,
+        "strike": -40,
+        "slash": 10,
+        "pierce": 35,
+        "magic": 20,
+        "fire": 20,
+        "lightning": 40,
+        "holy": -40
+      },
+      "evidenceStrength": "limited-corroboration",
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Tibia_Mariner",
+        "https://wiki.eso-ui.com/index.php/Elden_Ring%3ATibia_Mariner",
+        "https://tarnished.app/enemies/tibia-mariner"
+      ],
+      "note": "One indexed location-specific numerical table supplies HP/stance; ESO-UI corroborates reward and general critical immunity, not HP. Default Tarnished.app table is Wyndham, not this variant. Independent numerical reproduction pending."
+    },
+    {
+      "id": "er:b-wyndham-mariner",
+      "scope": "Wyndham Ruins solo NG, not other mariners",
+      "health": 7911,
+      "stance": 80,
+      "runes": 14000,
+      "negations": {
+        "standard": 10,
+        "strike": -40,
+        "slash": 10,
+        "pierce": 35,
+        "magic": 20,
+        "fire": 20,
+        "lightning": 40,
+        "holy": -40
+      },
+      "evidenceStrength": "matching-publications",
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Tibia_Mariner",
+        "https://tarnished.app/enemies/tibia-mariner",
+        "https://www.gamerguides.com/elden-ring/database/bosses/altus-plateau-bosses/tibia-mariner-wyndham-ruins",
+        "https://wiki.eso-ui.com/index.php/Elden_Ring%3ATibia_Mariner"
+      ],
+      "note": "Full Tarnished.app table matches indexed Wyndham-specific wiki HP, stance, runes and negations. Exact regulation and independence of extraction not reproduced."
     }
   ],
   "limitations": [

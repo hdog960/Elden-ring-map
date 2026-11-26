@@ -16,5 +16,6 @@ export function combatResearch(data,id,{releaseReady=false}={}){
  const types=["standard","slash","strike","pierce","magic","fire","lightning","holy"];
  const negations=types.filter(k=>Number.isFinite(r.negations?.[k])).map(k=>[k,r.negations[k]+"%"]);
  const phases=(Array.isArray(r.phaseResearch)?r.phaseResearch:[]).filter(p=>typeof p.phase==="string"&&positive(p.health)&&positive(p.stance)).map(p=>({name:p.phase,health:p.health.toLocaleString("en-US"),stance:String(p.stance)}));
- return {scope:r.scope,note:r.note,fields,negations,phases,sources:[...new Set(r.sources.filter(x=>typeof x==="string"&&x.startsWith("https://")))]};
+ const evidenceLabel=conflict?"Conflicting reported health":({"matching-publications":"Matching published values; independence not established","limited-corroboration":"Limited numerical corroboration","legacy-unclassified":"Published research; evidence strength not yet audited"}[r.evidenceStrength]??"Published research; evidence strength not yet audited");
+ return {scope:r.scope,note:r.note,evidenceLabel,fields,negations,phases,sources:[...new Set(r.sources.filter(x=>typeof x==="string"&&x.startsWith("https://")))]};
 }

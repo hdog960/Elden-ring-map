@@ -152,7 +152,11 @@
         "https://eldenring.wiki.gg/wiki/Patches",
         "https://eldenring.exputer.com/quests/patches-s-quest",
         "https://www.pcgamer.com/elden-ring-patches-chest-boss/",
-        "https://tarnished.app/enemies/patches"
+        "https://tarnished.app/enemies/patches",
+        "https://www.neoseeker.com/elden-ring/NPCs/Patches",
+        "https://eldenring.exputer.com/locations/murkwater-cave",
+        "https://vaultgg.app/guides/patches",
+        "https://wiki.eso-ui.com/index.php/Elden_Ring%3APatches"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -162,7 +166,8 @@
         "statusThresholds": null
       },
       "unresolved": [
-        "Final encounter flag and current version reward details pending; subsequent quest return/surrender is not automatically a separate boss ID."
+        "Final encounter flag and current version reward details pending; subsequent quest return/surrender is not automatically a separate boss ID.",
+        "Published rune rewards differ (400 versus 800); surrender versus death reward distinction not independently resolved."
       ]
     },
     {
@@ -546,12 +551,16 @@
       "directions": "Enter the flooded village from the western approach.",
       "conditions": "Optional field boss.",
       "combat": "Summons skeletons, teleports and raises the boat before slamming it.",
-      "strategy": "Prioritize the mariner rather than every skeleton; ride around the village when it relocates. Leave space for the raised boat to fall.",
-      "rewards": "Deathroot; Skeletal Militiaman Ashes.",
+      "strategy": "Prioritize the mariner rather than every skeleton; ride around the village when it relocates. Leave space for the raised boat to fall. Holy and strike damage are favored; a stance break only briefly stuns the mariner, without a critical opening.",
+      "rewards": "Deathroot; Skeletal Militiaman Ashes; 2,400 runes (reported NG).",
       "preparation": "Level 15–25; Torrent useful.",
       "sources": [
         "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
-        "https://eldenring.redmaw.dev/sheets/bosses"
+        "https://eldenring.redmaw.dev/sheets/bosses",
+        "https://eldenring.wiki.gg/wiki/Tibia_Mariner",
+        "https://almanauts.com/eldenring/ng-plus/",
+        "https://www.gamerguides.com/elden-ring/database/bosses/limgrave-bosses/tibia-mariner-summonwater-village",
+        "https://wiki.eso-ui.com/index.php/Elden_Ring%3ATibia_Mariner"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -561,8 +570,7 @@
         "statusThresholds": null
       },
       "unresolved": [
-        "Exact NG numerical combat data and rune reward require independent patch-specific verification.",
-        "Confirm grace, entrance, summon and critical eligibility before publication."
+        "Exact regulation and calibrated map position remain unqualified. Numerical evidence is separate from final guide admission."
       ]
     },
     {
@@ -1362,15 +1370,18 @@
       "id": "er:b-lakeside-bloodhound",
       "grace": "Lakeside Crystal Cave",
       "directions": "Enter the cave on the southern lake cliffs and descend past crystal ledges.",
-      "conditions": "Optional; exit leads toward Latenna.",
+      "conditions": "Optional dungeon; the exit leads to the Slumbering Wolf's Shack and Latenna. No academy access requirement.",
       "combat": "Sudden sword chains and claw lunges.",
-      "strategy": "Wait for the final swing rather than attacking while it vanishes. Keep casts and counters short.",
-      "rewards": "Cerulean Amber Medallion.",
+      "strategy": "Wait for the final swing rather than attacking while it vanishes. Keep casts and counters short. Lightning damage is favored by the reported table; the jumping slam offers a short punish window.",
+      "rewards": "Cerulean Amber Medallion; 3,600 runes (reported NG).",
       "preparation": "Level 35–50.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/guide/liurnia-of-the-lakes/bosses/",
         "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
-        "https://plarium.com/en/blog/elden-ring-boss-locations/"
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://eldenring.wiki.gg/wiki/Bloodhound_Knight",
+        "https://lorearmory.com/eldenring/bosses/",
+        "https://www.gamerguides.com/elden-ring/database/bosses/liurnia-of-the-lakes-bosses/bloodhound-knight"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -1380,8 +1391,7 @@
         "statusThresholds": null
       },
       "unresolved": [
-        "Verify exact current-patch NG statistics, rune rewards and source-specific details per encounter.",
-        "Confirm nearest grace, entrance route, summon and critical eligibility."
+        "Exact regulation and calibrated map position remain unqualified. Numerical evidence is separate from final guide admission."
       ]
     },
     {
@@ -1835,13 +1845,16 @@
       "directions": "Travel down toward the flooded ruins southeast of the shack.",
       "conditions": "Optional field encounter.",
       "combat": "Boat slams, skeleton summons and teleportation.",
-      "strategy": "Prioritize the mariner over skeletons; circle hazards and punish when the boat settles.",
-      "rewards": "Deathroot; Skeletal Bandit Ashes.",
+      "strategy": "Prioritize the mariner over skeletons; circle hazards and punish when the boat settles. Holy and strike damage are favored; a stance break only briefly stuns the mariner, without a critical opening.",
+      "rewards": "Deathroot; Skeletal Bandit Ashes; 4,700 runes (reported NG).",
       "preparation": "Level 30–45; Torrent useful.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/guide/liurnia-of-the-lakes/bosses/",
         "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
-        "https://plarium.com/en/blog/elden-ring-boss-locations/"
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://eldenring.wiki.gg/wiki/Tibia_Mariner",
+        "https://wiki.eso-ui.com/index.php/Elden_Ring%3ATibia_Mariner",
+        "https://tarnished.app/enemies/tibia-mariner"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -1851,8 +1864,8 @@
         "statusThresholds": null
       },
       "unresolved": [
-        "Verify exact current-patch NG statistics, rune rewards and source-specific details per encounter.",
-        "Confirm nearest grace, entrance route, summon and critical eligibility."
+        "Exact regulation and calibrated map position remain unqualified. Numerical evidence is separate from final guide admission.",
+        "Independent location-specific HP corroboration remains pending."
       ]
     },
     {
@@ -2751,17 +2764,21 @@
     },
     {
       "id": "er:b-gilika",
-      "grace": "Lux Ruins",
+      "grace": "Altus Plateau",
       "directions": "Find the cellar stairs in the upper ruins above the southwestern Altus approach.",
       "conditions": "Optional cellar.",
       "combat": "Heavy staff slams, lunges and bites.",
-      "strategy": "Keep clear of her frontal reach and punish the staff's recovery from the side. Do not overcommit as she rises to strike.",
-      "rewards": "Ritual Sword Talisman in chest behind boss.",
+      "strategy": "Keep clear of her frontal reach and punish the staff's recovery from the side. Do not overcommit as she rises to strike. Fire and slash are favored; stance breaks allow a critical hit.",
+      "rewards": "8,500 runes (reported NG); Ritual Sword Talisman is separate chest loot beyond the boss.",
       "preparation": "Level 50–65.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/database/bosses/altus-plateau-bosses",
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
-        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+        "https://tarnished.app/enemies/demi-human-queen-gilika",
+        "https://exputer.com/guides/elden-ring-lux-ruins/",
+        "https://wiki.eso-ui.com/index.php/Elden_Ring%3ADemi-Human_Queen_Gilika",
+        "https://eldenringpoisewiki.fun/"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -2771,8 +2788,7 @@
         "statusThresholds": null
       },
       "unresolved": [
-        "Confirm exact current-patch numerical combat statistics and reward values.",
-        "Verify grace, access route and combat eligibility against individual encounter sources."
+        "Exact regulation and calibrated map position remain unqualified. Numerical evidence is separate from final guide admission."
       ]
     },
     {
@@ -3022,13 +3038,17 @@
       "directions": "Approach the flooded ruins north of Erdtree-Gazing Hill.",
       "conditions": "Optional field boss.",
       "combat": "Teleporting boat, skeletal summons and giant skeleton attacks.",
-      "strategy": "Ride around the large skeleton's attack area and focus on the mariner itself. Reacquire the boss when it relocates.",
-      "rewards": "Deathroot; Tibia's Summons.",
+      "strategy": "Ride around the large skeleton's attack area and focus on the mariner itself. Reacquire the boss when it relocates. Holy and strike damage are favored; a stance break only briefly stuns the mariner, without a critical opening.",
+      "rewards": "Deathroot; Tibia's Summons; 14,000 runes (reported NG).",
       "preparation": "Level 50–70; Torrent.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/database/bosses/altus-plateau-bosses",
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
-        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+        "https://eldenring.wiki.gg/wiki/Tibia_Mariner",
+        "https://tarnished.app/enemies/tibia-mariner",
+        "https://www.gamerguides.com/elden-ring/database/bosses/altus-plateau-bosses/tibia-mariner-wyndham-ruins",
+        "https://wiki.eso-ui.com/index.php/Elden_Ring%3ATibia_Mariner"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -3038,8 +3058,7 @@
         "statusThresholds": null
       },
       "unresolved": [
-        "Confirm exact current-patch numerical combat statistics and reward values.",
-        "Verify grace, access route and combat eligibility against individual encounter sources."
+        "Exact regulation and calibrated map position remain unqualified. Numerical evidence is separate from final guide admission."
       ]
     },
     {
@@ -4152,13 +4171,16 @@
       "directions": "Enter the sealed cave along the frozen river with Stonesword Keys and traverse the icy rooms.",
       "conditions": "Optional dungeon.",
       "combat": "Greatsword swings, leaping strikes and golden projectiles.",
-      "strategy": "Dodge on the committed swing, close from the side after the golden wave, and use fast stance-breaking attacks if safe.",
-      "rewards": "Golden Order Greatsword.",
+      "strategy": "Dodge on the committed swing, close from the side after the golden wave, and use fast stance-breaking attacks if safe. Slash and fire have lower reported negation than holy; successful parries and stance breaks can enable critical attacks.",
+      "rewards": "Golden Order Greatsword; 93,000 runes (reported NG).",
       "preparation": "Level 100–125.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/guide/consecrated-snowfields/",
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
-        "https://eldenring.redmaw.dev/sheets/bosses"
+        "https://eldenring.redmaw.dev/sheets/bosses",
+        "https://tarnished.app/enemies/misbegotten-crusader",
+        "https://eldenring.wiki.gg/wiki/Misbegotten_Warrior",
+        "https://lorearmory.com/eldenring/bosses/"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -4168,8 +4190,7 @@
         "statusThresholds": null
       },
       "unresolved": [
-        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
-        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+        "Exact regulation and calibrated map position remain unqualified. Numerical evidence is separate from final guide admission."
       ]
     },
     {
@@ -5528,14 +5549,16 @@
       "conditions": "Unique mariner without ordinary boss bar; exact ledge pending.",
       "combat": "Skeleton summons and boat attacks.",
       "strategy": "Prioritize the mariner, dodge the boat slam and reposition before giant skeleton attacks reach you.",
-      "rewards": "Deathroot; Helphen's Steeple.",
+      "rewards": "Deathroot; Helphen's Steeple; 4,234 runes (reported).",
       "preparation": "Level 90–120.",
       "sources": [
         "https://www.reddit.com/r/Eldenring/comments/u7r3gs/all_bosses_checklist_updated_and_correct_165/",
         "https://game-checklists.com/elden-ring/all-bosses/",
         "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
         "https://eldenring.wiki.gg/wiki/Tibia_Mariner",
-        "https://www.gamerguides.com/elden-ring/guide/mountaintops-of-the-giants/bosses"
+        "https://www.gamerguides.com/elden-ring/guide/mountaintops-of-the-giants/bosses",
+        "https://wiki.eso-ui.com/index.php/Elden_Ring%3ATibia_Mariner",
+        "https://tarnished.app/enemies/tibia-mariner"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -5545,7 +5568,7 @@
         "statusThresholds": null
       },
       "unresolved": [
-        "Source labels vary between boss and elite; no conventional boss bar reported. Exact ledge, defeat flag, rune amount and current stats pending."
+        "Exact defeat flag, independently calibrated marker and variant-specific stance remain unqualified. Published HP is noted in the source, not promoted as complete numerical research."
       ]
     },
     {
@@ -5903,11 +5926,11 @@
     {
       "id": "er:d-charo-mariner",
       "grace": "Charo's Hidden Grave",
-      "directions": "From the Grand Altar of Dragon Communion, travel west-southwest into Charo's Hidden Grave and follow the river toward the mariner.",
-      "conditions": "Unique optional non-boss-bar enemy; tracked in the extended hunt, not the primary boss count.",
+      "directions": "From Charo's Hidden Grave grace travel east to the water and follow its channel south; pursue the mariner when it retreats upstream.",
+      "conditions": "Optional extended encounter; published sources disagree on boss-bar classification, so preserve the existing tracking ID and classification pending direct evidence.",
       "combat": "Boat slams and skeleton summons.",
       "strategy": "Avoid lingering among skeletons; pursue the mariner when it relocates, and attack after boat slams.",
-      "rewards": "Tibia's Cookbook. Exact rune reward remains to be checked.",
+      "rewards": "Tibia's Cookbook; 9,959 runes (reported).",
       "preparation": "Moderate blessing.",
       "sources": [
         "https://www.neoseeker.com/elden-ring-shadow-of-the-erdtree/Optional_Bosses/Tibia_Mariner",
@@ -5916,7 +5939,9 @@
         "https://www.polygon.com/elden-ring-shadow-erdtree-guide/24180254/all-dlc-boss-locations-bosses-in-order",
         "https://eldenring.wiki.gg/wiki/Tibia_Mariner",
         "https://eldenring.wiki.gg/wiki/Tibia%27s_Cookbook",
-        "https://eldenring.wiki.gg/wiki/Charo%27s_Hidden_Grave"
+        "https://eldenring.wiki.gg/wiki/Charo%27s_Hidden_Grave",
+        "https://wiki.eso-ui.com/index.php/Elden_Ring%3ATibia_Mariner",
+        "https://tarnished.app/enemies/tibia-mariner"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -5926,8 +5951,7 @@
         "statusThresholds": null
       },
       "unresolved": [
-        "Independent sources corroborate the non-boss-bar classification and cookbook reward; exact marker and rune reward still pending.",
-        "Combat stats, summon/parry eligibility and exact geography not yet verified."
+        "Exact defeat flag, independently calibrated marker and variant-specific stance remain unqualified. Published HP is noted in the source, not promoted as complete numerical research."
       ]
     },
     {

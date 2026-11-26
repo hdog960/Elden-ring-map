@@ -71,3 +71,6 @@ Two Siofra Aqueduct knights provisionally added; Hornshield and Somber Stone [6]
 
 ## Session 30
 Eight scoped published combat research records added: three Cemetery Shades, three Black Knife Assassins, Morne Scaly Misbegotten, Weeping Zamor. Nine guides refined; wounded Deathtouched maximum HP separated from starting HP, paired Coastal Cave HP semantics unresolved. Wiki lineage and missing independent numeric reproduction explicitly noted for Caelid Shade, Black Knife chapel and Sage's Cave. No new IDs, 291 total, 54 research records. No geography admission.
+
+## Session 31
+Six scoped records and nine guide refinements. Evidence strength explicitly labeled; 51 older records remain unaudited for lineage, three older limited records labeled. Six new records are matching-publications or limited-corroboration; no claim of independent reproduction. Nineteen published defeat flag identity witnesses recorded, no runtime flag integration. No new IDs or geography.
