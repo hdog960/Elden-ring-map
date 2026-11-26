@@ -31,6 +31,14 @@
     {
       "url": "https://tarnishedsaga.com/tools/elden-ring-map/",
       "finding": "Author describes original map based on game coordinates; no reuse grant established."
+    },
+    {
+      "url": "https://github.com/Hapfel1/er-save-manager",
+      "finding": "Concrete 207-key vanilla boss_locations.json, blob f42d28191a57f3a66fc3a949bb975bc09ea38675. Current LICENSE since 2026-07-22 explicitly forbids redistribution/use in another project absent written permission. boss_locations.py documents fallback tile centers for some roaming bosses. Rejected for publication; no rows imported."
+    },
+    {
+      "url": "https://github.com/CreateDDy/EldenRing_MapInteractive",
+      "finding": "MIT root license and DATA files present; upstream provenance of map art and positions not established. No rows imported."
     }
   ]
 }

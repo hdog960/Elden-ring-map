@@ -376,6 +376,781 @@
         "Exact NG health, stance and damage/status tables require version-specific independent verification.",
         "Full summon/parry/critical eligibility and exact entrance calibration require review."
       ]
+    },
+    {
+      "id": "er:b-groveside-beastman",
+      "grace": "Groveside Cave",
+      "directions": "Enter the cave north of Church of Elleh; follow the wolf chamber to the fog.",
+      "conditions": "Optional cave.",
+      "combat": "Fast curved-sword swings, leaps and a prolonged combo.",
+      "strategy": "Keep enough stamina to evade the last slash, then counter. Use quick spells after his leap instead of casting through his advance.",
+      "rewards": "Flamedrake Talisman.",
+      "preparation": "Early weapon upgrade; level 10–20.",
+      "sources": [
+        "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
+        "https://eldenring.redmaw.dev/sheets/bosses"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact NG numerical combat data and rune reward require independent patch-specific verification.",
+        "Confirm grace, entrance, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:b-stormfoot-watchdog",
+      "grace": "Stormfoot Catacombs",
+      "directions": "Enter the cliffside catacombs west of the Church of Elleh; operate the lever and return to the locked boss door.",
+      "conditions": "Optional dungeon.",
+      "combat": "Stiff sword swings, floating plunges and fire breath.",
+      "strategy": "Move out of the plunge zone and punish the landing; do not attack until the next floating motion is clear. Strike from its side during breath.",
+      "rewards": "Noble Sorcerer Ashes.",
+      "preparation": "Level 10–20; a shield or quick weapon helps.",
+      "sources": [
+        "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
+        "https://gamefaqs.gamespot.com/ps5/323053-elden-ring/faqs/80028/dungeon-bosses"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact NG numerical combat data and rune reward require independent patch-specific verification.",
+        "Confirm grace, entrance, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:b-fringefolk-spirit",
+      "grace": "Stranded Graveyard",
+      "directions": "Open the imp seal by the starting grace with two Stonesword Keys; descend past the chariot and poison corridor.",
+      "conditions": "Optional dangerous early dungeon; return later if necessary.",
+      "combat": "Coiling body, lunge, sweeping tail and a charged explosion.",
+      "strategy": "Watch the head and shoulders rather than the tail alone. Retreat from its glowing charge; punish the end of the lunge. Keep casts short when it is moving.",
+      "rewards": "Banished Knight Oleg; Golden Seed.",
+      "preparation": "Level 30–45; vigor and fire damage are useful.",
+      "sources": [
+        "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
+        "https://gamefaqs.gamespot.com/ps5/323053-elden-ring/faqs/80028/dungeon-bosses"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact NG numerical combat data and rune reward require independent patch-specific verification.",
+        "Confirm grace, entrance, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:b-waypoint-pumpkin",
+      "grace": "Waypoint Ruins Cellar",
+      "directions": "Find the stairs among the poisonous flowers in the ruins east of Agheel Lake; the boss is before Sellen's room.",
+      "conditions": "Optional; opens access to Sellen.",
+      "combat": "Flail swings and head slams; helmet protects its head.",
+      "strategy": "Attack the exposed body from the flank. Dodge the head slam before committing and avoid striking the helmet with projectiles.",
+      "rewards": "Access to Sorceress Sellen; runes.",
+      "preparation": "Level 10–20; modest upgrade.",
+      "sources": [
+        "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
+        "https://eldenring.redmaw.dev/sheets/bosses"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact NG numerical combat data and rune reward require independent patch-specific verification.",
+        "Confirm grace, entrance, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:b-agheel-cavalry",
+      "grace": "Agheel Lake North",
+      "directions": "Approach the road bridge east of the grace at night.",
+      "conditions": "Night only; independent from all other cavalry.",
+      "combat": "Mounted sweeping attacks and charges; can fight on foot after losing mount.",
+      "strategy": "Avoid standing directly in the horse's path. Attack its flank after a sweep; a ranged build can circle and cast in short windows.",
+      "rewards": "Ash of War: Repeating Thrust.",
+      "preparation": "Level 20–35; medium equip load.",
+      "sources": [
+        "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
+        "https://eldenring.redmaw.dev/sheets/bosses"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact NG numerical combat data and rune reward require independent patch-specific verification.",
+        "Confirm grace, entrance, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:b-summonwater-mariner",
+      "grace": "Summonwater Village Outskirts",
+      "directions": "Enter the flooded village from the western approach.",
+      "conditions": "Optional field boss.",
+      "combat": "Summons skeletons, teleports and raises the boat before slamming it.",
+      "strategy": "Prioritize the mariner rather than every skeleton; ride around the village when it relocates. Leave space for the raised boat to fall.",
+      "rewards": "Deathroot; Skeletal Militiaman Ashes.",
+      "preparation": "Level 15–25; Torrent useful.",
+      "sources": [
+        "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
+        "https://eldenring.redmaw.dev/sheets/bosses"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact NG numerical combat data and rune reward require independent patch-specific verification.",
+        "Confirm grace, entrance, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:b-stormhill-crucible",
+      "grace": "Stormhill Shack",
+      "directions": "Travel southwest to the Stormhill Evergaol and activate the circle.",
+      "conditions": "Optional evergaol; no ordinary Spirit Ashes.",
+      "combat": "Shield defense, sword chains, later tail and wing attacks.",
+      "strategy": "Do not heal while standing close. Bait the sword chain, then punish once; practiced parries can create critical openings. Watch for a tail follow-up even after a sword recovery.",
+      "rewards": "Aspects of the Crucible: Tail.",
+      "preparation": "Level 30–45; strong physical defense.",
+      "sources": [
+        "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
+        "https://eldenring.redmaw.dev/sheets/bosses"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact NG numerical combat data and rune reward require independent patch-specific verification.",
+        "Confirm grace, entrance, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:b-warmaster-hunter",
+      "grace": "Warmaster's Shack",
+      "directions": "Set time to night and reload the area by resting or returning; approach once Bernahl is absent.",
+      "conditions": "Night only; distinct hunter encounter.",
+      "combat": "Telekinetic sword extends reach well beyond the body; shield bash and grab.",
+      "strategy": "Fight close enough to read the sword hand or stay well outside its extended reach. Dodge late and punish a grounded recovery; don't heal at medium range.",
+      "rewards": "Bone Peddler's Bell Bearing.",
+      "preparation": "Level 35–50; physical defense.",
+      "sources": [
+        "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
+        "https://eldenring.redmaw.dev/sheets/bosses"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact NG numerical combat data and rune reward require independent patch-specific verification.",
+        "Confirm grace, entrance, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:b-stormhill-deathbird",
+      "grace": "Warmaster's Shack",
+      "directions": "At night ride east toward the ruins and rocky hillside.",
+      "conditions": "Night only; not a Death Rite Bird.",
+      "combat": "Pecking, cane swings, leaps and screams.",
+      "strategy": "Aim for the head when it lowers; avoid getting trapped under its body during the next swing. Holy damage is particularly useful against undead.",
+      "rewards": "Blue-Feathered Branchsword.",
+      "preparation": "Level 25–40; holy damage option.",
+      "sources": [
+        "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
+        "https://eldenring.redmaw.dev/sheets/bosses"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact NG numerical combat data and rune reward require independent patch-specific verification.",
+        "Confirm grace, entrance, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:b-deathtouched-assassin",
+      "grace": "Deathtouched Catacombs",
+      "directions": "Enter north Stormhill catacombs, find the lever, then return to the sealed door.",
+      "conditions": "Optional dungeon; encounter starts wounded.",
+      "combat": "Quick knife cuts, evasive movement and grabs.",
+      "strategy": "Use a fast weapon and punish a committed slash. Do not chase blindly when it retreats; summons can divide its attention.",
+      "rewards": "Assassin's Crimson Dagger.",
+      "preparation": "Level 15–25; Deathroot in a separate chest, not boss drop.",
+      "sources": [
+        "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
+        "https://gamefaqs.gamespot.com/ps5/323053-elden-ring/faqs/80028/dungeon-bosses"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact NG numerical combat data and rune reward require independent patch-specific verification.",
+        "Confirm grace, entrance, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:b-highroad-golem",
+      "grace": "Highroad Cave",
+      "directions": "Enter the northern end of the Limgrave ravine, then descend through the cave's waterfall platforms.",
+      "conditions": "Optional dungeon; platforming route.",
+      "combat": "Slow halberd swings, stomps and long wind-ups.",
+      "strategy": "Strike its ankles to cause a fall, then attack the exposed torso. Avoid standing between its feet during a stomp.",
+      "rewards": "Blue Dancer Charm.",
+      "preparation": "Level 20–30; strike weapon useful.",
+      "sources": [
+        "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
+        "https://gamefaqs.gamespot.com/ps5/323053-elden-ring/faqs/80028/dungeon-bosses"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact NG numerical combat data and rune reward require independent patch-specific verification.",
+        "Confirm grace, entrance, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:b-morne-leonine",
+      "grace": "Beside the Rampart Gaol",
+      "directions": "Descend Castle Morne's rear ramparts toward the beach and enter the shoreline arena.",
+      "conditions": "Optional legacy dungeon; Irina/Edgar quest connection.",
+      "combat": "Fast greatsword chains, leaping slashes and claw strikes.",
+      "strategy": "Use short counters after the leap; a shield or summon can reduce pressure. Do not trade through consecutive swings.",
+      "rewards": "Grafted Blade Greatsword.",
+      "preparation": "Level 20–35; upgrade main weapon.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/guide/weeping-peninsula/bosses/",
+        "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact NG numerical combat data and rune reward require independent patch-specific verification.",
+        "Confirm grace, entrance, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:b-weeping-zamor",
+      "grace": "Fourth Church of Marika",
+      "directions": "Reach the Weeping Evergaol and spend a Stonesword Key at the seal.",
+      "conditions": "Optional evergaol.",
+      "combat": "Curved blade spins, frost breath and later frost-infused movement.",
+      "strategy": "Run around the frost breath cone and punish from the side. Watch for the final spinning slash; avoid building frostbite through repeated trades.",
+      "rewards": "Radagon's Scarseal.",
+      "preparation": "Level 25–40; frost resistance if needed.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/guide/weeping-peninsula/bosses/",
+        "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact NG numerical combat data and rune reward require independent patch-specific verification.",
+        "Confirm grace, entrance, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:b-tombsward-shade",
+      "grace": "Tombsward Catacombs",
+      "directions": "Enter below the Minor Erdtree hillside, open the boss door using the dungeon lever.",
+      "conditions": "Optional dungeon.",
+      "combat": "Teleporting shade with rapid blade attacks and a binding projectile.",
+      "strategy": "Stay mobile when the green projectile appears; attack during its recovery. Fast attacks can interrupt the fragile shade; keep light for visibility.",
+      "rewards": "Lhutel the Headless.",
+      "preparation": "Level 20–30; bleed resistance useful.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/guide/weeping-peninsula/bosses/",
+        "https://gamefaqs.gamespot.com/ps5/323053-elden-ring/faqs/80028/dungeon-bosses"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact NG numerical combat data and rune reward require independent patch-specific verification.",
+        "Confirm grace, entrance, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:b-tombsward-miranda",
+      "grace": "Tombsward Cave",
+      "directions": "Enter the cave on the peninsula's western side and cross the poison-filled passages.",
+      "conditions": "Optional dungeon; poison en route.",
+      "combat": "Poison clouds and light pillars from above.",
+      "strategy": "Keep fire attacks available, step away when clouds collect and move laterally from the light pattern. Use brief melee bursts instead of standing in the poison.",
+      "rewards": "Viridian Amber Medallion.",
+      "preparation": "Level 15–30; poison cures.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/guide/weeping-peninsula/bosses/",
+        "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact NG numerical combat data and rune reward require independent patch-specific verification.",
+        "Confirm grace, entrance, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:b-weeping-deathbird",
+      "grace": "Castle Morne Rampart",
+      "directions": "At night search the rocky slope west of the road near the rampart.",
+      "conditions": "Night only; separate from Limgrave bird.",
+      "combat": "Long cane swings, pecks and hopping attacks.",
+      "strategy": "Use holy damage if available; do not stay behind the head when it twists. Strike after the cane settles, or use ranged attacks while circling.",
+      "rewards": "Sacrificial Axe.",
+      "preparation": "Level 25–35; night travel on Torrent.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/guide/weeping-peninsula/bosses/",
+        "https://eldenring.redmaw.dev/sheets/bosses"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact NG numerical combat data and rune reward require independent patch-specific verification.",
+        "Confirm grace, entrance, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:b-weeping-avatar",
+      "grace": "Tombsward",
+      "directions": "Travel east toward the Minor Erdtree and approach its base.",
+      "conditions": "Optional field encounter.",
+      "combat": "Staff slams, sweeping arcs, light projectiles and ground impacts.",
+      "strategy": "Move laterally from the light barrage and close after the last projectile. Fire attacks can be effective; avoid attacking during the staff's downward wind-up.",
+      "rewards": "Opaline Bubbletear; Crimsonburst Crystal Tear.",
+      "preparation": "Level 20–35; fire damage.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/guide/weeping-peninsula/bosses/",
+        "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact NG numerical combat data and rune reward require independent patch-specific verification.",
+        "Confirm grace, entrance, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:b-impaler-watchdog",
+      "grace": "Impaler's Catacombs",
+      "directions": "Enter the cliffside catacombs in northeastern Weeping Peninsula and activate the door lever.",
+      "conditions": "Optional dungeon; imps accompany the boss.",
+      "combat": "Watchdog plunges and sword arcs while imps attack from several directions.",
+      "strategy": "Remove the imps before focusing on the watchdog. Bait a plunge away from the pack; step in briefly after it lands.",
+      "rewards": "Demi-Human Ashes.",
+      "preparation": "Level 20–30; a shield and sweeping weapon help.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/guide/weeping-peninsula/bosses/",
+        "https://gamefaqs.gamespot.com/ps5/323053-elden-ring/faqs/80028/dungeon-bosses"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact NG numerical combat data and rune reward require independent patch-specific verification.",
+        "Confirm grace, entrance, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:b-morne-cavalry",
+      "grace": "Castle Morne Rampart",
+      "directions": "Return to the rampart road at night and approach the mounted patrol.",
+      "conditions": "Night only.",
+      "combat": "Mounted flail sweeps, charge and dismounted attacks.",
+      "strategy": "Let the rider pass before striking its exposed side. Keep distance from the flail's arc and don't chase a retreat into another charge.",
+      "rewards": "Ash of War: Barricade Shield; Nightrider Flail.",
+      "preparation": "Level 20–35.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/guide/weeping-peninsula/bosses/",
+        "https://eldenring.redmaw.dev/sheets/bosses"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact NG numerical combat data and rune reward require independent patch-specific verification.",
+        "Confirm grace, entrance, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:b-earthbore-runebear",
+      "grace": "Earthbore Cave",
+      "directions": "Find the cave in the northern peninsula cliffs and descend to its lower chamber.",
+      "conditions": "Optional dungeon.",
+      "combat": "Short charge, claw strings, hug grab and lunges.",
+      "strategy": "Stay near the flank but leave when it begins the grab. Do not roll away repeatedly into the bear's pursuit; use its committed movement to pass beside it.",
+      "rewards": "Spelldrake Talisman.",
+      "preparation": "Level 25–40; strong vigor.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/guide/weeping-peninsula/bosses/",
+        "https://gamefaqs.gamespot.com/ps5/323053-elden-ring/faqs/80028/dungeon-bosses"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact NG numerical combat data and rune reward require independent patch-specific verification.",
+        "Confirm grace, entrance, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:b-morne-scaly",
+      "grace": "Morne Tunnel",
+      "directions": "Enter the mining tunnel in the ravine below the plateau; descend to the final chamber.",
+      "conditions": "Optional dungeon.",
+      "combat": "Heavy axe sweeps, jumping slams and broad combos.",
+      "strategy": "Wait through the wind-up, roll into the committed swing and counter from the side. Avoid trading with the axe if using a slow weapon.",
+      "rewards": "Rusted Anchor.",
+      "preparation": "Level 20–30; upgraded weapon.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/guide/weeping-peninsula/bosses/",
+        "https://gamefaqs.gamespot.com/ps5/323053-elden-ring/faqs/80028/dungeon-bosses"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact NG numerical combat data and rune reward require independent patch-specific verification.",
+        "Confirm grace, entrance, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:d-rakshasa",
+      "grace": "Recluses' River Downstream",
+      "directions": "Follow the lower canyon toward Eastern Nameless Mausoleum; use the lower level, not the road above.",
+      "conditions": "Optional mausoleum; no ordinary Spirit Ashes.",
+      "combat": "Great katana sweeps, repeated Weed Cutter attacks and aggressive trades.",
+      "strategy": "Do not trade into the sweeping skill. Bait its full sequence, then punish the recovery; a fast projectile or thrust can exploit distance.",
+      "rewards": "Rakshasa's Great Katana; Rakshasa armor set.",
+      "preparation": "Level 130–160; improve blessing if trades are lethal.",
+      "sources": [
+        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+        "https://eldenring.redmaw.dev/sheets/dlc-walkthrough"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact NG numerical combat data and rune reward require independent patch-specific verification.",
+        "Confirm grace, entrance, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:d-ranah",
+      "grace": "Cerulean Coast West",
+      "directions": "Find the shore cave passage to the offshore island containing Southern Nameless Mausoleum.",
+      "conditions": "Optional mausoleum; solo fight.",
+      "combat": "Rapid dancing curved-sword sequences and a fire attack.",
+      "strategy": "Keep distance until the dance finishes, then punish with a heavy or fast ranged hit. Interrupt healing when safe; avoid prolonged melee trades.",
+      "rewards": "Dancing Blade of Ranah; Dancer's set.",
+      "preparation": "Level 120–150; upgraded weapon.",
+      "sources": [
+        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+        "https://eldenring.redmaw.dev/sheets/dlc-walkthrough"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact NG numerical combat data and rune reward require independent patch-specific verification.",
+        "Confirm grace, entrance, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:d-redbear",
+      "grace": "Rauh Base",
+      "directions": "Use the nearby unlocked spiritspring to reach the Northern Nameless Mausoleum on the raised plateau.",
+      "conditions": "Optional mausoleum; no ordinary Spirit Ashes.",
+      "combat": "Claw rushes, close-range swipes and roar.",
+      "strategy": "Avoid the initial rush; punish the end of the claw string with a quick stagger-capable hit. Casters should use short attacks and maintain an escape angle.",
+      "rewards": "Red Bear's Claw; Fang Helm; Iron Rivet set.",
+      "preparation": "Level 130–150; physical protection.",
+      "sources": [
+        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+        "https://eldenring.redmaw.dev/sheets/dlc-walkthrough"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact NG numerical combat data and rune reward require independent patch-specific verification.",
+        "Confirm grace, entrance, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:d-gaius",
+      "grace": "Shadow Keep, Back Gate",
+      "directions": "Reach Back Gate via the upper Storehouse and descend to the open field.",
+      "conditions": "Optional remembrance boss; requires Back Gate route.",
+      "combat": "Mounted boar charges, lance strikes and gravity attacks.",
+      "strategy": "Time the charge dodge late and move across its path rather than retreating. Punish the boar's recovery and disengage before gravity eruptions.",
+      "rewards": "Remembrance of the Wild Boar Rider.",
+      "preparation": "Level 140–170; high Scadutree Blessing.",
+      "sources": [
+        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+        "https://eldenring.redmaw.dev/sheets/dlc-walkthrough"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact NG numerical combat data and rune reward require independent patch-specific verification.",
+        "Confirm grace, entrance, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:d-avatar",
+      "grace": "Tree-Worship Sanctum",
+      "directions": "Drain Shadow Keep's Church District, descend via Tree-Worship Passage and enter Scadutree Base.",
+      "conditions": "Optional remembrance; three consecutive health bars, one encounter.",
+      "combat": "Thorns, charging sunflower head and large light explosions in later stages.",
+      "strategy": "Aim at the exposed sunflower head rather than the stem. Use fire if available; take the critical opportunity at the end of a stage and keep stamina for later explosions.",
+      "rewards": "Remembrance of the Shadow Sunflower; Miquella's Great Rune.",
+      "preparation": "Level 140–170; high blessing and fire damage.",
+      "sources": [
+        "https://www.windowscentral.com/gaming/elden-ring-dlc-scadutree-avatar-location-and-how-to-beat-in-shadow-of-the-erdtree",
+        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact NG numerical combat data and rune reward require independent patch-specific verification.",
+        "Confirm grace, entrance, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:d-ralva",
+      "grace": "Highroad Cross",
+      "directions": "Travel northeast toward the pond in Scadu Altus.",
+      "conditions": "Optional field boss; distinct from Rugalea and Red Bear.",
+      "combat": "Large bear swipes, rushes and earth-shaking roar attacks.",
+      "strategy": "Stay to the side of the bear and dodge through the rush. Watch for the roar's area before committing; use quick casts after the bear settles.",
+      "rewards": "Pelt of Ralva.",
+      "preparation": "Level 130–150; moderate blessing.",
+      "sources": [
+        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+        "https://eldenring.redmaw.dev/sheets/dlc-walkthrough"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact NG numerical combat data and rune reward require independent patch-specific verification.",
+        "Confirm grace, entrance, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:d-hippo",
+      "grace": "Shadow Keep Main Gate",
+      "directions": "Enter Shadow Keep from the southern gate and approach the courtyard.",
+      "conditions": "Legacy boss; can be bypassed by alternative access routes.",
+      "combat": "Wide mouth grab, lunges and golden quill attacks.",
+      "strategy": "Dodge sideways as the mouth closes rather than backing away. Use the side of its body for brief attacks, and leave room when its quills emerge.",
+      "rewards": "Aspects of the Crucible: Thorns; two Scadutree Fragments.",
+      "preparation": "Level 130–160; moderate blessing.",
+      "sources": [
+        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact NG numerical combat data and rune reward require independent patch-specific verification.",
+        "Confirm grace, entrance, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:d-messmer",
+      "grace": "Dark Chamber Entrance",
+      "directions": "Ascend the Specimen Storehouse and reach the fog at the Dark Chamber.",
+      "conditions": "Main progression boss for burning the sealing tree; quest summon availability varies.",
+      "combat": "Fast spear and flame combos followed by giant serpent manifestations.",
+      "strategy": "Delay rolls for the thrust follow-ups and leave flame patches. In the second phase, evade the serpent's committed attacks and hit Messmer after he reappears; use short casts.",
+      "rewards": "Remembrance of the Impaler; Messmer's Kindling.",
+      "preparation": "Level 140–170; high blessing and fire defense.",
+      "sources": [
+        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact NG numerical combat data and rune reward require independent patch-specific verification.",
+        "Confirm grace, entrance, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:d-romina",
+      "grace": "Church of the Bud, Main Entrance",
+      "directions": "Traverse Ancient Ruins of Rauh and reach the church at the end of the upper route.",
+      "conditions": "Main progression fight before burning the sealing tree.",
+      "combat": "Centipede and scorpion sweeps, airborne spinning attacks and rot butterflies.",
+      "strategy": "Avoid the moving ends of her long body, then strike the central torso after a committed sweep. Leave butterfly clusters before they explode and carry rot remedies.",
+      "rewards": "Remembrance of the Saint of the Bud.",
+      "preparation": "Level 140–170; high blessing, rot cures.",
+      "sources": [
+        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact NG numerical combat data and rune reward require independent patch-specific verification.",
+        "Confirm grace, entrance, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:d-bayle",
+      "grace": "Jagged Peak Summit",
+      "directions": "Follow the mountain route past its drakes and Senessax to the summit grace.",
+      "conditions": "Optional superboss; Igon summon depends on his quest.",
+      "combat": "Lightning and fire breath, limb slams and later airborne bombardment.",
+      "strategy": "Focus the head when it drops after a committed slam. Sprint laterally from the long breath patterns; avoid overcommitting to the injured leg when the camera obscures the next attack.",
+      "rewards": "Heart of Bayle.",
+      "preparation": "Level 150–180; high blessing and dragon-related equipment if suitable.",
+      "sources": [
+        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-igon-questline-walkthrough/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact NG numerical combat data and rune reward require independent patch-specific verification.",
+        "Confirm grace, entrance, summon and critical eligibility before publication."
+      ]
     }
   ]
 }

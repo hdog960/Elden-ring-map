@@ -18,3 +18,13 @@ jobs:
           node-version: '22'
       - run: npm test
       - run: node --check src/app.js && node --check src/storage.js
+  webkit-smoke:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm install --no-save --package-lock=false playwright@1.56.1
+      - run: npx playwright install --with-deps webkit
+      - run: node scripts/browser-smoke.mjs

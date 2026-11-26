@@ -6,3 +6,6 @@ Geography: see docs/GEOGRAPHY.md and data/geography/ledger.json. No imported art
 
 ## Session 4
 Added five Manor contracts and Ghiza as extended candidates, preserving all 240 IDs. 246 total candidates: 165 base primary, 42 DLC primary, 39 extended. The two-person Vargram/Wilhelm contract is one simultaneous challenge. Quest conditions and Rykard cutoff documented conservatively; exact post-Rykard behavior needs review. No primary count change or final completeness claim. Fifteen encyclopedia drafts researched; numerical combat tables intentionally null; reward conflicts on early dungeon bosses flagged. Source references per draft. Wiki full pages returned 403 for some requests; indexed search excerpts and other guides used. No unsupported source independence claim.
+
+## Session 5
+All 246 intake IDs unchanged. Added 31 original guide drafts (46 total). Identity, location and reward names cross-referenced against regional walkthrough/checklist sources; tactics authored independently from known mechanics, not copied. Numerical combat tables remain unspecified, rune values omitted from this batch pending direct patch-specific checks. All remain drafts, no completeness claim.
