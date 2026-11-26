@@ -77,3 +77,6 @@ Six scoped records and nine guide refinements. Evidence strength explicitly labe
 
 ## Session 32
 48 additional location-specific published defeat-flag witnesses, 67 total; ten source-section guide refinements. No census admission, no new IDs, no geography or numerical research additions. See docs/SESSION32_GUIDE_AUDIT.md.
+
+## Session 33
+27 DLC encounter reward rows audited with source-section locators; 24 reported figures (one existing), three unresolved discrepancies; separate Ghostflame variants and retain paired-drake semantics. No final admission or ID changes.

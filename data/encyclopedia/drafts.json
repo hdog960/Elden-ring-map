@@ -396,11 +396,13 @@
       "conditions": "Optional DLC field encounter; distinct from two other Ghostflame Dragons.",
       "combat": "Bites, stomps, airborne movement and ghostflame area attacks.",
       "strategy": "Leave ground covered in ghostflame; move in after the breath finishes. Aim for head openings, and use short casts when it is stationary. Mounted repositioning can help if the fight spreads across the lake.",
-      "rewards": "Dragon Heart; Somber Ancient Dragon Smithing Stone; 100,000 runes.",
+      "rewards": "Dragon Heart; Somber Ancient Dragon Smithing Stone; 100,000 runes (reported NG).",
       "preparation": "Suggested level 120–150 and early blessing levels; bring a fully upgraded main weapon.",
       "sources": [
         "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
-        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/"
+        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+        "https://eldenring.redmaw.dev/sheets/dlc-walkthrough",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -411,7 +413,8 @@
       },
       "unresolved": [
         "Exact NG health, stance and damage/status tables require version-specific independent verification.",
-        "Full summon/parry/critical eligibility and exact entrance calibration require review."
+        "Full summon/parry/critical eligibility and exact entrance calibration require review.",
+        "Session 33 reward review: Location/encounter-specific published reward reports agree; independence and exact patch not established."
       ]
     },
     {
@@ -987,11 +990,13 @@
       "conditions": "Optional mausoleum; no ordinary Spirit Ashes.",
       "combat": "Great katana sweeps, repeated Weed Cutter attacks and aggressive trades.",
       "strategy": "Do not trade into the sweeping skill. Bait its full sequence, then punish the recovery; a fast projectile or thrust can exploit distance.",
-      "rewards": "Rakshasa's Great Katana; Rakshasa armor set.",
+      "rewards": "Rakshasa's Great Katana; Rakshasa armor set; 90,000 runes (reported NG).",
       "preparation": "Level 130–160; improve blessing if trades are lethal.",
       "sources": [
         "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
-        "https://eldenring.redmaw.dev/sheets/dlc-walkthrough"
+        "https://eldenring.redmaw.dev/sheets/dlc-walkthrough",
+        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -1002,7 +1007,8 @@
       },
       "unresolved": [
         "Exact NG numerical combat data and rune reward require independent patch-specific verification.",
-        "Confirm grace, entrance, summon and critical eligibility before publication."
+        "Confirm grace, entrance, summon and critical eligibility before publication.",
+        "Session 33 reward review: Location/encounter-specific published reward reports agree; independence and exact patch not established."
       ]
     },
     {
@@ -1012,11 +1018,12 @@
       "conditions": "Optional mausoleum; solo fight.",
       "combat": "Rapid dancing curved-sword sequences and a fire attack.",
       "strategy": "Keep distance until the dance finishes, then punish with a heavy or fast ranged hit. Interrupt healing when safe; avoid prolonged melee trades.",
-      "rewards": "Dancing Blade of Ranah; Dancer's set.",
+      "rewards": "Dancing Blade of Ranah; Dancer's set; 80,000 runes (reported NG).",
       "preparation": "Level 120–150; upgraded weapon.",
       "sources": [
         "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
-        "https://eldenring.redmaw.dev/sheets/dlc-walkthrough"
+        "https://eldenring.redmaw.dev/sheets/dlc-walkthrough",
+        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -1027,7 +1034,8 @@
       },
       "unresolved": [
         "Exact NG numerical combat data and rune reward require independent patch-specific verification.",
-        "Confirm grace, entrance, summon and critical eligibility before publication."
+        "Confirm grace, entrance, summon and critical eligibility before publication.",
+        "Session 33 reward review: Location/encounter-specific published reward reports agree; independence and exact patch not established."
       ]
     },
     {
@@ -1037,11 +1045,14 @@
       "conditions": "Optional mausoleum; no ordinary Spirit Ashes.",
       "combat": "Claw rushes, close-range swipes and roar.",
       "strategy": "Avoid the initial rush; punish the end of the claw string with a quick stagger-capable hit. Casters should use short attacks and maintain an escape angle.",
-      "rewards": "Red Bear's Claw; Fang Helm; Iron Rivet set.",
+      "rewards": "Red Bear's Claw; Fang Helm; Iron Rivet set; 80,000 runes (reported NG).",
       "preparation": "Level 130–150; physical protection.",
       "sources": [
         "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
-        "https://eldenring.redmaw.dev/sheets/dlc-walkthrough"
+        "https://eldenring.redmaw.dev/sheets/dlc-walkthrough",
+        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+        "https://www.gamerguides.com/elden-ring-shadow-of-the-erdtree/database/bosses/enemy/"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -1052,7 +1063,8 @@
       },
       "unresolved": [
         "Exact NG numerical combat data and rune reward require independent patch-specific verification.",
-        "Confirm grace, entrance, summon and critical eligibility before publication."
+        "Confirm grace, entrance, summon and critical eligibility before publication.",
+        "Session 33 reward review: Location/encounter-specific published reward reports agree; independence and exact patch not established."
       ]
     },
     {
@@ -1116,10 +1128,38 @@
       "conditions": "Optional field boss; distinct from Rugalea and Red Bear.",
       "combat": "Large bear swipes, rushes and earth-shaking roar attacks.",
       "strategy": "Stay to the side of the bear and dodge through the rush. Watch for the roar's area before committing; use quick casts after the bear settles.",
-      "rewards": "Pelt of Ralva.",
+      "rewards": "Pelt of Ralva; 180,000 runes (reported NG).",
       "preparation": "Level 130–150; moderate blessing.",
       "sources": [
         "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+        "https://eldenring.redmaw.dev/sheets/dlc-walkthrough",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact NG numerical combat data and rune reward require independent patch-specific verification.",
+        "Confirm grace, entrance, summon and critical eligibility before publication.",
+        "Session 33 reward review: Location/encounter-specific published reward reports agree; independence and exact patch not established."
+      ]
+    },
+    {
+      "id": "er:d-hippo",
+      "grace": "Shadow Keep Main Gate",
+      "directions": "Enter Shadow Keep from the southern gate and approach the courtyard.",
+      "conditions": "Legacy boss; can be bypassed by alternative access routes.",
+      "combat": "Wide mouth grab, lunges and golden quill attacks.",
+      "strategy": "Dodge sideways as the mouth closes rather than backing away. Use the side of its body for brief attacks, and leave room when its quills emerge.",
+      "rewards": "Aspects of the Crucible: Thorns; two Scadutree Fragments; 200,000 runes (reported NG).",
+      "preparation": "Level 130–160; moderate blessing.",
+      "sources": [
+        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
         "https://eldenring.redmaw.dev/sheets/dlc-walkthrough"
       ],
       "review": "draft-researched",
@@ -1131,32 +1171,8 @@
       },
       "unresolved": [
         "Exact NG numerical combat data and rune reward require independent patch-specific verification.",
-        "Confirm grace, entrance, summon and critical eligibility before publication."
-      ]
-    },
-    {
-      "id": "er:d-hippo",
-      "grace": "Shadow Keep Main Gate",
-      "directions": "Enter Shadow Keep from the southern gate and approach the courtyard.",
-      "conditions": "Legacy boss; can be bypassed by alternative access routes.",
-      "combat": "Wide mouth grab, lunges and golden quill attacks.",
-      "strategy": "Dodge sideways as the mouth closes rather than backing away. Use the side of its body for brief attacks, and leave room when its quills emerge.",
-      "rewards": "Aspects of the Crucible: Thorns; two Scadutree Fragments.",
-      "preparation": "Level 130–160; moderate blessing.",
-      "sources": [
-        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
-        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/"
-      ],
-      "review": "draft-researched",
-      "numericStats": {
-        "health": null,
-        "stance": null,
-        "negations": null,
-        "statusThresholds": null
-      },
-      "unresolved": [
-        "Exact NG numerical combat data and rune reward require independent patch-specific verification.",
-        "Confirm grace, entrance, summon and critical eligibility before publication."
+        "Confirm grace, entrance, summon and critical eligibility before publication.",
+        "Session 33 reward review: Location/encounter-specific published reward reports agree; independence and exact patch not established."
       ]
     },
     {
@@ -1166,11 +1182,12 @@
       "conditions": "Main progression boss for burning the sealing tree; quest summon availability varies.",
       "combat": "Fast spear and flame combos followed by giant serpent manifestations.",
       "strategy": "Delay rolls for the thrust follow-ups and leave flame patches. In the second phase, evade the serpent's committed attacks and hit Messmer after he reappears; use short casts.",
-      "rewards": "Remembrance of the Impaler; Messmer's Kindling.",
+      "rewards": "Remembrance of the Impaler; Messmer's Kindling; 400,000 runes (reported NG).",
       "preparation": "Level 140–170; high blessing and fire defense.",
       "sources": [
         "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
-        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/"
+        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -1181,7 +1198,8 @@
       },
       "unresolved": [
         "Exact NG numerical combat data and rune reward require independent patch-specific verification.",
-        "Confirm grace, entrance, summon and critical eligibility before publication."
+        "Confirm grace, entrance, summon and critical eligibility before publication.",
+        "Session 33 reward review: Location/encounter-specific published reward reports agree; independence and exact patch not established."
       ]
     },
     {
@@ -1191,11 +1209,12 @@
       "conditions": "Main progression fight before burning the sealing tree.",
       "combat": "Centipede and scorpion sweeps, airborne spinning attacks and rot butterflies.",
       "strategy": "Avoid the moving ends of her long body, then strike the central torso after a committed sweep. Leave butterfly clusters before they explode and carry rot remedies.",
-      "rewards": "Remembrance of the Saint of the Bud.",
+      "rewards": "Remembrance of the Saint of the Bud; 380,000 runes (reported NG).",
       "preparation": "Level 140–170; high blessing, rot cures.",
       "sources": [
         "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
-        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/"
+        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -1206,7 +1225,8 @@
       },
       "unresolved": [
         "Exact NG numerical combat data and rune reward require independent patch-specific verification.",
-        "Confirm grace, entrance, summon and critical eligibility before publication."
+        "Confirm grace, entrance, summon and critical eligibility before publication.",
+        "Session 33 reward review: Location/encounter-specific published reward reports agree; independence and exact patch not established."
       ]
     },
     {
@@ -1216,11 +1236,13 @@
       "conditions": "Optional superboss; Igon summon depends on his quest.",
       "combat": "Lightning and fire breath, limb slams and later airborne bombardment.",
       "strategy": "Focus the head when it drops after a committed slam. Sprint laterally from the long breath patterns; avoid overcommitting to the injured leg when the camera obscures the next attack.",
-      "rewards": "Heart of Bayle.",
+      "rewards": "Heart of Bayle; 490,000 runes (reported NG).",
       "preparation": "Level 150–180; high blessing and dragon-related equipment if suitable.",
       "sources": [
         "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
-        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-igon-questline-walkthrough/"
+        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-igon-questline-walkthrough/",
+        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -1231,7 +1253,8 @@
       },
       "unresolved": [
         "Exact NG numerical combat data and rune reward require independent patch-specific verification.",
-        "Confirm grace, entrance, summon and critical eligibility before publication."
+        "Confirm grace, entrance, summon and critical eligibility before publication.",
+        "Session 33 reward review: Location/encounter-specific published reward reports agree; independence and exact patch not established."
       ]
     },
     {
@@ -4864,12 +4887,14 @@
       "conditions": "Optional DLC cave.",
       "combat": "Club swings, lunges and blood-related attacks.",
       "strategy": "Dodge the heavy club on release; stay at its side and use short punish windows after leaps. Avoid lingering in blood effects.",
-      "rewards": "Bloodfiend Hexer's Ashes.",
+      "rewards": "Bloodfiend Hexer's Ashes; 80,000 runes (reported NG).",
       "preparation": "Level 120–150; early blessing.",
       "sources": [
         "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
         "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
-        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/"
+        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/",
+        "https://www.gamerguides.com/elden-ring-shadow-of-the-erdtree/database/bosses/enemy/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -4880,7 +4905,8 @@
       },
       "unresolved": [
         "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
-        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+        "Verify nearest grace, precise route, summon and critical eligibility before publication.",
+        "Session 33 reward review: Location/encounter-specific published reward reports agree; independence and exact patch not established."
       ]
     },
     {
@@ -4890,12 +4916,14 @@
       "conditions": "Separate from the invasion at the approach.",
       "combat": "Great katana attacks and dragon-themed lunges.",
       "strategy": "Dodge across the committed katana swing and punish the landing. Avoid trading with its ranged skill and use fast casts when it recovers.",
-      "rewards": "Dragon-Hunter's Great Katana.",
+      "rewards": "Dragon-Hunter's Great Katana; 130,000 runes (reported NG).",
       "preparation": "Level 120–150.",
       "sources": [
         "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
         "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
-        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/"
+        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/",
+        "https://www.gamerguides.com/elden-ring-shadow-of-the-erdtree/database/bosses/enemy/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -4906,7 +4934,8 @@
       },
       "unresolved": [
         "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
-        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+        "Verify nearest grace, precise route, summon and critical eligibility before publication.",
+        "Session 33 reward review: Location/encounter-specific published reward reports agree; independence and exact patch not established."
       ]
     },
     {
@@ -4916,12 +4945,15 @@
       "conditions": "Optional field encounter.",
       "combat": "Heavy weapon swings, shield and tongue-like Crucible attack.",
       "strategy": "Bait a committed shield or hammer attack; roll to the side and punish briefly. Keep space when it starts the tongue attack.",
-      "rewards": "Black Steel Greatshield.",
+      "rewards": "Black Steel Greatshield; 80,000 runes (reported NG).",
       "preparation": "Level 130–155.",
       "sources": [
         "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
         "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
-        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/"
+        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/",
+        "https://eldenring.redmaw.dev/sheets/dlc-walkthrough",
+        "https://www.gamerguides.com/elden-ring-shadow-of-the-erdtree/database/bosses/enemy/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -4932,7 +4964,8 @@
       },
       "unresolved": [
         "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
-        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+        "Verify nearest grace, precise route, summon and critical eligibility before publication.",
+        "Session 33 reward review: Location/encounter-specific published reward reports agree; independence and exact patch not established."
       ]
     },
     {
@@ -4947,7 +4980,10 @@
       "sources": [
         "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
         "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
-        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/"
+        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/",
+        "https://www.gamerguides.com/elden-ring-shadow-of-the-erdtree/database/bosses/enemy/",
+        "https://eldenring.redmaw.dev/sheets/dlc-walkthrough",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -4958,7 +4994,8 @@
       },
       "unresolved": [
         "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
-        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+        "Verify nearest grace, precise route, summon and critical eligibility before publication.",
+        "Session 33 reward review: Reported reward conflict 4446 versus 80000; no exact regulation or reason for discrepancy established."
       ]
     },
     {
@@ -4968,12 +5005,14 @@
       "conditions": "Optional; separate from Gravesite Plain and Coast dragons.",
       "combat": "Ghostflame breath, stomps and airborne movement.",
       "strategy": "Let surrounding soldiers distract it while establishing space. Avoid flame trails and target the head during grounded recovery; use holy damage if effective.",
-      "rewards": "Dragon Heart; Somber Ancient Dragon Smithing Stone.",
+      "rewards": "Dragon Heart; Somber Ancient Dragon Smithing Stone; 120,000 runes (reported NG).",
       "preparation": "Level 130–160; moderate blessing.",
       "sources": [
         "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
         "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
-        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/"
+        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/",
+        "https://eldenring.redmaw.dev/sheets/dlc-walkthrough",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -4984,7 +5023,8 @@
       },
       "unresolved": [
         "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
-        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+        "Verify nearest grace, precise route, summon and critical eligibility before publication.",
+        "Session 33 reward review: Location-specific reports agree on 120000; grouped source gives 100000, not valid for this variant."
       ]
     },
     {
@@ -5020,12 +5060,13 @@
       "conditions": "Optional dungeon.",
       "combat": "Fast circling blade attacks and darkness obscuring vision.",
       "strategy": "Keep the boss targeted and watch its silhouette when darkness spreads. Use a short punish after the extended blade rush rather than chasing its sidesteps.",
-      "rewards": "Curseblade Meera Ashes.",
+      "rewards": "Curseblade Meera Ashes; 100,000 runes (reported NG).",
       "preparation": "Level 130–155.",
       "sources": [
         "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
         "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
-        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/"
+        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/",
+        "https://www.gamerguides.com/elden-ring-shadow-of-the-erdtree/database/bosses/enemy/"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -5036,7 +5077,8 @@
       },
       "unresolved": [
         "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
-        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+        "Verify nearest grace, precise route, summon and critical eligibility before publication.",
+        "Session 33 reward review: Location/encounter-specific published reward reports agree; independence and exact patch not established."
       ]
     },
     {
@@ -5080,7 +5122,9 @@
       "sources": [
         "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
         "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
-        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/"
+        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/",
+        "https://www.gamerguides.com/elden-ring-shadow-of-the-erdtree/database/bosses/enemy/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -5091,7 +5135,8 @@
       },
       "unresolved": [
         "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
-        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+        "Verify nearest grace, precise route, summon and critical eligibility before publication.",
+        "Session 33 reward review: Reported reward conflict 0 versus 210000; no single rune value selected."
       ]
     },
     {
@@ -5157,12 +5202,14 @@
       "conditions": "Optional field boss.",
       "combat": "Horn charges, gravity effects and broad sweeps.",
       "strategy": "Move perpendicular to the charge and avoid the gravity eruption zone; attack the head after it stops. Keep a clear escape route from the crater edge.",
-      "rewards": "Gravitational Missile sorcery.",
+      "rewards": "Gravitational Missile sorcery; 170,000 runes (reported NG).",
       "preparation": "Level 140–170.",
       "sources": [
         "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
         "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
-        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/"
+        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/",
+        "https://www.gamerguides.com/elden-ring-shadow-of-the-erdtree/database/bosses/enemy/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -5173,7 +5220,8 @@
       },
       "unresolved": [
         "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
-        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+        "Verify nearest grace, precise route, summon and critical eligibility before publication.",
+        "Session 33 reward review: Location/encounter-specific published reward reports agree; independence and exact patch not established."
       ]
     },
     {
@@ -5183,12 +5231,13 @@
       "conditions": "Required for ordinary access to Abyssal Woods.",
       "combat": "Rapid holy projectiles, teleportation and summoned inquisitors.",
       "strategy": "Use terrain to break line of sight and close on Jori after a cast. Avoid committing while large summoned enemies approach; quick attacks can interrupt its casting.",
-      "rewards": "Barbed Staff-Spear.",
+      "rewards": "Barbed Staff-Spear; 260,000 runes (reported NG).",
       "preparation": "Level 135–165; holy defense.",
       "sources": [
         "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
         "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
-        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/"
+        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -5199,7 +5248,8 @@
       },
       "unresolved": [
         "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
-        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+        "Verify nearest grace, precise route, summon and critical eligibility before publication.",
+        "Session 33 reward review: Location/encounter-specific published reward reports agree; independence and exact patch not established."
       ]
     },
     {
@@ -5238,12 +5288,13 @@
       "conditions": "Optional field encounter; smaller enemies nearby.",
       "combat": "Staff sweeps, bites and lunges.",
       "strategy": "Clear nearby demi-humans before engaging or use a summon to separate them. Punish the queen's staff recovery from the side.",
-      "rewards": "Star-Lined Sword.",
+      "rewards": "Star-Lined Sword; 100,000 runes (reported NG).",
       "preparation": "Level 125–150.",
       "sources": [
         "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
         "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
-        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/"
+        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -5254,7 +5305,8 @@
       },
       "unresolved": [
         "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
-        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+        "Verify nearest grace, precise route, summon and critical eligibility before publication.",
+        "Session 33 reward review: Location/encounter-specific published reward reports agree; independence and exact patch not established."
       ]
     },
     {
@@ -5264,12 +5316,14 @@
       "conditions": "Optional; third distinct Ghostflame encounter.",
       "combat": "Ghostflame breath, stomps and tail sweeps.",
       "strategy": "Ride sideways out of flame paths, avoid standing under a raised leg and punish the head when it lowers. Use holy damage if appropriate.",
-      "rewards": "Dragon Heart; Somber Ancient Dragon Smithing Stone.",
+      "rewards": "Dragon Heart; Somber Ancient Dragon Smithing Stone; 120,000 runes (reported NG).",
       "preparation": "Level 130–160.",
       "sources": [
         "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
         "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
-        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/"
+        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/",
+        "https://eldenring.redmaw.dev/sheets/dlc-walkthrough",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -5280,7 +5334,8 @@
       },
       "unresolved": [
         "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
-        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+        "Verify nearest grace, precise route, summon and critical eligibility before publication.",
+        "Session 33 reward review: Location-specific reports agree on 120000; grouped source gives 100000, not valid for this variant."
       ]
     },
     {
@@ -5319,12 +5374,13 @@
       "conditions": "Night requirement needs individual confirmation; distinct DLC bird.",
       "combat": "Ghostflame explosions, long weapon sweeps and aerial attacks.",
       "strategy": "Move away from persistent ghostflame, use holy damage and strike the lowered head during recovery. Keep clear of nearby field enemies.",
-      "rewards": "Ash of War: Ghostflame Call.",
+      "rewards": "Ash of War: Ghostflame Call; 230,000 runes (reported NG).",
       "preparation": "Level 130–160.",
       "sources": [
         "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
         "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
-        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/"
+        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/",
+        "https://www.gamerguides.com/elden-ring-shadow-of-the-erdtree/database/bosses/enemy/"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -5335,7 +5391,8 @@
       },
       "unresolved": [
         "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
-        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+        "Verify nearest grace, precise route, summon and critical eligibility before publication.",
+        "Session 33 reward review: Location/encounter-specific published reward reports agree; independence and exact patch not established."
       ]
     },
     {
@@ -5345,12 +5402,13 @@
       "conditions": "Optional dungeon.",
       "combat": "Duplicates of the boss and accumulating head icons leading to a lethal effect.",
       "strategy": "Eliminate clones quickly instead of ignoring them. Use wide but fast attacks when several group together; return to the real boss once the copies are gone.",
-      "rewards": "Lamenter's Mask.",
+      "rewards": "Lamenter's Mask; 160,000 runes (reported NG).",
       "preparation": "Level 130–160.",
       "sources": [
         "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
         "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
-        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/"
+        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -5361,7 +5419,8 @@
       },
       "unresolved": [
         "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
-        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+        "Verify nearest grace, precise route, summon and critical eligibility before publication.",
+        "Session 33 reward review: Location/encounter-specific published reward reports agree; independence and exact patch not established."
       ]
     },
     {
@@ -5371,12 +5430,14 @@
       "conditions": "Optional; separate from Ralva and Red Bear.",
       "combat": "Claw sweeps, rushes and powerful roar.",
       "strategy": "Dodge toward the flank as the rush commits; retreat when it begins the roar and counter after it settles.",
-      "rewards": "Roar of Rugalea incantation.",
+      "rewards": "Roar of Rugalea incantation; 210,000 runes (reported NG).",
       "preparation": "Level 140–165.",
       "sources": [
         "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
         "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
-        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/"
+        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/",
+        "https://www.gamerguides.com/elden-ring-shadow-of-the-erdtree/database/bosses/enemy/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -5387,7 +5448,8 @@
       },
       "unresolved": [
         "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
-        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+        "Verify nearest grace, precise route, summon and critical eligibility before publication.",
+        "Session 33 reward review: Location/encounter-specific published reward reports agree; independence and exact patch not established."
       ]
     },
     {
@@ -5427,12 +5489,14 @@
       "conditions": "Optional field encounter; deathblight enemies accompany later phase.",
       "combat": "Lunges, elemental attacks and deathblight mist with basilisks.",
       "strategy": "Clear basilisks promptly, avoid mist and watch the lion's head for committed lunges. Use short counters instead of chasing spins.",
-      "rewards": "Divine Beast Tornado incantation.",
+      "rewards": "Divine Beast Tornado incantation; 180,000 runes (reported NG).",
       "preparation": "Level 145–170; vitality.",
       "sources": [
         "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
         "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
-        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/"
+        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/",
+        "https://www.gamerguides.com/elden-ring-shadow-of-the-erdtree/database/bosses/enemy/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -5443,7 +5507,8 @@
       },
       "unresolved": [
         "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
-        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+        "Verify nearest grace, precise route, summon and critical eligibility before publication.",
+        "Session 33 reward review: Location/encounter-specific published reward reports agree; independence and exact patch not established."
       ]
     },
     {
@@ -5453,12 +5518,13 @@
       "conditions": "Independent from two fighting drakes farther uphill.",
       "combat": "Fire breath, bites, stomps and airborne dives.",
       "strategy": "Use Torrent to escape breath sideways; strike the head after grounded recovery. Avoid standing underneath a raised foot.",
-      "rewards": "Dragon Heart; exact additional drops pending.",
+      "rewards": "Dragon Heart; Dragonscale Flesh; 90,000 runes (reported NG).",
       "preparation": "Level 130–160.",
       "sources": [
         "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
         "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
-        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/"
+        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -5469,7 +5535,8 @@
       },
       "unresolved": [
         "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
-        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+        "Verify nearest grace, precise route, summon and critical eligibility before publication.",
+        "Session 33 reward review: Location/encounter-specific published reward reports agree; independence and exact patch not established."
       ]
     },
     {
@@ -5479,12 +5546,13 @@
       "conditions": "Paired encounter candidate; exact completion semantics pending.",
       "combat": "Two dragons exchanging breath and physical attacks.",
       "strategy": "Allow their initial fighting to reduce pressure; keep both visible and avoid crossing breath lines. Focus the surviving or exposed dragon after its attack ends.",
-      "rewards": "Dragon Heart; additional drops pending verification.",
+      "rewards": "Dragon Heart; Dragonscale Flesh; 120,000 runes (reported NG).",
       "preparation": "Level 135–165.",
       "sources": [
         "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
         "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
-        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/"
+        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -5495,7 +5563,8 @@
       },
       "unresolved": [
         "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
-        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+        "Verify nearest grace, precise route, summon and critical eligibility before publication.",
+        "Session 33 reward review: Location/encounter-specific published reward reports agree; independence and exact patch not established."
       ]
     },
     {
@@ -5536,7 +5605,8 @@
       "sources": [
         "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
         "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
-        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/"
+        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -5547,7 +5617,8 @@
       },
       "unresolved": [
         "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
-        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+        "Verify nearest grace, precise route, summon and critical eligibility before publication.",
+        "Session 33 reward review: Reported reward conflict 375000 versus 500000; exact regulation and reward scope unresolved."
       ]
     },
     {
