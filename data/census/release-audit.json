@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "status": "research-not-reconciled",
-  "version": "session38-partial-classification",
+  "version": "session39-partial-classification",
   "decisions": [
     {
       "id": "er:b-lakeside-bloodhound",
@@ -4179,101 +4179,1615 @@
         "encounterShape": "conditional"
       },
       "batch": "session38"
+    },
+    {
+      "id": "er:b-murkwater-patches",
+      "classification": "primary",
+      "rationale": "Patches — Murkwater Cave. Surrender completes initial boss fight (Enemy Felled); spare him, death not required. No flag, guide or geography admission.",
+      "evidence": [
+        {
+          "url": "https://www.gamesradar.com/elden-ring-patches-questline-walkthrough-quest/",
+          "locator": "Session 39 retrieved publication: Murkwater surrender message"
+        },
+        {
+          "url": "https://eldenring.exputer.com/quests/patches-s-quest",
+          "locator": "Session 39 retrieved publication: Spare Patches step"
+        },
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 43 (archived correspondence)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39",
+      "mappingStatus": "not-admitted"
+    },
+    {
+      "id": "er:b-stray-mimic",
+      "classification": "primary",
+      "rationale": "Stray Mimic Tear — Hidden Path to the Haligtree. Hidden Path boss distinct from Nokron; unnamed arena remains unverified. No flag, guide or geography admission.",
+      "evidence": [
+        {
+          "url": "https://www.gamerguides.com/elden-ring/guide/consecrated-snowfields/",
+          "locator": "Session 39 retrieved publication: Stray Mimic Tear section"
+        },
+        {
+          "url": "https://wiki.eso-ui.com/index.php/Elden_Ring%3AHidden_Path_to_the_Haligtree",
+          "locator": "Session 39 retrieved publication: Optional boss"
+        },
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 253 (archived correspondence)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39",
+      "mappingStatus": "not-admitted"
+    },
+    {
+      "id": "er:b-stormhill-deathbird",
+      "classification": "primary",
+      "rationale": "Deathbird — Stormhill east of Warmaster's Shack. Standard Deathbird near Warmaster; talisman distinguishes variant. No flag, guide or geography admission.",
+      "evidence": [
+        {
+          "url": "https://eldenring.wiki.gg/wiki/Deathbird",
+          "locator": "Session 39 retrieved publication: Limgrave reward"
+        },
+        {
+          "url": "https://www.neoseeker.com/elden-ring/Bosses/Deathbird",
+          "locator": "Session 39 retrieved publication: Stormhill reward"
+        },
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 70 (archived correspondence)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39",
+      "mappingStatus": "not-admitted"
+    },
+    {
+      "id": "er:b-weeping-deathbird",
+      "classification": "primary",
+      "rationale": "Deathbird — Castle Morne Rampart vicinity. Standard Deathbird with Sacrificial Axe. No flag, guide or geography admission.",
+      "evidence": [
+        {
+          "url": "https://eldenring.wiki.gg/wiki/Deathbird",
+          "locator": "Session 39 retrieved publication: Weeping Peninsula reward"
+        },
+        {
+          "url": "https://www.neoseeker.com/elden-ring/Bosses/Deathbird",
+          "locator": "Session 39 retrieved publication: Weeping Peninsula reward"
+        },
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 54 (archived correspondence)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39",
+      "mappingStatus": "not-admitted"
+    },
+    {
+      "id": "er:b-liurnia-deathbird",
+      "classification": "primary",
+      "rationale": "Deathbird — Scenic Isle vicinity. Standard Deathbird north of Scenic Isle; not Gate Town North Death Rite Bird. No flag, guide or geography admission.",
+      "evidence": [
+        {
+          "url": "https://eldenring.wiki.gg/wiki/Deathbird",
+          "locator": "Session 39 retrieved publication: Scenic Isle location"
+        },
+        {
+          "url": "https://eldenring.redmaw.dev/sheets/bosses",
+          "locator": "Session 39 retrieved publication: lines 128–129"
+        },
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 95 (archived correspondence)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39",
+      "mappingStatus": "not-admitted"
+    },
+    {
+      "id": "er:b-capital-deathbird",
+      "classification": "primary",
+      "rationale": "Deathbird — Outer Wall Battleground vicinity. East of Hermit Merchant; Twinbird Kite Shield, shared flag not proof. No flag, guide or geography admission.",
+      "evidence": [
+        {
+          "url": "https://eldenring.wiki.gg/wiki/Deathbird",
+          "locator": "Session 39 retrieved publication: Capital Outskirts reward"
+        },
+        {
+          "url": "https://www.neoseeker.com/elden-ring/Bosses/Deathbird",
+          "locator": "Session 39 retrieved publication: Capital Outskirts location"
+        },
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 195 (archived correspondence)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39",
+      "mappingStatus": "not-admitted"
+    },
+    {
+      "id": "er:b-adula",
+      "classification": "primary",
+      "rationale": "Glintstone Dragon Adula — Cathedral of Manus Celes. One final completion at Cathedral; first retreat not separate. No flag, guide or geography admission.",
+      "evidence": [
+        {
+          "url": "https://eldenring.exputer.com/locations/cathedral-of-manus-celes",
+          "locator": "Session 39 retrieved publication: Relocation and reward"
+        },
+        {
+          "url": "https://eldenring.redmaw.dev/sheets/bosses",
+          "locator": "Session 39 retrieved publication: line 182"
+        },
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 103 (archived correspondence)"
+        },
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 124 (archived correspondence)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39",
+      "mappingStatus": "not-admitted"
+    },
+    {
+      "id": "er:b-lansseax",
+      "classification": "primary",
+      "rationale": "Ancient Dragon Lansseax — Rampartside Path plateau. Final Rampartside fight; Abandoned Coffin retreat not separate. No flag, guide or geography admission.",
+      "evidence": [
+        {
+          "url": "https://eldenring.wiki.gg/wiki/Ancient_Dragon",
+          "locator": "Session 39 retrieved publication: Lansseax stages"
+        },
+        {
+          "url": "https://wiki.eso-ui.com/index.php/Elden_Ring%3AAncient_Dragon_Lansseax",
+          "locator": "Session 39 retrieved publication: Retreat and final ridge"
+        },
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 168 (archived correspondence)"
+        },
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 185 (archived correspondence)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39",
+      "mappingStatus": "not-admitted"
+    },
+    {
+      "id": "er:b-gatetown-cavalry",
+      "classification": "primary",
+      "rationale": "Night's Cavalry — Gate Town Bridge road. South Liurnia road at night; distinct from northern cavalry. No flag, guide or geography admission.",
+      "evidence": [
+        {
+          "url": "https://eldenring.redmaw.dev/sheets/bosses",
+          "locator": "Session 39 retrieved publication: line 118"
+        },
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 90 (archived correspondence)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39",
+      "mappingStatus": "not-admitted"
+    },
+    {
+      "id": "er:b-altus-cavalry",
+      "classification": "primary",
+      "rationale": "Night's Cavalry — Altus Highway Junction road. Highway Junction night encounter; shared Hunter flag not used. No flag, guide or geography admission.",
+      "evidence": [
+        {
+          "url": "https://eldenring.redmaw.dev/sheets/bosses",
+          "locator": "Session 39 retrieved publication: line 194"
+        },
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 178 (archived correspondence)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39",
+      "mappingStatus": "not-admitted"
+    },
+    {
+      "id": "er:b-gilika",
+      "classification": "primary",
+      "rationale": "Demi-Human Queen Gilika — Lux Ruins cellar. Lux Ruins Altus cellar; chest loot separate. No flag, guide or geography admission.",
+      "evidence": [
+        {
+          "url": "https://eldenring.redmaw.dev/sheets/bosses",
+          "locator": "Session 39 retrieved publication: line 188"
+        },
+        {
+          "url": "https://eldenring.wiki.gg/wiki/Demi-Human_Queen_Gilika",
+          "locator": "Session 39 retrieved publication: Altus cellar"
+        },
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 176 (archived correspondence)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39",
+      "mappingStatus": "not-admitted"
+    },
+    {
+      "id": "er:b-dominula-apostle",
+      "classification": "primary",
+      "rationale": "Godskin Apostle — Dominula, Windmill Village. Windmill Village fight distinct from Caelid tower. No flag, guide or geography admission.",
+      "evidence": [
+        {
+          "url": "https://eldenring.redmaw.dev/sheets/bosses",
+          "locator": "Session 39 retrieved publication: line 199"
+        },
+        {
+          "url": "https://eldenring.wiki.gg/wiki/Elden_Ring_Guide",
+          "locator": "Session 39 retrieved publication: Windmill Village Apostle"
+        },
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 184 (archived correspondence)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39",
+      "mappingStatus": "not-admitted"
+    },
+    {
+      "id": "er:b-elemer",
+      "classification": "primary",
+      "rationale": "Elemer of the Briar — Shaded Castle. Shaded Castle boss distinct from night Hunters. No flag, guide or geography admission.",
+      "evidence": [
+        {
+          "url": "https://eldenring.redmaw.dev/sheets/bosses",
+          "locator": "Session 39 retrieved publication: line 193"
+        },
+        {
+          "url": "https://eldenring.wiki.gg/wiki/Bell_Bearing_Hunter",
+          "locator": "Session 39 retrieved publication: Elemer and Hunter variants"
+        },
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 175 (archived correspondence)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39",
+      "mappingStatus": "not-admitted"
+    },
+    {
+      "id": "er:b-capital-hunter",
+      "classification": "primary",
+      "rationale": "Bell Bearing Hunter — Hermit Merchant's Shack. Hermit Merchant night Hunter; distinct from Deathbird and cavalry. No flag, guide or geography admission.",
+      "evidence": [
+        {
+          "url": "https://eldenring.exputer.com/characters/bell-bearing-hunter",
+          "locator": "Session 39 retrieved publication: Hermit Merchant"
+        },
+        {
+          "url": "https://www.neoseeker.com/elden-ring/Bosses/Bell_Bearing_Hunter",
+          "locator": "Session 39 retrieved publication: Capital Outskirts"
+        },
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 196 (archived correspondence)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39",
+      "mappingStatus": "not-admitted"
+    },
+    {
+      "id": "er:b-siofra-dragonkin",
+      "classification": "primary",
+      "rationale": "Dragonkin Soldier — Upper Siofra River plateau. Upper Siofra plateau via sending gate; Dragon Halberd. No flag, guide or geography admission.",
+      "evidence": [
+        {
+          "url": "https://eldenring.wiki.gg/wiki/Dragonkin_Soldier",
+          "locator": "Session 39 retrieved publication: Upper Siofra"
+        },
+        {
+          "url": "https://plarium.com/en/blog/elden-ring-boss-locations/",
+          "locator": "Session 39 retrieved publication: Siofra River Dragonkin"
+        },
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 283 (archived correspondence)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39",
+      "mappingStatus": "not-admitted"
+    },
+    {
+      "id": "er:b-siluria",
+      "classification": "primary",
+      "rationale": "Crucible Knight Siluria — Near the Nameless Eternal City. Deeproot stump guardian, separate from aqueduct knights. No flag, guide or geography admission.",
+      "evidence": [
+        {
+          "url": "https://eldenring.redmaw.dev/sheets/bosses",
+          "locator": "Session 39 retrieved publication: line 172"
+        },
+        {
+          "url": "https://eldenring.exputer.com/characters/crucible-knight-siluria",
+          "locator": "Session 39 retrieved publication: Deeproot boss"
+        },
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 312 (archived correspondence)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39",
+      "mappingStatus": "not-admitted"
+    },
+    {
+      "id": "er:d-altus-ghostflame",
+      "classification": "primary",
+      "rationale": "Ghostflame Dragon — Moorth Highway south. Soldier camp dragon in Scadu Altus distinct from coast. No flag, guide or geography admission.",
+      "evidence": [
+        {
+          "url": "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+          "locator": "Session 39 retrieved publication: Ghostflame Dragons section"
+        },
+        {
+          "url": "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/",
+          "locator": "Session 39 retrieved publication: Three regional dragons"
+        },
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 336 (archived correspondence)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39",
+      "mappingStatus": "not-admitted"
+    },
+    {
+      "id": "er:d-coast-ghostflame",
+      "classification": "primary",
+      "rationale": "Ghostflame Dragon — Cerulean Coast. Cerulean Coast dragon, distinct from Altus. No flag, guide or geography admission.",
+      "evidence": [
+        {
+          "url": "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+          "locator": "Session 39 retrieved publication: Ghostflame Dragons section"
+        },
+        {
+          "url": "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/",
+          "locator": "Session 39 retrieved publication: Three regional dragons"
+        },
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 368 (archived correspondence)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39",
+      "mappingStatus": "not-admitted"
+    },
+    {
+      "id": "er:d-dane",
+      "classification": "primary",
+      "rationale": "Dryleaf Dane — Moorth Ruins. Gesture-triggered Moorth duel, separate from Enir-Ilim. No flag, guide or geography admission.",
+      "evidence": [
+        {
+          "url": "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+          "locator": "Session 39 retrieved publication: lines 617–622"
+        },
+        {
+          "url": "https://www.gamerguides.com/elden-ring-shadow-of-the-erdtree/database/bosses/enemy/",
+          "locator": "Session 39 retrieved publication: Moorth Dane row"
+        },
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 335 (archived correspondence)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39",
+      "mappingStatus": "not-admitted"
+    },
+    {
+      "id": "er:d-ymir",
+      "classification": "primary",
+      "rationale": "Count Ymir, Mother of Fingers — Cathedral of Manus Metyr. Cathedral boss after Jolan invasion, not Metyr. No flag, guide or geography admission.",
+      "evidence": [
+        {
+          "url": "https://www.neoseeker.com/elden-ring-shadow-of-the-erdtree/NPCs/Count_Ymir",
+          "locator": "Session 39 retrieved publication: Final cathedral sequence"
+        },
+        {
+          "url": "https://eldenring.exputer.com/characters/count-ymir-mother-of-fingers",
+          "locator": "Session 39 retrieved publication: Cathedral boss"
+        },
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 340 (archived correspondence)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39",
+      "mappingStatus": "not-admitted"
+    },
+    {
+      "id": "er:d-avatar",
+      "classification": "primary",
+      "rationale": "Scadutree Avatar — Scadutree Base. One continuous three-revival fight. No flag, guide or geography admission.",
+      "evidence": [
+        {
+          "url": "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+          "locator": "Session 39 retrieved publication: lines 804–809"
+        },
+        {
+          "url": "https://vgkami.com/all-elden-ring-shadow-of-the-erdtree-bosses-and-their-locations/",
+          "locator": "Session 39 retrieved publication: Avatar phases"
+        },
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 349 (archived correspondence)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39",
+      "mappingStatus": "not-admitted"
+    },
+    {
+      "id": "er:d-hinterland-sentinel-shield",
+      "classification": "primary",
+      "rationale": "Tree Sentinel (shield) — Hinterland approach. Distinct shield opponent with individual Blessing of Marika; flag mapping unresolved. No flag, guide or geography admission.",
+      "evidence": [
+        {
+          "url": "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+          "locator": "Session 39 retrieved publication: lines 602–604"
+        },
+        {
+          "url": "https://eip.gg/elden-ring/guides/scaduview/",
+          "locator": "Session 39 retrieved publication: Two opponents and equipment"
+        },
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 350 (archived correspondence)"
+        },
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 351 (archived correspondence)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39",
+      "mappingStatus": "not-admitted"
+    },
+    {
+      "id": "er:d-hinterland-sentinel-torch",
+      "classification": "primary",
+      "rationale": "Tree Sentinel (torch) — Hinterland approach. Distinct torch opponent with individual Blessing of Marika; flag mapping unresolved. No flag, guide or geography admission.",
+      "evidence": [
+        {
+          "url": "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+          "locator": "Session 39 retrieved publication: lines 602–604"
+        },
+        {
+          "url": "https://eip.gg/elden-ring/guides/scaduview/",
+          "locator": "Session 39 retrieved publication: Two opponents and equipment"
+        },
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 350 (archived correspondence)"
+        },
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 351 (archived correspondence)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39",
+      "mappingStatus": "not-admitted"
+    },
+    {
+      "id": "er:d-rauh-lion",
+      "classification": "primary",
+      "rationale": "Divine Beast Dancing Lion — Lower Rauh temple. Second Dancing Lion in Rauh, distinct from Belurat. No flag, guide or geography admission.",
+      "evidence": [
+        {
+          "url": "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+          "locator": "Session 39 retrieved publication: line 766"
+        },
+        {
+          "url": "https://www.gamerguides.com/elden-ring-shadow-of-the-erdtree/database/bosses/enemy/",
+          "locator": "Session 39 retrieved publication: Rauh Lion row"
+        },
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 381 (archived correspondence)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39",
+      "mappingStatus": "not-admitted"
+    },
+    {
+      "id": "er:d-drake-solo",
+      "classification": "primary",
+      "rationale": "Jagged Peak Drake — Beyond Dragon's Pit Terminus. First lone drake in pool beyond Dragon's Pit. No flag, guide or geography admission.",
+      "evidence": [
+        {
+          "url": "https://eip.gg/elden-ring/guides/jagged-peak-bosses/",
+          "locator": "Session 39 retrieved publication: First solo drake"
+        },
+        {
+          "url": "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
+          "locator": "Session 39 retrieved publication: Jagged Peak Drake #1"
+        },
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 388 (archived correspondence)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39",
+      "mappingStatus": "not-admitted"
+    },
+    {
+      "id": "er:d-drake-duo",
+      "classification": "primary",
+      "rationale": "Jagged Peak Drakes — Foot of the Jagged Peak approach. Later two fighting drakes, only one has boss bar; one completion. No flag, guide or geography admission.",
+      "evidence": [
+        {
+          "url": "https://eip.gg/elden-ring/guides/jagged-peak-bosses/",
+          "locator": "Session 39 retrieved publication: Second duel and single boss health bar"
+        },
+        {
+          "url": "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
+          "locator": "Session 39 retrieved publication: Jagged Peak Drake #2 and #3"
+        },
+        {
+          "url": "https://game-checklists.com/elden-ring/all-bosses/",
+          "locator": "fetched source line 389 (archived correspondence)"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39",
+      "mappingStatus": "not-admitted"
+    },
+    {
+      "id": "er:b-inv-nerijus",
+      "classification": "extended",
+      "rationale": "Bloody Finger Nerijus — Murkwater river ravine. Scripted invasion. Scripted invasion, not conventional boss-bar encounter; exact triggers remain under review.",
+      "evidence": [
+        {
+          "url": "https://video-game-guide-walkthrough.supersoluce.com/solution/elden-ring-guide-walkthrough/summons-and-invasions/invasions/",
+          "locator": "Prior invasion inventory: Bloody Finger Nerijus / Murkwater river ravine"
+        },
+        {
+          "url": "https://www.gamerguides.com/elden-ring/database/enemies/invaders",
+          "locator": "Published NPC invader entry: Bloody Finger Nerijus / Murkwater river ravine"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39"
+    },
+    {
+      "id": "er:b-inv-anastasia-church",
+      "classification": "extended",
+      "rationale": "Anastasia, Tarnished-Eater — Smoldering Church. First independent invasion location. Scripted invasion, not conventional boss-bar encounter; exact triggers remain under review.",
+      "evidence": [
+        {
+          "url": "https://video-game-guide-walkthrough.supersoluce.com/solution/elden-ring-guide-walkthrough/summons-and-invasions/invasions/",
+          "locator": "Prior invasion inventory: Anastasia, Tarnished-Eater / Smoldering Church"
+        },
+        {
+          "url": "https://www.gamerguides.com/elden-ring/database/enemies/invaders",
+          "locator": "Published NPC invader entry: Anastasia, Tarnished-Eater / Smoldering Church"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39"
+    },
+    {
+      "id": "er:b-inv-anastasia-shack",
+      "classification": "extended",
+      "rationale": "Anastasia, Tarnished-Eater — Corpse-Stench Shack. Second independent invasion location. Scripted invasion, not conventional boss-bar encounter; exact triggers remain under review.",
+      "evidence": [
+        {
+          "url": "https://video-game-guide-walkthrough.supersoluce.com/solution/elden-ring-guide-walkthrough/summons-and-invasions/invasions/",
+          "locator": "Prior invasion inventory: Anastasia, Tarnished-Eater / Corpse-Stench Shack"
+        },
+        {
+          "url": "https://www.gamerguides.com/elden-ring/database/enemies/invaders",
+          "locator": "Published NPC invader entry: Anastasia, Tarnished-Eater / Corpse-Stench Shack"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39"
+    },
+    {
+      "id": "er:b-inv-anastasia-snow",
+      "classification": "extended",
+      "rationale": "Anastasia, Tarnished-Eater — Frozen river southwest of Ordina. Third independent invasion location. Scripted invasion, not conventional boss-bar encounter; exact triggers remain under review.",
+      "evidence": [
+        {
+          "url": "https://video-game-guide-walkthrough.supersoluce.com/solution/elden-ring-guide-walkthrough/summons-and-invasions/invasions/",
+          "locator": "Prior invasion inventory: Anastasia, Tarnished-Eater / Frozen river southwest of Ordina"
+        },
+        {
+          "url": "https://www.gamerguides.com/elden-ring/database/enemies/invaders",
+          "locator": "Published NPC invader entry: Anastasia, Tarnished-Eater / Frozen river southwest of Ordina"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39"
+    },
+    {
+      "id": "er:b-inv-edgar",
+      "classification": "extended",
+      "rationale": "Edgar the Revenger — Revenger's Shack. Quest-dependent invasion. Scripted invasion, not conventional boss-bar encounter; exact triggers remain under review.",
+      "evidence": [
+        {
+          "url": "https://video-game-guide-walkthrough.supersoluce.com/solution/elden-ring-guide-walkthrough/summons-and-invasions/invasions/",
+          "locator": "Prior invasion inventory: Edgar the Revenger / Revenger's Shack"
+        },
+        {
+          "url": "https://www.gamerguides.com/elden-ring/database/enemies/invaders",
+          "locator": "Published NPC invader entry: Edgar the Revenger / Revenger's Shack"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39"
+    },
+    {
+      "id": "er:b-inv-vyke",
+      "classification": "extended",
+      "rationale": "Festering Fingerprint Vyke — Church of Inhibition. Distinct from Roundtable Knight Vyke evergaol. Scripted invasion, not conventional boss-bar encounter; exact triggers remain under review.",
+      "evidence": [
+        {
+          "url": "https://video-game-guide-walkthrough.supersoluce.com/solution/elden-ring-guide-walkthrough/summons-and-invasions/invasions/",
+          "locator": "Prior invasion inventory: Festering Fingerprint Vyke / Church of Inhibition"
+        },
+        {
+          "url": "https://www.gamerguides.com/elden-ring/database/enemies/invaders",
+          "locator": "Published NPC invader entry: Festering Fingerprint Vyke / Church of Inhibition"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39"
+    },
+    {
+      "id": "er:b-inv-millicent",
+      "classification": "extended",
+      "rationale": "Millicent — Swamp of Aeonia. Scripted invasion; separate from quest choices. Scripted invasion, not conventional boss-bar encounter; exact triggers remain under review.",
+      "evidence": [
+        {
+          "url": "https://video-game-guide-walkthrough.supersoluce.com/solution/elden-ring-guide-walkthrough/summons-and-invasions/invasions/",
+          "locator": "Prior invasion inventory: Millicent / Swamp of Aeonia"
+        },
+        {
+          "url": "https://www.gamerguides.com/elden-ring/database/enemies/invaders",
+          "locator": "Published NPC invader entry: Millicent / Swamp of Aeonia"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39"
+    },
+    {
+      "id": "er:b-inv-eleonora",
+      "classification": "extended",
+      "rationale": "Eleonora, Violet Bloody Finger — Second Church of Marika. Scripted invasion. Scripted invasion, not conventional boss-bar encounter; exact triggers remain under review.",
+      "evidence": [
+        {
+          "url": "https://video-game-guide-walkthrough.supersoluce.com/solution/elden-ring-guide-walkthrough/summons-and-invasions/invasions/",
+          "locator": "Prior invasion inventory: Eleonora, Violet Bloody Finger / Second Church of Marika"
+        },
+        {
+          "url": "https://www.gamerguides.com/elden-ring/database/enemies/invaders",
+          "locator": "Published NPC invader entry: Eleonora, Violet Bloody Finger / Second Church of Marika"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39"
+    },
+    {
+      "id": "er:b-inv-bernahl",
+      "classification": "extended",
+      "rationale": "Recusant Bernahl — Tower beyond Beside the Great Bridge. Conditional scripted invasion. Scripted invasion, not conventional boss-bar encounter; exact triggers remain under review.",
+      "evidence": [
+        {
+          "url": "https://video-game-guide-walkthrough.supersoluce.com/solution/elden-ring-guide-walkthrough/summons-and-invasions/invasions/",
+          "locator": "Prior invasion inventory: Recusant Bernahl / Tower beyond Beside the Great Bridge"
+        },
+        {
+          "url": "https://www.gamerguides.com/elden-ring/database/enemies/invaders",
+          "locator": "Published NPC invader entry: Recusant Bernahl / Tower beyond Beside the Great Bridge"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39"
+    },
+    {
+      "id": "er:b-inv-sanguine",
+      "classification": "extended",
+      "rationale": "Sanguine Noble — Western Consecrated Snowfield. Distinct from Writheblood Ruins boss. Scripted invasion, not conventional boss-bar encounter; exact triggers remain under review.",
+      "evidence": [
+        {
+          "url": "https://video-game-guide-walkthrough.supersoluce.com/solution/elden-ring-guide-walkthrough/summons-and-invasions/invasions/",
+          "locator": "Prior invasion inventory: Sanguine Noble / Western Consecrated Snowfield"
+        },
+        {
+          "url": "https://www.gamerguides.com/elden-ring/database/enemies/invaders",
+          "locator": "Published NPC invader entry: Sanguine Noble / Western Consecrated Snowfield"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39"
+    },
+    {
+      "id": "er:b-inv-ghiza",
+      "classification": "extended",
+      "rationale": "Inquisitor Ghiza — Upper floor of Volcano Manor. Scripted invasion; distinct from Manor contracts. Scripted invasion, not conventional boss-bar encounter; exact triggers remain under review.",
+      "evidence": [
+        {
+          "url": "https://video-game-guide-walkthrough.supersoluce.com/solution/elden-ring-guide-walkthrough/summons-and-invasions/invasions/",
+          "locator": "Prior invasion inventory: Inquisitor Ghiza / Upper floor of Volcano Manor"
+        },
+        {
+          "url": "https://www.gamerguides.com/elden-ring/database/enemies/invaders",
+          "locator": "Published NPC invader entry: Inquisitor Ghiza / Upper floor of Volcano Manor"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39"
+    },
+    {
+      "id": "er:b-inv-henricus",
+      "classification": "extended",
+      "rationale": "Recusant Henricus — Colosseum approach north of Warmaster's Shack. Scripted invasion; trigger and patch availability require review. Scripted invasion, not conventional boss-bar encounter; exact triggers remain under review.",
+      "evidence": [
+        {
+          "url": "https://video-game-guide-walkthrough.supersoluce.com/solution/elden-ring-guide-walkthrough/summons-and-invasions/invasions/",
+          "locator": "Prior invasion inventory: Recusant Henricus / Colosseum approach north of Warmaster's Shack"
+        },
+        {
+          "url": "https://www.gamerguides.com/elden-ring/database/enemies/invaders",
+          "locator": "Published NPC invader entry: Recusant Henricus / Colosseum approach north of Warmaster's Shack"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39"
+    },
+    {
+      "id": "er:b-inv-alberich",
+      "classification": "extended",
+      "rationale": "Mad Tongue Alberich — Roundtable Hold lower hall. Unique scripted duel after dropping from balcony; map layer assignment provisional; hub inset needed. Scripted invasion, not conventional boss-bar encounter; exact triggers remain under review.",
+      "evidence": [
+        {
+          "url": "https://video-game-guide-walkthrough.supersoluce.com/solution/elden-ring-guide-walkthrough/summons-and-invasions/invasions/",
+          "locator": "Prior invasion inventory: Mad Tongue Alberich / Roundtable Hold lower hall"
+        },
+        {
+          "url": "https://www.gamerguides.com/elden-ring/database/enemies/invaders",
+          "locator": "Published NPC invader entry: Mad Tongue Alberich / Roundtable Hold lower hall"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39"
+    },
+    {
+      "id": "er:b-inv-dungeater",
+      "classification": "extended",
+      "rationale": "Dung Eater — Outer moat north of Leyndell. Quest-dependent scripted invasion. Scripted invasion, not conventional boss-bar encounter; exact triggers remain under review.",
+      "evidence": [
+        {
+          "url": "https://video-game-guide-walkthrough.supersoluce.com/solution/elden-ring-guide-walkthrough/summons-and-invasions/invasions/",
+          "locator": "Prior invasion inventory: Dung Eater / Outer moat north of Leyndell"
+        },
+        {
+          "url": "https://www.gamerguides.com/elden-ring/database/enemies/invaders",
+          "locator": "Published NPC invader entry: Dung Eater / Outer moat north of Leyndell"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39"
+    },
+    {
+      "id": "er:b-inv-okina",
+      "classification": "extended",
+      "rationale": "Bloody Finger Okina — Church of Repose. Scripted invasion; patch-dependent trigger to verify. Scripted invasion, not conventional boss-bar encounter; exact triggers remain under review.",
+      "evidence": [
+        {
+          "url": "https://video-game-guide-walkthrough.supersoluce.com/solution/elden-ring-guide-walkthrough/summons-and-invasions/invasions/",
+          "locator": "Prior invasion inventory: Bloody Finger Okina / Church of Repose"
+        },
+        {
+          "url": "https://www.gamerguides.com/elden-ring/database/enemies/invaders",
+          "locator": "Published NPC invader entry: Bloody Finger Okina / Church of Repose"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39"
+    },
+    {
+      "id": "er:b-contract-istvan",
+      "classification": "extended",
+      "rationale": "Old Knight Istvan — Colosseum approach. First Manor contract; obtain letter before defeating Rykard. Quest contract, not primary boss.",
+      "evidence": [
+        {
+          "url": "https://segmentnext.com/elden-ring/dungeons/volcano-manor",
+          "locator": "Contract walkthrough: Old Knight Istvan"
+        },
+        {
+          "url": "https://eldenring.exputer.com/quests/volcano-manor-contracts",
+          "locator": "Named assassination target: Old Knight Istvan"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39"
+    },
+    {
+      "id": "er:b-contract-rileigh",
+      "classification": "extended",
+      "rationale": "Rileigh the Idle — Ravine below Shaded Castle. Second Manor contract; complete Istvan and collect second letter. Quest contract, not primary boss.",
+      "evidence": [
+        {
+          "url": "https://segmentnext.com/elden-ring/dungeons/volcano-manor",
+          "locator": "Contract walkthrough: Rileigh the Idle"
+        },
+        {
+          "url": "https://eldenring.exputer.com/quests/volcano-manor-contracts",
+          "locator": "Named assassination target: Rileigh the Idle"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39"
+    },
+    {
+      "id": "er:b-contract-tragoth",
+      "classification": "extended",
+      "rationale": "Great Horned Tragoth — Magma Wyrm Makar arena. Patches contract after Istvan; defeat Makar before using invasion sign. Quest contract, not primary boss.",
+      "evidence": [
+        {
+          "url": "https://segmentnext.com/elden-ring/dungeons/volcano-manor",
+          "locator": "Contract walkthrough: Great Horned Tragoth"
+        },
+        {
+          "url": "https://www.gamerguides.com/elden-ring-shadow-of-the-erdtree/database/info-items/letter",
+          "locator": "Named assassination target: Great Horned Tragoth"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39"
+    },
+    {
+      "id": "er:b-contract-vargram-wilhelm",
+      "classification": "extended",
+      "rationale": "Vargram the Raging Wolf & Errant Sorcerer Wilhelm — Fortified Manor. Bernahl contract; simultaneous opponents, one completion; do before capital changes. Quest contract, not primary boss.",
+      "evidence": [
+        {
+          "url": "https://segmentnext.com/elden-ring/dungeons/volcano-manor",
+          "locator": "Contract walkthrough: Vargram the Raging Wolf & Errant Sorcerer Wilhelm"
+        },
+        {
+          "url": "https://www.gamerguides.com/elden-ring-shadow-of-the-erdtree/database/info-items/letter",
+          "locator": "Named assassination target: Vargram the Raging Wolf & Errant Sorcerer Wilhelm"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39"
+    },
+    {
+      "id": "er:b-contract-juno",
+      "classification": "extended",
+      "rationale": "Juno Hoslow, Knight of Blood — Near Shack of the Lofty. Third Manor contract; obtain Red Letter and reach Mountaintops before ending Manor chain. Quest contract, not primary boss.",
+      "evidence": [
+        {
+          "url": "https://segmentnext.com/elden-ring/dungeons/volcano-manor",
+          "locator": "Contract walkthrough: Juno Hoslow, Knight of Blood"
+        },
+        {
+          "url": "https://eldenring.exputer.com/quests/volcano-manor-contracts",
+          "locator": "Named assassination target: Juno Hoslow, Knight of Blood"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39"
+    },
+    {
+      "id": "er:d-madding-hand",
+      "classification": "extended",
+      "rationale": "Madding Hand — Path south of Woodland Trail. Unique non-respawning NPC per Abandoned Church enemy list; separate walkthroughs corroborate location and weapon. Archived individual source review supports classification only; reload, flag and trigger qualification remain separate.",
+      "evidence": [
+        {
+          "url": "https://eldenring.fandom.com/wiki/Abandoned_Church",
+          "locator": "Archived quest-branch-review.json record er:d-madding-hand — Path south of Woodland Trail"
+        },
+        {
+          "url": "https://eldenring.wiki.gg/wiki/Madding_Hand_%28weapon%29",
+          "locator": "Archived quest-branch-review.json record er:d-madding-hand — Path south of Woodland Trail"
+        },
+        {
+          "url": "https://www.neoseeker.com/elden-ring-shadow-of-the-erdtree/walkthrough/Abyssal_Woods",
+          "locator": "Archived quest-branch-review.json record er:d-madding-hand — Path south of Woodland Trail"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39",
+      "archivedReview": "quest-branch-review.json"
+    },
+    {
+      "id": "er:d-quest-hornsent-red",
+      "classification": "extended",
+      "rationale": "Hornsent — assist Leda — Burning boats battlements, red summon sign. After charm break and Leda's investigation dialogue; mutually exclusive with defending Hornsent. Kills Hornsent and blocks his Rauh invasion. Archived individual source review supports classification only; reload, flag and trigger qualification remain separate.",
+      "evidence": [
+        {
+          "url": "https://tarnishedsaga.com/quests/ledas-questline/",
+          "locator": "Archived quest-branch-review.json record er:d-quest-hornsent-red — Burning boats battlements, red summon sign"
+        },
+        {
+          "url": "https://www.neoseeker.com/elden-ring-shadow-of-the-erdtree/NPCs/Needle_Knight_Leda",
+          "locator": "Archived quest-branch-review.json record er:d-quest-hornsent-red — Burning boats battlements, red summon sign"
+        },
+        {
+          "url": "https://www.gamerguides.com/elden-ring-shadow-of-the-erdtree/guide/npcs/needle-knight-leda/how-to-find-needle-knight-leda-and-complete-her-quest/",
+          "locator": "Archived quest-branch-review.json record er:d-quest-hornsent-red — Burning boats battlements, red summon sign"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39",
+      "archivedReview": "quest-branch-review.json",
+      "exclusiveGroup": "leda-hornsent-choice"
+    },
+    {
+      "id": "er:d-quest-hornsent-gold",
+      "classification": "extended",
+      "rationale": "Needle Knight Leda — defend Hornsent — Burning boats battlements, gold summon sign. Mutually exclusive with killing Hornsent; prevents the later Ansbach confrontation. Separate from final Enir-Ilim battle. Archived individual source review supports classification only; reload, flag and trigger qualification remain separate.",
+      "evidence": [
+        {
+          "url": "https://tarnishedsaga.com/quests/ledas-questline/",
+          "locator": "Archived quest-branch-review.json record er:d-quest-hornsent-gold — Burning boats battlements, gold summon sign"
+        },
+        {
+          "url": "https://www.neoseeker.com/elden-ring-shadow-of-the-erdtree/NPCs/Needle_Knight_Leda",
+          "locator": "Archived quest-branch-review.json record er:d-quest-hornsent-gold — Burning boats battlements, gold summon sign"
+        },
+        {
+          "url": "https://www.gamerguides.com/elden-ring-shadow-of-the-erdtree/guide/npcs/needle-knight-leda/how-to-find-needle-knight-leda-and-complete-her-quest/",
+          "locator": "Archived quest-branch-review.json record er:d-quest-hornsent-gold — Burning boats battlements, gold summon sign"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39",
+      "archivedReview": "quest-branch-review.json",
+      "exclusiveGroup": "leda-hornsent-choice"
+    },
+    {
+      "id": "er:d-quest-ansbach-red",
+      "classification": "extended",
+      "rationale": "Sir Ansbach — assist Leda — Ansbach's room, red summon sign. Cannot occur after defending Hornsent; mutually exclusive with defending Ansbach. Resolve before sealing-tree cutoff. Archived individual source review supports classification only; reload, flag and trigger qualification remain separate.",
+      "evidence": [
+        {
+          "url": "https://tarnishedsaga.com/quests/ledas-questline/",
+          "locator": "Archived quest-branch-review.json record er:d-quest-ansbach-red — Ansbach's room, red summon sign"
+        },
+        {
+          "url": "https://www.neoseeker.com/elden-ring-shadow-of-the-erdtree/NPCs/Needle_Knight_Leda",
+          "locator": "Archived quest-branch-review.json record er:d-quest-ansbach-red — Ansbach's room, red summon sign"
+        },
+        {
+          "url": "https://eldenring.wiki.gg/wiki/Ansbach%27s_Longbow",
+          "locator": "Archived quest-branch-review.json record er:d-quest-ansbach-red — Ansbach's room, red summon sign"
+        },
+        {
+          "url": "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-sir-ansbach-leda-freyja-questline-walkthrough/",
+          "locator": "Archived quest-branch-review.json record er:d-quest-ansbach-red — Ansbach's room, red summon sign"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39",
+      "archivedReview": "quest-branch-review.json",
+      "exclusiveGroup": "leda-ansbach-choice",
+      "blockedBy": [
+        "er:d-quest-hornsent-gold"
+      ]
+    },
+    {
+      "id": "er:d-quest-ansbach-gold",
+      "classification": "extended",
+      "rationale": "Needle Knight Leda — defend Ansbach — Ansbach's room, gold summon sign. Cannot occur after defending Hornsent; mutually exclusive with killing Ansbach. Separate from final Enir-Ilim battle. Archived individual source review supports classification only; reload, flag and trigger qualification remain separate.",
+      "evidence": [
+        {
+          "url": "https://tarnishedsaga.com/quests/ledas-questline/",
+          "locator": "Archived quest-branch-review.json record er:d-quest-ansbach-gold — Ansbach's room, gold summon sign"
+        },
+        {
+          "url": "https://www.neoseeker.com/elden-ring-shadow-of-the-erdtree/NPCs/Needle_Knight_Leda",
+          "locator": "Archived quest-branch-review.json record er:d-quest-ansbach-gold — Ansbach's room, gold summon sign"
+        },
+        {
+          "url": "https://eldenring.wiki.gg/wiki/Ansbach%27s_Longbow",
+          "locator": "Archived quest-branch-review.json record er:d-quest-ansbach-gold — Ansbach's room, gold summon sign"
+        },
+        {
+          "url": "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-sir-ansbach-leda-freyja-questline-walkthrough/",
+          "locator": "Archived quest-branch-review.json record er:d-quest-ansbach-gold — Ansbach's room, gold summon sign"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39",
+      "archivedReview": "quest-branch-review.json",
+      "exclusiveGroup": "leda-ansbach-choice",
+      "blockedBy": [
+        "er:d-quest-hornsent-gold"
+      ]
+    },
+    {
+      "id": "er:d-fire-knight-kood",
+      "classification": "extended",
+      "rationale": "Fire Knight Kood — Bridge leading to Dark Chamber. One-time named enemy; explicit non-respawn source, weapon and helm cross-check. Archived individual source review supports classification only; reload, flag and trigger qualification remain separate.",
+      "evidence": [
+        {
+          "url": "https://eldenring.fandom.com/wiki/Fire_Knight_Kood",
+          "locator": "Archived named-encounter-review.json record er:d-fire-knight-kood — Bridge leading to Dark Chamber"
+        },
+        {
+          "url": "https://eldenring.wiki.gg/wiki/Ash_of_War%3A_Flame_Spear",
+          "locator": "Archived named-encounter-review.json record er:d-fire-knight-kood — Bridge leading to Dark Chamber"
+        },
+        {
+          "url": "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-best-armor/",
+          "locator": "Archived named-encounter-review.json record er:d-fire-knight-kood — Bridge leading to Dark Chamber"
+        },
+        {
+          "url": "https://eldenring.redmaw.dev/sheets/dlc-walkthrough",
+          "locator": "Archived named-encounter-review.json record er:d-fire-knight-kood — Bridge leading to Dark Chamber"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39",
+      "archivedReview": "named-encounter-review.json"
+    },
+    {
+      "id": "er:d-fire-knight-salza",
+      "classification": "extended",
+      "rationale": "Fire Knight Salza — Bridge west of West Rampart. Explicit non-respawn source; location and two named rewards corroborated. Archived individual source review supports classification only; reload, flag and trigger qualification remain separate.",
+      "evidence": [
+        {
+          "url": "https://eldenring.fandom.com/wiki/Fire_Knight_Salza",
+          "locator": "Archived named-encounter-review.json record er:d-fire-knight-salza — Bridge west of West Rampart"
+        },
+        {
+          "url": "https://eldenring.wiki.gg/wiki/Rain_of_Fire",
+          "locator": "Archived named-encounter-review.json record er:d-fire-knight-salza — Bridge west of West Rampart"
+        },
+        {
+          "url": "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-best-armor/",
+          "locator": "Archived named-encounter-review.json record er:d-fire-knight-salza — Bridge west of West Rampart"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39",
+      "archivedReview": "named-encounter-review.json"
+    },
+    {
+      "id": "er:d-fire-knight-wego",
+      "classification": "extended",
+      "rationale": "Fire Knight Wego — Drained Church District cathedral. Explicit non-respawn source; drainage requirement and helm independently described. Archived individual source review supports classification only; reload, flag and trigger qualification remain separate.",
+      "evidence": [
+        {
+          "url": "https://eldenring.fandom.com/wiki/Fire_Knight_Wego",
+          "locator": "Archived named-encounter-review.json record er:d-fire-knight-wego — Drained Church District cathedral"
+        },
+        {
+          "url": "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-best-armor/",
+          "locator": "Archived named-encounter-review.json record er:d-fire-knight-wego — Drained Church District cathedral"
+        },
+        {
+          "url": "https://tarnished.app/armour/death-mask-helm",
+          "locator": "Archived named-encounter-review.json record er:d-fire-knight-wego — Drained Church District cathedral"
+        },
+        {
+          "url": "https://tarnishedsaga.com/locations/shadow-keep-church-district/",
+          "locator": "Archived named-encounter-review.json record er:d-fire-knight-wego — Drained Church District cathedral"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39",
+      "archivedReview": "named-encounter-review.json"
+    },
+    {
+      "id": "er:d-devonia",
+      "classification": "extended",
+      "rationale": "Crucible Knight Devonia — Rauh Ancient Ruins, East. Explicit non-respawn in Eldenpedia; distinct named rewards and location in Polygon. Archived individual source review supports classification only; reload, flag and trigger qualification remain separate.",
+      "evidence": [
+        {
+          "url": "https://eldenring.wiki.gg/wiki/Crucible_Knight_Devonia",
+          "locator": "Archived named-encounter-review.json record er:d-devonia — Rauh Ancient Ruins, East"
+        },
+        {
+          "url": "https://www.polygon.com/elden-ring-shadow-erdtree-guide/24180254/all-dlc-boss-locations-bosses-in-order",
+          "locator": "Archived named-encounter-review.json record er:d-devonia — Rauh Ancient Ruins, East"
+        },
+        {
+          "url": "https://eldenring.exputer.com/weapons/devonia-s-hammer",
+          "locator": "Archived named-encounter-review.json record er:d-devonia — Rauh Ancient Ruins, East"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39",
+      "archivedReview": "named-encounter-review.json"
+    },
+    {
+      "id": "er:d-inv-anna",
+      "classification": "extended",
+      "rationale": "Swordhand of Night Anna — Finger Ruins of Miyr. Scripted unique invasion during quest, separate from Jolan and Metyr. Archived individual source review supports classification only; reload, flag and trigger qualification remain separate.",
+      "evidence": [
+        {
+          "url": "https://eldenring.wiki.gg/wiki/Claws_of_Night",
+          "locator": "Archived named-encounter-review.json record er:d-inv-anna — Finger Ruins of Miyr"
+        },
+        {
+          "url": "https://eip.gg/elden-ring/guides/finger-ruins-of-miyr/",
+          "locator": "Archived named-encounter-review.json record er:d-inv-anna — Finger Ruins of Miyr"
+        },
+        {
+          "url": "https://eldenring.exputer.com/locations/cathedral-of-manus-metyr",
+          "locator": "Archived named-encounter-review.json record er:d-inv-anna — Finger Ruins of Miyr"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39",
+      "archivedReview": "named-encounter-review.json"
+    },
+    {
+      "id": "er:d-inv-hornsent-rauh",
+      "classification": "extended",
+      "rationale": "Hornsent (Rauh invasion) — Stairs approaching Church of the Bud. Distinct quest invasion; commonly triggered after summoning Hornsent for Messmer and advancing dialogue; exact necessity disputed. Can be locked out by alternate quest outcomes. Do not count an Enir-Ilim participant as this invasion. Archived individual source review supports classification only; reload, flag and trigger qualification remain separate.",
+      "evidence": [
+        {
+          "url": "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-hornsent-questline-walkthrough",
+          "locator": "Archived named-encounter-review.json record er:d-inv-hornsent-rauh — Stairs approaching Church of the Bud"
+        },
+        {
+          "url": "https://www.pcgamer.com/games/rpg/elden-ring-hornsent-quest/",
+          "locator": "Archived named-encounter-review.json record er:d-inv-hornsent-rauh — Stairs approaching Church of the Bud"
+        },
+        {
+          "url": "https://eldenring.exputer.com/quests/hornsent-s-quest",
+          "locator": "Archived named-encounter-review.json record er:d-inv-hornsent-rauh — Stairs approaching Church of the Bud"
+        },
+        {
+          "url": "https://www.reddit.com/r/eldenringdiscussion/comments/1eloj7d",
+          "locator": "Archived named-encounter-review.json record er:d-inv-hornsent-rauh — Stairs approaching Church of the Bud"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39",
+      "archivedReview": "named-encounter-review.json"
+    },
+    {
+      "id": "er:b-baleful-shadow",
+      "classification": "extended",
+      "rationale": "Baleful Shadow — Passage beyond Nokstella toward Lake of Rot. Persistent scripted quest defeat; not Blaidd's later encounter and not the Dragonkin Soldier. Archived individual source review supports classification only; reload, flag and trigger qualification remain separate.",
+      "evidence": [
+        {
+          "url": "https://eldenring.fandom.com/wiki/Bosses",
+          "locator": "Archived named-encounter-review.json record er:b-baleful-shadow — Passage beyond Nokstella toward Lake of Rot"
+        },
+        {
+          "url": "https://eldenring.exputer.com/quests/ranni-s-quest",
+          "locator": "Archived named-encounter-review.json record er:b-baleful-shadow — Passage beyond Nokstella toward Lake of Rot"
+        },
+        {
+          "url": "https://tarnished.app/enemies/baleful-shadow",
+          "locator": "Archived named-encounter-review.json record er:b-baleful-shadow — Passage beyond Nokstella toward Lake of Rot"
+        },
+        {
+          "url": "https://eldenring.fandom.com/wiki/Baleful_Shadow",
+          "locator": "Archived named-encounter-review.json record er:b-baleful-shadow — Passage beyond Nokstella toward Lake of Rot"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39",
+      "archivedReview": "named-encounter-review.json"
+    },
+    {
+      "id": "er:d-church-tree-spirit-mantle",
+      "classification": "extended",
+      "rationale": "Shadow Tree Spirit — Drained Church District, circular courtyard with large tree. Family source explicitly identifies two non-respawning Church District spirits; separate walkthrough distinguishes this courtyard enemy and reward. Archived individual source review supports classification only; reload, flag and trigger qualification remain separate.",
+      "evidence": [
+        {
+          "url": "https://eldenring.fandom.com/wiki/Shadow_Tree_Spirit",
+          "locator": "Archived church-spirit-review.json record er:d-church-tree-spirit-mantle — Drained Church District, circular courtyard with large tree"
+        },
+        {
+          "url": "https://eip.gg/elden-ring/guides/shadow-keep/",
+          "locator": "Archived church-spirit-review.json record er:d-church-tree-spirit-mantle — Drained Church District, circular courtyard with large tree"
+        },
+        {
+          "url": "https://tarnishedsaga.com/locations/shadow-keep-church-district/",
+          "locator": "Archived church-spirit-review.json record er:d-church-tree-spirit-mantle — Drained Church District, circular courtyard with large tree"
+        },
+        {
+          "url": "https://vulkk.com/2024/07/12/shadow-of-the-erdtree-shadow-keep-all-unique-item-locations/",
+          "locator": "Archived church-spirit-review.json record er:d-church-tree-spirit-mantle — Drained Church District, circular courtyard with large tree"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39",
+      "archivedReview": "church-spirit-review.json"
+    },
+    {
+      "id": "er:d-church-tree-spirit-iris",
+      "classification": "extended",
+      "rationale": "Shadow Tree Spirit — Drained Church District, northern street beyond crab building. Distinct second non-respawning spirit; player reports of automatic defeat/iris reward are not proof of a manually fought encounter. Exact event flag pending. Archived individual source review supports classification only; reload, flag and trigger qualification remain separate.",
+      "evidence": [
+        {
+          "url": "https://eldenring.fandom.com/wiki/Shadow_Tree_Spirit",
+          "locator": "Archived church-spirit-review.json record er:d-church-tree-spirit-iris — Drained Church District, northern street beyond crab building"
+        },
+        {
+          "url": "https://eip.gg/elden-ring/guides/shadow-keep/",
+          "locator": "Archived church-spirit-review.json record er:d-church-tree-spirit-iris — Drained Church District, northern street beyond crab building"
+        },
+        {
+          "url": "https://tarnishedsaga.com/locations/shadow-keep-church-district/",
+          "locator": "Archived church-spirit-review.json record er:d-church-tree-spirit-iris — Drained Church District, northern street beyond crab building"
+        },
+        {
+          "url": "https://eldenring.wiki.gg/wiki/Iris_of_Occultation",
+          "locator": "Archived church-spirit-review.json record er:d-church-tree-spirit-iris — Drained Church District, northern street beyond crab building"
+        },
+        {
+          "url": "https://www.reddit.com/r/Eldenring/comments/1dnr4z9/dlc_tree_spirit_in_shadow_keep_church_district/",
+          "locator": "Archived church-spirit-review.json record er:d-church-tree-spirit-iris — Drained Church District, northern street beyond crab building"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39",
+      "archivedReview": "church-spirit-review.json"
+    },
+    {
+      "id": "er:b-capital-rampart-gargoyle",
+      "classification": "extended",
+      "rationale": "Valiant Gargoyle — West Capital Rampart phantom tree. Two family inventories describe non-respawn and this exact location; PowerPyx and Roundtable corroborate its named reward. No direct reload observation or exact event flag. Archived individual source review supports classification only; reload, flag and trigger qualification remain separate.",
+      "evidence": [
+        {
+          "url": "https://eldenring.fandom.com/wiki/Valiant_Gargoyle",
+          "locator": "Archived capital-gargoyle-review.json record er:b-capital-rampart-gargoyle — West Capital Rampart phantom tree"
+        },
+        {
+          "url": "https://eldenring.wiki.gg/wiki/Valiant_Gargoyle",
+          "locator": "Archived capital-gargoyle-review.json record er:b-capital-rampart-gargoyle — West Capital Rampart phantom tree"
+        },
+        {
+          "url": "https://www.powerpyx.com/elden-ring-leyndell-royal-capital-walkthrough/",
+          "locator": "Archived capital-gargoyle-review.json record er:b-capital-rampart-gargoyle — West Capital Rampart phantom tree"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/weapons.html",
+          "locator": "Archived capital-gargoyle-review.json record er:b-capital-rampart-gargoyle — West Capital Rampart phantom tree"
+        },
+        {
+          "url": "https://wiki.eso-ui.com/index.php/Elden_Ring%3AValiant_Gargoyles",
+          "locator": "Archived capital-gargoyle-review.json record er:b-capital-rampart-gargoyle — West Capital Rampart phantom tree"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39",
+      "archivedReview": "capital-gargoyle-review.json"
+    },
+    {
+      "id": "er:b-outskirts-gargoyle",
+      "classification": "extended",
+      "rationale": "Valiant Gargoyle — Stairs northeast of Outer Wall Phantom Tree. Family documentation and encounter video explicitly classify non-respawn; weapon-specific sources and walkthrough agree ordinary Great Axe. Gamer Guides capital boss page names Black Axe; contradicted by multiple more specific reward sources. Archived individual source review supports classification only; reload, flag and trigger qualification remain separate.",
+      "evidence": [
+        {
+          "url": "https://eldenring.fandom.com/wiki/Valiant_Gargoyle",
+          "locator": "Archived capital-gargoyle-review.json record er:b-outskirts-gargoyle — Stairs northeast of Outer Wall Phantom Tree"
+        },
+        {
+          "url": "https://eldenring.wiki.gg/wiki/Valiant_Gargoyle",
+          "locator": "Archived capital-gargoyle-review.json record er:b-outskirts-gargoyle — Stairs northeast of Outer Wall Phantom Tree"
+        },
+        {
+          "url": "https://www.neoseeker.com/elden-ring/walkthrough/Capital_Outskirts",
+          "locator": "Archived capital-gargoyle-review.json record er:b-outskirts-gargoyle — Stairs northeast of Outer Wall Phantom Tree"
+        },
+        {
+          "url": "https://eldenring.wiki.gg/wiki/Gargoyle%27s_Great_Axe",
+          "locator": "Archived capital-gargoyle-review.json record er:b-outskirts-gargoyle — Stairs northeast of Outer Wall Phantom Tree"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/weapons.html",
+          "locator": "Archived capital-gargoyle-review.json record er:b-outskirts-gargoyle — Stairs northeast of Outer Wall Phantom Tree"
+        },
+        {
+          "url": "https://wiki.eso-ui.com/index.php/Elden_Ring%3AValiant_Gargoyles",
+          "locator": "Archived capital-gargoyle-review.json record er:b-outskirts-gargoyle — Stairs northeast of Outer Wall Phantom Tree"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=6W94lBiYiOA",
+          "locator": "Archived capital-gargoyle-review.json record er:b-outskirts-gargoyle — Stairs northeast of Outer Wall Phantom Tree"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39",
+      "archivedReview": "capital-gargoyle-review.json"
+    },
+    {
+      "id": "er:b-aqueduct-crucible-hornshield",
+      "classification": "extended",
+      "rationale": "Crucible Knight — Siofra Aqueduct, platform below Aqueduct-Facing Cliffs. Published non-respawn family documentation plus item-specific shield location and separate walkthrough support distinct encounter; direct event flag remains unqualified. Archived individual source review supports classification only; reload, flag and trigger qualification remain separate.",
+      "evidence": [
+        {
+          "url": "https://tarnishedsaga.com/bosses/crucible-knight/",
+          "locator": "Archived crucible-review.json record er:b-aqueduct-crucible-hornshield — Siofra Aqueduct, platform below Aqueduct-Facing Cliffs"
+        },
+        {
+          "url": "https://eldenring.wiki.gg/wiki/Crucible_Knight",
+          "locator": "Archived crucible-review.json record er:b-aqueduct-crucible-hornshield — Siofra Aqueduct, platform below Aqueduct-Facing Cliffs"
+        },
+        {
+          "url": "https://eldenring.redmaw.dev/sheets/walkthrough",
+          "locator": "Archived crucible-review.json record er:b-aqueduct-crucible-hornshield — Siofra Aqueduct, platform below Aqueduct-Facing Cliffs"
+        },
+        {
+          "url": "https://wiki.eso-ui.com/index.php/Elden_Ring%3ACrucible_Hornshield",
+          "locator": "Archived crucible-review.json record er:b-aqueduct-crucible-hornshield — Siofra Aqueduct, platform below Aqueduct-Facing Cliffs"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=3SSFfYbzXgs",
+          "locator": "Archived crucible-review.json record er:b-aqueduct-crucible-hornshield — Siofra Aqueduct, platform below Aqueduct-Facing Cliffs"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39",
+      "archivedReview": "crucible-review.json"
+    },
+    {
+      "id": "er:b-aqueduct-crucible-spear",
+      "classification": "extended",
+      "rationale": "Crucible Knight — Siofra Aqueduct, lower water channel. Published non-respawn family documentation and independent item-specific spear knight drop; distinct from shield knight. Direct event flag remains unqualified. Archived individual source review supports classification only; reload, flag and trigger qualification remain separate.",
+      "evidence": [
+        {
+          "url": "https://tarnishedsaga.com/bosses/crucible-knight/",
+          "locator": "Archived crucible-review.json record er:b-aqueduct-crucible-spear — Siofra Aqueduct, lower water channel"
+        },
+        {
+          "url": "https://eldenring.wiki.gg/wiki/Crucible_Knight",
+          "locator": "Archived crucible-review.json record er:b-aqueduct-crucible-spear — Siofra Aqueduct, lower water channel"
+        },
+        {
+          "url": "https://eldenring.redmaw.dev/sheets/walkthrough",
+          "locator": "Archived crucible-review.json record er:b-aqueduct-crucible-spear — Siofra Aqueduct, lower water channel"
+        },
+        {
+          "url": "https://wiki.eso-ui.com/index.php/Elden_Ring%3ASomber_Smithing_Stone_6",
+          "locator": "Archived crucible-review.json record er:b-aqueduct-crucible-spear — Siofra Aqueduct, lower water channel"
+        },
+        {
+          "url": "https://www.neoseeker.com/elden-ring/walkthrough/Siofra_Aqueduct",
+          "locator": "Archived crucible-review.json record er:b-aqueduct-crucible-spear — Siofra Aqueduct, lower water channel"
+        },
+        {
+          "url": "https://tarnishedtraveler.com/every-crucible-knight-in-elden-ring-and-what-they-drop/",
+          "locator": "Archived crucible-review.json record er:b-aqueduct-crucible-spear — Siofra Aqueduct, lower water channel"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39",
+      "archivedReview": "crucible-review.json"
+    },
+    {
+      "id": "er:d-jolan",
+      "classification": "extended",
+      "rationale": "Swordhand of Night Jolan — Cathedral of Manus Metyr. Scripted cathedral invasion before Ymir.",
+      "evidence": [
+        {
+          "url": "https://www.neoseeker.com/elden-ring-shadow-of-the-erdtree/NPCs/Count_Ymir",
+          "locator": "Final cathedral sequence"
+        },
+        {
+          "url": "https://www.pcgamer.com/games/rpg/elden-ring-ymir-quest-ruins-map/",
+          "locator": "Jolan invasion"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39"
+    },
+    {
+      "id": "er:d-dragon-man-invader",
+      "classification": "extended",
+      "rationale": "Ancient Dragon-Man (invasion) — Dragon's Pit approach. Road invasion distinct from dungeon boss.",
+      "evidence": [
+        {
+          "url": "https://video-game-guide-walkthrough.supersoluce.com/solution/elden-ring-shadow-of-the-erdtree-guide-walkthrough/summons-and-invasions/",
+          "locator": "Ancient Dragon-Man invasion"
+        },
+        {
+          "url": "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
+          "locator": "Dragon's Pit approach"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39"
+    },
+    {
+      "id": "er:d-queelign-belurat",
+      "classification": "extended",
+      "rationale": "Fire Knight Queelign — Belurat, Tower Settlement. Location-specific invasion; order-dependent reward.",
+      "evidence": [
+        {
+          "url": "https://video-game-guide-walkthrough.supersoluce.com/solution/elden-ring-shadow-of-the-erdtree-guide-walkthrough/summons-and-invasions/",
+          "locator": "Queelign invasion 1"
+        },
+        {
+          "url": "https://eldenring.exputer.com/quests/fire-knight-queelign-s-quest",
+          "locator": "Belurat, prior source review"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39"
+    },
+    {
+      "id": "er:d-queelign-church",
+      "classification": "extended",
+      "rationale": "Fire Knight Queelign — Church of the Crusade. Location-specific invasion; order-dependent reward.",
+      "evidence": [
+        {
+          "url": "https://video-game-guide-walkthrough.supersoluce.com/solution/elden-ring-shadow-of-the-erdtree-guide-walkthrough/summons-and-invasions/",
+          "locator": "Queelign invasion 2"
+        },
+        {
+          "url": "https://eldenring.exputer.com/quests/fire-knight-queelign-s-quest",
+          "locator": "Church of Crusade, prior source review"
+        }
+      ],
+      "reviewScope": "census-classification-only",
+      "batch": "session39"
     }
   ],
   "sourceInventories": [
     {
       "url": "https://game-checklists.com/elden-ring/all-bosses/",
       "scope": "210 checklist rows in archived base/DLC inventory",
-      "reconciliation": "181 of 210 archived checklist rows correspond to classified IDs; other rows remain unresolved",
+      "reconciliation": "209 of 210 archived checklist rows correspond to classified IDs; no full census completeness assertion",
       "evidence": "data/census/base-checklist-review.json; data/census/dlc-checklist-review.json",
-      "unresolved": 29
+      "unresolved": 1
     },
     {
       "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
       "scope": "67 previously documented community flag witnesses only, not the entire flag reference",
-      "reconciliation": "65 narrow classifications; 2 explicit holds",
+      "reconciliation": "65 narrow classifications; 2 explicit holds; outstanding flag mapping/semantics preserved independently of census classification",
       "evidence": "docs/DEFEAT_FLAG_RESEARCH.md; docs/session36-release-blocker-inventory.json",
       "unresolved": 2
     },
     {
       "url": "https://soulsmodding.com/doku.php?id=er-refmat%3Aevent-flag-list",
       "scope": "Session 38 selected named arena flag labels (not complete flag inventory)",
-      "reconciliation": "116 individual correspondences supported; explicit conflicts retained in holds; no full inventory claim",
+      "reconciliation": "116 individual correspondences supported; explicit conflicts retained in holds; no full inventory claim; outstanding flag mapping/semantics preserved independently of census classification",
       "evidence": "data/geography/compass-research.json and per-decision retrieved line locators",
       "unresolved": 14
+    },
+    {
+      "url": "https://video-game-guide-walkthrough.supersoluce.com/solution/elden-ring-guide-walkthrough/summons-and-invasions/invasions/",
+      "scope": "Selected base-game scripted invasions",
+      "reconciliation": "15 individually named encounters classified extended; full inventory not reconciled",
+      "evidence": "Session 39 decisions; additional unclassified candidates and inventory scope remain",
+      "unresolved": 1
     }
   ],
   "holds": [
     {
       "id": "er:b-murkwater-patches",
-      "reason": "Boss identity corroborated; surrender rather than kill is intended completion. Published defeat flag does not prove surrender semantics."
+      "reason": "Boss identity corroborated; surrender rather than kill is intended completion. Published defeat flag does not prove surrender semantics.",
+      "scope": "flag-geography-or-completion-semantics",
+      "classificationResolved": true
     },
     {
       "id": "er:b-stray-mimic",
-      "reason": "Named checklist and flag label agree, but associated Compass arena has no name. Retain as candidate pending independent individual identity witness."
+      "reason": "Named checklist and flag label agree, but associated Compass arena has no name. Retain as candidate pending independent individual identity witness.",
+      "scope": "flag-geography-or-completion-semantics",
+      "classificationResolved": true
     },
     {
       "id": "er:b-altus-cavalry",
-      "reason": "Candidate arena is labelled Bell Bearing Hunter and uses 1043530800, also assigned to capital Hunter and Deathbird; published label supports Hunter only."
+      "reason": "Candidate arena is labelled Bell Bearing Hunter and uses 1043530800, also assigned to capital Hunter and Deathbird; published label supports Hunter only.",
+      "scope": "flag-geography-or-completion-semantics",
+      "classificationResolved": true
     },
     {
       "id": "er:b-capital-deathbird",
-      "reason": "Candidate arena labelled Bell Bearing Hunter with 1043530800; do not admit shared flag."
+      "reason": "Candidate arena labelled Bell Bearing Hunter with 1043530800; do not admit shared flag.",
+      "scope": "flag-geography-or-completion-semantics",
+      "classificationResolved": true
     },
     {
       "id": "er:b-capital-hunter",
-      "reason": "Published 1043530800 labels this Hunter, but candidate mapping shares it with two conflicting IDs; hold until association resolved."
+      "reason": "Published 1043530800 labels this Hunter, but candidate mapping shares it with two conflicting IDs; hold until association resolved.",
+      "scope": "flag-geography-or-completion-semantics",
+      "classificationResolved": true
     },
     {
       "id": "er:b-elemer",
-      "reason": "Candidate 1039540800 published as Shaded Castle Bell Bearing Hunter; global Elemer flag exists but not equivalent to arena flag."
+      "reason": "Candidate 1039540800 published as Shaded Castle Bell Bearing Hunter; global Elemer flag exists but not equivalent to arena flag.",
+      "scope": "flag-geography-or-completion-semantics",
+      "classificationResolved": true
     },
     {
       "id": "er:b-stormhill-deathbird",
-      "reason": "Published 1042380800 calls this Death Rite Bird, candidate Deathbird; naming conflict."
+      "reason": "Published 1042380800 calls this Death Rite Bird, candidate Deathbird; naming conflict.",
+      "scope": "flag-geography-or-completion-semantics",
+      "classificationResolved": true
     },
     {
       "id": "er:b-weeping-deathbird",
-      "reason": "Published 1044320800 calls this Death Rite Bird, candidate Deathbird; naming conflict."
+      "reason": "Published 1044320800 calls this Death Rite Bird, candidate Deathbird; naming conflict.",
+      "scope": "flag-geography-or-completion-semantics",
+      "classificationResolved": true
     },
     {
       "id": "er:b-liurnia-deathbird",
-      "reason": "Published 1037420340 calls this Death Rite Bird, candidate Deathbird; naming conflict."
+      "reason": "Published 1037420340 calls this Death Rite Bird, candidate Deathbird; naming conflict.",
+      "scope": "flag-geography-or-completion-semantics",
+      "classificationResolved": true
     },
     {
       "id": "er:b-adula",
-      "reason": "Two retreat/final source rows and published flags; individual final mapping not adjudicated."
+      "reason": "Two retreat/final source rows and published flags; individual final mapping not adjudicated.",
+      "scope": "flag-geography-or-completion-semantics",
+      "classificationResolved": true
     },
     {
       "id": "er:b-lansseax",
-      "reason": "Two source stages; final flag label generic Ancient Dragon; preserve one ID pending further evidence."
+      "reason": "Two source stages; final flag label generic Ancient Dragon; preserve one ID pending further evidence.",
+      "scope": "flag-geography-or-completion-semantics",
+      "classificationResolved": true
     },
     {
       "id": "er:d-altus-ghostflame",
-      "reason": "Two published Ghostflame flags use Scadu Altus; coast and Altus individual mapping unresolved."
+      "reason": "Two published Ghostflame flags use Scadu Altus; coast and Altus individual mapping unresolved.",
+      "scope": "flag-geography-or-completion-semantics",
+      "classificationResolved": true
     },
     {
       "id": "er:d-coast-ghostflame",
-      "reason": "Two published Ghostflame flags use Scadu Altus; coast and Altus individual mapping unresolved."
+      "reason": "Two published Ghostflame flags use Scadu Altus; coast and Altus individual mapping unresolved.",
+      "scope": "flag-geography-or-completion-semantics",
+      "classificationResolved": true
     },
     {
       "id": "er:d-hinterland-sentinel-shield",
-      "reason": "Individual equipment-to-flag association unresolved."
+      "reason": "Individual equipment-to-flag association unresolved.",
+      "scope": "flag-geography-or-completion-semantics",
+      "classificationResolved": true
     },
     {
       "id": "er:d-hinterland-sentinel-torch",
-      "reason": "Individual equipment-to-flag association unresolved."
+      "reason": "Individual equipment-to-flag association unresolved.",
+      "scope": "flag-geography-or-completion-semantics",
+      "classificationResolved": true
     },
     {
       "id": "er:d-rauh-lion",
-      "reason": "Regional flag label says Gravesite Plain; candidate is Rauh. Hold mapping."
+      "reason": "Regional flag label says Gravesite Plain; candidate is Rauh. Hold mapping.",
+      "scope": "flag-geography-or-completion-semantics",
+      "classificationResolved": true
     }
   ],
   "limitations": [
     "No final census completeness assertion. Classification decisions are distinct from production admission, numerical guide verification, map calibration, or save integration.",
     "The checklist and community flag reference have distinct publication domains; underlying data lineage is not established. Steam guide index is supplementary and currently carries a removal warning.",
     "Existing 291 stable IDs remain unchanged; all other candidates remain unadjudicated. No flag execution or coordinate promotion.",
-    "Session 38 classifications are manually selected from published labels and archived checklist rows, not automatic matches. Source lineage is not proven; flags are descriptive evidence only. Several labels or duplicate candidate mappings conflict and remain held."
+    "Session 38 classifications are manually selected from published labels and archived checklist rows, not automatic matches. Source lineage is not proven; flags are descriptive evidence only. Several labels or duplicate candidate mappings conflict and remain held.",
+    "Session 39 separates primary identity classification from flag/geography holds using encounter-specific guides; all original holds remain binding for production mapping or completion semantics. Extended classifications use archived individual records and selected invasion/contract references; no completeness assertion. No executable flags or automatic publication."
   ]
 }

@@ -95,3 +95,6 @@ Six scoped records and nine guide refinements. Evidence strength explicitly labe
 
 ## Session 38
 116 additional narrow classifications; 181 cumulative. 16 explicit holds including three candidates sharing flag 1043530800. No final reconciliation or production admission. 110 unadjudicated IDs (26 primary, 84 extended).
+
+## Session 39
+26 remaining primary and 42 extended census classifications recorded (249 cumulative, 207 primary and 42 extended). All 16 historical flag/geography/completion-semantics holds preserved independently of classification. 42 extended remain unadjudicated, source inventories unresolved, no publication or map admission.
