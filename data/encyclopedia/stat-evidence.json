@@ -676,6 +676,109 @@
         "https://eldenring.exputer.com/locations/earthbore-cave"
       ],
       "note": "Indexed boss row and encounter video description agree HP and stance. Two walkthroughs agree rune reward. Lore Armory claims 1.17.3; exact regulation not independently verified."
+    },
+    {
+      "id": "er:b-agheel-dragon",
+      "scope": "Flying Dragon Agheel, Agheel Lake, solo NG without summoned helper scaling",
+      "health": 3200,
+      "stance": 120,
+      "runes": 5000,
+      "negations": {
+        "standard": 35,
+        "slash": 35,
+        "strike": 35,
+        "pierce": 10,
+        "magic": 40,
+        "fire": 40,
+        "lightning": 40,
+        "holy": 40
+      },
+      "sources": [
+        "https://tarnished.app/enemies/flying-dragon-agheel",
+        "https://www.dexerto.com/elden-ring/how-to-beat-flying-dragon-agheel-in-elden-ring-1767669/"
+      ],
+      "note": "Both full sources agree HP and stance, and Tarnished.app lists 5000 runes and all eight negations. No independent regulation reproduction; damage negation from one table."
+    },
+    {
+      "id": "er:b-limgrave-troll",
+      "scope": "Limgrave Tunnels Roar Medallion variant, solo NG; excludes Old Altus Tunnel and roaming trolls",
+      "health": 1295,
+      "stance": 45,
+      "runes": 1800,
+      "negations": {
+        "standard": 35,
+        "slash": 35,
+        "strike": 10,
+        "pierce": 35,
+        "magic": 0,
+        "fire": 20,
+        "lightning": 20,
+        "holy": 0
+      },
+      "sources": [
+        "https://tarnished.app/enemies/stonedigger-troll",
+        "https://www.pureeldenring.com/bosses/stonedigger-troll-limgrave",
+        "https://www.gamerguides.com/elden-ring/database/bosses/limgrave-bosses/stonedigger-troll-limgrave-tunnels",
+        "https://eldenring.fandom.com/wiki/Stonedigger_Troll"
+      ],
+      "note": "Solo table reports 1295 HP and 45 stance; variant-specific Pure Elden Ring index reports 1295.035, full page blocked. Gamer Guides confirms 1800 and Roar Medallion. Negations from solo table only. Exact regulation not qualified."
+    },
+    {
+      "id": "er:b-stormhill-crucible",
+      "scope": "Stormhill Evergaol only, solo NG; excludes Stormveil, Redmane and other variants",
+      "health": 2782,
+      "stance": 80,
+      "runes": 2100,
+      "negations": {
+        "standard": 35,
+        "slash": 35,
+        "strike": 35,
+        "pierce": 35,
+        "magic": 40,
+        "fire": 20,
+        "lightning": 20,
+        "holy": 40
+      },
+      "sources": [
+        "https://tarnished.app/enemies/crucible-knight",
+        "https://tarnishedwiki.com/crucible-knight-boss-guide-elden-ring/",
+        "https://www.youtube.com/watch?v=Xt3VMmKb0io"
+      ],
+      "note": "Solo table reports 2782 and video description specifically reports 2782 for Stormhill. Independent guide confirms all negations and reward. Stance reported by table; exact regulation unverified."
+    },
+    {
+      "id": "er:b-darriwil",
+      "scope": "Forlorn Hound Evergaol, Bloodhound Knight Darriwil, solo NG; not Lakeside Crystal Cave",
+      "health": null,
+      "reportedHealth": [
+        1450,
+        1480
+      ],
+      "stance": 65,
+      "runes": 1900,
+      "sources": [
+        "https://almanauts.com/eldenring/bosses/",
+        "https://www.gamerguides.com/elden-ring/database/bosses/limgrave-bosses/bloodhound-knight-darriwil",
+        "https://eldenringpoisewiki.fun/",
+        "https://eldenring.wiki.gg/wiki/Runes",
+        "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/"
+      ],
+      "note": "HP reports disagree: Almanauts 1450, Gamer Guides 1480. Poise Wiki and Almanauts agree stance 65. Gamer Guides and Eldenpedia rune index list 1900, older PowerPyx lists 1400; do not infer patch lineage. Exact regulation unverified."
+    },
+    {
+      "id": "er:b-limgrave-sentinel",
+      "scope": "Single Limgrave Tree Sentinel near First Step, solo NG; excludes Altus pair and DLC variants",
+      "health": 2889,
+      "stance": 80,
+      "runes": 3200,
+      "sources": [
+        "https://www.dexerto.com/elden-ring/elden-ring-boss-guide-how-to-beat-the-tree-sentinel-1765060/",
+        "https://almanauts.com/eldenring/bosses/",
+        "https://www.youtube.com/watch?v=Rnvvw6FYdzA",
+        "https://tarnished.app/enemies/tree-sentinel",
+        "https://wiki.eso-ui.com/index.php/Elden_Ring%3ATree_Sentinel"
+      ],
+      "note": "Dexerto and encounter-specific video agree HP and reward; Almanauts index corroborates minimum HP and stance; Dexerto critical claim conflicts with video and enemy documentation, so no critical recommendation. Generic tarnished.app HP defaults to DLC variant and is not used. Exact regulation unverified."
     }
   ],
   "limitations": [

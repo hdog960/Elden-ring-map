@@ -58,12 +58,17 @@
       "directions": "Follow the slope north toward Church of Elleh; the mounted knight patrols between them.",
       "conditions": "Optional; can return later.",
       "combat": "Halberd sweeps, horse charges, shield slams; shield can punish spell projectiles.",
-      "strategy": "Let the horse finish a charge before striking its side. Avoid prolonged attacks under the shield; on Torrent make brief passes and disengage. Casters should wait for the shield to lower.",
+      "strategy": "Let the horse finish a charge before striking its side. Avoid prolonged attacks under the shield; on Torrent make brief passes and disengage. Casters should wait for the shield to lower. Lightning is favorable. Treat parries and stance breaks as short attack openings; do not rely on a critical hit because sources disagree about eligibility.",
       "rewards": "Golden Halberd; 3,200 runes.",
       "preparation": "Suggested level 25–35, standard weapon +3 or better.",
       "sources": [
         "https://eldenring.wiki.gg/wiki/Tree_Sentinel",
-        "https://www.eldenringwiki.cc/boss-quick-reference/"
+        "https://www.eldenringwiki.cc/boss-quick-reference/",
+        "https://www.dexerto.com/elden-ring/elden-ring-boss-guide-how-to-beat-the-tree-sentinel-1765060/",
+        "https://almanauts.com/eldenring/bosses/",
+        "https://www.youtube.com/watch?v=Rnvvw6FYdzA",
+        "https://tarnished.app/enemies/tree-sentinel",
+        "https://wiki.eso-ui.com/index.php/Elden_Ring%3ATree_Sentinel"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -73,8 +78,7 @@
         "statusThresholds": null
       },
       "unresolved": [
-        "Exact NG health, stance and damage/status tables require version-specific independent verification.",
-        "Full summon/parry/critical eligibility and exact entrance calibration require review."
+        "Scoped published numerical research recorded separately; exact regulation and calibrated position remain unqualified."
       ]
     },
     {
@@ -83,12 +87,14 @@
       "directions": "Ride south into Agheel Lake toward the burned ruins and dragon landing area.",
       "conditions": "Optional field encounter; Torrent useful.",
       "combat": "Ground and airborne fire breath, stomps, bites and tail swings.",
-      "strategy": "Use Torrent to clear the fire path laterally. Attack the head during breath recovery if safely reachable; otherwise take short hits at the legs and leave before a stomp. Ranged characters can reposition before firing.",
+      "strategy": "Use Torrent to clear the fire path laterally. Attack the head during breath recovery if safely reachable; otherwise take short hits at the legs and leave before a stomp. Ranged characters can reposition before firing. Piercing weapons and hits to the head are favored; a stance break can open a critical. NPC Yura may assist after the Nerijus encounter, but summoned help can change scaling.",
       "rewards": "Dragon Heart; 5,000 runes; unlocks Agheel's Flame for purchase.",
       "preparation": "Suggested level 25–35, standard weapon +3 to +5; fire protection helps.",
       "sources": [
         "https://eldenring.wiki.gg/wiki/Agheel",
-        "https://plarium.com/en/blog/elden-ring-boss-locations/"
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://tarnished.app/enemies/flying-dragon-agheel",
+        "https://www.dexerto.com/elden-ring/how-to-beat-flying-dragon-agheel-in-elden-ring-1767669/"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -98,8 +104,7 @@
         "statusThresholds": null
       },
       "unresolved": [
-        "Exact NG health, stance and damage/status tables require version-specific independent verification.",
-        "Full summon/parry/critical eligibility and exact entrance calibration require review."
+        "Scoped published numerical research recorded separately; exact regulation and calibrated position remain unqualified."
       ]
     },
     {
@@ -108,12 +113,17 @@
       "directions": "Travel southwest toward the Forlorn Hound Evergaol and activate its center.",
       "conditions": "Optional evergaol; Blaidd may assist if his quest encounter is prepared. Ordinary spirit ashes unavailable.",
       "combat": "Quick claw and curved sword chains, sudden repositioning and delayed follow-up swings.",
-      "strategy": "Use a short punish after the final leap or slash rather than attacking the disappearance. A shield or quick weapon helps; casters should use fast spells only when the knight finishes moving.",
-      "rewards": "Bloodhound's Fang.",
+      "strategy": "Use a short punish after the final leap or slash rather than attacking the disappearance. A shield or quick weapon helps; casters should use fast spells only when the knight finishes moving. Lightning is favored in the indexed table; use Blaidd's special summon if his quest has been prepared.",
+      "rewards": "Bloodhound's Fang; 1,900 runes in multiple sources (older walkthrough lists 1,400).",
       "preparation": "Suggested level 20–30, standard weapon +3; avoid long casting animations.",
       "sources": [
         "https://eldenring.wiki.gg/wiki/Darriwil",
-        "https://eldenring.wiki.gg/wiki/Bloodhound%27s_Fang"
+        "https://eldenring.wiki.gg/wiki/Bloodhound%27s_Fang",
+        "https://almanauts.com/eldenring/bosses/",
+        "https://www.gamerguides.com/elden-ring/database/bosses/limgrave-bosses/bloodhound-knight-darriwil",
+        "https://eldenringpoisewiki.fun/",
+        "https://eldenring.wiki.gg/wiki/Runes",
+        "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -123,22 +133,26 @@
         "statusThresholds": null
       },
       "unresolved": [
-        "Exact NG health, stance and damage/status tables require version-specific independent verification.",
-        "Full summon/parry/critical eligibility and exact entrance calibration require review."
+        "Scoped published numerical research recorded separately; exact regulation and calibrated position remain unqualified.",
+        "Disputed HP 1450 versus 1480; older 1400 rune report conflicts with 1900. No final numerical claim."
       ]
     },
     {
       "id": "er:b-murkwater-patches",
       "grace": "Murkwater Cave",
       "directions": "Follow the ravine north from Agheel Lake, then enter the cave along its wall. Open the chest in the boss chamber.",
-      "conditions": "Stop attacking when Patches surrenders to preserve his merchant and quest.",
+      "conditions": "Defeat the initial encounter by accepting surrender near half health; killing Patches is not required. Stop attacking promptly to preserve his merchant and quest.",
       "combat": "Spear thrusts from behind a shield and short-range mist.",
       "strategy": "Circle the shield rather than repeatedly striking its front; bait a committed thrust and punish from the side. Casters can keep distance from the mist. Do not use lingering damage once he is near surrender.",
-      "rewards": "Surrender resolves the encounter and unlocks his shop; do not require killing him.",
+      "rewards": "Grovel for Mercy gesture on surrender; merchant access after dialogue/reload. Killing him yields different rewards and closes his quest; not required for completion.",
       "preparation": "Early-game equipment is sufficient; avoid high burst near surrender.",
       "sources": [
         "https://www.neoseeker.com/elden-ring/Bosses/Patches",
-        "https://www.gamerguides.com/elden-ring/guide/limgrave/bosses/"
+        "https://www.gamerguides.com/elden-ring/guide/limgrave/bosses/",
+        "https://eldenring.wiki.gg/wiki/Patches",
+        "https://eldenring.exputer.com/quests/patches-s-quest",
+        "https://www.pcgamer.com/elden-ring-patches-chest-boss/",
+        "https://tarnished.app/enemies/patches"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -148,8 +162,7 @@
         "statusThresholds": null
       },
       "unresolved": [
-        "Exact NG health, stance and damage/status tables require version-specific independent verification.",
-        "Full summon/parry/critical eligibility and exact entrance calibration require review."
+        "Final encounter flag and current version reward details pending; subsequent quest return/surrender is not automatically a separate boss ID."
       ]
     },
     {
@@ -180,15 +193,19 @@
     {
       "id": "er:b-limgrave-troll",
       "grace": "Limgrave Tunnels",
-      "directions": "Enter the mine at the northern edge of Agheel Lake and descend its lifts to the lowest boss chamber.",
+      "directions": "Enter Limgrave Tunnels at the north end of Agheel Lake. Descend the lifts and step off onto the intermediate tunnel ledge on the appropriate lift to reach the lower passage and boss lift.",
       "conditions": "Optional dungeon.",
       "combat": "Heavy club attacks, stomps and broad swings in a confined room.",
-      "strategy": "Use strike damage or magic rather than relying on light slashes against stone-like skin. Roll after the club commits and attack the legs; back away when it raises a foot. Cast during long recoveries.",
+      "strategy": "Use strike damage or magic rather than relying on light slashes against stone-like skin. Roll after the club commits and attack the legs; back away when it raises a foot. Cast during long recoveries. The cited solo table reports 0% magic and holy negation, versus 35% for slash, pierce and standard; charged attacks can break stance.",
       "rewards": "Roar Medallion; 1,800 runes. Older guide reward conflict requires patch review.",
       "preparation": "Suggested level 15–25; bring a strike weapon if available.",
       "sources": [
         "https://gamefaqs.gamespot.com/ps5/323053-elden-ring/faqs/80028/dungeon-bosses",
-        "https://gamertweak.com/dungeon-locations-elden-ring/"
+        "https://gamertweak.com/dungeon-locations-elden-ring/",
+        "https://tarnished.app/enemies/stonedigger-troll",
+        "https://www.pureeldenring.com/bosses/stonedigger-troll-limgrave",
+        "https://www.gamerguides.com/elden-ring/database/bosses/limgrave-bosses/stonedigger-troll-limgrave-tunnels",
+        "https://eldenring.fandom.com/wiki/Stonedigger_Troll"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -198,8 +215,7 @@
         "statusThresholds": null
       },
       "unresolved": [
-        "Exact NG health, stance and damage/status tables require version-specific independent verification.",
-        "Full summon/parry/critical eligibility and exact entrance calibration require review."
+        "Scoped published numerical research recorded separately; exact regulation and calibrated position remain unqualified."
       ]
     },
     {
@@ -536,15 +552,18 @@
     {
       "id": "er:b-stormhill-crucible",
       "grace": "Stormhill Shack",
-      "directions": "Travel southwest to the Stormhill Evergaol and activate the circle.",
+      "directions": "From Stormhill Shack travel southeast to the Stormhill Evergaol and activate its central seal.",
       "conditions": "Optional evergaol; no ordinary Spirit Ashes.",
       "combat": "Shield defense, sword chains, later tail and wing attacks.",
-      "strategy": "Do not heal while standing close. Bait the sword chain, then punish once; practiced parries can create critical openings. Watch for a tail follow-up even after a sword recovery.",
-      "rewards": "Aspects of the Crucible: Tail.",
+      "strategy": "Do not heal while standing close. Bait the sword chain, then punish once; practiced parries can create critical openings. Watch for a tail follow-up even after a sword recovery. Fire and lightning have lower reported negation than physical, magic or holy damage.",
+      "rewards": "Aspects of the Crucible: Tail; 2,100 runes (reported NG).",
       "preparation": "Level 30–45; strong physical defense.",
       "sources": [
         "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
-        "https://eldenring.redmaw.dev/sheets/bosses"
+        "https://eldenring.redmaw.dev/sheets/bosses",
+        "https://tarnished.app/enemies/crucible-knight",
+        "https://tarnishedwiki.com/crucible-knight-boss-guide-elden-ring/",
+        "https://www.youtube.com/watch?v=Xt3VMmKb0io"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -554,8 +573,7 @@
         "statusThresholds": null
       },
       "unresolved": [
-        "Exact NG numerical combat data and rune reward require independent patch-specific verification.",
-        "Confirm grace, entrance, summon and critical eligibility before publication."
+        "Scoped published numerical research recorded separately; exact regulation and calibrated position remain unqualified."
       ]
     },
     {
@@ -2926,15 +2944,18 @@
       "id": "er:b-oldaltus-troll",
       "grace": "Old Altus Tunnel",
       "directions": "Enter the ravine mine with Stonesword Keys and descend to its final chamber.",
-      "conditions": "Optional mine.",
+      "conditions": "Optional mine; entrance requires two Stonesword Keys.",
       "combat": "Heavy club slams and foot stomps.",
       "strategy": "Aim for the legs with strike damage, move away from the raised foot and punish the club's recovery. Avoid getting pinned against the tunnel wall.",
-      "rewards": "Great Club.",
+      "rewards": "Great Club; 9,600 runes (reported NG).",
       "preparation": "Level 55–70; strike damage.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/database/bosses/altus-plateau-bosses",
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
-        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+        "https://wiki.eso-ui.com/index.php/Elden_Ring%3AStonedigger_Troll",
+        "https://www.gameclubz.com/elden-ring-old-altus-tunnel-location-guide/",
+        "https://www.gamerguides.com/elden-ring/database/bosses/altus-plateau-bosses/stonedigger-troll-old-atlus-tunnels/"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -2944,8 +2965,7 @@
         "statusThresholds": null
       },
       "unresolved": [
-        "Confirm exact current-patch numerical combat statistics and reward values.",
-        "Verify grace, access route and combat eligibility against individual encounter sources."
+        "Exact Old Altus HP and stance require variant-specific evidence; do not reuse the Limgrave 1295 HP value."
       ]
     },
     {
@@ -7546,6 +7566,32 @@
       },
       "unresolved": [
         "Exact defeat event flag, current regulation, direct respawn test and calibrated position pending."
+      ]
+    },
+    {
+      "id": "er:b-stormveil-elite-crucible",
+      "grace": "Rampart Tower",
+      "directions": "Follow the warhawk walkway north, descend the western ledges near the guard tower and follow the breakable ledge to the cliffside knight. Activate the lift shortcut before fighting if desired.",
+      "conditions": "Optional non-boss-bar encounter, not the Stormhill Evergaol Crucible Knight or the Redmane pair.",
+      "combat": "Sword swings, shield attacks and Crucible abilities.",
+      "strategy": "Use short punish windows and parry suitable sword attacks if practiced; avoid falling from the cliff. Keep distance when healing.",
+      "rewards": "Aspects of the Crucible: Horns incantation.",
+      "preparation": "Area-appropriate weapon upgrade, vigor and a shield if helpful.",
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Crucible_Knight",
+        "https://tarnishedsaga.com/bosses/crucible-knight/",
+        "https://www.gamerguides.com/elden-ring/database/magic-spells/incantations/aspects-of-the-crucible-horns/",
+        "https://tarnished.app/locations/limgrave/stormveil-castle"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact defeat flag, direct reload observation, patch-specific stats and calibrated position pending."
       ]
     }
   ]

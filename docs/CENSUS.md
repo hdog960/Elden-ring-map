@@ -62,3 +62,6 @@ Six variant-scoped numerical records: Red Wolf (Academy), Ancestor Spirit (lower
 
 ## Session 27
 Two separate non-respawning capital gargoyles provisionally admitted; Halberd at West Capital Rampart, Great Axe northeast of Outer Wall Phantom Tree. Golden Seed separate loot; Black Axe source conflict rejected. Ashen and dismembered gargoyles held. Three scoped stat records (Alecto, Golden Shade, Earthbore Runebear), 38 total; Kingsrealm Revenant reward and healing mechanics refined, HP variant unresolved. 288 IDs, 207 primary/81 extended. No geography admission.
+
+## Session 28
+Stormveil cliffside Crucible Knight provisionally added, family non-respawn and location-specific Horns incantation corroborated. Stormhill Tail encounter unchanged. Five scoped stat records (Agheel, Limgrave troll, Stormhill Crucible, Darriwil disputed health, Limgrave Tree Sentinel); 43 total. Seven existing guides refined, including Old Altus reward and Patches surrender. All 288 prior IDs retained; 289 total, 207 primary/82 extended. No geography admission. Specific source pages/indices checked; some wiki pages blocked, no claim of direct gameplay proof.

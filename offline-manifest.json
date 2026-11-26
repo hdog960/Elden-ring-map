@@ -1,5 +1,5 @@
 {
-  "version": "session27-20261126-a",
+  "version": "session28-20261126-a",
   "releaseReady": false,
   "assets": [
     {
@@ -60,7 +60,7 @@
     },
     {
       "path": "data/census/intake.json",
-      "gitBlob": "62c41e4308740ba9db51deb887eb08da5b19874d"
+      "gitBlob": "905f23894b44f3f5d1d935bccc21a967843f38ff"
     },
     {
       "path": "data/census/named-encounter-review.json",
@@ -76,15 +76,15 @@
     },
     {
       "path": "data/census/stable-ids.json",
-      "gitBlob": "d366f836c11b186dc50b1fa28d4bf2efba97b38c"
+      "gitBlob": "84880a227bfd31e753946d116b3c43d672cf9e6b"
     },
     {
       "path": "data/encyclopedia/drafts.json",
-      "gitBlob": "0a7355107f1613ae1f269d04d390054dda9e1bfc"
+      "gitBlob": "97cb17fc8094e1d996297237ede87d1fe52a8993"
     },
     {
       "path": "data/encyclopedia/stat-evidence.json",
-      "gitBlob": "a1ae5de353241222b2a60c28cea67ed1ed20f00e"
+      "gitBlob": "8dbb2ce83df1ea0d9400b711d1a3673033c2750c"
     },
     {
       "path": "data/geography/compass-research.json",
