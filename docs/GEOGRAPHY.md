@@ -13,3 +13,6 @@ GitHub history: Hapfel1 boss_locations.json first appears in commit db912a518de5
 
 ## Session 7
 Inspected MIT-licensed Kolbxyz/elden-ring-compass-plus generated boss arena file and extractor/vendored provenance. GameAreaParam arena points may differ from arena entrance, boss spawn or encounter marker; upstream generated data rights chain and independent layer calibration remain unresolved. No positions copied. AlperTrsc/elden-ring-grace-tracker claims 141 arenas and official images; no root license displayed. No actual basemap admitted. Next: investigate explicit permission and independent coordinate observation, prioritize source with auditable transformations and verified original artwork.
+
+## Session 8
+elpwc/eldenringonlinemap root MIT license covers code; inspected database directory contains schema/maintenance SQL, not a boss coordinate inventory. No data copied. New original survey preparation and SVG generation modules require separately evidenced anchors, independent holdouts, known encounter IDs, observed point kind, rights review, source SHA256 identifiers and actual surveyed polygon/line features. Synthetic test only; no real surveyed points or map artwork admitted. Source evidence hashes identify records but do not themselves authenticate their bytes or rights; manual review remains mandatory. No calibrated basemap claim.

@@ -1,5 +1,5 @@
 {
-  "version": "session7-20261125-a",
+  "version": "session8-20261125-a",
   "releaseReady": false,
   "assets": [
     {
@@ -32,11 +32,11 @@
     },
     {
       "path": "data/encyclopedia/drafts.json",
-      "gitBlob": "7ba656967eff6588f9ac5302ddaa8c3735f9bb60"
+      "gitBlob": "028042d00b7902c8452f65c001eb715fcb1493df"
     },
     {
       "path": "data/geography/ledger.json",
-      "gitBlob": "0d276111443e4dab6061f0351dffd418f3b13f5b"
+      "gitBlob": "1cface25626b223489badb2e3ca6ba29b20de04e"
     },
     {
       "path": "index.html",
@@ -80,7 +80,7 @@
     },
     {
       "path": "src/map-view.js",
-      "gitBlob": "038c2aa0936969eb9586a731a459c2c2fd9cc283"
+      "gitBlob": "587fa72fcef78fd4b5b450374d3db5b9be432eb7"
     },
     {
       "path": "src/offline-client.js",
@@ -105,6 +105,10 @@
     {
       "path": "src/style.css",
       "gitBlob": "1e0c0b8496f3c06a7b8a5cfbdb3616be91f165f2"
+    },
+    {
+      "path": "src/survey.js",
+      "gitBlob": "eb61e8375932afe137059f58338cb79629bcf1ea"
     }
   ]
 }

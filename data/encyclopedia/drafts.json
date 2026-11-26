@@ -2529,6 +2529,1098 @@
         "Confirm exact NG numerical statistics and patch-dependent reward values.",
         "Verify route, summon eligibility and exact source-specific details."
       ]
+    },
+    {
+      "id": "er:b-lansseax",
+      "grace": "Rampartside Path",
+      "directions": "Climb the grassy ridge above the path on the eastern Altus plateau.",
+      "conditions": "The earlier encounter near Abandoned Coffin retreats; defeat at final site.",
+      "combat": "Lightning claws, breath and sweeping red lightning glaive.",
+      "strategy": "Move perpendicular to the glaive swing, avoid the lingering lightning and punish the dragon's lowered head. Use Torrent for repositioning rather than trading at its feet.",
+      "rewards": "Lansseax's Glaive.",
+      "preparation": "Level 65–85; lightning defense.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/altus-plateau-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact current-patch numerical combat statistics and reward values.",
+        "Verify grace, access route and combat eligibility against individual encounter sources."
+      ]
+    },
+    {
+      "id": "er:b-altus-cavalry",
+      "grace": "Altus Highway Junction",
+      "directions": "At night ride the highway south of the junction and locate the rider.",
+      "conditions": "Night only.",
+      "combat": "Mounted polearm sweeps and rushing attacks.",
+      "strategy": "Bait a charge and dodge across its path, then attack the mount's flank. Avoid repeatedly striking while the horse is turning.",
+      "rewards": "Ash of War: Shared Order.",
+      "preparation": "Level 55–75; upgraded weapon.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/altus-plateau-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact current-patch numerical combat statistics and reward values.",
+        "Verify grace, access route and combat eligibility against individual encounter sources."
+      ]
+    },
+    {
+      "id": "er:b-sainted-zamor",
+      "grace": "Sainted Hero's Grave",
+      "directions": "Enter the grave behind the outdoor assassin; use lighted floor circles to expose shadow enemies and unlock the final route.",
+      "conditions": "Optional interior boss, separate from the assassin outside.",
+      "combat": "Curved sword spins, frost breath and fast later combinations.",
+      "strategy": "Circle away from the breath cone and punish its recovery. Avoid the final spin of its long chain; fire may be useful.",
+      "rewards": "Ancient Dragon Knight Kristoff Ashes.",
+      "preparation": "Level 60–80; frost protection.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/altus-plateau-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact current-patch numerical combat statistics and reward values.",
+        "Verify grace, access route and combat eligibility against individual encounter sources."
+      ]
+    },
+    {
+      "id": "er:b-sainted-assassin",
+      "grace": "Sainted Hero's Grave",
+      "directions": "Approach the building on the Altus plateau; the assassin guards the entrance outside.",
+      "conditions": "Optional field encounter, distinct from the dungeon's boss.",
+      "combat": "Quick slashes, evasive leaps and grabs.",
+      "strategy": "Stay patient after its retreat; punish the committed lunge with a quick attack. Keep vigor high enough to survive a grab.",
+      "rewards": "Black Knife.",
+      "preparation": "Level 55–75.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/altus-plateau-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact current-patch numerical combat statistics and reward values.",
+        "Verify grace, access route and combat eligibility against individual encounter sources."
+      ]
+    },
+    {
+      "id": "er:b-altus-crystalians",
+      "grace": "Altus Tunnel",
+      "directions": "Enter the mine south of the Minor Erdtree and descend to the paired boss chamber.",
+      "conditions": "Two Crystalians, one completion.",
+      "combat": "Spear thrusts and ringblade sweeps/projectiles.",
+      "strategy": "Separate the two and focus on stance-breaking strikes against one shell at a time. Use blunt weapons and attack after a stagger.",
+      "rewards": "Somberstone Miner's Bell Bearing [2].",
+      "preparation": "Level 55–75; strike weapon.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/altus-plateau-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact current-patch numerical combat statistics and reward values.",
+        "Verify grace, access route and combat eligibility against individual encounter sources."
+      ]
+    },
+    {
+      "id": "er:b-gilika",
+      "grace": "Lux Ruins",
+      "directions": "Find the cellar stairs in the upper ruins above the southwestern Altus approach.",
+      "conditions": "Optional cellar.",
+      "combat": "Heavy staff slams, lunges and bites.",
+      "strategy": "Keep clear of her frontal reach and punish the staff's recovery from the side. Do not overcommit as she rises to strike.",
+      "rewards": "Ritual Sword Talisman in chest behind boss.",
+      "preparation": "Level 50–65.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/altus-plateau-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact current-patch numerical combat statistics and reward values.",
+        "Verify grace, access route and combat eligibility against individual encounter sources."
+      ]
+    },
+    {
+      "id": "er:b-altus-beast",
+      "grace": "Altus Highway Junction",
+      "directions": "Travel toward the crater east of the junction.",
+      "conditions": "Optional field encounter.",
+      "combat": "Horn charges, gravity eruptions and sweeping tail.",
+      "strategy": "Dodge sideways when the beast lowers its horns and attack its head after a charge ends. Run from gravity effects before they erupt.",
+      "rewards": "Somber Smithing Stone [5]; smithing stones and gravity materials.",
+      "preparation": "Level 60–80.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/altus-plateau-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact current-patch numerical combat statistics and reward values.",
+        "Verify grace, access route and combat eligibility against individual encounter sources."
+      ]
+    },
+    {
+      "id": "er:b-godefroy",
+      "grace": "Golden Lineage Evergaol",
+      "directions": "Locate the evergaol on the southwest plateau and unlock its seal with a Stonesword Key.",
+      "conditions": "Optional evergaol, separate from Godrick.",
+      "combat": "Grafted axe chains, wind attacks and rolling leap.",
+      "strategy": "Wait for delayed axe swings and punish the rolling leap. There is no dragon-arm phase; keep enough stamina to handle the wind burst.",
+      "rewards": "Godfrey Icon.",
+      "preparation": "Level 55–75.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/altus-plateau-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact current-patch numerical combat statistics and reward values.",
+        "Verify grace, access route and combat eligibility against individual encounter sources."
+      ]
+    },
+    {
+      "id": "er:b-dominula-apostle",
+      "grace": "Windmill Village",
+      "directions": "Climb the village street to the summit of Dominula.",
+      "conditions": "Optional field boss.",
+      "combat": "Twinblade spins, black flame projectiles and stretched torso attacks.",
+      "strategy": "Move diagonally from flame throws and punish the extended torso after the sweep. Avoid healing while a projectile is ready; sleep can create openings.",
+      "rewards": "Godskin Peeler; Scouring Black Flame.",
+      "preparation": "Level 60–80.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/altus-plateau-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact current-patch numerical combat statistics and reward values.",
+        "Verify grace, access route and combat eligibility against individual encounter sources."
+      ]
+    },
+    {
+      "id": "er:b-garris",
+      "grace": "Sage's Cave",
+      "directions": "Enter the cave below the western Altus cliffs and investigate the illusory walls leading to the boss fog.",
+      "conditions": "Separate from the hidden assassin in the same cave.",
+      "combat": "Flail attacks and summoned skeletal snails.",
+      "strategy": "Remove troublesome summons when safe; close on Garris during casting recovery. Use quick hits to interrupt pressure rather than trading with his flail.",
+      "rewards": "Family Heads.",
+      "preparation": "Level 55–70.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/altus-plateau-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact current-patch numerical combat statistics and reward values.",
+        "Verify grace, access route and combat eligibility against individual encounter sources."
+      ]
+    },
+    {
+      "id": "er:b-sages-assassin",
+      "grace": "Sage's Cave",
+      "directions": "Explore the hidden wall network to reach the second boss chamber.",
+      "conditions": "Invisible assassin; separate from Garris.",
+      "combat": "Invisible movement, knife attacks and grabs.",
+      "strategy": "Use a Sentry's Torch if available, or watch splashes and summon targeting. Punish a committed attack rather than swinging randomly.",
+      "rewards": "Concealing Veil.",
+      "preparation": "Level 55–75; Sentry's Torch.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/altus-plateau-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact current-patch numerical combat statistics and reward values.",
+        "Verify grace, access route and combat eligibility against individual encounter sources."
+      ]
+    },
+    {
+      "id": "er:b-perfumer-grotto-duo",
+      "grace": "Perfumer's Grotto",
+      "directions": "Find the cave near the capital approach, enter behind the large flower and descend.",
+      "conditions": "Two simultaneous enemies.",
+      "combat": "Cleaver rushes, poison and light pillars.",
+      "strategy": "Focus the mobile Omenkiller while monitoring the stationary flower. Leave poison clouds before returning; finish Miranda with fire attacks if available.",
+      "rewards": "Great Omenkiller Cleaver.",
+      "preparation": "Level 55–75; poison cures.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/altus-plateau-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact current-patch numerical combat statistics and reward values.",
+        "Verify grace, access route and combat eligibility against individual encounter sources."
+      ]
+    },
+    {
+      "id": "er:b-tricia-duo",
+      "grace": "Unsightly Catacombs",
+      "directions": "Enter the catacombs near Perfumer's Ruins using Stonesword Keys and operate the lever.",
+      "conditions": "Simultaneous support caster and melee opponent.",
+      "combat": "Misbegotten sword combos and Tricia's perfumed sparks/shield support.",
+      "strategy": "Separate the warrior from the perfumer and eliminate whichever is exposed without being surrounded. Avoid the delayed perfume explosion.",
+      "rewards": "Perfumer Tricia Ashes.",
+      "preparation": "Level 55–75.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/altus-plateau-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact current-patch numerical combat statistics and reward values.",
+        "Verify grace, access route and combat eligibility against individual encounter sources."
+      ]
+    },
+    {
+      "id": "er:b-sanguine",
+      "grace": "Writheblood Ruins",
+      "directions": "Find the cellar in the ruins northwest of the Altus highway.",
+      "conditions": "Optional, distinct from the Snowfield invader.",
+      "combat": "Rapier thrusts, blood projectiles and blood pools.",
+      "strategy": "Move around blood pools; wait for the thrust chain to finish before countering. Avoid attacking into its guard with predictable slow swings.",
+      "rewards": "Bloody Helice in chest beyond boss.",
+      "preparation": "Level 55–75; bleed resistance.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/altus-plateau-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact current-patch numerical combat statistics and reward values.",
+        "Verify grace, access route and combat eligibility against individual encounter sources."
+      ]
+    },
+    {
+      "id": "er:b-oldaltus-troll",
+      "grace": "Old Altus Tunnel",
+      "directions": "Enter the ravine mine with Stonesword Keys and descend to its final chamber.",
+      "conditions": "Optional mine.",
+      "combat": "Heavy club slams and foot stomps.",
+      "strategy": "Aim for the legs with strike damage, move away from the raised foot and punish the club's recovery. Avoid getting pinned against the tunnel wall.",
+      "rewards": "Great Club.",
+      "preparation": "Level 55–70; strike damage.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/altus-plateau-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact current-patch numerical combat statistics and reward values.",
+        "Verify grace, access route and combat eligibility against individual encounter sources."
+      ]
+    },
+    {
+      "id": "er:b-wyndham-mariner",
+      "grace": "Wyndham Ruins",
+      "directions": "Approach the flooded ruins north of Erdtree-Gazing Hill.",
+      "conditions": "Optional field boss.",
+      "combat": "Teleporting boat, skeletal summons and giant skeleton attacks.",
+      "strategy": "Ride around the large skeleton's attack area and focus on the mariner itself. Reacquire the boss when it relocates.",
+      "rewards": "Deathroot; Tibia's Summons.",
+      "preparation": "Level 50–70; Torrent.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/altus-plateau-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact current-patch numerical combat statistics and reward values.",
+        "Verify grace, access route and combat eligibility against individual encounter sources."
+      ]
+    },
+    {
+      "id": "er:b-wyndham-watchdog",
+      "grace": "Wyndham Catacombs",
+      "directions": "Climb above Wyndham Ruins to the catacomb entrance and open the boss door.",
+      "conditions": "Optional dungeon.",
+      "combat": "Floating staff slams, lightning effects and sweeping attacks.",
+      "strategy": "Wait for the plunge to land, counter briefly and withdraw before the next ascent. Avoid standing in lightning effects.",
+      "rewards": "Glovewort Picker's Bell Bearing [1].",
+      "preparation": "Level 55–75; lightning defense.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/altus-plateau-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact current-patch numerical combat statistics and reward values.",
+        "Verify grace, access route and combat eligibility against individual encounter sources."
+      ]
+    },
+    {
+      "id": "er:b-wormface",
+      "grace": "Forest-Spanning Greatbridge",
+      "directions": "Descend toward the forest beneath the broken bridge and find the Minor Erdtree.",
+      "conditions": "Optional field boss; smaller wormfaces nearby.",
+      "combat": "Death-blight clouds, grabs and head slams.",
+      "strategy": "Clear a safe approach, avoid all blight clouds and attack the flank after a slam. Use ranged damage from outside cloud range if necessary.",
+      "rewards": "Crimsonspill Crystal Tear; Speckled Hardtear.",
+      "preparation": "Level 60–80; vitality and rejuvenating boluses.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/altus-plateau-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact current-patch numerical combat statistics and reward values.",
+        "Verify grace, access route and combat eligibility against individual encounter sources."
+      ]
+    },
+    {
+      "id": "er:b-elemer",
+      "grace": "Shaded Castle Inner Gate",
+      "directions": "Cross the poison-filled castle and climb to the Castellan's Hall.",
+      "conditions": "Optional legacy encounter.",
+      "combat": "Telekinetic sword chains, shield bash and grab in a confined arena.",
+      "strategy": "Fight close to the flank rather than at the sword's extended range. Dodge the complete chain and punish a shield slam; heal only during a long opening.",
+      "rewards": "Marais Executioner's Sword; Briar Greatshield.",
+      "preparation": "Level 65–85.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/altus-plateau-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact current-patch numerical combat statistics and reward values.",
+        "Verify grace, access route and combat eligibility against individual encounter sources."
+      ]
+    },
+    {
+      "id": "er:b-altus-sentinels",
+      "grace": "Outer Wall Phantom Tree",
+      "directions": "Approach the western capital gate from the Altus highway; the two mounted knights guard the stairs.",
+      "conditions": "Two opponents; one shared reward/completion candidate.",
+      "combat": "Halberd sweeps, charges and shield slams.",
+      "strategy": "Use gate obstacles to separate them. Finish one before engaging the second and keep the other rider in sight during the first fight.",
+      "rewards": "Erdtree Greatshield; Hero's Rune [1].",
+      "preparation": "Level 65–85.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/altus-plateau-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact current-patch numerical combat statistics and reward values.",
+        "Verify grace, access route and combat eligibility against individual encounter sources."
+      ]
+    },
+    {
+      "id": "er:b-capital-draconic",
+      "grace": "Capital Rampart approach",
+      "directions": "Follow the northern approach outside the city wall toward the guarded capital entrance.",
+      "conditions": "Ordinary overland route into Leyndell; alternative route exists.",
+      "combat": "Mounted hammer attacks, horse fireballs and targeted lightning.",
+      "strategy": "Watch for the shield's lightning cue and dodge when it comes down. Move around the horse's fireballs and punish hammer recovery. Avoid repeated heals in front of the horse.",
+      "rewards": "Dragon Greatclaw; Dragonclaw Shield.",
+      "preparation": "Level 75–95; lightning and fire protection.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/altus-plateau-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact current-patch numerical combat statistics and reward values.",
+        "Verify grace, access route and combat eligibility against individual encounter sources."
+      ]
+    },
+    {
+      "id": "er:b-capital-hunter",
+      "grace": "Hermit Merchant's Shack",
+      "directions": "Rest to night, then return to the shack once the merchant is absent.",
+      "conditions": "Night only.",
+      "combat": "Extended sword swings, shield strikes and grab.",
+      "strategy": "Stay near the flank or far outside the blade's range. Wait for the last red sword sweep; punish the grounded recovery rather than the wind-up.",
+      "rewards": "Medicine Peddler's Bell Bearing.",
+      "preparation": "Level 70–90.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/altus-plateau-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact current-patch numerical combat statistics and reward values.",
+        "Verify grace, access route and combat eligibility against individual encounter sources."
+      ]
+    },
+    {
+      "id": "er:b-capital-deathbird",
+      "grace": "Hermit Merchant's Shack",
+      "directions": "At night search the rocky area outside the northern capital wall near the shack.",
+      "conditions": "Night only.",
+      "combat": "Cane swings, pecks and jumping attacks.",
+      "strategy": "Use holy damage and strike the lowered head after a peck. Keep a clear path away from nearby soldiers and uneven ground.",
+      "rewards": "Twinbird Kite Shield.",
+      "preparation": "Level 65–85.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/altus-plateau-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact current-patch numerical combat statistics and reward values.",
+        "Verify grace, access route and combat eligibility against individual encounter sources."
+      ]
+    },
+    {
+      "id": "er:b-ordovis-duo",
+      "grace": "Auriza Hero's Grave",
+      "directions": "Enter the grave below the eastern capital outskirts, navigate the chariots and reach the final fog.",
+      "conditions": "Two Crucible Knights, one encounter.",
+      "combat": "Sword-and-shield and spear chains; tail and wing attacks.",
+      "strategy": "Keep the spear knight in view while engaging Ordovis. Separate with a summon or movement; punish only confirmed recovery, and avoid healing when either is advancing.",
+      "rewards": "Ordovis's Greatsword; Crucible Axe set.",
+      "preparation": "Level 75–95; physical defense.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/altus-plateau-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact current-patch numerical combat statistics and reward values.",
+        "Verify grace, access route and combat eligibility against individual encounter sources."
+      ]
+    },
+    {
+      "id": "er:b-auriza-duelist",
+      "grace": "Auriza Side Tomb",
+      "directions": "Enter the side tomb near the capital approach and follow the transporter-chest route to the boss lever.",
+      "conditions": "Optional dungeon.",
+      "combat": "Hammer chains and grab; small living jars accompany boss.",
+      "strategy": "Clear or distract the jars before committing to the duelist. Dodge the final hammer strike and avoid standing in front of an attempted grab.",
+      "rewards": "Soldjars of Fortune Ashes.",
+      "preparation": "Level 65–80.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/altus-plateau-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact current-patch numerical combat statistics and reward values.",
+        "Verify grace, access route and combat eligibility against individual encounter sources."
+      ]
+    },
+    {
+      "id": "er:b-sealed-onyx",
+      "grace": "Sealed Tunnel",
+      "directions": "Enter the mine in the moat and pass through successive illusory walls to reach the final chamber.",
+      "conditions": "Optional route toward Divine Tower of West Altus.",
+      "combat": "Gravity sorcery, meteor shower and sword attacks.",
+      "strategy": "Move out of the gravity area and approach after the meteor pattern ends. Use quick counterattacks following sword recovery.",
+      "rewards": "Onyx Lord's Greatsword.",
+      "preparation": "Level 65–80; magic defense.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/altus-plateau-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact current-patch numerical combat statistics and reward values.",
+        "Verify grace, access route and combat eligibility against individual encounter sources."
+      ]
+    },
+    {
+      "id": "er:b-maggie",
+      "grace": "Primeval Sorcerer Azur vicinity",
+      "directions": "Approach Hermit Village from the southern Gelmir route and travel toward the sorcerer's cliff.",
+      "conditions": "Optional; other demi-humans and sorcerers nearby.",
+      "combat": "Staff slams and wide physical attacks with ranged support from nearby enemies.",
+      "strategy": "Clear threatening casters or draw the queen away. Punish her staff recovery at the flank and avoid fighting among multiple ranged attacks.",
+      "rewards": "Memory Stone.",
+      "preparation": "Level 60–75; magic defense.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/altus-plateau-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact current-patch numerical combat statistics and reward values.",
+        "Verify grace, access route and combat eligibility against individual encounter sources."
+      ]
+    },
+    {
+      "id": "er:b-margot",
+      "grace": "Volcano Cave",
+      "directions": "Enter the cave north of the mountain's upper route and descend through demi-human chambers.",
+      "conditions": "Optional dungeon.",
+      "combat": "Quick lunges, claws and heavy body slams.",
+      "strategy": "Keep space to avoid a sudden leap, then counter after the landing. Do not attack blindly while she is turning.",
+      "rewards": "Jar Cannon.",
+      "preparation": "Level 60–80.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/altus-plateau-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact current-patch numerical combat statistics and reward values.",
+        "Verify grace, access route and combat eligibility against individual encounter sources."
+      ]
+    },
+    {
+      "id": "er:b-fullgrown-beast",
+      "grace": "Ninth Mt. Gelmir Campsite",
+      "directions": "Use the ladder or spiritspring to reach the summit crater.",
+      "conditions": "Optional; confined summit edge.",
+      "combat": "Horn charges, gravity beams and sweeping attacks.",
+      "strategy": "Move across charges rather than back toward the cliff. Punish after the last charge and leave the gravity blast zone. Aim for the head in safe openings.",
+      "rewards": "Fallingstar Beast Jaw; upgrade stones.",
+      "preparation": "Level 75–95.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/altus-plateau-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact current-patch numerical combat statistics and reward values.",
+        "Verify grace, access route and combat eligibility against individual encounter sources."
+      ]
+    },
+    {
+      "id": "er:b-seethewater-kindred",
+      "grace": "Seethewater Cave",
+      "directions": "Enter the cave using Stonesword Keys and cross the poison-filled passages.",
+      "conditions": "Two kindred, one encounter.",
+      "combat": "Fast limb attacks and ranged pest threads.",
+      "strategy": "Break line of sight with terrain and finish one before fighting the other. Keep moving sideways from thread volleys.",
+      "rewards": "Kindred of Rot's Exultation.",
+      "preparation": "Level 60–80; poison cures.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/altus-plateau-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact current-patch numerical combat statistics and reward values.",
+        "Verify grace, access route and combat eligibility against individual encounter sources."
+      ]
+    },
+    {
+      "id": "er:b-gelmir-wyrm",
+      "grace": "Seethewater Terminus",
+      "directions": "Travel past Fort Laiedd toward the lava lake beneath the Hermit's Shack route.",
+      "conditions": "Optional field boss.",
+      "combat": "Magma rushes, wide sword swings and lava hazard.",
+      "strategy": "Fight from the edge of the lava, let its rush end and attack during recovery. Avoid following the boss directly into magma.",
+      "rewards": "Dragon Heart.",
+      "preparation": "Level 65–85; fire defense.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/altus-plateau-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact current-patch numerical combat statistics and reward values.",
+        "Verify grace, access route and combat eligibility against individual encounter sources."
+      ]
+    },
+    {
+      "id": "er:b-gelmir-wolf",
+      "grace": "Gelmir Hero's Grave",
+      "directions": "Enter the grave and traverse the chariot corridors to the final fog.",
+      "conditions": "Optional dungeon.",
+      "combat": "Fast leaping bites, magic sword and delayed projectiles.",
+      "strategy": "Track the suspended projectiles while watching the wolf. Use quick strikes after a committed leap; don't cast during its approach.",
+      "rewards": "Bloodhound Knight Floh Ashes.",
+      "preparation": "Level 65–85; magic defense.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/altus-plateau-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact current-patch numerical combat statistics and reward values.",
+        "Verify grace, access route and combat eligibility against individual encounter sources."
+      ]
+    },
+    {
+      "id": "er:b-gelmir-spirit",
+      "grace": "Road of Iniquity",
+      "directions": "Approach the Minor Erdtree near the ruined bridge and burning landscape.",
+      "conditions": "Optional field boss.",
+      "combat": "Coiling lunges, tail sweeps and explosive area attack.",
+      "strategy": "Keep the head visible and withdraw when its body glows. Attack after a completed rush; fire or stance pressure can be useful.",
+      "rewards": "Leaden Hardtear; Cerulean Hidden Tear.",
+      "preparation": "Level 65–85.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/altus-plateau-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact current-patch numerical combat statistics and reward values.",
+        "Verify grace, access route and combat eligibility against individual encounter sources."
+      ]
+    },
+    {
+      "id": "er:b-abductors",
+      "grace": "Subterranean Inquisition Chamber",
+      "directions": "Be transported by the Academy's Abductor Virgin grab death, then navigate the underground lava route to the fog.",
+      "conditions": "Optional paired encounter.",
+      "combat": "Wheeled rushes, swinging blades and grab from the opened chest.",
+      "strategy": "Keep the two machines separated and avoid the chest grab. Punish the opening after a missed grab; lightning may help stagger them.",
+      "rewards": "Inquisitor's Girandole.",
+      "preparation": "Level 55–75; lightning damage.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/altus-plateau-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact current-patch numerical combat statistics and reward values.",
+        "Verify grace, access route and combat eligibility against individual encounter sources."
+      ]
+    },
+    {
+      "id": "er:b-eiglay-noble",
+      "grace": "Prison Town Church",
+      "directions": "Cross the rooftops and bridges of Volcano Manor's prison town toward the Temple of Eiglay.",
+      "conditions": "Optional legacy boss; temple route leads deeper into manor.",
+      "combat": "Rapier thrusts, black flame, belly shove and rolling attack.",
+      "strategy": "Use pillars to obstruct the roll without trapping yourself. Dodge the final thrust, then punish; sleep may create opportunities.",
+      "rewards": "Godskin Stitcher; Noble Presence.",
+      "preparation": "Level 65–85.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/altus-plateau-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact current-patch numerical combat statistics and reward values.",
+        "Verify grace, access route and combat eligibility against individual encounter sources."
+      ]
+    },
+    {
+      "id": "er:b-rykard",
+      "grace": "Audience Pathway",
+      "directions": "Reach the audience via the manor's dungeon teleporter or Tanith's completed contract route.",
+      "conditions": "Ending Rykard fight can close outstanding manor contracts; two phases one encounter.",
+      "combat": "Serpent bites and poison, then sword arcs and pursuing flaming skulls.",
+      "strategy": "Equip the Serpent-Hunter found inside the arena and use its extended attacks. Stay out of lava; when skulls pursue, keep moving until the barrage ends.",
+      "rewards": "Rykard's Great Rune; Remembrance of the Blasphemous.",
+      "preparation": "Level 70–100; upgrade Serpent-Hunter if needed.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/altus-plateau-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact current-patch numerical combat statistics and reward values.",
+        "Verify grace, access route and combat eligibility against individual encounter sources."
+      ]
+    },
+    {
+      "id": "er:b-godfrey-shade",
+      "grace": "West Capital Rampart",
+      "directions": "Climb the great root toward Erdtree Sanctuary and enter the golden shade's arena.",
+      "conditions": "Mandatory capital encounter on ordinary progression.",
+      "combat": "Axe slams, sweeping chains and ground stomp.",
+      "strategy": "Jump or dodge ground shockwaves as appropriate, then counter after the final axe slam. Avoid greedy attacks while the axe is being raised.",
+      "rewards": "Talisman Pouch.",
+      "preparation": "Level 75–95.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/altus-plateau-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact current-patch numerical combat statistics and reward values.",
+        "Verify grace, access route and combat eligibility against individual encounter sources."
+      ]
+    },
+    {
+      "id": "er:b-morgott",
+      "grace": "Queen's Bedchamber",
+      "directions": "Follow the stairs from the bedchamber to the Elden Throne fog.",
+      "conditions": "Main progression encounter; Margit's Shackle can help early.",
+      "combat": "Delayed sword swings, light weapons, spear throws and later cursed-blood attacks.",
+      "strategy": "Wait for delayed release instead of rolling at the wind-up. Punish spear landings and leave ground bursts; use short casts after his committed attacks.",
+      "rewards": "Morgott's Great Rune; Remembrance of the Omen King.",
+      "preparation": "Level 80–100.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/altus-plateau-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact current-patch numerical combat statistics and reward values.",
+        "Verify grace, access route and combat eligibility against individual encounter sources."
+      ]
+    },
+    {
+      "id": "er:b-esgar",
+      "grace": "Leyndell Catacombs",
+      "directions": "Descend the sewer pipes and enter the catacombs; navigate repeated-looking chambers to the boss lever.",
+      "conditions": "Optional; dogs accompany boss.",
+      "combat": "Bleed daggers, blood incantations and aggressive dogs.",
+      "strategy": "Eliminate the dogs first or use a summon to divide them. Stay out of bloodflame and punish Esgar's missed lunge with quick attacks.",
+      "rewards": "Lord of Blood's Exultation.",
+      "preparation": "Level 75–95; bleed resistance.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/altus-plateau-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact current-patch numerical combat statistics and reward values.",
+        "Verify grace, access route and combat eligibility against individual encounter sources."
+      ]
+    },
+    {
+      "id": "er:b-mohg-omen",
+      "grace": "Forsaken Depths",
+      "directions": "Descend through the Subterranean Shunning-Grounds to the Cathedral of the Forsaken fog.",
+      "conditions": "Optional; route toward Frenzied Flame deeper beyond altar; distinct from Mohgwyn boss.",
+      "combat": "Trident swings, delayed bloodflame and blood pools.",
+      "strategy": "Dodge when the trident commits and avoid standing on bloodflame. Mohg's Shackle can create early openings; do not assume Lord of Blood's phase-two mechanics apply.",
+      "rewards": "Bloodflame Talons.",
+      "preparation": "Level 80–100; physical and fire defense.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/altus-plateau-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact current-patch numerical combat statistics and reward values.",
+        "Verify grace, access route and combat eligibility against individual encounter sources."
+      ]
+    },
+    {
+      "id": "er:b-chapel-scion",
+      "grace": "Chapel of Anticipation",
+      "directions": "Fight at the opening chapel or return through the Four Belfries' Precipice of Anticipation waygate.",
+      "conditions": "Opening defeat optional; can revisit for revenge.",
+      "combat": "Rapid multiple sword strikes, shield and jumping attacks.",
+      "strategy": "Avoid the full sword flurry and punish after the leap or slam. Return with an upgraded weapon if the opening character cannot safely trade.",
+      "rewards": "Ornamental Straight Sword; Golden Beast Crest Shield.",
+      "preparation": "Starting challenge or return at level 25–40.",
+      "sources": [
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+        "https://eldenring.wiki.gg/wiki/Boss"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact current-patch numerical combat statistics and reward values.",
+        "Verify grace, access route and combat eligibility against individual encounter sources."
+      ]
+    },
+    {
+      "id": "er:b-tutorial-soldier",
+      "grace": "Cave of Knowledge",
+      "directions": "Descend into the tutorial cave from the Stranded Graveyard and follow the instructional route.",
+      "conditions": "Optional tutorial encounter; not the ordinary Godrick soldiers in the overworld.",
+      "combat": "Basic straight sword and shield strikes.",
+      "strategy": "Practice a guard counter after blocking a single swing, or dodge and counter. Keep enough stamina to recover.",
+      "rewards": "Runes; tutorial progression.",
+      "preparation": "Starting equipment sufficient.",
+      "sources": [
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+        "https://eldenring.wiki.gg/wiki/Boss"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact current-patch numerical combat statistics and reward values.",
+        "Verify grace, access route and combat eligibility against individual encounter sources."
+      ]
     }
   ]
 }

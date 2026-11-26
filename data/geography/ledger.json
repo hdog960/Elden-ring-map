@@ -47,6 +47,10 @@
     {
       "url": "https://github.com/AlperTrsc/elden-ring-grace-tracker",
       "finding": "Claims 141 boss arenas calibrated to official map images; root listing has no LICENSE. No import."
+    },
+    {
+      "url": "https://github.com/elpwc/eldenringonlinemap",
+      "finding": "MIT software license, README describes community database. database directory contains initialization schema and maintenance SQL only; no boss position dump located in inspected directory. No coordinates or artwork imported."
     }
   ]
 }
