@@ -1,5 +1,5 @@
 {
-  "version": "mvp-20261126-v1",
+  "version": "mvp-20261126-v1-cachefix1",
   "releaseReady": false,
   "assets": [
     {
@@ -168,7 +168,7 @@
     },
     {
       "path": "src/offline-client.js",
-      "gitBlob": "91510f631927c2824cc960bec3b068b62fa70"
+      "gitBlob": "2391f43925e09086a530f745ae4eb147e1b0576e"
     },
     {
       "path": "src/progress-settings.js",

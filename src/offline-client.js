@@ -10,3 +10,4 @@ export async function registerOffline(host){
  if(navigator.storage?.persisted&&navigator.storage?.persist){try{if(!await navigator.storage.persisted())await navigator.storage.persist();}catch{}}
  }catch{line.textContent="Offline preparation failed; reconnect and reload.";}
 }
+// Offline status distinguishes provisional MVP availability from certified release.
