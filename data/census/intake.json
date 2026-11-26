@@ -49,7 +49,39 @@
     "b-millicent-sisters-a": "https://eldenring.wiki.gg/wiki/Millicent%27s_Sisters",
     "b-millicent-sisters-b": "https://eldenring.exputer.com/quests/millicent-s-quest",
     "b-millicent-challenge-a": "https://eldenring.wiki.gg/wiki/Millicent",
-    "b-millicent-challenge-b": "https://eldenring.exputer.com/quests/millicent-s-quest"
+    "b-millicent-challenge-b": "https://eldenring.exputer.com/quests/millicent-s-quest",
+    "lake-of-rot-lord-s21-1": "https://eldenring.wiki.gg/wiki/Alabaster_Lord%27s_Sword",
+    "lake-of-rot-lord-s21-2": "https://www.neoseeker.com/elden-ring/walkthrough/Lake_of_Rot",
+    "lake-of-rot-lord-s21-3": "https://www.reddit.com/r/Eldenring/comments/tfyafy/died_at_the_same_time_as_the_alabaster_lord_an/",
+    "deeproot-avatar-s21-1": "https://eldenring.wiki.gg/wiki/Erdtree_Avatar",
+    "deeproot-avatar-s21-2": "https://www.powerpyx.com/elden-ring-deeproot-depths-walkthrough/",
+    "deeproot-avatar-s21-3": "https://www.neoseeker.com/elden-ring/walkthrough/Deeproot_Depths",
+    "deeproot-avatar-s21-4": "https://www.reddit.com/r/Eldenring/comments/1ejs2nj/a_list_of_all_nonbossnpc_enemies_that_dont_respawn/",
+    "capital-avatar-s21-1": "https://eldenring.wiki.gg/wiki/Erdtree_Avatar",
+    "capital-avatar-s21-2": "https://www.powerpyx.com/elden-ring-leyndell-royal-capital-walkthrough/",
+    "capital-avatar-s21-3": "https://www.reddit.com/r/Eldenring/comments/1ejs2nj/a_list_of_all_nonbossnpc_enemies_that_dont_respawn/",
+    "elphael-bridge-avatar-s21-1": "https://eldenring.wiki.gg/wiki/Erdtree_Avatar",
+    "elphael-bridge-avatar-s21-2": "https://eip.gg/elden-ring/guides/elphael-brace-of-the-haligtree-walkthrough/",
+    "elphael-bridge-avatar-s21-3": "https://wiki.eso-ui.com/index.php/Elden_Ring%3ARotten_Staff",
+    "elphael-bridge-avatar-s21-4": "https://www.reddit.com/r/Eldenring/comments/1ejs2nj/a_list_of_all_nonbossnpc_enemies_that_dont_respawn/",
+    "elphael-courtyard-avatar-s21-1": "https://eldenring.wiki.gg/wiki/Erdtree_Avatar",
+    "elphael-courtyard-avatar-s21-2": "https://eip.gg/elden-ring/guides/elphael-brace-of-the-haligtree-walkthrough/",
+    "elphael-courtyard-avatar-s21-3": "https://wiki.eso-ui.com/index.php/Elden_Ring%3APutrid_Avatar",
+    "elphael-courtyard-avatar-s21-4": "https://www.reddit.com/r/Eldenring/comments/1ejs2nj/a_list_of_all_nonbossnpc_enemies_that_dont_respawn/",
+    "stormveil-spirit-s21-1": "https://eldenring.wiki.gg/wiki/Ulcerated_Tree_Spirit",
+    "stormveil-spirit-s21-2": "https://www.powerpyx.com/elden-ring-all-golden-seed-locations/",
+    "stormveil-spirit-s21-3": "https://www.reddit.com/r/Eldenring/comments/1ejs2nj/a_list_of_all_nonbossnpc_enemies_that_dont_respawn/",
+    "outskirts-spirit-s21-1": "https://eldenring.wiki.gg/wiki/Ulcerated_Tree_Spirit",
+    "outskirts-spirit-s21-2": "https://www.neoseeker.com/elden-ring/walkthrough/Capital_Outskirts",
+    "outskirts-spirit-s21-3": "https://www.reddit.com/r/Eldenring/comments/1ejs2nj/a_list_of_all_nonbossnpc_enemies_that_dont_respawn/",
+    "cloister-spirit-s21-1": "https://eldenring.wiki.gg/wiki/Golden_Seed",
+    "cloister-spirit-s21-2": "https://eip.gg/elden-ring/guides/lake-of-rot-grand-cloister-walkthrough/",
+    "cloister-spirit-s21-3": "https://eldenring.exputer.com/locations/grand-cloister",
+    "cloister-spirit-s21-4": "https://www.reddit.com/r/Eldenring/comments/1ejs2nj/a_list_of_all_nonbossnpc_enemies_that_dont_respawn/",
+    "drainage-spirit-s21-1": "https://eldenring.wiki.gg/wiki/Golden_Seed",
+    "drainage-spirit-s21-2": "https://www.dualshockers.com/elden-ring-millicent-quest-walkthrough/",
+    "drainage-spirit-s21-3": "https://eldenring.exputer.com/quests/millicent-s-quest",
+    "drainage-spirit-s21-4": "https://www.reddit.com/r/Eldenring/comments/1ejs2nj/a_list_of_all_nonbossnpc_enemies_that_dont_respawn/"
   },
   "rows": [
     {
@@ -4215,6 +4247,164 @@
       ],
       "decision": "Mutually exclusive with assisting Millicent; ends needle route.",
       "exclusiveGroup": "millicent-elphael-choice"
+    },
+    {
+      "id": "er:b-lake-rot-alabaster",
+      "game": "base",
+      "region": "Lake of Rot",
+      "name": "Alabaster Lord",
+      "location": "Lake of Rot raised ruins",
+      "layerHint": "underground",
+      "hunt": "extended",
+      "category": "unique-elite",
+      "review": "classification-review",
+      "evidence": [
+        "lake-of-rot-lord-s21-1",
+        "lake-of-rot-lord-s21-2",
+        "lake-of-rot-lord-s21-3"
+      ],
+      "decision": "Player report explicitly describes no respawn after mutual death; route and guaranteed weapon supported separately. Provisional extended candidate; not a primary boss or final release admission."
+    },
+    {
+      "id": "er:b-deeproot-elite-avatar",
+      "game": "base",
+      "region": "Deeproot Depths",
+      "name": "Erdtree Avatar",
+      "location": "Great Waterfall Crest approach",
+      "layerHint": "underground",
+      "hunt": "extended",
+      "category": "unique-elite",
+      "review": "classification-review",
+      "evidence": [
+        "deeproot-avatar-s21-1",
+        "deeproot-avatar-s21-2",
+        "deeproot-avatar-s21-3",
+        "deeproot-avatar-s21-4"
+      ],
+      "decision": "Non-respawning enemy family documented; distinct location and named reward corroborated. Provisional extended candidate; not a primary boss or final release admission."
+    },
+    {
+      "id": "er:b-capital-elite-avatar",
+      "game": "base",
+      "region": "Leyndell, Royal Capital",
+      "name": "Erdtree Avatar",
+      "location": "Royal Capital avenue near Avenue Balcony",
+      "layerHint": "surface",
+      "hunt": "extended",
+      "category": "unique-elite",
+      "review": "classification-review",
+      "evidence": [
+        "capital-avatar-s21-1",
+        "capital-avatar-s21-2",
+        "capital-avatar-s21-3"
+      ],
+      "decision": "Non-respawning family and capital-specific reward supported; route cutoff exact trigger pending. Provisional extended candidate; not a primary boss or final release admission."
+    },
+    {
+      "id": "er:b-elphael-bridge-avatar",
+      "game": "base",
+      "region": "Miquella's Haligtree",
+      "name": "Putrid Avatar",
+      "location": "Elphael bridge patrol",
+      "layerHint": "surface",
+      "hunt": "extended",
+      "category": "unique-elite",
+      "review": "classification-review",
+      "evidence": [
+        "elphael-bridge-avatar-s21-1",
+        "elphael-bridge-avatar-s21-2",
+        "elphael-bridge-avatar-s21-3",
+        "elphael-bridge-avatar-s21-4"
+      ],
+      "decision": "Non-respawning family; guide distinguishes bridge patrol from inner wall guard. Provisional extended candidate; not a primary boss or final release admission."
+    },
+    {
+      "id": "er:b-elphael-courtyard-avatar",
+      "game": "base",
+      "region": "Miquella's Haligtree",
+      "name": "Putrid Avatar",
+      "location": "Elphael Inner Wall doorway",
+      "layerHint": "surface",
+      "hunt": "extended",
+      "category": "unique-elite",
+      "review": "classification-review",
+      "evidence": [
+        "elphael-courtyard-avatar-s21-1",
+        "elphael-courtyard-avatar-s21-2",
+        "elphael-courtyard-avatar-s21-3",
+        "elphael-courtyard-avatar-s21-4"
+      ],
+      "decision": "Distinct guard and reward corroborated by walkthrough and enemy page. Provisional extended candidate; not a primary boss or final release admission."
+    },
+    {
+      "id": "er:b-stormveil-elite-spirit",
+      "game": "base",
+      "region": "Stormveil Castle",
+      "name": "Ulcerated Tree Spirit",
+      "location": "Stormveil underground crypt via Liftside Chamber",
+      "layerHint": "surface",
+      "hunt": "extended",
+      "category": "unique-elite",
+      "review": "classification-review",
+      "evidence": [
+        "stormveil-spirit-s21-1",
+        "stormveil-spirit-s21-2",
+        "stormveil-spirit-s21-3"
+      ],
+      "decision": "Family non-respawn report plus specific crypt defeat reward; distinct from Fringefolk dungeon boss. Provisional extended candidate; not a primary boss or final release admission."
+    },
+    {
+      "id": "er:b-outskirts-elite-spirit",
+      "game": "base",
+      "region": "Capital Outskirts",
+      "name": "Ulcerated Tree Spirit",
+      "location": "Encampment south of Outer Wall Phantom Tree",
+      "layerHint": "surface",
+      "hunt": "extended",
+      "category": "unique-elite",
+      "review": "classification-review",
+      "evidence": [
+        "outskirts-spirit-s21-1",
+        "outskirts-spirit-s21-2",
+        "outskirts-spirit-s21-3"
+      ],
+      "decision": "Family non-respawn report and distinct location-specific table; not capital interior. Provisional extended candidate; not a primary boss or final release admission."
+    },
+    {
+      "id": "er:b-cloister-elite-spirit",
+      "game": "base",
+      "region": "Lake of Rot",
+      "name": "Putrid Tree Spirit",
+      "location": "Grand Cloister",
+      "layerHint": "underground",
+      "hunt": "extended",
+      "category": "unique-elite",
+      "review": "classification-review",
+      "evidence": [
+        "cloister-spirit-s21-1",
+        "cloister-spirit-s21-2",
+        "cloister-spirit-s21-3",
+        "cloister-spirit-s21-4"
+      ],
+      "decision": "Family non-respawn report and specific reward corroborated; one player reports persistent absence after automatic death and seed award. Provisional extended candidate; not a primary boss or final release admission."
+    },
+    {
+      "id": "er:b-drainage-elite-spirit",
+      "game": "base",
+      "region": "Miquella's Haligtree",
+      "name": "Putrid Tree Spirit",
+      "location": "Elphael rot pool near Drainage Channel",
+      "layerHint": "surface",
+      "hunt": "extended",
+      "category": "unique-elite",
+      "review": "classification-review",
+      "evidence": [
+        "drainage-spirit-s21-1",
+        "drainage-spirit-s21-2",
+        "drainage-spirit-s21-3",
+        "drainage-spirit-s21-4"
+      ],
+      "decision": "Quest walkthrough explicitly requires defeat then area reload, corroborating persistent defeat separate from both quest duels. Provisional extended candidate; not a primary boss or final release admission."
     }
   ]
 }

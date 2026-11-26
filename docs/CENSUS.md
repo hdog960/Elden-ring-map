@@ -41,3 +41,6 @@ Independent-of-Steam checklist comparison: all 167 base source rows (lines 35–
 
 ## Session 20
 Twelve row-specific extended research entries in data/census/extended-elite-review.json: ten prospective individual locations and two held groups (Yelough Anix Lords and Ashen Capital tree spirits). Distinct capital, Deeproot and Elphael avatars and five lesser tree spirits reviewed with location/reward corroboration; no new permanent IDs until respawn/flag criteria checked. Five guides refined, two numerical evidence rows added, 16 total; final encounter uses separate Radagon/Elden Beast phase tables under one ID. Exact patch still unqualified. No geography or permanent census change.
+
+## Session 21
+Nine provisional extended additions: Lake of Rot Alabaster Lord; Deeproot, capital and both Elphael avatars; Stormveil, outskirts, Grand Cloister and Drainage Channel spirits. Family-level non-respawn plus specific location/reward evidence supports provisional intake only; direct flag verification remains required for final adjudication. Three held (Yelough Lords, capital lower spirit, Ashen group). All 261 previous IDs preserved; 270 total, 207 primary/63 extended. Added shared-bar Ashen Godfrey combat research (17 records). No map additions.

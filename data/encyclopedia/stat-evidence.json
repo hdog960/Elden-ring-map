@@ -295,6 +295,19 @@
         "https://www.dexerto.com/elden-ring/elden-ring-radagon-guide-how-to-beat-the-elden-beast-1775869/"
       ],
       "note": "Distinct health bars, not additive stance; rune reward only on final victory. Exact regulation unverified."
+    },
+    {
+      "id": "er:b-hoarah",
+      "scope": "Ashen Capital, solo NG, shared health across transformation",
+      "health": 21903,
+      "stance": 120,
+      "runes": 300000,
+      "sources": [
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=3292574189",
+        "https://www.vcgamers.com/news/en/godfrey-elden-ring/",
+        "https://www.gamerguides.com/elden-ring/guide/leyndell-ashen-capital/bosses/how-to-beat-godfrey-first-elden-lord-hoarah-loux-warrior-in-the-elden-throne/"
+      ],
+      "note": "Not the golden shade; two published guides report shared HP, stance reported in VCGamers; reward corroborated by Gamer Guides. Exact regulation and source lineage remain unverified."
     }
   ],
   "limitations": [

@@ -1,5 +1,5 @@
 {
-  "version": "session20-20261125-a",
+  "version": "session21-20261125-a",
   "releaseReady": false,
   "assets": [
     {
@@ -35,6 +35,10 @@
       "gitBlob": "d1172fd0a99bae8df7f808b96335be0de72345aa"
     },
     {
+      "path": "data/census/extended-admission-review.json",
+      "gitBlob": "b7798c7a4a41d23d6d27d3bd2a65695df790f548"
+    },
+    {
       "path": "data/census/extended-elite-review.json",
       "gitBlob": "0699d723e04578e2735de7629d2dedd19971e601"
     },
@@ -48,7 +52,7 @@
     },
     {
       "path": "data/census/intake.json",
-      "gitBlob": "643584f7859ccd75d73506213d8da167b9083920"
+      "gitBlob": "ea1f9693be459c5f7e6f3595b7a9f1e8d0080573"
     },
     {
       "path": "data/census/release-audit.json",
@@ -56,15 +60,15 @@
     },
     {
       "path": "data/census/stable-ids.json",
-      "gitBlob": "0740c938c5256fd82d9fd59987fd49eb577901d7"
+      "gitBlob": "e3ffb2a19bac2674c2e67d5703fdc3deead962de"
     },
     {
       "path": "data/encyclopedia/drafts.json",
-      "gitBlob": "b7c69ddac98341c72a05b3e8af83c6f0942a82a8"
+      "gitBlob": "38881e6b5e6a2ec93cf066bc2cbf68d2d10a5ac9"
     },
     {
       "path": "data/encyclopedia/stat-evidence.json",
-      "gitBlob": "05562afc0ac602f9e2f2b404ae096d6e278ef44f"
+      "gitBlob": "2f38596131d8762b63fd831efa393d43113a702c"
     },
     {
       "path": "data/geography/compass-research.json",
