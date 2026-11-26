@@ -1,0 +1,1250 @@
+{
+  "schema": 1,
+  "status": "identity-corroboration-not-final",
+  "source": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+  "notes": "Line locators refer to fetched guide index 2026-11-25, not a direct video review or flag proof. Grouped rows can map to more than one encounter candidate. Location accuracy, provenance independence and full source set reconciliation remain outstanding.",
+  "matches": [
+    {
+      "id": "er:b-chapel-scion",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 113",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-tutorial-soldier",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 126",
+      "match": "source uses adjacent dungeon label"
+    },
+    {
+      "id": "er:b-limgrave-sentinel",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 132",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-groveside-beastman",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 94",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-stormfoot-watchdog",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 107",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-coastal-chiefs",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 105",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-fringefolk-spirit",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 134",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-agheel-dragon",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 109",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-limgrave-troll",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 128",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-murkwater-patches",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 124",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-murkwater-duelist",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 115",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-waypoint-pumpkin",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 119",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-darriwil",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 99",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-agheel-cavalry",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 122",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-summonwater-mariner",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 130",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-stormhill-crucible",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 101",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-warmaster-hunter",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 96",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-stormhill-deathbird",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 103",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-deathtouched-assassin",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 98",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-highroad-golem",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 117",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-margit",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 121",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-godrick",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 111",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-morne-leonine",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 147",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-weeping-zamor",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 138",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-tombsward-shade",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 140",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-tombsward-miranda",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 149",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-weeping-deathbird",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 142",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-weeping-avatar",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 144",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-impaler-watchdog",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 146",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-morne-cavalry",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 151",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-earthbore-runebear",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 153",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-morne-scaly",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 155",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-adan",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 159",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-alecto",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 161",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-vows-hunter",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 163",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-blackknife-assassin",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 165",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-blackknife-shade",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 170",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-lakeside-bloodhound",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 167",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-bols",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 169",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-stillwater-cleanrot",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 172",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-academy-crystalians",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 176",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-raya-crystalian",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 174",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-liurnia-deathbird",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 178",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-liurnia-deathrite",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 180",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-east-liurnia-avatar",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 182",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-west-liurnia-avatar",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 184",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-cliffbottom-watchdog",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 186",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-adula",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 190",
+      "match": "final encounter; first retreat at line 188 excluded"
+    },
+    {
+      "id": "er:b-smarag",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 191",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-gatetown-cavalry",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 197",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-bellum-cavalry",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 195",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-albinauric-omenkiller",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 199",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-royalgrave-onyx",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 201",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-kingsrealm-revenant",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 209",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-roadsend-snail",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 211",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-liurnia-mariner",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 213",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-caria-loretta",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 207",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-raya-wolf",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 203",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-rennala",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 205",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-makar",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 193",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-radahn",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 262",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-redmane-duo",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 249",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-caelid-shade",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 224",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-abandoned-cleanrots",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 226",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-oneil",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 228",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-caelid-deathrite",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 230",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-ekzykes",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 232",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-minorerdtree-watchdogs",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 235",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-sellia-beast",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 237",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-gaol-duelist",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 241",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-gael-wyrm",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 247",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-caelid-cavalry",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 251",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-nox-duo",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 254",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-caelid-avatar",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 234",
+      "match": "name correction"
+    },
+    {
+      "id": "er:b-sellia-crystalians",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 258",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-wardead-spirit",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 260",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-caelem-pumpkins",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 245",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-dragonbarrow-beastmen",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 218",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-dragonbarrow-hunter",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 220",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-sanctum-kindred",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 222",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-greyll",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 239",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-tower-apostle",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 243",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-dragonbarrow-cavalry",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 253",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-dragonbarrow-avatar",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 256",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-sellia-battlemage",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 216",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-lansseax",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 266",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-altus-cavalry",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 289",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-sainted-zamor",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 268",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-sainted-assassin",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 270",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-altus-crystalians",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 274",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-gilika",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 275",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-altus-beast",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 281",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-godefroy",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 283",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-dominula-apostle",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 285",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-garris",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 287",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-sages-assassin",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 272",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-perfumer-grotto-duo",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 291",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-tricia-duo",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 293",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-sanguine",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 295",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-oldaltus-troll",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 296",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-wyndham-mariner",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 298",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-wyndham-watchdog",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 279",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-wormface",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 302",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-elemer",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 277",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-altus-sentinels",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 300",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-capital-draconic",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 333",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-capital-hunter",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 327",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-capital-deathbird",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 331",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-ordovis-duo",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 329",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-auriza-duelist",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 340",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-sealed-onyx",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 346",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-maggie",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 308",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-margot",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 310",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-fullgrown-beast",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 312",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-seethewater-kindred",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 318",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-gelmir-wyrm",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 319",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-gelmir-wolf",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 321",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-gelmir-spirit",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 323",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-abductors",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 306",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-eiglay-noble",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 316",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-rykard",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 314",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-godfrey-shade",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 339",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-morgott",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 344",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-esgar",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 335",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-mohg-omen",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 342",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-fell-twins",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 337",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-forbidden-kindred",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 352",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-forbidden-cavalry",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 365",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-niall",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 356",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-fire-giant",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 361",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-giantgrave-zamor",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 350",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-borealis",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 354",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-mountaintops-deathrite",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 358",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-mountaintops-avatar",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 360",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-spiritcaller-cave",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 363",
+      "match": "summoned phases named by source"
+    },
+    {
+      "id": "er:b-vyke",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 367",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-giants-spirit",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 369",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-stray-mimic",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 386",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-snowfield-astel",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 373",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-snowfield-deathrite",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 375",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-theodorix",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 377",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-forlorn-crusader",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 378",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-snowfield-cavalry",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 380",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-snowfield-avatar",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 382",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-snowfield-duelist",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 384",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-haligtree-loretta",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 424",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-malenia",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 426",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-godskin-duo",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 434",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-placidusax",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 432",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-maliketh",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 430",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-gideon",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 438",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-hoarah",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 439",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-elden-beast",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 441",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-ancestor",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 390",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-siofra-dragonkin",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 392",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-mimic",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 400",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-regal-ancestor",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 401",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-valiant-gargoyles",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 403",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-nokstella-dragonkin",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 396",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-rot-dragonkin",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 409",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-naturalborn",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 407",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-siluria",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 417",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-fia-champions",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 419",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-fortissax",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 421",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:b-mohg-blood",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 413",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:d-blackgaol",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 445",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:d-belurat-lion",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 447",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:d-plain-ghostflame",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 451",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:d-onze",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 449",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:d-fogrifts-deathknight",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 455",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:d-rellana",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 456",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:d-chief-bloodfiend",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 477",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:d-dragon-man",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 458",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:d-garrew",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 470",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:d-edredd",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 453",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:d-ralva",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 479",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:d-altus-ghostflame",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 472",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:d-dane",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 474",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:d-labirith",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 476",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:d-metyr",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 517",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:d-ymir",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 519",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:d-hippo",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 481",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:d-messmer",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 483",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:d-gaius",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 487",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:d-avatar",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 489",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:d-hinterland-sentinel-shield",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 504",
+      "match": "grouped source entry; split pending defeat-flag check"
+    },
+    {
+      "id": "er:d-hinterland-sentinel-torch",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 504",
+      "match": "grouped source entry; split pending defeat-flag check"
+    },
+    {
+      "id": "er:d-hinterland-beast",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 506",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:d-rakshasa",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 510",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:d-jori",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 508",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:d-midra",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 512",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:d-ranah",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 502",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:d-marigga",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 493",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:d-coast-ghostflame",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 491",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:d-putrescent",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 495",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:d-charo-bird",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 466",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:d-lamenter",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 468",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:d-redbear",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 485",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:d-rugalea",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 496",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:d-scorpion-deathknight",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 498",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:d-rauh-lion",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 514",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:d-romina",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 516",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:d-drake-solo",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 460",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:d-drake-duo",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 462",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:d-senessax",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 500",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:d-bayle",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 464",
+      "match": "encounter identity and area matched; precise location not verified"
+    },
+    {
+      "id": "er:d-consort",
+      "source": "steamVideoGuide",
+      "locator": "guide index line 521",
+      "match": "encounter identity and area matched; precise location not verified"
+    }
+  ]
+}

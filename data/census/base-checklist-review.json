@@ -1,0 +1,847 @@
+{
+  "schema": 1,
+  "status": "source-inventory-reconciled-identities-only",
+  "source": "https://game-checklists.com/elden-ring/all-bosses/",
+  "scope": "167 base checklist rows, 165 distinct IDs, inspected 2026-11-25 local",
+  "records": [
+    {
+      "locator": "fetched source line 35",
+      "id": "er:b-tutorial-soldier",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 36",
+      "id": "er:b-fringefolk-spirit",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 37",
+      "id": "er:b-limgrave-sentinel",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 38",
+      "id": "er:b-stormfoot-watchdog",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 39",
+      "id": "er:b-groveside-beastman",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 40",
+      "id": "er:b-coastal-chiefs",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 41",
+      "id": "er:b-agheel-dragon",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 42",
+      "id": "er:b-limgrave-troll",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 43",
+      "id": "er:b-murkwater-patches",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 44",
+      "id": "er:b-murkwater-duelist",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 45",
+      "id": "er:b-agheel-cavalry",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 46",
+      "id": "er:b-waypoint-pumpkin",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 47",
+      "id": "er:b-darriwil",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 53",
+      "id": "er:b-morne-cavalry",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 54",
+      "id": "er:b-weeping-deathbird",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 55",
+      "id": "er:b-morne-leonine",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 56",
+      "id": "er:b-impaler-watchdog",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 57",
+      "id": "er:b-earthbore-runebear",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 58",
+      "id": "er:b-morne-scaly",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 59",
+      "id": "er:b-weeping-avatar",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 60",
+      "id": "er:b-tombsward-shade",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 61",
+      "id": "er:b-tombsward-miranda",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 62",
+      "id": "er:b-weeping-zamor",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 68",
+      "id": "er:b-stormhill-crucible",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 69",
+      "id": "er:b-warmaster-hunter",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 70",
+      "id": "er:b-stormhill-deathbird",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 71",
+      "id": "er:b-deathtouched-assassin",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 72",
+      "id": "er:b-highroad-golem",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 73",
+      "id": "er:b-summonwater-mariner",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 79",
+      "id": "er:b-margit",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 80",
+      "id": "er:b-godrick",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 81",
+      "id": "er:b-chapel-scion",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 88",
+      "id": "er:b-stillwater-cleanrot",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 89",
+      "id": "er:b-cliffbottom-watchdog",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 90",
+      "id": "er:b-gatetown-cavalry",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 91",
+      "id": "er:b-liurnia-mariner",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 92",
+      "id": "er:b-vows-hunter",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 93",
+      "id": "er:b-adan",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 94",
+      "id": "er:b-lakeside-bloodhound",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 95",
+      "id": "er:b-liurnia-deathbird",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 96",
+      "id": "er:b-liurnia-deathrite",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 97",
+      "id": "er:b-albinauric-omenkiller",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 98",
+      "id": "er:b-west-liurnia-avatar",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 99",
+      "id": "er:b-roadsend-snail",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 100",
+      "id": "er:b-bols",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 101",
+      "id": "er:b-smarag",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 102",
+      "id": "er:b-academy-crystalians",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 103",
+      "id": "er:b-adula",
+      "status": "linked encounter stage; one permanent ID"
+    },
+    {
+      "locator": "fetched source line 104",
+      "id": "er:b-alecto",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 110",
+      "id": "er:b-raya-wolf",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 111",
+      "id": "er:b-rennala",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 117",
+      "id": "er:b-raya-crystalian",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 118",
+      "id": "er:b-bellum-cavalry",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 119",
+      "id": "er:b-east-liurnia-avatar",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 120",
+      "id": "er:b-blackknife-shade",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 121",
+      "id": "er:b-blackknife-assassin",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 122",
+      "id": "er:b-kingsrealm-revenant",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 123",
+      "id": "er:b-caria-loretta",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 124",
+      "id": "er:b-adula",
+      "status": "linked encounter stage; one permanent ID"
+    },
+    {
+      "locator": "fetched source line 125",
+      "id": "er:b-royalgrave-onyx",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 126",
+      "id": "er:b-makar",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 132",
+      "id": "er:b-caelid-avatar",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 133",
+      "id": "er:b-minorerdtree-watchdogs",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 134",
+      "id": "er:b-caelem-pumpkins",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 135",
+      "id": "er:b-gael-wyrm",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 136",
+      "id": "er:b-gaol-duelist",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 137",
+      "id": "er:b-abandoned-cleanrots",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 138",
+      "id": "er:b-ekzykes",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 139",
+      "id": "er:b-caelid-shade",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 140",
+      "id": "er:b-caelid-cavalry",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 141",
+      "id": "er:b-caelid-deathrite",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 142",
+      "id": "er:b-redmane-duo",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 143",
+      "id": "er:b-radahn",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 144",
+      "id": "er:b-wardead-spirit",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 145",
+      "id": "er:b-oneil",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 146",
+      "id": "er:b-nox-duo",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 147",
+      "id": "er:b-sellia-beast",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 148",
+      "id": "er:b-sellia-crystalians",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 154",
+      "id": "er:b-sellia-battlemage",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 155",
+      "id": "er:b-dragonbarrow-hunter",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 156",
+      "id": "er:b-tower-apostle",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 157",
+      "id": "er:b-dragonbarrow-avatar",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 158",
+      "id": "er:b-dragonbarrow-beastmen",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 159",
+      "id": "er:b-greyll",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 160",
+      "id": "er:b-dragonbarrow-cavalry",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 161",
+      "id": "er:b-sanctum-kindred",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 168",
+      "id": "er:b-lansseax",
+      "status": "linked encounter stage; one permanent ID"
+    },
+    {
+      "locator": "fetched source line 169",
+      "id": "er:b-garris",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 170",
+      "id": "er:b-sages-assassin",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 171",
+      "id": "er:b-tricia-duo",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 172",
+      "id": "er:b-wyndham-mariner",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 173",
+      "id": "er:b-wyndham-watchdog",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 174",
+      "id": "er:b-oldaltus-troll",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 175",
+      "id": "er:b-elemer",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 176",
+      "id": "er:b-gilika",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 177",
+      "id": "er:b-godefroy",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 178",
+      "id": "er:b-altus-cavalry",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 179",
+      "id": "er:b-altus-beast",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 180",
+      "id": "er:b-perfumer-grotto-duo",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 181",
+      "id": "er:b-altus-crystalians",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 182",
+      "id": "er:b-wormface",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 183",
+      "id": "er:b-sanguine",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 184",
+      "id": "er:b-dominula-apostle",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 185",
+      "id": "er:b-lansseax",
+      "status": "linked encounter stage; one permanent ID"
+    },
+    {
+      "locator": "fetched source line 186",
+      "id": "er:b-sainted-assassin",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 187",
+      "id": "er:b-sainted-zamor",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 193",
+      "id": "er:b-altus-sentinels",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 194",
+      "id": "er:b-sealed-onyx",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 195",
+      "id": "er:b-capital-deathbird",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 196",
+      "id": "er:b-capital-hunter",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 197",
+      "id": "er:b-auriza-duelist",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 198",
+      "id": "er:b-ordovis-duo",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 199",
+      "id": "er:b-capital-draconic",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 207",
+      "id": "er:b-godfrey-shade",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 208",
+      "id": "er:b-morgott",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 209",
+      "id": "er:b-esgar",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 210",
+      "id": "er:b-mohg-omen",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 211",
+      "id": "er:b-fell-twins",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 212",
+      "id": "er:b-gideon",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 213",
+      "id": "er:b-hoarah",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 214",
+      "id": "er:b-elden-beast",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 222",
+      "id": "er:b-gelmir-wolf",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 223",
+      "id": "er:b-margot",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 224",
+      "id": "er:b-fullgrown-beast",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 225",
+      "id": "er:b-gelmir-spirit",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 226",
+      "id": "er:b-eiglay-noble",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 227",
+      "id": "er:b-rykard",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 228",
+      "id": "er:b-seethewater-kindred",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 229",
+      "id": "er:b-gelmir-wyrm",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 230",
+      "id": "er:b-maggie",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 231",
+      "id": "er:b-abductors",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 237",
+      "id": "er:b-forbidden-cavalry",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 238",
+      "id": "er:b-forbidden-kindred",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 239",
+      "id": "er:b-giants-spirit",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 240",
+      "id": "er:b-mountaintops-deathrite",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 241",
+      "id": "er:b-niall",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 242",
+      "id": "er:b-mountaintops-avatar",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 243",
+      "id": "er:b-borealis",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 244",
+      "id": "er:b-spiritcaller-cave",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 245",
+      "id": "er:b-vyke",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 246",
+      "id": "er:b-giantgrave-zamor",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 247",
+      "id": "er:b-fire-giant",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 253",
+      "id": "er:b-stray-mimic",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 254",
+      "id": "er:b-snowfield-duelist",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 255",
+      "id": "er:b-snowfield-cavalry",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 256",
+      "id": "er:b-snowfield-astel",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 257",
+      "id": "er:b-theodorix",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 258",
+      "id": "er:b-forlorn-crusader",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 259",
+      "id": "er:b-snowfield-avatar",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 260",
+      "id": "er:b-snowfield-deathrite",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 266",
+      "id": "er:b-haligtree-loretta",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 267",
+      "id": "er:b-malenia",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 275",
+      "id": "er:b-godskin-duo",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 276",
+      "id": "er:b-placidusax",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 277",
+      "id": "er:b-maliketh",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 283",
+      "id": "er:b-siofra-dragonkin",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 284",
+      "id": "er:b-ancestor",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 285",
+      "id": "er:b-mimic",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 286",
+      "id": "er:b-regal-ancestor",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 287",
+      "id": "er:b-valiant-gargoyles",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 294",
+      "id": "er:b-mohg-blood",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 302",
+      "id": "er:b-nokstella-dragonkin",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 303",
+      "id": "er:b-rot-dragonkin",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 304",
+      "id": "er:b-naturalborn",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 312",
+      "id": "er:b-siluria",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 313",
+      "id": "er:b-fia-champions",
+      "status": "identity correspondence"
+    },
+    {
+      "locator": "fetched source line 314",
+      "id": "er:b-fortissax",
+      "status": "identity correspondence"
+    }
+  ],
+  "limitations": [
+    "Adula and Lansseax each have two source rows but one permanent ID. No new defeat flags admitted.",
+    "Checklist excludes non-boss-bar enemies but its DLC inclusion of Charo Mariner contradicts its own criterion. Identity reconciliation does not prove completeness, independence, access, exact geography or patch-specific rewards."
+  ]
+}

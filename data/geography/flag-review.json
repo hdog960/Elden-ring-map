@@ -1,0 +1,273 @@
+{
+  "schema": 1,
+  "status": "research-only",
+  "source": "https://soulsmodding.com/doku.php?id=er-refmat:event-flag-list",
+  "decisions": [
+    {
+      "id": "er:b-siluria",
+      "sourceRow": 9,
+      "defeatFlag": 12020390,
+      "identityEvidence": [
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat:event-flag-list",
+          "locator": "12020390"
+        },
+        {
+          "url": "https://eldenring.wiki.gg/wiki/Crucible_Knight_Siluria",
+          "locator": "Deeproot Depths Crucible Knight; named Siluria in independent encounter guide"
+        }
+      ],
+      "projection": {
+        "layer": "underground",
+        "x": 3946.7919921875,
+        "y": 3236.6730041503906
+      }
+    },
+    {
+      "id": "er:b-stray-mimic",
+      "sourceRow": 63,
+      "defeatFlag": 30200810,
+      "identityEvidence": [
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat:event-flag-list",
+          "locator": "30200810"
+        },
+        {
+          "url": "https://eldenring.wiki.gg/wiki/Mimic_Tear",
+          "locator": "Stray Mimic Tear (Hidden Path to the Haligtree)"
+        }
+      ],
+      "projection": {
+        "layer": "surface",
+        "x": 5414.310997009277,
+        "y": 2952.3909912109375
+      }
+    },
+    {
+      "id": "er:d-avatar",
+      "sourceRow": 203,
+      "defeatFlag": 2050480800,
+      "identityEvidence": [
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat:event-flag-list",
+          "locator": "2050480800"
+        },
+        {
+          "url": "https://eldenring.wiki.gg/wiki/Scadutree_Avatar",
+          "locator": "Scadutree Avatar (Scaduview)"
+        }
+      ],
+      "projection": {
+        "layer": "shadow",
+        "x": 5709.319999694824,
+        "y": 4137.330001831055
+      }
+    },
+    {
+      "id": "er:b-chapel-scion",
+      "sourceRow": 2,
+      "defeatFlag": 10010800,
+      "identityEvidence": [
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat:event-flag-list",
+          "locator": "10010800"
+        },
+        {
+          "url": "https://soulsmodding.com/doku.php?id=er-refmat:map-name-list",
+          "locator": "Grafted Scion in Chapel of Anticipation; no legacy conversion currently present"
+        }
+      ],
+      "projection": null
+    }
+  ],
+  "unresolved": [
+    {
+      "id": "er:b-chapel-scion",
+      "sourceRow": 2,
+      "mapId": "m10_01_00_00"
+    },
+    {
+      "id": "er:b-ancestor",
+      "sourceRow": 17,
+      "mapId": "m12_08_00_00"
+    },
+    {
+      "id": "er:b-regal-ancestor",
+      "sourceRow": 18,
+      "mapId": "m12_09_00_00"
+    },
+    {
+      "id": "er:b-malenia",
+      "sourceRow": 24,
+      "mapId": "m15_00_00_00"
+    },
+    {
+      "id": "er:b-haligtree-loretta",
+      "sourceRow": 25,
+      "mapId": "m15_00_00_00"
+    },
+    {
+      "id": "er:b-elden-beast",
+      "sourceRow": 31,
+      "mapId": "m19_00_00_00"
+    }
+  ],
+  "held": [
+    {
+      "sourceRow": 52,
+      "defeatFlag": 30100800,
+      "mapId": "m30_10_00_00",
+      "name": "Crucible Knight Ordovis"
+    },
+    {
+      "sourceRow": 55,
+      "defeatFlag": 30120800,
+      "mapId": "m30_12_00_00",
+      "name": "Misbegotten Warrior"
+    },
+    {
+      "sourceRow": 89,
+      "defeatFlag": 32050800,
+      "mapId": "m32_05_00_00",
+      "name": "Crystalian (Ringblade)"
+    },
+    {
+      "sourceRow": 112,
+      "defeatFlag": 1034500800,
+      "mapId": "m60_34_50_00",
+      "name": "Glintstone Dragon Adula"
+    },
+    {
+      "sourceRow": 122,
+      "defeatFlag": 1037510800,
+      "mapId": "m60_37_51_00",
+      "name": "Ancient Dragon Lansseax"
+    },
+    {
+      "sourceRow": 202,
+      "defeatFlag": 2050470800,
+      "mapId": "m61_50_47_00",
+      "name": "Tree Sentinel"
+    },
+    {
+      "sourceRow": 204,
+      "defeatFlag": 2050480860,
+      "mapId": "m61_50_48_00",
+      "name": "Tree Sentinel"
+    }
+  ],
+  "remainingIDs": [
+    "er:d-dane",
+    "er:d-hinterland-sentinel-shield",
+    "er:d-hinterland-sentinel-torch",
+    "er:b-greyoll",
+    "er:b-mountaintops-mariner",
+    "er:b-towerbridge-noble",
+    "er:b-manor-lower-wyrm",
+    "er:d-jolan",
+    "er:d-dragon-man-invader",
+    "er:d-furnace-plain",
+    "er:d-furnace-ellac",
+    "er:d-furnace-keep",
+    "er:d-furnace-east",
+    "er:d-furnace-rauh",
+    "er:d-furnace-watering",
+    "er:d-furnace-unte",
+    "er:d-furnace-charo",
+    "er:d-charo-mariner",
+    "er:d-dragons-pit-wyrm",
+    "er:d-queelign-belurat",
+    "er:d-queelign-church",
+    "er:d-hippo-charo",
+    "er:d-hippo-river-one",
+    "er:d-hippo-river-two",
+    "er:d-hippo-rauh",
+    "er:b-inv-nerijus",
+    "er:b-inv-anastasia-church",
+    "er:b-inv-anastasia-shack",
+    "er:b-inv-anastasia-snow",
+    "er:b-inv-edgar",
+    "er:b-inv-vyke",
+    "er:b-inv-millicent",
+    "er:b-inv-eleonora",
+    "er:b-inv-bernahl",
+    "er:b-inv-sanguine",
+    "er:b-contract-istvan",
+    "er:b-contract-rileigh",
+    "er:b-contract-tragoth",
+    "er:b-contract-vargram-wilhelm",
+    "er:b-contract-juno",
+    "er:b-inv-ghiza",
+    "er:b-inv-henricus",
+    "er:b-inv-alberich",
+    "er:b-inv-dungeater",
+    "er:b-inv-tanith-knight",
+    "er:b-inv-okina",
+    "er:b-inv-whitemask-one",
+    "er:b-inv-whitemask-two",
+    "er:b-inv-whitemask-three",
+    "er:b-greatjar",
+    "er:b-magnus",
+    "er:b-varre-duel",
+    "er:b-capital-margit",
+    "er:b-farum-draconic",
+    "er:b-millicent-sisters",
+    "er:b-millicent-challenge"
+  ],
+  "notes": [
+    "Sentinel equipment-to-flag mapping not confirmed; retain both unassigned. No actual independent position survey or terrain outlines.",
+    "Session 17: 149 and 151 are location/reward-matched candidates only; retain shared upstream flag verbatim and do not assign it as a defeat ID for either. Both Hinterland Sentinel equipment identities remain unresolved."
+  ],
+  "sourceConflicts": [
+    {
+      "sourceRow": 149,
+      "id": "er:b-altus-cavalry",
+      "sourceFlag": 1043530800,
+      "sourceName": "Bell Bearing Hunter",
+      "runes": 10000,
+      "evidence": [
+        {
+          "url": "https://gist.github.com/gracenotes/745ee2d07878f81067fc23f43670a808/2998ef66b03b8666099825de1b74822d4b1f32e7",
+          "locator": "line 2323; m60_39_51_00; NPC 1039510800"
+        },
+        {
+          "url": "https://plarium.com/en/blog/elden-ring-boss-locations/",
+          "locator": "Altus Plateau Night's Cavalry; 10,000 runes"
+        }
+      ],
+      "note": "Source label and shared flag conflict; tile and bounty match Altus Highway Junction Night's Cavalry. Actual defeat-flag linkage is unverified.",
+      "projection": {
+        "layer": "surface",
+        "x": 2927.25,
+        "y": 3566.629997253418
+      }
+    },
+    {
+      "sourceRow": 151,
+      "id": "er:b-capital-deathbird",
+      "sourceFlag": 1043530800,
+      "sourceName": "Bell Bearing Hunter",
+      "runes": 29000,
+      "evidence": [
+        {
+          "url": "https://eldenring.wiki.gg/wiki/Deathbird",
+          "locator": "Capital Outskirts, cliff east of Hermit Merchant's Shack overlooking Minor Erdtree"
+        },
+        {
+          "url": "https://www.neoseeker.com/elden-ring/Bosses/Deathbird",
+          "locator": "Capital Outskirts; 29,000 runes and Twinbird Kite Shield"
+        },
+        {
+          "url": "https://gist.github.com/gracenotes/745ee2d07878f81067fc23f43670a808/2998ef66b03b8666099825de1b74822d4b1f32e7",
+          "locator": "m60_44_53_00 Minor Erdtree tile, lines 3249–3262"
+        }
+      ],
+      "note": "Source label and shared flag conflict; reward and tile corroborate Capital Outskirts Deathbird. Actual defeat-flag linkage and exact position not independently verified.",
+      "projection": {
+        "layer": "surface",
+        "x": 4200.420000076294,
+        "y": 2868.0100021362305
+      }
+    }
+  ]
+}

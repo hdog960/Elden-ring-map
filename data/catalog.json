@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "version": "development-0",
+  "releaseReady": false,
+  "audit": {
+    "reconciled": false,
+    "geographyVerified": false,
+    "licensesVerified": false
+  },
+  "encounters": [],
+  "layers": [],
+  "mvpReady": true,
+  "mvpVersion": "mvp-20261126-v1"
+}

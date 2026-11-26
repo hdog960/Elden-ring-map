@@ -1,0 +1,41 @@
+{
+  "schema": 1,
+  "status": "provisional-church-district-review",
+  "records": [
+    {
+      "id": "er:d-church-tree-spirit-mantle",
+      "location": "Drained Church District, circular courtyard with large tree",
+      "reward": "Mantle of Thorns; 22,218 runes reported by EIP Gaming.",
+      "sources": [
+        "https://eldenring.fandom.com/wiki/Shadow_Tree_Spirit",
+        "https://eip.gg/elden-ring/guides/shadow-keep/",
+        "https://tarnishedsaga.com/locations/shadow-keep-church-district/",
+        "https://vulkk.com/2024/07/12/shadow-of-the-erdtree-shadow-keep-all-unique-item-locations/"
+      ],
+      "reason": "Family source explicitly identifies two non-respawning Church District spirits; separate walkthrough distinguishes this courtyard enemy and reward."
+    },
+    {
+      "id": "er:d-church-tree-spirit-iris",
+      "location": "Drained Church District, northern street beyond crab building",
+      "reward": "Iris of Occultation; 22,218 runes reported by EIP Gaming.",
+      "sources": [
+        "https://eldenring.fandom.com/wiki/Shadow_Tree_Spirit",
+        "https://eip.gg/elden-ring/guides/shadow-keep/",
+        "https://tarnishedsaga.com/locations/shadow-keep-church-district/",
+        "https://eldenring.wiki.gg/wiki/Iris_of_Occultation",
+        "https://www.reddit.com/r/Eldenring/comments/1dnr4z9/dlc_tree_spirit_in_shadow_keep_church_district/"
+      ],
+      "reason": "Distinct second non-respawning spirit; player reports of automatic defeat/iris reward are not proof of a manually fought encounter. Exact event flag pending."
+    }
+  ],
+  "held": [
+    {
+      "name": "Logur, the Beast Claw",
+      "reason": "Fandom full page now inspected: named hostile NPC, distinct drop, optional unmarked boss, but no explicit permanence statement; prior hold retained.",
+      "sources": [
+        "https://eldenring.fandom.com/wiki/Logur%2C_the_Beast_Claw",
+        "https://eip.gg/elden-ring/guides/gravesite-plain/"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "schema": 1,
+  "status": "research-only",
+  "source": "https://github.com/Kolbxyz/elden-ring-compass-plus/blob/main/packages/data/src/generated/bosses.ts",
+  "blob": "54ad37c3259744905e476d2c8570f2a326dcb31d",
+  "rights": "MIT root software license; underlying generated game data and vendored upstream rights reviewed separately; no coordinate dataset imported.",
+  "summary": {
+    "arenaRows": 212,
+    "distinctFlags": 207,
+    "namedRows": 202,
+    "unnamedRows": 10,
+    "repeatedFlagGroups": [
+      {
+        "flag": 30100800,
+        "name": "Crucible Knight Ordovis",
+        "rows": 2
+      },
+      {
+        "flag": 30120800,
+        "name": "Misbegotten Warrior",
+        "rows": 2
+      },
+      {
+        "flag": 32050800,
+        "name": "Crystalian (Ringblade)",
+        "rows": 2
+      },
+      {
+        "flag": 1043530800,
+        "name": "Bell Bearing Hunter",
+        "rows": 3
+      }
+    ]
+  },
+  "observations": [
+    {
+      "id": "er:d-hinterland-sentinel-shield",
+      "sourceName": "Tree Sentinel",
+      "mapId": "m61_50_47_00",
+      "flag": 2050470800,
+      "status": "corroboration-only"
+    },
+    {
+      "id": "er:d-hinterland-sentinel-torch",
+      "sourceName": "Tree Sentinel",
+      "mapId": "m61_50_48_00",
+      "flag": 2050480860,
+      "status": "corroboration-only"
+    },
+    {
+      "id": "er:b-tutorial-soldier",
+      "sourceName": "Soldier of Godrick",
+      "mapId": "m18_00_00_00",
+      "flag": 18000850,
+      "status": "corroboration-only"
+    }
+  ],
+  "cautions": [
+    "Sentinel source map IDs have not been matched to shield versus torch equipment independently; pair confirms two candidate flags, not equipment mapping.",
+    "Retreating Adula and Lansseax have two arena rows apiece; no independent completion inferred.",
+    "Multiple Bell Bearing Hunter rows reuse one flag in this extraction, so no raw flag count or deduplication by flag alone is acceptable.",
+    "Dryleaf Dane is not named in the extracted arena list; retain existing candidate until direct health-bar evidence."
+  ]
+}

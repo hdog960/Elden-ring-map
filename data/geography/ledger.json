@@ -1,0 +1,64 @@
+{
+  "schema": 1,
+  "status": "permission-granted-research-projection-not-admitted",
+  "layers": [],
+  "positions": [],
+  "leads": [
+    {
+      "url": "https://github.com/EthanShoeDev/elden-ring-compass",
+      "finding": "Written permission verified in issue #13, comment #7180600988. Pinned source cd0f6093cd1990803287445e330cd1cabb5694ea; factual subset staged separately in compass-research.json; no final ledger admission."
+    },
+    {
+      "url": "https://github.com/egormagurin/EldenRingMap",
+      "finding": "GameAreaParam and map transform extraction; raw game art is not cleared for redistribution."
+    },
+    {
+      "url": "https://github.com/EldenRingDatabase/erdb",
+      "finding": "Game-derived parser and map extraction; code license does not establish map artwork rights."
+    },
+    {
+      "url": "https://github.com/hakkache/Elden-Ring-Dataset-API",
+      "finding": "Claims CC0 for underlying Kaggle data; coordinate coverage and upstream chain of rights not established. No data imported."
+    },
+    {
+      "url": "https://github.com/VirusAlex/ERR-MapForGoblins-DLL",
+      "finding": "MIT-style software and icon licensing reported; generation from installed game and mod variants. No verified vanilla boss coordinate table with explicit independent rights review."
+    },
+    {
+      "url": "https://www.eldenringcompass.com/",
+      "finding": "Live read-only save analyzer and map, no explicit redistributable coordinate grant located."
+    },
+    {
+      "url": "https://tarnishedsaga.com/tools/elden-ring-map/",
+      "finding": "Author describes original map based on game coordinates; no reuse grant established."
+    },
+    {
+      "url": "https://github.com/Hapfel1/er-save-manager",
+      "finding": "Concrete 207-key vanilla boss_locations.json, blob f42d28191a57f3a66fc3a949bb975bc09ea38675. Current LICENSE since 2026-07-22 explicitly forbids redistribution/use in another project absent written permission. boss_locations.py documents fallback tile centers for some roaming bosses. Rejected for publication; no rows imported."
+    },
+    {
+      "url": "https://github.com/CreateDDy/EldenRing_MapInteractive",
+      "finding": "MIT root license and DATA files present; upstream provenance of map art and positions not established. No rows imported."
+    },
+    {
+      "url": "https://github.com/Kolbxyz/elden-ring-compass-plus",
+      "finding": "MIT root LICENSE; generated bosses.ts 54ad37c3259744905e476d2c8570f2a326dcb31d contains 212 GameAreaParam arena rows, 207 distinct flags; extractor and vendored provenance reviewed. Generated positions not admitted: source rights chain, map transforms and entrance calibration not confirmed."
+    },
+    {
+      "url": "https://github.com/AlperTrsc/elden-ring-grace-tracker",
+      "finding": "Claims 141 boss arenas calibrated to official map images; root listing has no LICENSE. No import."
+    },
+    {
+      "url": "https://github.com/elpwc/eldenringonlinemap",
+      "finding": "MIT software license, README describes community database. database directory contains initialization schema and maintenance SQL only; no boss position dump located in inspected directory. No coordinates or artwork imported."
+    },
+    {
+      "url": "https://github.com/sayheyakanksha/elden-ring-data-story-tableau",
+      "finding": "boss_locations_details.csv blob 7872fd839f05d3da093f9d6704680cdc369b6195 inspected: repeated identical X/Y values across unrelated Limgrave and Weeping bosses, regional visualization rather than true coordinates. No root license located. Rejected; no positions or art copied."
+    },
+    {
+      "url": "https://github.com/aether-auto/er-guide",
+      "finding": "README explicitly attributes copied map tiles and marker coordinates to Fextralife extraction. Attribution alone does not establish redistribution permission; no import."
+    }
+  ]
+}

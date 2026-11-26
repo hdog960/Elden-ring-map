@@ -1,0 +1,4887 @@
+{
+  "schema": 1,
+  "status": "candidate-not-release",
+  "sources": {
+    "checklist": "https://game-checklists.com/elden-ring/all-bosses/",
+    "forge": "https://tarnishedforge.com/bosses",
+    "baseCommunity": "https://www.reddit.com/r/Eldenring/comments/u7r3gs/all_bosses_checklist_updated_and_correct_165/",
+    "dlcCommunity": "https://www.reddit.com/r/Eldenring/comments/1dn09en/list_of_every_true_boss_in_shadow_of_the_erdtree/",
+    "pcg": "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+    "polygon": "https://www.polygon.com/elden-ring-shadow-erdtree-guide/24180254/all-dlc-boss-locations-bosses-in-order",
+    "steamVideoGuide": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+    "caelidGuide": "https://www.gamerguides.com/elden-ring/guide/caelid/bosses/all-bosses-and-elite-enemies-in-caelid",
+    "onyxWiki": "https://eldenring.wiki.gg/wiki/Onyx_Lord",
+    "marinerGuide": "https://www.neoseeker.com/elden-ring-shadow-of-the-erdtree/Optional_Bosses/Tibia_Mariner",
+    "wyrmGuide": "https://www.neoseeker.com/elden-ring-shadow-of-the-erdtree/Optional_Bosses/Magma_Wyrm",
+    "queelignWiki": "https://eldenring.wiki.gg/wiki/Fire_Knight_Queelign_(NPC)",
+    "queelignGuide": "https://eldenring.exputer.com/quests/fire-knight-queelign-s-quest",
+    "fragments": "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-all-scadutree-fragment-locations/",
+    "hippoGuide": "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+    "hippoWalk": "https://eldenring.redmaw.dev/sheets/dlc-walkthrough",
+    "invaderGuide": "https://video-game-guide-walkthrough.supersoluce.com/solution/elden-ring-guide-walkthrough/summons-and-invasions/invasions/",
+    "invaderGuide2": "https://segmentnext.com/elden-ring/mechanics/npc-invader",
+    "anastasiaWiki": "https://eldenring.wiki.gg/wiki/Anastasia%2C_Tarnished-Eater",
+    "invaderVideo": "https://www.youtube.com/watch?v=nTVxkcRnRTQ",
+    "furnaceWiki": "https://eldenring.wiki.gg/wiki/Furnace_Golem",
+    "furnaceGuide": "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-all-furnace-golem-locations-walking-fire-giants/",
+    "furnaceUnte": "https://eldenring.wiki.gg/wiki/Ruins_of_Unte",
+    "manorWiki": "https://eldenring.wiki.gg/wiki/Volcano_Manor",
+    "manorContracts": "https://eldenring.exputer.com/quests/volcano-manor-contracts",
+    "manorLocations": "https://eldenring.exputer.com/locations/volcano-manor",
+    "manorVideo": "https://www.youtube.com/watch?v=JE9RWRfkG44",
+    "caelidTear": "https://eldenring.wiki.gg/wiki/Greenburst_Crystal_Tear",
+    "caelidFootage": "https://www.youtube.com/watch?v=9fQiGIvVqcg",
+    "invaderWiki": "https://eldenring.wiki.gg/wiki/Invader",
+    "furnace2026": "https://gamers.wiki/en/games/elden-ring/guides/elden-ring-shadow-of-the-erdtree-furnace-golem-guide",
+    "ledaGuide": "https://eip.gg/elden-ring/guides/needle-knight-leda-and-allies/",
+    "pitGuide": "https://eip.gg/elden-ring/guides/dragons-pit-dungeon/",
+    "manorExtra": "https://segmentnext.com/elden-ring/dungeons/volcano-manor",
+    "b-greatjar-a": "https://eldenring.wiki.gg/wiki/Great_Jar",
+    "b-greatjar-b": "https://www.gamerguides.com/elden-ring-shadow-of-the-erdtree/database/talismans/talisman/great-jars-arsenal",
+    "b-magnus-a": "https://eldenring.wiki.gg/wiki/Magnus_the_Beast_Claw",
+    "b-magnus-b": "https://holdtoreset.com/WHERE-TO-FIND-THE-WHITE-MASK-VARRE-OFFLINE-NPC-IN-ELDEN-RING/",
+    "b-varre-duel-a": "https://eldenring.wiki.gg/wiki/White_Mask_Varr%C3%A9",
+    "b-varre-duel-b": "https://eldenring.exputer.com/weapons/varre-s-bouquet",
+    "b-capital-margit-a": "https://eldenring.wiki.gg/wiki/Margit",
+    "b-capital-margit-b": "https://www.neoseeker.com/elden-ring/walkthrough/Capital_Outskirts",
+    "b-farum-draconic-a": "https://eldenring.wiki.gg/wiki/Draconic_Tree_Sentinel",
+    "b-farum-draconic-b": "https://eip.gg/elden-ring/guides/how-to-beat-the-draconic-tree-sentinel-crumbling-farum-azula/",
+    "b-millicent-sisters-a": "https://eldenring.wiki.gg/wiki/Millicent%27s_Sisters",
+    "b-millicent-sisters-b": "https://eldenring.exputer.com/quests/millicent-s-quest",
+    "b-millicent-challenge-a": "https://eldenring.wiki.gg/wiki/Millicent",
+    "b-millicent-challenge-b": "https://eldenring.exputer.com/quests/millicent-s-quest",
+    "lake-of-rot-lord-s21-1": "https://eldenring.wiki.gg/wiki/Alabaster_Lord%27s_Sword",
+    "lake-of-rot-lord-s21-2": "https://www.neoseeker.com/elden-ring/walkthrough/Lake_of_Rot",
+    "lake-of-rot-lord-s21-3": "https://www.reddit.com/r/Eldenring/comments/tfyafy/died_at_the_same_time_as_the_alabaster_lord_an/",
+    "deeproot-avatar-s21-1": "https://eldenring.wiki.gg/wiki/Erdtree_Avatar",
+    "deeproot-avatar-s21-2": "https://www.powerpyx.com/elden-ring-deeproot-depths-walkthrough/",
+    "deeproot-avatar-s21-3": "https://www.neoseeker.com/elden-ring/walkthrough/Deeproot_Depths",
+    "deeproot-avatar-s21-4": "https://www.reddit.com/r/Eldenring/comments/1ejs2nj/a_list_of_all_nonbossnpc_enemies_that_dont_respawn/",
+    "capital-avatar-s21-1": "https://eldenring.wiki.gg/wiki/Erdtree_Avatar",
+    "capital-avatar-s21-2": "https://www.powerpyx.com/elden-ring-leyndell-royal-capital-walkthrough/",
+    "capital-avatar-s21-3": "https://www.reddit.com/r/Eldenring/comments/1ejs2nj/a_list_of_all_nonbossnpc_enemies_that_dont_respawn/",
+    "elphael-bridge-avatar-s21-1": "https://eldenring.wiki.gg/wiki/Erdtree_Avatar",
+    "elphael-bridge-avatar-s21-2": "https://eip.gg/elden-ring/guides/elphael-brace-of-the-haligtree-walkthrough/",
+    "elphael-bridge-avatar-s21-3": "https://wiki.eso-ui.com/index.php/Elden_Ring%3ARotten_Staff",
+    "elphael-bridge-avatar-s21-4": "https://www.reddit.com/r/Eldenring/comments/1ejs2nj/a_list_of_all_nonbossnpc_enemies_that_dont_respawn/",
+    "elphael-courtyard-avatar-s21-1": "https://eldenring.wiki.gg/wiki/Erdtree_Avatar",
+    "elphael-courtyard-avatar-s21-2": "https://eip.gg/elden-ring/guides/elphael-brace-of-the-haligtree-walkthrough/",
+    "elphael-courtyard-avatar-s21-3": "https://wiki.eso-ui.com/index.php/Elden_Ring%3APutrid_Avatar",
+    "elphael-courtyard-avatar-s21-4": "https://www.reddit.com/r/Eldenring/comments/1ejs2nj/a_list_of_all_nonbossnpc_enemies_that_dont_respawn/",
+    "stormveil-spirit-s21-1": "https://eldenring.wiki.gg/wiki/Ulcerated_Tree_Spirit",
+    "stormveil-spirit-s21-2": "https://www.powerpyx.com/elden-ring-all-golden-seed-locations/",
+    "stormveil-spirit-s21-3": "https://www.reddit.com/r/Eldenring/comments/1ejs2nj/a_list_of_all_nonbossnpc_enemies_that_dont_respawn/",
+    "outskirts-spirit-s21-1": "https://eldenring.wiki.gg/wiki/Ulcerated_Tree_Spirit",
+    "outskirts-spirit-s21-2": "https://www.neoseeker.com/elden-ring/walkthrough/Capital_Outskirts",
+    "outskirts-spirit-s21-3": "https://www.reddit.com/r/Eldenring/comments/1ejs2nj/a_list_of_all_nonbossnpc_enemies_that_dont_respawn/",
+    "cloister-spirit-s21-1": "https://eldenring.wiki.gg/wiki/Golden_Seed",
+    "cloister-spirit-s21-2": "https://eip.gg/elden-ring/guides/lake-of-rot-grand-cloister-walkthrough/",
+    "cloister-spirit-s21-3": "https://eldenring.exputer.com/locations/grand-cloister",
+    "cloister-spirit-s21-4": "https://www.reddit.com/r/Eldenring/comments/1ejs2nj/a_list_of_all_nonbossnpc_enemies_that_dont_respawn/",
+    "drainage-spirit-s21-1": "https://eldenring.wiki.gg/wiki/Golden_Seed",
+    "drainage-spirit-s21-2": "https://www.dualshockers.com/elden-ring-millicent-quest-walkthrough/",
+    "drainage-spirit-s21-3": "https://eldenring.exputer.com/quests/millicent-s-quest",
+    "drainage-spirit-s21-4": "https://www.reddit.com/r/Eldenring/comments/1ejs2nj/a_list_of_all_nonbossnpc_enemies_that_dont_respawn/",
+    "d-fire-knight-kood-s22-1": "https://eldenring.fandom.com/wiki/Fire_Knight_Kood",
+    "d-fire-knight-kood-s22-2": "https://eldenring.wiki.gg/wiki/Ash_of_War%3A_Flame_Spear",
+    "d-fire-knight-kood-s22-3": "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-best-armor/",
+    "d-fire-knight-kood-s22-4": "https://eldenring.redmaw.dev/sheets/dlc-walkthrough",
+    "d-fire-knight-salza-s22-1": "https://eldenring.fandom.com/wiki/Fire_Knight_Salza",
+    "d-fire-knight-salza-s22-2": "https://eldenring.wiki.gg/wiki/Rain_of_Fire",
+    "d-fire-knight-salza-s22-3": "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-best-armor/",
+    "d-fire-knight-wego-s22-1": "https://eldenring.fandom.com/wiki/Fire_Knight_Wego",
+    "d-fire-knight-wego-s22-2": "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-best-armor/",
+    "d-fire-knight-wego-s22-3": "https://tarnished.app/armour/death-mask-helm",
+    "d-fire-knight-wego-s22-4": "https://tarnishedsaga.com/locations/shadow-keep-church-district/",
+    "d-devonia-s22-1": "https://eldenring.wiki.gg/wiki/Crucible_Knight_Devonia",
+    "d-devonia-s22-2": "https://www.polygon.com/elden-ring-shadow-erdtree-guide/24180254/all-dlc-boss-locations-bosses-in-order",
+    "d-devonia-s22-3": "https://eldenring.exputer.com/weapons/devonia-s-hammer",
+    "d-moonrithyll-s22-1": "https://eldenring.fandom.com/wiki/Bosses",
+    "d-moonrithyll-s22-2": "https://eldenring.fandom.com/wiki/Moonrithyll%2C_Carian_Knight",
+    "d-moonrithyll-s22-3": "https://www.neoseeker.com/elden-ring-shadow-of-the-erdtree/walkthrough/Castle_Ensis",
+    "d-moonrithyll-s22-4": "https://eldenring.exputer.com/weapons/moonrithyll-s-knight-sword",
+    "d-inv-anna-s22-1": "https://eldenring.wiki.gg/wiki/Claws_of_Night",
+    "d-inv-anna-s22-2": "https://eip.gg/elden-ring/guides/finger-ruins-of-miyr/",
+    "d-inv-anna-s22-3": "https://eldenring.exputer.com/locations/cathedral-of-manus-metyr",
+    "d-inv-hornsent-rauh-s22-1": "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-hornsent-questline-walkthrough",
+    "d-inv-hornsent-rauh-s22-2": "https://www.pcgamer.com/games/rpg/elden-ring-hornsent-quest/",
+    "d-inv-hornsent-rauh-s22-3": "https://eldenring.exputer.com/quests/hornsent-s-quest",
+    "d-inv-hornsent-rauh-s22-4": "https://www.reddit.com/r/eldenringdiscussion/comments/1eloj7d",
+    "b-moongrum-s22-1": "https://eldenring.fandom.com/wiki/Bosses",
+    "b-moongrum-s22-2": "https://eldenring.wiki.gg/wiki/Moongrum",
+    "b-moongrum-s22-3": "https://www.gamerguides.com/elden-ring/guide/academy-of-raya-lucaria/equipment/all-armor-and-shields-in-the-academy-of-raya-lucaria/",
+    "b-baleful-shadow-s22-1": "https://eldenring.fandom.com/wiki/Bosses",
+    "b-baleful-shadow-s22-2": "https://eldenring.exputer.com/quests/ranni-s-quest",
+    "b-baleful-shadow-s22-3": "https://tarnished.app/enemies/baleful-shadow",
+    "b-baleful-shadow-s22-4": "https://eldenring.fandom.com/wiki/Baleful_Shadow",
+    "d-madding-hand-s23-1": "https://eldenring.fandom.com/wiki/Abandoned_Church",
+    "d-madding-hand-s23-2": "https://eldenring.wiki.gg/wiki/Madding_Hand_%28weapon%29",
+    "d-madding-hand-s23-3": "https://www.neoseeker.com/elden-ring-shadow-of-the-erdtree/walkthrough/Abyssal_Woods",
+    "d-quest-hornsent-red-s23-1": "https://tarnishedsaga.com/quests/ledas-questline/",
+    "d-quest-hornsent-red-s23-2": "https://www.neoseeker.com/elden-ring-shadow-of-the-erdtree/NPCs/Needle_Knight_Leda",
+    "d-quest-hornsent-red-s23-3": "https://www.gamerguides.com/elden-ring-shadow-of-the-erdtree/guide/npcs/needle-knight-leda/how-to-find-needle-knight-leda-and-complete-her-quest/",
+    "d-quest-hornsent-gold-s23-1": "https://tarnishedsaga.com/quests/ledas-questline/",
+    "d-quest-hornsent-gold-s23-2": "https://www.neoseeker.com/elden-ring-shadow-of-the-erdtree/NPCs/Needle_Knight_Leda",
+    "d-quest-hornsent-gold-s23-3": "https://www.gamerguides.com/elden-ring-shadow-of-the-erdtree/guide/npcs/needle-knight-leda/how-to-find-needle-knight-leda-and-complete-her-quest/",
+    "d-quest-ansbach-red-s23-1": "https://tarnishedsaga.com/quests/ledas-questline/",
+    "d-quest-ansbach-red-s23-2": "https://www.neoseeker.com/elden-ring-shadow-of-the-erdtree/NPCs/Needle_Knight_Leda",
+    "d-quest-ansbach-red-s23-3": "https://eldenring.wiki.gg/wiki/Ansbach%27s_Longbow",
+    "d-quest-ansbach-red-s23-4": "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-sir-ansbach-leda-freyja-questline-walkthrough/",
+    "d-quest-ansbach-gold-s23-1": "https://tarnishedsaga.com/quests/ledas-questline/",
+    "d-quest-ansbach-gold-s23-2": "https://www.neoseeker.com/elden-ring-shadow-of-the-erdtree/NPCs/Needle_Knight_Leda",
+    "d-quest-ansbach-gold-s23-3": "https://eldenring.wiki.gg/wiki/Ansbach%27s_Longbow",
+    "d-quest-ansbach-gold-s23-4": "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-sir-ansbach-leda-freyja-questline-walkthrough/",
+    "d-church-tree-spirit-mantle-s24-1": "https://eldenring.fandom.com/wiki/Shadow_Tree_Spirit",
+    "d-church-tree-spirit-mantle-s24-2": "https://eip.gg/elden-ring/guides/shadow-keep/",
+    "d-church-tree-spirit-mantle-s24-3": "https://tarnishedsaga.com/locations/shadow-keep-church-district/",
+    "d-church-tree-spirit-mantle-s24-4": "https://vulkk.com/2024/07/12/shadow-of-the-erdtree-shadow-keep-all-unique-item-locations/",
+    "d-church-tree-spirit-iris-s24-1": "https://eldenring.fandom.com/wiki/Shadow_Tree_Spirit",
+    "d-church-tree-spirit-iris-s24-2": "https://eip.gg/elden-ring/guides/shadow-keep/",
+    "d-church-tree-spirit-iris-s24-3": "https://tarnishedsaga.com/locations/shadow-keep-church-district/",
+    "d-church-tree-spirit-iris-s24-4": "https://eldenring.wiki.gg/wiki/Iris_of_Occultation",
+    "d-church-tree-spirit-iris-s24-5": "https://www.reddit.com/r/Eldenring/comments/1dnr4z9/dlc_tree_spirit_in_shadow_keep_church_district/",
+    "b-capital-rampart-gargoyle-s27-1": "https://eldenring.fandom.com/wiki/Valiant_Gargoyle",
+    "b-capital-rampart-gargoyle-s27-2": "https://eldenring.wiki.gg/wiki/Valiant_Gargoyle",
+    "b-capital-rampart-gargoyle-s27-3": "https://www.powerpyx.com/elden-ring-leyndell-royal-capital-walkthrough/",
+    "b-capital-rampart-gargoyle-s27-4": "https://roundtablehold.net/checklists/weapons.html",
+    "b-capital-rampart-gargoyle-s27-5": "https://wiki.eso-ui.com/index.php/Elden_Ring%3AValiant_Gargoyles",
+    "b-outskirts-gargoyle-s27-1": "https://eldenring.fandom.com/wiki/Valiant_Gargoyle",
+    "b-outskirts-gargoyle-s27-2": "https://eldenring.wiki.gg/wiki/Valiant_Gargoyle",
+    "b-outskirts-gargoyle-s27-3": "https://www.neoseeker.com/elden-ring/walkthrough/Capital_Outskirts",
+    "b-outskirts-gargoyle-s27-4": "https://eldenring.wiki.gg/wiki/Gargoyle%27s_Great_Axe",
+    "b-outskirts-gargoyle-s27-5": "https://roundtablehold.net/checklists/weapons.html",
+    "b-outskirts-gargoyle-s27-6": "https://wiki.eso-ui.com/index.php/Elden_Ring%3AValiant_Gargoyles",
+    "b-outskirts-gargoyle-s27-7": "https://www.youtube.com/watch?v=6W94lBiYiOA",
+    "stormveil-crucible-s28-1": "https://eldenring.wiki.gg/wiki/Crucible_Knight",
+    "stormveil-crucible-s28-2": "https://tarnishedsaga.com/bosses/crucible-knight/",
+    "stormveil-crucible-s28-3": "https://www.gamerguides.com/elden-ring/database/magic-spells/incantations/aspects-of-the-crucible-horns/",
+    "stormveil-crucible-s28-4": "https://tarnished.app/locations/limgrave/stormveil-castle",
+    "b-aqueduct-crucible-hornshield-s29-1": "https://tarnishedsaga.com/bosses/crucible-knight/",
+    "b-aqueduct-crucible-hornshield-s29-2": "https://eldenring.wiki.gg/wiki/Crucible_Knight",
+    "b-aqueduct-crucible-hornshield-s29-3": "https://eldenring.redmaw.dev/sheets/walkthrough",
+    "b-aqueduct-crucible-hornshield-s29-4": "https://wiki.eso-ui.com/index.php/Elden_Ring%3ACrucible_Hornshield",
+    "b-aqueduct-crucible-hornshield-s29-5": "https://www.youtube.com/watch?v=3SSFfYbzXgs",
+    "b-aqueduct-crucible-spear-s29-1": "https://tarnishedsaga.com/bosses/crucible-knight/",
+    "b-aqueduct-crucible-spear-s29-2": "https://eldenring.wiki.gg/wiki/Crucible_Knight",
+    "b-aqueduct-crucible-spear-s29-3": "https://eldenring.redmaw.dev/sheets/walkthrough",
+    "b-aqueduct-crucible-spear-s29-4": "https://wiki.eso-ui.com/index.php/Elden_Ring%3ASomber_Smithing_Stone_6",
+    "b-aqueduct-crucible-spear-s29-5": "https://www.neoseeker.com/elden-ring/walkthrough/Siofra_Aqueduct",
+    "b-aqueduct-crucible-spear-s29-6": "https://tarnishedtraveler.com/every-crucible-knight-in-elden-ring-and-what-they-drop/"
+  },
+  "rows": [
+    {
+      "id": "er:b-chapel-scion",
+      "game": "base",
+      "region": "Chapel of Anticipation",
+      "name": "Grafted Scion",
+      "location": "Chapel of Anticipation",
+      "category": "conditional",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate",
+      "decision": "Opening defeat is optional; later return via Four Belfries permits completion."
+    },
+    {
+      "id": "er:b-tutorial-soldier",
+      "game": "base",
+      "region": "Limgrave",
+      "name": "Soldier of Godrick",
+      "location": "Cave of Knowledge",
+      "category": "dungeon",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-limgrave-sentinel",
+      "game": "base",
+      "region": "Limgrave",
+      "name": "Tree Sentinel",
+      "location": "First Step road",
+      "category": "field",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-groveside-beastman",
+      "game": "base",
+      "region": "Limgrave",
+      "name": "Beastman of Farum Azula",
+      "location": "Groveside Cave",
+      "category": "dungeon",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-stormfoot-watchdog",
+      "game": "base",
+      "region": "Limgrave",
+      "name": "Erdtree Burial Watchdog",
+      "location": "Stormfoot Catacombs",
+      "category": "dungeon",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-coastal-chiefs",
+      "game": "base",
+      "region": "Limgrave",
+      "name": "Demi-Human Chiefs",
+      "location": "Coastal Cave",
+      "category": "duo",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-fringefolk-spirit",
+      "game": "base",
+      "region": "Limgrave",
+      "name": "Ulcerated Tree Spirit",
+      "location": "Fringefolk Hero's Grave",
+      "category": "dungeon",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-agheel-dragon",
+      "game": "base",
+      "region": "Limgrave",
+      "name": "Flying Dragon Agheel",
+      "location": "Agheel Lake",
+      "category": "field",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-limgrave-troll",
+      "game": "base",
+      "region": "Limgrave",
+      "name": "Stonedigger Troll",
+      "location": "Limgrave Tunnels",
+      "category": "dungeon",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-murkwater-patches",
+      "game": "base",
+      "region": "Limgrave",
+      "name": "Patches",
+      "location": "Murkwater Cave",
+      "category": "conditional",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate",
+      "decision": "Surrender resolves initial boss encounter; killing merchant later is not required."
+    },
+    {
+      "id": "er:b-murkwater-duelist",
+      "game": "base",
+      "region": "Limgrave",
+      "name": "Grave Warden Duelist",
+      "location": "Murkwater Catacombs",
+      "category": "dungeon",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-waypoint-pumpkin",
+      "game": "base",
+      "region": "Limgrave",
+      "name": "Mad Pumpkin Head",
+      "location": "Waypoint Ruins cellar",
+      "category": "dungeon",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-darriwil",
+      "game": "base",
+      "region": "Limgrave",
+      "name": "Bloodhound Knight Darriwil",
+      "location": "Forlorn Hound Evergaol",
+      "category": "evergaol",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-agheel-cavalry",
+      "game": "base",
+      "region": "Limgrave",
+      "name": "Night's Cavalry",
+      "location": "Agheel Lake North bridge",
+      "category": "night",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-summonwater-mariner",
+      "game": "base",
+      "region": "Limgrave",
+      "name": "Tibia Mariner",
+      "location": "Summonwater Village",
+      "category": "field",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-stormhill-crucible",
+      "game": "base",
+      "region": "Stormhill",
+      "name": "Crucible Knight",
+      "location": "Stormhill Evergaol",
+      "category": "evergaol",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-warmaster-hunter",
+      "game": "base",
+      "region": "Stormhill",
+      "name": "Bell Bearing Hunter",
+      "location": "Warmaster's Shack",
+      "category": "night",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-stormhill-deathbird",
+      "game": "base",
+      "region": "Stormhill",
+      "name": "Deathbird",
+      "location": "Stormhill east of Warmaster's Shack",
+      "category": "night",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-deathtouched-assassin",
+      "game": "base",
+      "region": "Stormhill",
+      "name": "Black Knife Assassin",
+      "location": "Deathtouched Catacombs",
+      "category": "dungeon",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-highroad-golem",
+      "game": "base",
+      "region": "Stormhill",
+      "name": "Guardian Golem",
+      "location": "Highroad Cave",
+      "category": "dungeon",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-margit",
+      "game": "base",
+      "region": "Stormveil Castle",
+      "name": "Margit, the Fell Omen",
+      "location": "Castleward Tunnel approach",
+      "category": "legacy",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-godrick",
+      "game": "base",
+      "region": "Stormveil Castle",
+      "name": "Godrick the Grafted",
+      "location": "Secluded Cell arena",
+      "category": "remembrance",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-morne-leonine",
+      "game": "base",
+      "region": "Weeping Peninsula",
+      "name": "Leonine Misbegotten",
+      "location": "Castle Morne beach",
+      "category": "legacy",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-weeping-zamor",
+      "game": "base",
+      "region": "Weeping Peninsula",
+      "name": "Ancient Hero of Zamor",
+      "location": "Weeping Evergaol",
+      "category": "evergaol",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-tombsward-shade",
+      "game": "base",
+      "region": "Weeping Peninsula",
+      "name": "Cemetery Shade",
+      "location": "Tombsward Catacombs",
+      "category": "dungeon",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-tombsward-miranda",
+      "game": "base",
+      "region": "Weeping Peninsula",
+      "name": "Miranda the Blighted Bloom",
+      "location": "Tombsward Cave",
+      "category": "dungeon",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-weeping-deathbird",
+      "game": "base",
+      "region": "Weeping Peninsula",
+      "name": "Deathbird",
+      "location": "Castle Morne Rampart vicinity",
+      "category": "night",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-weeping-avatar",
+      "game": "base",
+      "region": "Weeping Peninsula",
+      "name": "Erdtree Avatar",
+      "location": "Minor Erdtree",
+      "category": "field",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-impaler-watchdog",
+      "game": "base",
+      "region": "Weeping Peninsula",
+      "name": "Erdtree Burial Watchdog",
+      "location": "Impaler's Catacombs",
+      "category": "dungeon",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-morne-cavalry",
+      "game": "base",
+      "region": "Weeping Peninsula",
+      "name": "Night's Cavalry",
+      "location": "Castle Morne Rampart road",
+      "category": "night",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-earthbore-runebear",
+      "game": "base",
+      "region": "Weeping Peninsula",
+      "name": "Runebear",
+      "location": "Earthbore Cave",
+      "category": "dungeon",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-morne-scaly",
+      "game": "base",
+      "region": "Weeping Peninsula",
+      "name": "Scaly Misbegotten",
+      "location": "Morne Tunnel",
+      "category": "dungeon",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-adan",
+      "game": "base",
+      "region": "Liurnia",
+      "name": "Adan, Thief of Fire",
+      "location": "Malefactor's Evergaol",
+      "category": "evergaol",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-alecto",
+      "game": "base",
+      "region": "Liurnia",
+      "name": "Alecto, Black Knife Ringleader",
+      "location": "Ringleader's Evergaol",
+      "category": "evergaol",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-vows-hunter",
+      "game": "base",
+      "region": "Liurnia",
+      "name": "Bell Bearing Hunter",
+      "location": "Church of Vows",
+      "category": "night",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-blackknife-assassin",
+      "game": "base",
+      "region": "Liurnia",
+      "name": "Black Knife Assassin",
+      "location": "Black Knife Catacombs hidden arena",
+      "category": "dungeon",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-blackknife-shade",
+      "game": "base",
+      "region": "Liurnia",
+      "name": "Cemetery Shade",
+      "location": "Black Knife Catacombs main arena",
+      "category": "dungeon",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-lakeside-bloodhound",
+      "game": "base",
+      "region": "Liurnia",
+      "name": "Bloodhound Knight",
+      "location": "Lakeside Crystal Cave",
+      "category": "dungeon",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-bols",
+      "game": "base",
+      "region": "Liurnia",
+      "name": "Bols, Carian Knight",
+      "location": "Cuckoo's Evergaol",
+      "category": "evergaol",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-stillwater-cleanrot",
+      "game": "base",
+      "region": "Liurnia",
+      "name": "Cleanrot Knight",
+      "location": "Stillwater Cave",
+      "category": "dungeon",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-academy-crystalians",
+      "game": "base",
+      "region": "Liurnia",
+      "name": "Crystalian duo",
+      "location": "Academy Crystal Cave",
+      "category": "duo",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-raya-crystalian",
+      "game": "base",
+      "region": "Liurnia",
+      "name": "Crystalian",
+      "location": "Raya Lucaria Crystal Tunnel",
+      "category": "dungeon",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-liurnia-deathbird",
+      "game": "base",
+      "region": "Liurnia",
+      "name": "Deathbird",
+      "location": "Scenic Isle vicinity",
+      "category": "night",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-liurnia-deathrite",
+      "game": "base",
+      "region": "Liurnia",
+      "name": "Death Rite Bird",
+      "location": "Gate Town North vicinity",
+      "category": "night",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-east-liurnia-avatar",
+      "game": "base",
+      "region": "Liurnia",
+      "name": "Erdtree Avatar",
+      "location": "Eastern Minor Erdtree",
+      "category": "field",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-west-liurnia-avatar",
+      "game": "base",
+      "region": "Liurnia",
+      "name": "Erdtree Avatar",
+      "location": "Western Minor Erdtree",
+      "category": "field",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-cliffbottom-watchdog",
+      "game": "base",
+      "region": "Liurnia",
+      "name": "Erdtree Burial Watchdog",
+      "location": "Cliffbottom Catacombs",
+      "category": "dungeon",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-adula",
+      "game": "base",
+      "region": "Liurnia",
+      "name": "Glintstone Dragon Adula",
+      "location": "Cathedral of Manus Celes",
+      "category": "conditional",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate",
+      "alternateLocations": [
+        "Three Sisters"
+      ],
+      "decision": "Retreat stage is not an independent defeat. Track final kill once."
+    },
+    {
+      "id": "er:b-smarag",
+      "game": "base",
+      "region": "Liurnia",
+      "name": "Glintstone Dragon Smarag",
+      "location": "West of Raya Lucaria",
+      "category": "field",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-gatetown-cavalry",
+      "game": "base",
+      "region": "Liurnia",
+      "name": "Night's Cavalry",
+      "location": "Gate Town Bridge road",
+      "category": "night",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-bellum-cavalry",
+      "game": "base",
+      "region": "Liurnia",
+      "name": "Night's Cavalry",
+      "location": "Bellum Highway",
+      "category": "night",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-albinauric-omenkiller",
+      "game": "base",
+      "region": "Liurnia",
+      "name": "Omenkiller",
+      "location": "Village of the Albinaurics",
+      "category": "field",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-royalgrave-onyx",
+      "game": "base",
+      "region": "Liurnia",
+      "name": "Onyx Lord",
+      "location": "Royal Grave Evergaol",
+      "category": "evergaol",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide",
+        "onyxWiki"
+      ],
+      "review": "cross-source-candidate",
+      "aliases": [
+        "Alabaster Lord (version 1.00)"
+      ]
+    },
+    {
+      "id": "er:b-kingsrealm-revenant",
+      "game": "base",
+      "region": "Liurnia",
+      "name": "Royal Revenant",
+      "location": "Kingsrealm Ruins cellar",
+      "category": "dungeon",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-roadsend-snail",
+      "game": "base",
+      "region": "Liurnia",
+      "name": "Spiritcaller Snail",
+      "location": "Road's End Catacombs",
+      "category": "dungeon",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-liurnia-mariner",
+      "game": "base",
+      "region": "Liurnia",
+      "name": "Tibia Mariner",
+      "location": "East Liurnia near Artist's Shack",
+      "category": "field",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-caria-loretta",
+      "game": "base",
+      "region": "Liurnia",
+      "name": "Royal Knight Loretta",
+      "location": "Caria Manor",
+      "category": "legacy",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-raya-wolf",
+      "game": "base",
+      "region": "Liurnia",
+      "name": "Red Wolf of Radagon",
+      "location": "Raya Lucaria Debate Parlor",
+      "category": "legacy",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-rennala",
+      "game": "base",
+      "region": "Liurnia",
+      "name": "Rennala, Queen of the Full Moon",
+      "location": "Raya Lucaria Grand Library",
+      "category": "remembrance",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-makar",
+      "game": "base",
+      "region": "Liurnia",
+      "name": "Magma Wyrm Makar",
+      "location": "Ruin-Strewn Precipice",
+      "category": "dungeon",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-radahn",
+      "game": "base",
+      "region": "Caelid",
+      "name": "Starscourge Radahn",
+      "location": "Wailing Dunes",
+      "category": "remembrance",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-redmane-duo",
+      "game": "base",
+      "region": "Caelid",
+      "name": "Misbegotten Warrior & Crucible Knight",
+      "location": "Redmane Castle plaza",
+      "category": "duo",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate",
+      "decision": "Festival state can suppress the plaza fight; check restoration after Radahn."
+    },
+    {
+      "id": "er:b-caelid-shade",
+      "game": "base",
+      "region": "Caelid",
+      "name": "Cemetery Shade",
+      "location": "Caelid Catacombs",
+      "category": "dungeon",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-abandoned-cleanrots",
+      "game": "base",
+      "region": "Caelid",
+      "name": "Cleanrot Knight duo",
+      "location": "Abandoned Cave",
+      "category": "duo",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-oneil",
+      "game": "base",
+      "region": "Caelid",
+      "name": "Commander O'Neil",
+      "location": "Swamp of Aeonia",
+      "category": "field",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-caelid-deathrite",
+      "game": "base",
+      "region": "Caelid",
+      "name": "Death Rite Bird",
+      "location": "Southern Aeonia road vicinity",
+      "category": "night",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-ekzykes",
+      "game": "base",
+      "region": "Caelid",
+      "name": "Decaying Ekzykes",
+      "location": "Near Cathedral of Dragon Communion",
+      "category": "field",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-minorerdtree-watchdogs",
+      "game": "base",
+      "region": "Caelid",
+      "name": "Erdtree Burial Watchdog duo",
+      "location": "Minor Erdtree Catacombs",
+      "category": "duo",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-sellia-beast",
+      "game": "base",
+      "region": "Caelid",
+      "name": "Fallingstar Beast",
+      "location": "Sellia Crystal Tunnel",
+      "category": "dungeon",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-gaol-duelist",
+      "game": "base",
+      "region": "Caelid",
+      "name": "Frenzied Duelist",
+      "location": "Gaol Cave",
+      "category": "dungeon",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-gael-wyrm",
+      "game": "base",
+      "region": "Caelid",
+      "name": "Magma Wyrm",
+      "location": "Gael Tunnel",
+      "category": "dungeon",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-caelid-cavalry",
+      "game": "base",
+      "region": "Caelid",
+      "name": "Night's Cavalry",
+      "location": "Caelid Highway South",
+      "category": "night",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-nox-duo",
+      "game": "base",
+      "region": "Caelid",
+      "name": "Nox Swordstress & Nox Monk",
+      "location": "Sellia, Town of Sorcery",
+      "category": "duo",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide",
+        "caelidGuide"
+      ],
+      "review": "cross-source-candidate",
+      "aliases": [
+        "Nox Swordstress & Nox Priest"
+      ]
+    },
+    {
+      "id": "er:b-caelid-avatar",
+      "game": "base",
+      "region": "Caelid",
+      "name": "Putrid Avatar",
+      "location": "Western Caelid Minor Erdtree",
+      "category": "field",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide",
+        "caelidGuide",
+        "caelidTear",
+        "caelidFootage"
+      ],
+      "review": "cross-source-candidate",
+      "decision": "Naming conflict: multiple older regional lists say Erdtree Avatar, but item-specific Eldenpedia evidence and recorded boss fight identify Putrid Avatar. Preserve ID; reward amount conflict remains unresolved.",
+      "aliases": [
+        "Erdtree Avatar (northwestern Caelid)"
+      ]
+    },
+    {
+      "id": "er:b-sellia-crystalians",
+      "game": "base",
+      "region": "Caelid",
+      "name": "Putrid Crystalian trio",
+      "location": "Sellia Hideaway",
+      "category": "trio",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-wardead-spirit",
+      "game": "base",
+      "region": "Caelid",
+      "name": "Putrid Tree Spirit",
+      "location": "War-Dead Catacombs",
+      "category": "dungeon",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-caelem-pumpkins",
+      "game": "base",
+      "region": "Caelid",
+      "name": "Mad Pumpkin Head duo",
+      "location": "Caelem Ruins cellar",
+      "category": "duo",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-dragonbarrow-beastmen",
+      "game": "base",
+      "region": "Dragonbarrow",
+      "name": "Beastman of Farum Azula duo",
+      "location": "Dragonbarrow Cave",
+      "category": "duo",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-dragonbarrow-hunter",
+      "game": "base",
+      "region": "Dragonbarrow",
+      "name": "Bell Bearing Hunter",
+      "location": "Isolated Merchant's Shack",
+      "category": "night",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-sanctum-kindred",
+      "game": "base",
+      "region": "Dragonbarrow",
+      "name": "Black Blade Kindred",
+      "location": "Bestial Sanctum exterior",
+      "category": "field",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-greyll",
+      "game": "base",
+      "region": "Dragonbarrow",
+      "name": "Flying Dragon Greyll",
+      "location": "Farum Greatbridge",
+      "category": "field",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-tower-apostle",
+      "game": "base",
+      "region": "Dragonbarrow",
+      "name": "Godskin Apostle",
+      "location": "Divine Tower of Caelid basement",
+      "category": "dungeon",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-dragonbarrow-cavalry",
+      "game": "base",
+      "region": "Dragonbarrow",
+      "name": "Night's Cavalry",
+      "location": "Lenne's Rise bridge",
+      "category": "night",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-dragonbarrow-avatar",
+      "game": "base",
+      "region": "Dragonbarrow",
+      "name": "Putrid Avatar",
+      "location": "Dragonbarrow Minor Erdtree",
+      "category": "field",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-sellia-battlemage",
+      "game": "base",
+      "region": "Dragonbarrow",
+      "name": "Battlemage Hugues",
+      "location": "Sellia Evergaol",
+      "category": "evergaol",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-lansseax",
+      "game": "base",
+      "region": "Altus Plateau",
+      "name": "Ancient Dragon Lansseax",
+      "location": "Rampartside Path plateau",
+      "category": "conditional",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate",
+      "alternateLocations": [
+        "Abandoned Coffin approach"
+      ],
+      "decision": "Retreat stage is not an independent defeat. Track final kill once."
+    },
+    {
+      "id": "er:b-altus-cavalry",
+      "game": "base",
+      "region": "Altus Plateau",
+      "name": "Night's Cavalry",
+      "location": "Altus Highway Junction road",
+      "category": "night",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-sainted-zamor",
+      "game": "base",
+      "region": "Altus Plateau",
+      "name": "Ancient Hero of Zamor",
+      "location": "Sainted Hero's Grave interior",
+      "category": "dungeon",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-sainted-assassin",
+      "game": "base",
+      "region": "Altus Plateau",
+      "name": "Black Knife Assassin",
+      "location": "Sainted Hero's Grave exterior",
+      "category": "field",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-altus-crystalians",
+      "game": "base",
+      "region": "Altus Plateau",
+      "name": "Crystalian duo",
+      "location": "Altus Tunnel",
+      "category": "duo",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-gilika",
+      "game": "base",
+      "region": "Altus Plateau",
+      "name": "Demi-Human Queen Gilika",
+      "location": "Lux Ruins cellar",
+      "category": "dungeon",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-altus-beast",
+      "game": "base",
+      "region": "Altus Plateau",
+      "name": "Fallingstar Beast",
+      "location": "Crater near Altus Highway Junction",
+      "category": "field",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-godefroy",
+      "game": "base",
+      "region": "Altus Plateau",
+      "name": "Godefroy the Grafted",
+      "location": "Golden Lineage Evergaol",
+      "category": "evergaol",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-dominula-apostle",
+      "game": "base",
+      "region": "Altus Plateau",
+      "name": "Godskin Apostle",
+      "location": "Dominula, Windmill Village",
+      "category": "field",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-garris",
+      "game": "base",
+      "region": "Altus Plateau",
+      "name": "Necromancer Garris",
+      "location": "Sage's Cave",
+      "category": "dungeon",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-sages-assassin",
+      "game": "base",
+      "region": "Altus Plateau",
+      "name": "Black Knife Assassin",
+      "location": "Sage's Cave hidden arena",
+      "category": "dungeon",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-perfumer-grotto-duo",
+      "game": "base",
+      "region": "Altus Plateau",
+      "name": "Omenkiller & Miranda the Blighted Bloom",
+      "location": "Perfumer's Grotto",
+      "category": "duo",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-tricia-duo",
+      "game": "base",
+      "region": "Altus Plateau",
+      "name": "Perfumer Tricia & Misbegotten Warrior",
+      "location": "Unsightly Catacombs",
+      "category": "duo",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-sanguine",
+      "game": "base",
+      "region": "Altus Plateau",
+      "name": "Sanguine Noble",
+      "location": "Writheblood Ruins cellar",
+      "category": "dungeon",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-oldaltus-troll",
+      "game": "base",
+      "region": "Altus Plateau",
+      "name": "Stonedigger Troll",
+      "location": "Old Altus Tunnel",
+      "category": "dungeon",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-wyndham-mariner",
+      "game": "base",
+      "region": "Altus Plateau",
+      "name": "Tibia Mariner",
+      "location": "Wyndham Ruins",
+      "category": "field",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-wyndham-watchdog",
+      "game": "base",
+      "region": "Altus Plateau",
+      "name": "Erdtree Burial Watchdog",
+      "location": "Wyndham Catacombs",
+      "category": "dungeon",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-wormface",
+      "game": "base",
+      "region": "Altus Plateau",
+      "name": "Wormface",
+      "location": "Altus Minor Erdtree",
+      "category": "field",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-elemer",
+      "game": "base",
+      "region": "Altus Plateau",
+      "name": "Elemer of the Briar",
+      "location": "Shaded Castle",
+      "category": "legacy",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-altus-sentinels",
+      "game": "base",
+      "region": "Capital Outskirts",
+      "name": "Tree Sentinel duo",
+      "location": "Outer Wall Phantom Tree approach",
+      "category": "duo",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-capital-draconic",
+      "game": "base",
+      "region": "Capital Outskirts",
+      "name": "Draconic Tree Sentinel",
+      "location": "Capital Rampart approach",
+      "category": "field",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-capital-hunter",
+      "game": "base",
+      "region": "Capital Outskirts",
+      "name": "Bell Bearing Hunter",
+      "location": "Hermit Merchant's Shack",
+      "category": "night",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-capital-deathbird",
+      "game": "base",
+      "region": "Capital Outskirts",
+      "name": "Deathbird",
+      "location": "Outer Wall Battleground vicinity",
+      "category": "night",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-ordovis-duo",
+      "game": "base",
+      "region": "Capital Outskirts",
+      "name": "Crucible Knight Ordovis & Crucible Knight",
+      "location": "Auriza Hero's Grave",
+      "category": "duo",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-auriza-duelist",
+      "game": "base",
+      "region": "Capital Outskirts",
+      "name": "Grave Warden Duelist",
+      "location": "Auriza Side Tomb",
+      "category": "dungeon",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-sealed-onyx",
+      "game": "base",
+      "region": "Capital Outskirts",
+      "name": "Onyx Lord",
+      "location": "Sealed Tunnel",
+      "category": "dungeon",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-maggie",
+      "game": "base",
+      "region": "Mt. Gelmir",
+      "name": "Demi-Human Queen Maggie",
+      "location": "Hermit Village",
+      "category": "field",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-margot",
+      "game": "base",
+      "region": "Mt. Gelmir",
+      "name": "Demi-Human Queen Margot",
+      "location": "Volcano Cave",
+      "category": "dungeon",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-fullgrown-beast",
+      "game": "base",
+      "region": "Mt. Gelmir",
+      "name": "Full-Grown Fallingstar Beast",
+      "location": "Ninth Mt. Gelmir Campsite summit",
+      "category": "field",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-seethewater-kindred",
+      "game": "base",
+      "region": "Mt. Gelmir",
+      "name": "Kindred of Rot duo",
+      "location": "Seethewater Cave",
+      "category": "duo",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-gelmir-wyrm",
+      "game": "base",
+      "region": "Mt. Gelmir",
+      "name": "Magma Wyrm",
+      "location": "Lava lake near Fort Laiedd",
+      "category": "field",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-gelmir-wolf",
+      "game": "base",
+      "region": "Mt. Gelmir",
+      "name": "Red Wolf of the Champion",
+      "location": "Gelmir Hero's Grave",
+      "category": "dungeon",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-gelmir-spirit",
+      "game": "base",
+      "region": "Mt. Gelmir",
+      "name": "Ulcerated Tree Spirit",
+      "location": "Gelmir Minor Erdtree",
+      "category": "field",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-abductors",
+      "game": "base",
+      "region": "Volcano Manor",
+      "name": "Abductor Virgin duo",
+      "location": "Subterranean Inquisition Chamber",
+      "category": "duo",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-eiglay-noble",
+      "game": "base",
+      "region": "Volcano Manor",
+      "name": "Godskin Noble",
+      "location": "Temple of Eiglay",
+      "category": "legacy",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-rykard",
+      "game": "base",
+      "region": "Volcano Manor",
+      "name": "God-Devouring Serpent / Rykard, Lord of Blasphemy",
+      "location": "Audience Pathway arena",
+      "category": "remembrance",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate",
+      "participants": [
+        "God-Devouring Serpent",
+        "Rykard, Lord of Blasphemy"
+      ]
+    },
+    {
+      "id": "er:b-godfrey-shade",
+      "game": "base",
+      "region": "Leyndell, Royal Capital",
+      "name": "Godfrey, First Elden Lord (golden shade)",
+      "location": "Erdtree Sanctuary",
+      "category": "legacy",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-morgott",
+      "game": "base",
+      "region": "Leyndell, Royal Capital",
+      "name": "Morgott, the Omen King",
+      "location": "Elden Throne",
+      "category": "remembrance",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-esgar",
+      "game": "base",
+      "region": "Subterranean Shunning-Grounds",
+      "name": "Esgar, Priest of Blood",
+      "location": "Leyndell Catacombs",
+      "category": "dungeon",
+      "hunt": "primary",
+      "layerHint": "underground",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-mohg-omen",
+      "game": "base",
+      "region": "Subterranean Shunning-Grounds",
+      "name": "Mohg, the Omen",
+      "location": "Cathedral of the Forsaken",
+      "category": "dungeon",
+      "hunt": "primary",
+      "layerHint": "underground",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-fell-twins",
+      "game": "base",
+      "region": "Forbidden Lands",
+      "name": "Fell Twins",
+      "location": "Divine Tower of East Altus bridge",
+      "category": "duo",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-forbidden-kindred",
+      "game": "base",
+      "region": "Forbidden Lands",
+      "name": "Black Blade Kindred",
+      "location": "Grand Lift of Rold approach",
+      "category": "field",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-forbidden-cavalry",
+      "game": "base",
+      "region": "Forbidden Lands",
+      "name": "Night's Cavalry",
+      "location": "Forbidden Lands road",
+      "category": "night",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-niall",
+      "game": "base",
+      "region": "Mountaintops of the Giants",
+      "name": "Commander Niall",
+      "location": "Castle Sol",
+      "category": "legacy",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-fire-giant",
+      "game": "base",
+      "region": "Mountaintops of the Giants",
+      "name": "Fire Giant",
+      "location": "Flame Peak",
+      "category": "remembrance",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-giantgrave-zamor",
+      "game": "base",
+      "region": "Mountaintops of the Giants",
+      "name": "Ancient Hero of Zamor",
+      "location": "Giant-Conquering Hero's Grave",
+      "category": "dungeon",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-borealis",
+      "game": "base",
+      "region": "Mountaintops of the Giants",
+      "name": "Borealis the Freezing Fog",
+      "location": "Freezing Lake",
+      "category": "field",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-mountaintops-deathrite",
+      "game": "base",
+      "region": "Mountaintops of the Giants",
+      "name": "Death Rite Bird",
+      "location": "Castle Sol approach",
+      "category": "night",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-mountaintops-avatar",
+      "game": "base",
+      "region": "Mountaintops of the Giants",
+      "name": "Erdtree Avatar",
+      "location": "Minor Erdtree",
+      "category": "field",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate",
+      "decision": "Split bodies are one encounter."
+    },
+    {
+      "id": "er:b-spiritcaller-cave",
+      "game": "base",
+      "region": "Mountaintops of the Giants",
+      "name": "Spiritcaller Snail",
+      "location": "Spiritcaller's Cave",
+      "category": "dungeon",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate",
+      "participants": [
+        "Godskin Apostle",
+        "Godskin Noble",
+        "Spiritcaller Snail"
+      ],
+      "decision": "Continuous staged encounter; one completion."
+    },
+    {
+      "id": "er:b-vyke",
+      "game": "base",
+      "region": "Mountaintops of the Giants",
+      "name": "Roundtable Knight Vyke",
+      "location": "Lord Contender's Evergaol",
+      "category": "evergaol",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-giants-spirit",
+      "game": "base",
+      "region": "Mountaintops of the Giants",
+      "name": "Ulcerated Tree Spirit",
+      "location": "Giants' Mountaintop Catacombs",
+      "category": "dungeon",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-stray-mimic",
+      "game": "base",
+      "region": "Consecrated Snowfield",
+      "name": "Stray Mimic Tear",
+      "location": "Hidden Path to the Haligtree",
+      "category": "dungeon",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-snowfield-astel",
+      "game": "base",
+      "region": "Consecrated Snowfield",
+      "name": "Astel, Stars of Darkness",
+      "location": "Yelough Anix Tunnel",
+      "category": "dungeon",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-snowfield-deathrite",
+      "game": "base",
+      "region": "Consecrated Snowfield",
+      "name": "Death Rite Bird",
+      "location": "Near Apostate Derelict",
+      "category": "night",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-theodorix",
+      "game": "base",
+      "region": "Consecrated Snowfield",
+      "name": "Great Wyrm Theodorix",
+      "location": "Frozen river near Cave of the Forlorn",
+      "category": "field",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-forlorn-crusader",
+      "game": "base",
+      "region": "Consecrated Snowfield",
+      "name": "Misbegotten Crusader",
+      "location": "Cave of the Forlorn",
+      "category": "dungeon",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-snowfield-cavalry",
+      "game": "base",
+      "region": "Consecrated Snowfield",
+      "name": "Night's Cavalry duo",
+      "location": "Snowfield caravan",
+      "category": "duo-night",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-snowfield-avatar",
+      "game": "base",
+      "region": "Consecrated Snowfield",
+      "name": "Putrid Avatar",
+      "location": "Snowfield Minor Erdtree",
+      "category": "field",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-snowfield-duelist",
+      "game": "base",
+      "region": "Consecrated Snowfield",
+      "name": "Putrid Grave Warden Duelist",
+      "location": "Consecrated Snowfield Catacombs",
+      "category": "dungeon",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-haligtree-loretta",
+      "game": "base",
+      "region": "Miquella's Haligtree",
+      "name": "Loretta, Knight of the Haligtree",
+      "location": "Haligtree Promenade",
+      "category": "legacy",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-malenia",
+      "game": "base",
+      "region": "Miquella's Haligtree",
+      "name": "Malenia, Blade of Miquella / Goddess of Rot",
+      "location": "Elphael, Haligtree Roots",
+      "category": "remembrance",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate",
+      "participants": [
+        "Malenia, Blade of Miquella",
+        "Malenia, Goddess of Rot"
+      ]
+    },
+    {
+      "id": "er:b-godskin-duo",
+      "game": "base",
+      "region": "Crumbling Farum Azula",
+      "name": "Godskin Duo",
+      "location": "Dragon Temple",
+      "category": "duo",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-placidusax",
+      "game": "base",
+      "region": "Crumbling Farum Azula",
+      "name": "Dragonlord Placidusax",
+      "location": "Time-displaced arena below Farum Azula",
+      "category": "remembrance",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-maliketh",
+      "game": "base",
+      "region": "Crumbling Farum Azula",
+      "name": "Beast Clergyman / Maliketh, the Black Blade",
+      "location": "Beside the Great Bridge arena",
+      "category": "remembrance",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate",
+      "participants": [
+        "Beast Clergyman",
+        "Maliketh, the Black Blade"
+      ]
+    },
+    {
+      "id": "er:b-gideon",
+      "game": "base",
+      "region": "Leyndell, Ashen Capital",
+      "name": "Sir Gideon Ofnir, the All-Knowing",
+      "location": "Erdtree Sanctuary",
+      "category": "legacy",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-hoarah",
+      "game": "base",
+      "region": "Leyndell, Ashen Capital",
+      "name": "Godfrey, First Elden Lord / Hoarah Loux, Warrior",
+      "location": "Elden Throne",
+      "category": "remembrance",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate",
+      "participants": [
+        "Godfrey, First Elden Lord",
+        "Hoarah Loux, Warrior"
+      ]
+    },
+    {
+      "id": "er:b-elden-beast",
+      "game": "base",
+      "region": "Leyndell, Ashen Capital",
+      "name": "Radagon of the Golden Order / Elden Beast",
+      "location": "Inside the Erdtree",
+      "category": "remembrance",
+      "hunt": "primary",
+      "layerHint": "surface",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate",
+      "participants": [
+        "Radagon of the Golden Order",
+        "Elden Beast"
+      ],
+      "decision": "Continuous multiphase fight."
+    },
+    {
+      "id": "er:b-ancestor",
+      "game": "base",
+      "region": "Siofra River",
+      "name": "Ancestor Spirit",
+      "location": "Southern Hallowhorn Grounds",
+      "category": "dungeon",
+      "hunt": "primary",
+      "layerHint": "underground",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-siofra-dragonkin",
+      "game": "base",
+      "region": "Siofra River",
+      "name": "Dragonkin Soldier",
+      "location": "Upper Siofra River plateau",
+      "category": "field",
+      "hunt": "primary",
+      "layerHint": "underground",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-mimic",
+      "game": "base",
+      "region": "Nokron",
+      "name": "Mimic Tear",
+      "location": "Nokron bridge approach",
+      "category": "dungeon",
+      "hunt": "primary",
+      "layerHint": "underground",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-regal-ancestor",
+      "game": "base",
+      "region": "Nokron",
+      "name": "Regal Ancestor Spirit",
+      "location": "Northern Hallowhorn Grounds",
+      "category": "remembrance",
+      "hunt": "primary",
+      "layerHint": "underground",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-valiant-gargoyles",
+      "game": "base",
+      "region": "Nokron",
+      "name": "Valiant Gargoyle duo",
+      "location": "Siofra Aqueduct",
+      "category": "duo",
+      "hunt": "primary",
+      "layerHint": "underground",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-nokstella-dragonkin",
+      "game": "base",
+      "region": "Ainsel River",
+      "name": "Dragonkin Soldier of Nokstella",
+      "location": "Ainsel River downstream",
+      "category": "dungeon",
+      "hunt": "primary",
+      "layerHint": "underground",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-rot-dragonkin",
+      "game": "base",
+      "region": "Lake of Rot",
+      "name": "Dragonkin Soldier",
+      "location": "Lake of Rot",
+      "category": "field",
+      "hunt": "primary",
+      "layerHint": "underground",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-naturalborn",
+      "game": "base",
+      "region": "Lake of Rot",
+      "name": "Astel, Naturalborn of the Void",
+      "location": "Cavern accessed from Grand Cloister",
+      "category": "remembrance",
+      "hunt": "primary",
+      "layerHint": "underground",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-siluria",
+      "game": "base",
+      "region": "Deeproot Depths",
+      "name": "Crucible Knight Siluria",
+      "location": "Near the Nameless Eternal City",
+      "category": "field",
+      "hunt": "primary",
+      "layerHint": "underground",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-fia-champions",
+      "game": "base",
+      "region": "Deeproot Depths",
+      "name": "Fia's Champions",
+      "location": "Across the Roots arena",
+      "category": "multiwave",
+      "hunt": "primary",
+      "layerHint": "underground",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-fortissax",
+      "game": "base",
+      "region": "Deeproot Depths",
+      "name": "Lichdragon Fortissax",
+      "location": "Deathbed Dream",
+      "category": "remembrance",
+      "hunt": "primary",
+      "layerHint": "underground",
+      "evidence": [
+        "forge",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:b-mohg-blood",
+      "game": "base",
+      "region": "Mohgwyn Palace",
+      "name": "Mohg, Lord of Blood",
+      "location": "Dynasty Mausoleum",
+      "category": "remembrance",
+      "hunt": "primary",
+      "layerHint": "underground",
+      "evidence": [
+        "forge",
+        "checklist",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:d-blackgaol",
+      "game": "dlc",
+      "region": "Gravesite Plain",
+      "name": "Blackgaol Knight",
+      "location": "Western Nameless Mausoleum",
+      "category": "mausoleum",
+      "hunt": "primary",
+      "layerHint": "shadow",
+      "evidence": [
+        "forge",
+        "dlcCommunity",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:d-belurat-lion",
+      "game": "dlc",
+      "region": "Gravesite Plain",
+      "name": "Divine Beast Dancing Lion",
+      "location": "Belurat, Tower Settlement",
+      "category": "remembrance",
+      "hunt": "primary",
+      "layerHint": "shadow",
+      "evidence": [
+        "forge",
+        "dlcCommunity",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:d-plain-ghostflame",
+      "game": "dlc",
+      "region": "Gravesite Plain",
+      "name": "Ghostflame Dragon",
+      "location": "Lake near Abandoned Ailing Village",
+      "category": "field",
+      "hunt": "primary",
+      "layerHint": "shadow",
+      "evidence": [
+        "forge",
+        "dlcCommunity",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:d-onze",
+      "game": "dlc",
+      "region": "Gravesite Plain",
+      "name": "Demi-Human Swordmaster Onze",
+      "location": "Belurat Gaol",
+      "category": "dungeon",
+      "hunt": "primary",
+      "layerHint": "shadow",
+      "evidence": [
+        "forge",
+        "dlcCommunity",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:d-fogrifts-deathknight",
+      "game": "dlc",
+      "region": "Gravesite Plain",
+      "name": "Death Knight",
+      "location": "Fog Rift Catacombs",
+      "category": "dungeon",
+      "hunt": "primary",
+      "layerHint": "shadow",
+      "evidence": [
+        "forge",
+        "dlcCommunity",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:d-rellana",
+      "game": "dlc",
+      "region": "Gravesite Plain",
+      "name": "Rellana, Twin Moon Knight",
+      "location": "Castle Ensis",
+      "category": "remembrance",
+      "hunt": "primary",
+      "layerHint": "shadow",
+      "evidence": [
+        "forge",
+        "dlcCommunity",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:d-chief-bloodfiend",
+      "game": "dlc",
+      "region": "Gravesite Plain",
+      "name": "Chief Bloodfiend",
+      "location": "Rivermouth Cave",
+      "category": "dungeon",
+      "hunt": "primary",
+      "layerHint": "shadow",
+      "evidence": [
+        "forge",
+        "dlcCommunity",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:d-dragon-man",
+      "game": "dlc",
+      "region": "Gravesite Plain",
+      "name": "Ancient Dragon-Man",
+      "location": "Dragon's Pit",
+      "category": "dungeon",
+      "hunt": "primary",
+      "layerHint": "shadow",
+      "evidence": [
+        "forge",
+        "dlcCommunity",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:d-garrew",
+      "game": "dlc",
+      "region": "Scadu Altus",
+      "name": "Black Knight Garrew",
+      "location": "Fog Rift Fort",
+      "category": "field",
+      "hunt": "primary",
+      "layerHint": "shadow",
+      "evidence": [
+        "forge",
+        "dlcCommunity",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:d-edredd",
+      "game": "dlc",
+      "region": "Scadu Altus",
+      "name": "Black Knight Edredd",
+      "location": "Fort of Reprimand",
+      "category": "field",
+      "hunt": "primary",
+      "layerHint": "shadow",
+      "evidence": [
+        "forge",
+        "dlcCommunity",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:d-ralva",
+      "game": "dlc",
+      "region": "Scadu Altus",
+      "name": "Ralva the Great Red Bear",
+      "location": "Lake near Highroad Cross",
+      "category": "field",
+      "hunt": "primary",
+      "layerHint": "shadow",
+      "evidence": [
+        "forge",
+        "dlcCommunity",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:d-altus-ghostflame",
+      "game": "dlc",
+      "region": "Scadu Altus",
+      "name": "Ghostflame Dragon",
+      "location": "Moorth Highway south",
+      "category": "field",
+      "hunt": "primary",
+      "layerHint": "shadow",
+      "evidence": [
+        "forge",
+        "dlcCommunity",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:d-dane",
+      "game": "dlc",
+      "region": "Scadu Altus",
+      "name": "Dryleaf Dane",
+      "location": "Moorth Ruins",
+      "category": "conditional",
+      "hunt": "primary",
+      "layerHint": "shadow",
+      "evidence": [
+        "checklist",
+        "dlcCommunity",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate",
+      "decision": "Community health-bar list and checklist include the duel; Tarnished Forge omits it. Independently check video or game flag."
+    },
+    {
+      "id": "er:d-labirith",
+      "game": "dlc",
+      "region": "Scadu Altus",
+      "name": "Curseblade Labirith",
+      "location": "Bonny Gaol",
+      "category": "dungeon",
+      "hunt": "primary",
+      "layerHint": "shadow",
+      "evidence": [
+        "forge",
+        "dlcCommunity",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:d-metyr",
+      "game": "dlc",
+      "region": "Scadu Altus",
+      "name": "Metyr, Mother of Fingers",
+      "location": "Finger Ruins of Miyr",
+      "category": "remembrance",
+      "hunt": "primary",
+      "layerHint": "shadow",
+      "evidence": [
+        "forge",
+        "dlcCommunity",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:d-ymir",
+      "game": "dlc",
+      "region": "Scadu Altus",
+      "name": "Count Ymir, Mother of Fingers",
+      "location": "Cathedral of Manus Metyr",
+      "category": "conditional",
+      "hunt": "primary",
+      "layerHint": "shadow",
+      "evidence": [
+        "forge",
+        "dlcCommunity",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:d-hippo",
+      "game": "dlc",
+      "region": "Shadow Keep",
+      "name": "Golden Hippopotamus",
+      "location": "Shadow Keep main gate",
+      "category": "legacy",
+      "hunt": "primary",
+      "layerHint": "shadow",
+      "evidence": [
+        "forge",
+        "dlcCommunity",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:d-messmer",
+      "game": "dlc",
+      "region": "Shadow Keep",
+      "name": "Messmer the Impaler / Base Serpent Messmer",
+      "location": "Specimen Storehouse, Dark Chamber",
+      "category": "remembrance",
+      "hunt": "primary",
+      "layerHint": "shadow",
+      "evidence": [
+        "forge",
+        "dlcCommunity",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate",
+      "participants": [
+        "Messmer the Impaler",
+        "Base Serpent Messmer"
+      ]
+    },
+    {
+      "id": "er:d-gaius",
+      "game": "dlc",
+      "region": "Scaduview",
+      "name": "Commander Gaius",
+      "location": "Shadow Keep back gate",
+      "category": "remembrance",
+      "hunt": "primary",
+      "layerHint": "shadow",
+      "evidence": [
+        "forge",
+        "dlcCommunity",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:d-avatar",
+      "game": "dlc",
+      "region": "Scaduview",
+      "name": "Scadutree Avatar",
+      "location": "Scadutree Base",
+      "category": "remembrance",
+      "hunt": "primary",
+      "layerHint": "shadow",
+      "evidence": [
+        "forge",
+        "dlcCommunity",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate",
+      "decision": "Three successive health bars in one continuous encounter."
+    },
+    {
+      "id": "er:d-hinterland-sentinel-shield",
+      "game": "dlc",
+      "region": "Hinterland",
+      "name": "Tree Sentinel (shield)",
+      "location": "Hinterland approach",
+      "category": "field",
+      "hunt": "primary",
+      "layerHint": "shadow",
+      "evidence": [
+        "forge",
+        "dlcCommunity",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate",
+      "decision": "Distinct independent boss from torch sentinel; exact coordinate and defeat flag pending."
+    },
+    {
+      "id": "er:d-hinterland-sentinel-torch",
+      "game": "dlc",
+      "region": "Hinterland",
+      "name": "Tree Sentinel (torch)",
+      "location": "Hinterland approach",
+      "category": "field",
+      "hunt": "primary",
+      "layerHint": "shadow",
+      "evidence": [
+        "forge",
+        "dlcCommunity",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate",
+      "decision": "Distinct independent boss from shield sentinel; exact coordinate and defeat flag pending."
+    },
+    {
+      "id": "er:d-hinterland-beast",
+      "game": "dlc",
+      "region": "Hinterland",
+      "name": "Fallingstar Beast",
+      "location": "Crater near Fingerstone Hill",
+      "category": "field",
+      "hunt": "primary",
+      "layerHint": "shadow",
+      "evidence": [
+        "forge",
+        "dlcCommunity",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:d-rakshasa",
+      "game": "dlc",
+      "region": "Recluses' River",
+      "name": "Rakshasa",
+      "location": "Eastern Nameless Mausoleum",
+      "category": "mausoleum",
+      "hunt": "primary",
+      "layerHint": "shadow",
+      "evidence": [
+        "forge",
+        "dlcCommunity",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:d-jori",
+      "game": "dlc",
+      "region": "Recluses' River",
+      "name": "Jori, Elder Inquisitor",
+      "location": "Darklight Catacombs",
+      "category": "dungeon",
+      "hunt": "primary",
+      "layerHint": "shadow",
+      "evidence": [
+        "forge",
+        "dlcCommunity",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:d-midra",
+      "game": "dlc",
+      "region": "Abyssal Woods",
+      "name": "Midra, Lord of Frenzied Flame",
+      "location": "Midra's Manse",
+      "category": "remembrance",
+      "hunt": "primary",
+      "layerHint": "shadow",
+      "evidence": [
+        "forge",
+        "dlcCommunity",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:d-ranah",
+      "game": "dlc",
+      "region": "Cerulean Coast",
+      "name": "Dancer of Ranah",
+      "location": "Southern Nameless Mausoleum",
+      "category": "mausoleum",
+      "hunt": "primary",
+      "layerHint": "shadow",
+      "evidence": [
+        "forge",
+        "dlcCommunity",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:d-marigga",
+      "game": "dlc",
+      "region": "Cerulean Coast",
+      "name": "Demi-Human Queen Marigga",
+      "location": "Coast north of Cerulean Coast West",
+      "category": "field",
+      "hunt": "primary",
+      "layerHint": "shadow",
+      "evidence": [
+        "forge",
+        "dlcCommunity",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:d-coast-ghostflame",
+      "game": "dlc",
+      "region": "Cerulean Coast",
+      "name": "Ghostflame Dragon",
+      "location": "Cerulean Coast",
+      "category": "field",
+      "hunt": "primary",
+      "layerHint": "shadow",
+      "evidence": [
+        "forge",
+        "dlcCommunity",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:d-putrescent",
+      "game": "dlc",
+      "region": "Stone Coffin Fissure",
+      "name": "Putrescent Knight",
+      "location": "Garden of Deep Purple",
+      "category": "remembrance",
+      "hunt": "primary",
+      "layerHint": "shadow",
+      "evidence": [
+        "forge",
+        "dlcCommunity",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:d-charo-bird",
+      "game": "dlc",
+      "region": "Charo's Hidden Grave",
+      "name": "Death Rite Bird",
+      "location": "Lake in Charo's Hidden Grave",
+      "category": "night",
+      "hunt": "primary",
+      "layerHint": "shadow",
+      "evidence": [
+        "forge",
+        "dlcCommunity",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:d-lamenter",
+      "game": "dlc",
+      "region": "Charo's Hidden Grave",
+      "name": "Lamenter",
+      "location": "Lamenter's Gaol",
+      "category": "dungeon",
+      "hunt": "primary",
+      "layerHint": "shadow",
+      "evidence": [
+        "forge",
+        "dlcCommunity",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:d-redbear",
+      "game": "dlc",
+      "region": "Rauh Base",
+      "name": "Red Bear",
+      "location": "Northern Nameless Mausoleum",
+      "category": "mausoleum",
+      "hunt": "primary",
+      "layerHint": "shadow",
+      "evidence": [
+        "forge",
+        "dlcCommunity",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:d-rugalea",
+      "game": "dlc",
+      "region": "Rauh Base",
+      "name": "Rugalea the Great Red Bear",
+      "location": "Near Ravine North",
+      "category": "field",
+      "hunt": "primary",
+      "layerHint": "shadow",
+      "evidence": [
+        "forge",
+        "dlcCommunity",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:d-scorpion-deathknight",
+      "game": "dlc",
+      "region": "Rauh Base",
+      "name": "Death Knight",
+      "location": "Scorpion River Catacombs",
+      "category": "dungeon",
+      "hunt": "primary",
+      "layerHint": "shadow",
+      "evidence": [
+        "forge",
+        "dlcCommunity",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:d-rauh-lion",
+      "game": "dlc",
+      "region": "Ancient Ruins of Rauh",
+      "name": "Divine Beast Dancing Lion",
+      "location": "Lower Rauh temple",
+      "category": "field",
+      "hunt": "primary",
+      "layerHint": "shadow",
+      "evidence": [
+        "forge",
+        "dlcCommunity",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:d-romina",
+      "game": "dlc",
+      "region": "Ancient Ruins of Rauh",
+      "name": "Romina, Saint of the Bud",
+      "location": "Church of the Bud",
+      "category": "remembrance",
+      "hunt": "primary",
+      "layerHint": "shadow",
+      "evidence": [
+        "forge",
+        "dlcCommunity",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:d-drake-solo",
+      "game": "dlc",
+      "region": "Jagged Peak",
+      "name": "Jagged Peak Drake",
+      "location": "Beyond Dragon's Pit Terminus",
+      "category": "field",
+      "hunt": "primary",
+      "layerHint": "shadow",
+      "evidence": [
+        "forge",
+        "dlcCommunity",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:d-drake-duo",
+      "game": "dlc",
+      "region": "Jagged Peak",
+      "name": "Jagged Peak Drakes",
+      "location": "Foot of the Jagged Peak approach",
+      "category": "duo",
+      "hunt": "primary",
+      "layerHint": "shadow",
+      "evidence": [
+        "forge",
+        "dlcCommunity",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate",
+      "decision": "Two drakes fighting each other in one encounter, distinct from the first lone drake."
+    },
+    {
+      "id": "er:d-senessax",
+      "game": "dlc",
+      "region": "Jagged Peak",
+      "name": "Ancient Dragon Senessax",
+      "location": "Jagged Peak Mountainside",
+      "category": "field",
+      "hunt": "primary",
+      "layerHint": "shadow",
+      "evidence": [
+        "forge",
+        "dlcCommunity",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:d-bayle",
+      "game": "dlc",
+      "region": "Jagged Peak",
+      "name": "Bayle the Dread",
+      "location": "Jagged Peak Summit",
+      "category": "field",
+      "hunt": "primary",
+      "layerHint": "shadow",
+      "evidence": [
+        "forge",
+        "dlcCommunity",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate"
+    },
+    {
+      "id": "er:d-consort",
+      "game": "dlc",
+      "region": "Enir-Ilim",
+      "name": "Promised Consort Radahn / Radahn, Consort of Miquella",
+      "location": "Divine Gate Front Staircase arena",
+      "category": "remembrance",
+      "hunt": "primary",
+      "layerHint": "shadow",
+      "evidence": [
+        "forge",
+        "dlcCommunity",
+        "steamVideoGuide"
+      ],
+      "review": "cross-source-candidate",
+      "participants": [
+        "Promised Consort Radahn",
+        "Radahn, Consort of Miquella"
+      ]
+    },
+    {
+      "id": "er:b-greyoll",
+      "game": "base",
+      "region": "Dragonbarrow",
+      "name": "Elder Dragon Greyoll",
+      "location": "Near Fort Faroth",
+      "hunt": "extended",
+      "category": "unique-challenge",
+      "layerHint": "surface",
+      "evidence": [
+        "baseCommunity",
+        "checklist"
+      ],
+      "review": "classification-review",
+      "decision": "No conventional boss bar; unique dragon."
+    },
+    {
+      "id": "er:b-mountaintops-mariner",
+      "game": "base",
+      "region": "Mountaintops of the Giants",
+      "name": "Tibia Mariner",
+      "location": "Near Castle Sol approach",
+      "hunt": "extended",
+      "category": "unique-challenge",
+      "layerHint": "surface",
+      "evidence": [
+        "baseCommunity",
+        "checklist"
+      ],
+      "review": "classification-review",
+      "decision": "No conventional boss bar."
+    },
+    {
+      "id": "er:b-towerbridge-noble",
+      "game": "base",
+      "region": "Liurnia",
+      "name": "Godskin Noble",
+      "location": "Liurnia Divine Tower bridge",
+      "hunt": "extended",
+      "category": "unique-challenge",
+      "layerHint": "surface",
+      "evidence": [
+        "baseCommunity",
+        "checklist"
+      ],
+      "review": "classification-review",
+      "decision": "No conventional boss bar."
+    },
+    {
+      "id": "er:b-manor-lower-wyrm",
+      "game": "base",
+      "region": "Volcano Manor",
+      "name": "Magma Wyrm",
+      "location": "Lower lava area beneath Temple of Eiglay",
+      "hunt": "extended",
+      "category": "unique-challenge",
+      "layerHint": "surface",
+      "evidence": [
+        "baseCommunity",
+        "checklist"
+      ],
+      "review": "classification-review",
+      "decision": "No conventional boss bar per checklist; independently confirm."
+    },
+    {
+      "id": "er:d-leda-allies",
+      "game": "dlc",
+      "region": "Enir-Ilim",
+      "name": "Needle Knight Leda and allies",
+      "location": "Enir-Ilim invasion arena",
+      "hunt": "extended",
+      "category": "unique-challenge",
+      "layerHint": "shadow",
+      "evidence": [
+        "forge",
+        "dlcCommunity"
+      ],
+      "review": "classification-review",
+      "decision": "Progression encounter without conventional boss bar."
+    },
+    {
+      "id": "er:d-jolan",
+      "game": "dlc",
+      "region": "Scadu Altus",
+      "name": "Swordhand of Night Jolan",
+      "location": "Cathedral of Manus Metyr",
+      "hunt": "extended",
+      "category": "unique-challenge",
+      "layerHint": "shadow",
+      "evidence": [
+        "forge",
+        "dlcCommunity"
+      ],
+      "review": "classification-review",
+      "decision": "Quest invasion; separate from Ymir boss."
+    },
+    {
+      "id": "er:d-dragon-man-invader",
+      "game": "dlc",
+      "region": "Gravesite Plain",
+      "name": "Ancient Dragon-Man (invasion)",
+      "location": "Dragon's Pit approach",
+      "hunt": "extended",
+      "category": "unique-challenge",
+      "layerHint": "shadow",
+      "evidence": [
+        "forge",
+        "dlcCommunity"
+      ],
+      "review": "classification-review",
+      "decision": "Invasion distinct from dungeon boss."
+    },
+    {
+      "id": "er:d-furnace-plain",
+      "game": "dlc",
+      "region": "Gravesite Plain",
+      "name": "Furnace Golem",
+      "location": "Scorched Ruins vicinity",
+      "hunt": "extended",
+      "category": "unique-challenge",
+      "layerHint": "shadow",
+      "evidence": [
+        "pcg",
+        "furnaceWiki",
+        "furnaceGuide"
+      ],
+      "review": "classification-review",
+      "decision": "Unique furnace encounter."
+    },
+    {
+      "id": "er:d-furnace-ellac",
+      "game": "dlc",
+      "region": "Gravesite Plain",
+      "name": "Furnace Golem",
+      "location": "Lower Ellac River",
+      "hunt": "extended",
+      "category": "unique-challenge",
+      "layerHint": "shadow",
+      "evidence": [
+        "pcg",
+        "furnaceWiki",
+        "furnaceGuide"
+      ],
+      "review": "classification-review",
+      "decision": "Unique furnace encounter."
+    },
+    {
+      "id": "er:d-furnace-keep",
+      "game": "dlc",
+      "region": "Scadu Altus",
+      "name": "Furnace Golem",
+      "location": "Camp south of Shadow Keep",
+      "hunt": "extended",
+      "category": "unique-challenge",
+      "layerHint": "shadow",
+      "evidence": [
+        "pcg",
+        "furnaceWiki",
+        "furnaceGuide"
+      ],
+      "review": "classification-review",
+      "decision": "Unique furnace encounter."
+    },
+    {
+      "id": "er:d-furnace-east",
+      "game": "dlc",
+      "region": "Scadu Altus",
+      "name": "Furnace Golem",
+      "location": "Road to Church District",
+      "hunt": "extended",
+      "category": "unique-challenge",
+      "layerHint": "shadow",
+      "evidence": [
+        "pcg",
+        "furnaceWiki",
+        "furnaceGuide"
+      ],
+      "review": "classification-review",
+      "decision": "Unique furnace encounter."
+    },
+    {
+      "id": "er:d-furnace-rauh",
+      "game": "dlc",
+      "region": "Ancient Ruins of Rauh",
+      "name": "Furnace Golem",
+      "location": "Upper Rauh Ruins",
+      "hunt": "extended",
+      "category": "unique-challenge",
+      "layerHint": "shadow",
+      "evidence": [
+        "pcg",
+        "furnaceWiki",
+        "furnaceGuide"
+      ],
+      "review": "classification-review",
+      "decision": "Unique furnace encounter."
+    },
+    {
+      "id": "er:d-furnace-watering",
+      "game": "dlc",
+      "region": "Scadu Altus",
+      "name": "Furnace Golem",
+      "location": "Castle Watering Hole",
+      "hunt": "extended",
+      "category": "unique-challenge",
+      "layerHint": "shadow",
+      "evidence": [
+        "pcg",
+        "furnaceWiki",
+        "furnaceGuide"
+      ],
+      "review": "classification-review",
+      "decision": "Active golem in Castle Watering Hole, Oil-Soaked Tear; distinct from Ruins of Unte dormant golem."
+    },
+    {
+      "id": "er:d-furnace-unte",
+      "game": "dlc",
+      "region": "Scadu Altus",
+      "name": "Furnace Golem",
+      "location": "Ruins of Unte",
+      "hunt": "extended",
+      "category": "unique-challenge",
+      "layerHint": "shadow",
+      "evidence": [
+        "pcg",
+        "furnaceWiki",
+        "furnaceGuide",
+        "furnaceUnte"
+      ],
+      "review": "classification-review",
+      "decision": "Dormant entrance-blocking golem, Bloodsucking Cracked Tear; activate with a Hefty Furnace Pot."
+    },
+    {
+      "id": "er:d-furnace-charo",
+      "game": "dlc",
+      "region": "Charo's Hidden Grave",
+      "name": "Furnace Golem",
+      "location": "Western Charo's Hidden Grave",
+      "hunt": "extended",
+      "category": "unique-challenge",
+      "layerHint": "shadow",
+      "evidence": [
+        "pcg",
+        "furnaceWiki",
+        "furnaceGuide"
+      ],
+      "review": "classification-review",
+      "decision": "Unique furnace encounter."
+    },
+    {
+      "id": "er:d-charo-mariner",
+      "game": "dlc",
+      "region": "Charo's Hidden Grave",
+      "name": "Tibia Mariner",
+      "location": "River in southeastern Charo's Hidden Grave",
+      "category": "unique-challenge",
+      "hunt": "extended",
+      "layerHint": "shadow",
+      "evidence": [
+        "marinerGuide"
+      ],
+      "review": "classification-review",
+      "decision": "Unique miniboss without conventional boss bar."
+    },
+    {
+      "id": "er:d-dragons-pit-wyrm",
+      "game": "dlc",
+      "region": "Gravesite Plain",
+      "name": "Magma Wyrm",
+      "location": "Optional upper chamber of Dragon's Pit",
+      "category": "unique-challenge",
+      "hunt": "extended",
+      "layerHint": "shadow",
+      "evidence": [
+        "wyrmGuide"
+      ],
+      "review": "classification-review",
+      "decision": "Separate elite from Ancient Dragon-Man; no boss bar."
+    },
+    {
+      "id": "er:d-queelign-belurat",
+      "game": "dlc",
+      "region": "Belurat",
+      "name": "Fire Knight Queelign",
+      "location": "Belurat, Tower Settlement",
+      "category": "unique-challenge",
+      "hunt": "extended",
+      "layerHint": "shadow",
+      "evidence": [
+        "queelignWiki",
+        "queelignGuide"
+      ],
+      "review": "classification-review",
+      "decision": "Independent first location for invasion sequence."
+    },
+    {
+      "id": "er:d-queelign-church",
+      "game": "dlc",
+      "region": "Scadu Altus",
+      "name": "Fire Knight Queelign",
+      "location": "Church of the Crusade",
+      "category": "unique-challenge",
+      "hunt": "extended",
+      "layerHint": "shadow",
+      "evidence": [
+        "queelignWiki",
+        "queelignGuide"
+      ],
+      "review": "classification-review",
+      "decision": "Independent second location for invasion sequence; reward depends on order."
+    },
+    {
+      "id": "er:d-hippo-charo",
+      "game": "dlc",
+      "region": "Charo's Hidden Grave",
+      "name": "Hippopotamus",
+      "location": "Lake west of Charo's Hidden Grave grace",
+      "category": "unique-challenge",
+      "hunt": "extended",
+      "layerHint": "shadow",
+      "evidence": [
+        "hippoGuide",
+        "fragments"
+      ],
+      "review": "classification-review",
+      "decision": "Unique Scadutree Fragment elite."
+    },
+    {
+      "id": "er:d-hippo-river-one",
+      "game": "dlc",
+      "region": "Recluses' River",
+      "name": "Hippopotamus",
+      "location": "Lake below Recluses' River Downstream, first encounter",
+      "category": "unique-challenge",
+      "hunt": "extended",
+      "layerHint": "shadow",
+      "evidence": [
+        "hippoWalk",
+        "fragments"
+      ],
+      "review": "classification-review",
+      "decision": "Distinct fragment-bearing individual; precise position pending."
+    },
+    {
+      "id": "er:d-hippo-river-two",
+      "game": "dlc",
+      "region": "Recluses' River",
+      "name": "Hippopotamus",
+      "location": "Lake below Recluses' River Downstream, second encounter",
+      "category": "unique-challenge",
+      "hunt": "extended",
+      "layerHint": "shadow",
+      "evidence": [
+        "hippoWalk",
+        "fragments"
+      ],
+      "review": "classification-review",
+      "decision": "Distinct fragment-bearing individual; precise position pending."
+    },
+    {
+      "id": "er:d-hippo-rauh",
+      "game": "dlc",
+      "region": "Ancient Ruins of Rauh",
+      "name": "Hippopotamus",
+      "location": "Lake in Ancient Ruins of Rauh",
+      "category": "unique-challenge",
+      "hunt": "extended",
+      "layerHint": "shadow",
+      "evidence": [
+        "hippoWalk",
+        "fragments"
+      ],
+      "review": "classification-review",
+      "decision": "Unique Scadutree Fragment elite."
+    },
+    {
+      "id": "er:b-inv-nerijus",
+      "game": "base",
+      "region": "Limgrave",
+      "name": "Bloody Finger Nerijus",
+      "location": "Murkwater river ravine",
+      "category": "unique-challenge",
+      "hunt": "extended",
+      "layerHint": "surface",
+      "evidence": [
+        "invaderGuide",
+        "invaderGuide2"
+      ],
+      "review": "classification-review",
+      "decision": "Scripted invasion."
+    },
+    {
+      "id": "er:b-inv-anastasia-church",
+      "game": "base",
+      "region": "Caelid",
+      "name": "Anastasia, Tarnished-Eater",
+      "location": "Smoldering Church",
+      "category": "unique-challenge",
+      "hunt": "extended",
+      "layerHint": "surface",
+      "evidence": [
+        "anastasiaWiki",
+        "invaderGuide"
+      ],
+      "review": "classification-review",
+      "decision": "First independent invasion location."
+    },
+    {
+      "id": "er:b-inv-anastasia-shack",
+      "game": "base",
+      "region": "Mt. Gelmir",
+      "name": "Anastasia, Tarnished-Eater",
+      "location": "Corpse-Stench Shack",
+      "category": "unique-challenge",
+      "hunt": "extended",
+      "layerHint": "surface",
+      "evidence": [
+        "anastasiaWiki",
+        "invaderGuide"
+      ],
+      "review": "classification-review",
+      "decision": "Second independent invasion location."
+    },
+    {
+      "id": "er:b-inv-anastasia-snow",
+      "game": "base",
+      "region": "Consecrated Snowfield",
+      "name": "Anastasia, Tarnished-Eater",
+      "location": "Frozen river southwest of Ordina",
+      "category": "unique-challenge",
+      "hunt": "extended",
+      "layerHint": "surface",
+      "evidence": [
+        "anastasiaWiki",
+        "invaderGuide"
+      ],
+      "review": "classification-review",
+      "decision": "Third independent invasion location."
+    },
+    {
+      "id": "er:b-inv-edgar",
+      "game": "base",
+      "region": "Liurnia",
+      "name": "Edgar the Revenger",
+      "location": "Revenger's Shack",
+      "category": "unique-challenge",
+      "hunt": "extended",
+      "layerHint": "surface",
+      "evidence": [
+        "invaderGuide",
+        "invaderGuide2"
+      ],
+      "review": "classification-review",
+      "decision": "Quest-dependent invasion."
+    },
+    {
+      "id": "er:b-inv-vyke",
+      "game": "base",
+      "region": "Liurnia",
+      "name": "Festering Fingerprint Vyke",
+      "location": "Church of Inhibition",
+      "category": "unique-challenge",
+      "hunt": "extended",
+      "layerHint": "surface",
+      "evidence": [
+        "invaderGuide",
+        "invaderVideo"
+      ],
+      "review": "classification-review",
+      "decision": "Distinct from Roundtable Knight Vyke evergaol."
+    },
+    {
+      "id": "er:b-inv-millicent",
+      "game": "base",
+      "region": "Caelid",
+      "name": "Millicent",
+      "location": "Swamp of Aeonia",
+      "category": "unique-challenge",
+      "hunt": "extended",
+      "layerHint": "surface",
+      "evidence": [
+        "invaderGuide",
+        "invaderVideo"
+      ],
+      "review": "classification-review",
+      "decision": "Scripted invasion; separate from quest choices."
+    },
+    {
+      "id": "er:b-inv-eleonora",
+      "game": "base",
+      "region": "Altus Plateau",
+      "name": "Eleonora, Violet Bloody Finger",
+      "location": "Second Church of Marika",
+      "category": "unique-challenge",
+      "hunt": "extended",
+      "layerHint": "surface",
+      "evidence": [
+        "invaderGuide",
+        "invaderVideo"
+      ],
+      "review": "classification-review",
+      "decision": "Scripted invasion."
+    },
+    {
+      "id": "er:b-inv-bernahl",
+      "game": "base",
+      "region": "Crumbling Farum Azula",
+      "name": "Recusant Bernahl",
+      "location": "Tower beyond Beside the Great Bridge",
+      "category": "unique-challenge",
+      "hunt": "extended",
+      "layerHint": "surface",
+      "evidence": [
+        "invaderGuide",
+        "invaderVideo"
+      ],
+      "review": "classification-review",
+      "decision": "Conditional scripted invasion."
+    },
+    {
+      "id": "er:b-inv-sanguine",
+      "game": "base",
+      "region": "Consecrated Snowfield",
+      "name": "Sanguine Noble",
+      "location": "Western Consecrated Snowfield",
+      "category": "unique-challenge",
+      "hunt": "extended",
+      "layerHint": "surface",
+      "evidence": [
+        "invaderGuide2",
+        "invaderVideo"
+      ],
+      "review": "classification-review",
+      "decision": "Distinct from Writheblood Ruins boss."
+    },
+    {
+      "id": "er:b-contract-istvan",
+      "game": "base",
+      "region": "Stormhill",
+      "name": "Old Knight Istvan",
+      "location": "Colosseum approach",
+      "category": "unique-challenge",
+      "hunt": "extended",
+      "layerHint": "surface",
+      "evidence": [
+        "manorWiki",
+        "manorContracts",
+        "manorLocations"
+      ],
+      "review": "classification-review",
+      "decision": "First Manor contract; obtain letter before defeating Rykard."
+    },
+    {
+      "id": "er:b-contract-rileigh",
+      "game": "base",
+      "region": "Altus Plateau",
+      "name": "Rileigh the Idle",
+      "location": "Ravine below Shaded Castle",
+      "category": "unique-challenge",
+      "hunt": "extended",
+      "layerHint": "surface",
+      "evidence": [
+        "manorWiki",
+        "manorContracts",
+        "manorLocations"
+      ],
+      "review": "classification-review",
+      "decision": "Second Manor contract; complete Istvan and collect second letter."
+    },
+    {
+      "id": "er:b-contract-tragoth",
+      "game": "base",
+      "region": "Liurnia",
+      "name": "Great Horned Tragoth",
+      "location": "Magma Wyrm Makar arena",
+      "category": "unique-challenge",
+      "hunt": "extended",
+      "layerHint": "surface",
+      "evidence": [
+        "manorWiki",
+        "manorContracts",
+        "manorLocations"
+      ],
+      "review": "classification-review",
+      "decision": "Patches contract after Istvan; defeat Makar before using invasion sign."
+    },
+    {
+      "id": "er:b-contract-vargram-wilhelm",
+      "game": "base",
+      "region": "Leyndell, Royal Capital",
+      "name": "Vargram the Raging Wolf & Errant Sorcerer Wilhelm",
+      "location": "Fortified Manor",
+      "category": "unique-challenge",
+      "hunt": "extended",
+      "layerHint": "surface",
+      "evidence": [
+        "manorWiki",
+        "manorContracts",
+        "manorLocations"
+      ],
+      "review": "classification-review",
+      "decision": "Bernahl contract; simultaneous opponents, one completion; do before capital changes."
+    },
+    {
+      "id": "er:b-contract-juno",
+      "game": "base",
+      "region": "Mountaintops of the Giants",
+      "name": "Juno Hoslow, Knight of Blood",
+      "location": "Near Shack of the Lofty",
+      "category": "unique-challenge",
+      "hunt": "extended",
+      "layerHint": "surface",
+      "evidence": [
+        "manorWiki",
+        "manorContracts",
+        "manorLocations"
+      ],
+      "review": "classification-review",
+      "decision": "Third Manor contract; obtain Red Letter and reach Mountaintops before ending Manor chain."
+    },
+    {
+      "id": "er:b-inv-ghiza",
+      "game": "base",
+      "region": "Volcano Manor",
+      "name": "Inquisitor Ghiza",
+      "location": "Upper floor of Volcano Manor",
+      "category": "unique-challenge",
+      "hunt": "extended",
+      "layerHint": "surface",
+      "evidence": [
+        "manorVideo"
+      ],
+      "review": "classification-review",
+      "decision": "Scripted invasion; distinct from Manor contracts."
+    },
+    {
+      "id": "er:b-inv-henricus",
+      "game": "base",
+      "region": "Stormhill",
+      "name": "Recusant Henricus",
+      "location": "Colosseum approach north of Warmaster's Shack",
+      "layerHint": "surface",
+      "decision": "Scripted invasion; trigger and patch availability require review.",
+      "hunt": "extended",
+      "category": "unique-challenge",
+      "review": "classification-review",
+      "evidence": [
+        "invaderGuide",
+        "invaderWiki"
+      ]
+    },
+    {
+      "id": "er:b-inv-alberich",
+      "game": "base",
+      "region": "Roundtable Hold",
+      "name": "Mad Tongue Alberich",
+      "location": "Roundtable Hold lower hall",
+      "layerHint": "underground",
+      "decision": "Unique scripted duel after dropping from balcony; map layer assignment provisional; hub inset needed.",
+      "hunt": "extended",
+      "category": "unique-challenge",
+      "review": "classification-review",
+      "evidence": [
+        "invaderGuide",
+        "invaderWiki"
+      ]
+    },
+    {
+      "id": "er:b-inv-dungeater",
+      "game": "base",
+      "region": "Capital Outskirts",
+      "name": "Dung Eater",
+      "location": "Outer moat north of Leyndell",
+      "layerHint": "surface",
+      "decision": "Quest-dependent scripted invasion.",
+      "hunt": "extended",
+      "category": "unique-challenge",
+      "review": "classification-review",
+      "evidence": [
+        "invaderGuide",
+        "invaderWiki"
+      ]
+    },
+    {
+      "id": "er:b-inv-tanith-knight",
+      "game": "base",
+      "region": "Volcano Manor",
+      "name": "Tanith's Knight",
+      "location": "Rykard arena",
+      "layerHint": "surface",
+      "decision": "Optional quest-dependent retaliation after Tanith is attacked; may end NPC quest.",
+      "hunt": "extended",
+      "category": "unique-challenge",
+      "review": "classification-review",
+      "evidence": [
+        "invaderGuide",
+        "invaderWiki"
+      ]
+    },
+    {
+      "id": "er:b-inv-okina",
+      "game": "base",
+      "region": "Mountaintops of the Giants",
+      "name": "Bloody Finger Okina",
+      "location": "Church of Repose",
+      "layerHint": "surface",
+      "decision": "Scripted invasion; patch-dependent trigger to verify.",
+      "hunt": "extended",
+      "category": "unique-challenge",
+      "review": "classification-review",
+      "evidence": [
+        "invaderGuide",
+        "invaderWiki"
+      ]
+    },
+    {
+      "id": "er:b-inv-whitemask-one",
+      "game": "base",
+      "region": "Mohgwyn Palace",
+      "name": "Nameless White Mask",
+      "location": "Southern Lake of Blood approach",
+      "layerHint": "underground",
+      "decision": "Separate invasion trigger; exact reward and identity order not yet qualified.",
+      "hunt": "extended",
+      "category": "unique-challenge",
+      "review": "classification-review",
+      "evidence": [
+        "invaderGuide",
+        "invaderWiki"
+      ]
+    },
+    {
+      "id": "er:b-inv-whitemask-two",
+      "game": "base",
+      "region": "Mohgwyn Palace",
+      "name": "Nameless White Mask",
+      "location": "Lake of Blood southeast of first approach",
+      "layerHint": "underground",
+      "decision": "Separate invasion trigger; exact positions pending.",
+      "hunt": "extended",
+      "category": "unique-challenge",
+      "review": "classification-review",
+      "evidence": [
+        "invaderGuide",
+        "invaderWiki"
+      ]
+    },
+    {
+      "id": "er:b-inv-whitemask-three",
+      "game": "base",
+      "region": "Mohgwyn Palace",
+      "name": "Nameless White Mask",
+      "location": "Southern Lake of Blood basin",
+      "layerHint": "underground",
+      "decision": "Separate invasion trigger; War Surgeon set award order to verify.",
+      "hunt": "extended",
+      "category": "unique-challenge",
+      "review": "classification-review",
+      "evidence": [
+        "invaderGuide",
+        "invaderWiki"
+      ]
+    },
+    {
+      "id": "er:b-greatjar",
+      "game": "base",
+      "region": "Dragonbarrow",
+      "name": "Knights of the Great Jar",
+      "location": "Great Jar colosseum approach",
+      "layerHint": "surface",
+      "hunt": "extended",
+      "category": "unique-challenge",
+      "review": "classification-review",
+      "evidence": [
+        "b-greatjar-a",
+        "b-greatjar-b"
+      ],
+      "decision": "Three sequential duels without dying, one shared reward; builds vary online."
+    },
+    {
+      "id": "er:b-magnus",
+      "game": "base",
+      "region": "Altus Plateau",
+      "name": "Magnus the Beast Claw",
+      "location": "Writheblood Ruins",
+      "layerHint": "surface",
+      "hunt": "extended",
+      "category": "unique-challenge",
+      "review": "classification-review",
+      "evidence": [
+        "b-magnus-a",
+        "b-magnus-b"
+      ],
+      "decision": "Optional offline invasion alternative; actually defeat him for this hunt."
+    },
+    {
+      "id": "er:b-varre-duel",
+      "game": "base",
+      "region": "Mohgwyn Palace",
+      "name": "White Mask Varré",
+      "location": "Dynasty Mausoleum invasion sign",
+      "layerHint": "underground",
+      "hunt": "extended",
+      "category": "unique-challenge",
+      "review": "classification-review",
+      "evidence": [
+        "b-varre-duel-a",
+        "b-varre-duel-b"
+      ],
+      "decision": "Optional final invasion; distinct from three Nameless White Masks."
+    },
+    {
+      "id": "er:b-capital-margit",
+      "game": "base",
+      "region": "Capital Outskirts",
+      "name": "Margit (Commoner apparition)",
+      "location": "Battlefield south of Outer Wall Battleground",
+      "layerHint": "surface",
+      "hunt": "extended",
+      "category": "unique-challenge",
+      "review": "classification-review",
+      "evidence": [
+        "b-capital-margit-a",
+        "b-capital-margit-b"
+      ],
+      "decision": "Unique apparition without conventional boss bar; missable if Morgott is defeated first. Distinct from the Stormveil boss.",
+      "missable": true,
+      "cutoff": "er:b-morgott"
+    },
+    {
+      "id": "er:b-farum-draconic",
+      "game": "base",
+      "region": "Crumbling Farum Azula",
+      "name": "Draconic Tree Sentinel",
+      "location": "Bridge outside Maliketh arena",
+      "layerHint": "surface",
+      "hunt": "extended",
+      "category": "unique-challenge",
+      "review": "classification-review",
+      "evidence": [
+        "b-farum-draconic-a",
+        "b-farum-draconic-b"
+      ],
+      "decision": "Optional non-respawning guard; separate from capital sentinel."
+    },
+    {
+      "id": "er:b-millicent-sisters",
+      "game": "base",
+      "region": "Miquella's Haligtree",
+      "name": "Millicent's Sisters",
+      "location": "Elphael rot pool summon sign",
+      "layerHint": "surface",
+      "hunt": "extended",
+      "category": "unique-challenge",
+      "review": "classification-review",
+      "evidence": [
+        "b-millicent-sisters-a",
+        "b-millicent-sisters-b"
+      ],
+      "decision": "Mutually exclusive with challenging Millicent in one journey.",
+      "exclusiveGroup": "millicent-elphael-choice"
+    },
+    {
+      "id": "er:b-millicent-challenge",
+      "game": "base",
+      "region": "Miquella's Haligtree",
+      "name": "Millicent (quest challenge)",
+      "location": "Elphael rot pool red summon sign",
+      "layerHint": "surface",
+      "hunt": "extended",
+      "category": "unique-challenge",
+      "review": "classification-review",
+      "evidence": [
+        "b-millicent-challenge-a",
+        "b-millicent-challenge-b"
+      ],
+      "decision": "Mutually exclusive with assisting Millicent; ends needle route.",
+      "exclusiveGroup": "millicent-elphael-choice"
+    },
+    {
+      "id": "er:b-lake-rot-alabaster",
+      "game": "base",
+      "region": "Lake of Rot",
+      "name": "Alabaster Lord",
+      "location": "Lake of Rot raised ruins",
+      "layerHint": "underground",
+      "hunt": "extended",
+      "category": "unique-elite",
+      "review": "classification-review",
+      "evidence": [
+        "lake-of-rot-lord-s21-1",
+        "lake-of-rot-lord-s21-2",
+        "lake-of-rot-lord-s21-3"
+      ],
+      "decision": "Player report explicitly describes no respawn after mutual death; route and guaranteed weapon supported separately. Provisional extended candidate; not a primary boss or final release admission."
+    },
+    {
+      "id": "er:b-deeproot-elite-avatar",
+      "game": "base",
+      "region": "Deeproot Depths",
+      "name": "Erdtree Avatar",
+      "location": "Great Waterfall Crest approach",
+      "layerHint": "underground",
+      "hunt": "extended",
+      "category": "unique-elite",
+      "review": "classification-review",
+      "evidence": [
+        "deeproot-avatar-s21-1",
+        "deeproot-avatar-s21-2",
+        "deeproot-avatar-s21-3",
+        "deeproot-avatar-s21-4"
+      ],
+      "decision": "Non-respawning enemy family documented; distinct location and named reward corroborated. Provisional extended candidate; not a primary boss or final release admission."
+    },
+    {
+      "id": "er:b-capital-elite-avatar",
+      "game": "base",
+      "region": "Leyndell, Royal Capital",
+      "name": "Erdtree Avatar",
+      "location": "Royal Capital avenue near Avenue Balcony",
+      "layerHint": "surface",
+      "hunt": "extended",
+      "category": "unique-elite",
+      "review": "classification-review",
+      "evidence": [
+        "capital-avatar-s21-1",
+        "capital-avatar-s21-2",
+        "capital-avatar-s21-3"
+      ],
+      "decision": "Non-respawning family and capital-specific reward supported; route cutoff exact trigger pending. Provisional extended candidate; not a primary boss or final release admission."
+    },
+    {
+      "id": "er:b-elphael-bridge-avatar",
+      "game": "base",
+      "region": "Miquella's Haligtree",
+      "name": "Putrid Avatar",
+      "location": "Elphael bridge patrol",
+      "layerHint": "surface",
+      "hunt": "extended",
+      "category": "unique-elite",
+      "review": "classification-review",
+      "evidence": [
+        "elphael-bridge-avatar-s21-1",
+        "elphael-bridge-avatar-s21-2",
+        "elphael-bridge-avatar-s21-3",
+        "elphael-bridge-avatar-s21-4"
+      ],
+      "decision": "Non-respawning family; guide distinguishes bridge patrol from inner wall guard. Provisional extended candidate; not a primary boss or final release admission."
+    },
+    {
+      "id": "er:b-elphael-courtyard-avatar",
+      "game": "base",
+      "region": "Miquella's Haligtree",
+      "name": "Putrid Avatar",
+      "location": "Elphael Inner Wall doorway",
+      "layerHint": "surface",
+      "hunt": "extended",
+      "category": "unique-elite",
+      "review": "classification-review",
+      "evidence": [
+        "elphael-courtyard-avatar-s21-1",
+        "elphael-courtyard-avatar-s21-2",
+        "elphael-courtyard-avatar-s21-3",
+        "elphael-courtyard-avatar-s21-4"
+      ],
+      "decision": "Distinct guard and reward corroborated by walkthrough and enemy page. Provisional extended candidate; not a primary boss or final release admission."
+    },
+    {
+      "id": "er:b-stormveil-elite-spirit",
+      "game": "base",
+      "region": "Stormveil Castle",
+      "name": "Ulcerated Tree Spirit",
+      "location": "Stormveil underground crypt via Liftside Chamber",
+      "layerHint": "surface",
+      "hunt": "extended",
+      "category": "unique-elite",
+      "review": "classification-review",
+      "evidence": [
+        "stormveil-spirit-s21-1",
+        "stormveil-spirit-s21-2",
+        "stormveil-spirit-s21-3"
+      ],
+      "decision": "Family non-respawn report plus specific crypt defeat reward; distinct from Fringefolk dungeon boss. Provisional extended candidate; not a primary boss or final release admission."
+    },
+    {
+      "id": "er:b-outskirts-elite-spirit",
+      "game": "base",
+      "region": "Capital Outskirts",
+      "name": "Ulcerated Tree Spirit",
+      "location": "Encampment south of Outer Wall Phantom Tree",
+      "layerHint": "surface",
+      "hunt": "extended",
+      "category": "unique-elite",
+      "review": "classification-review",
+      "evidence": [
+        "outskirts-spirit-s21-1",
+        "outskirts-spirit-s21-2",
+        "outskirts-spirit-s21-3"
+      ],
+      "decision": "Family non-respawn report and distinct location-specific table; not capital interior. Provisional extended candidate; not a primary boss or final release admission."
+    },
+    {
+      "id": "er:b-cloister-elite-spirit",
+      "game": "base",
+      "region": "Lake of Rot",
+      "name": "Putrid Tree Spirit",
+      "location": "Grand Cloister",
+      "layerHint": "underground",
+      "hunt": "extended",
+      "category": "unique-elite",
+      "review": "classification-review",
+      "evidence": [
+        "cloister-spirit-s21-1",
+        "cloister-spirit-s21-2",
+        "cloister-spirit-s21-3",
+        "cloister-spirit-s21-4"
+      ],
+      "decision": "Family non-respawn report and specific reward corroborated; one player reports persistent absence after automatic death and seed award. Provisional extended candidate; not a primary boss or final release admission."
+    },
+    {
+      "id": "er:b-drainage-elite-spirit",
+      "game": "base",
+      "region": "Miquella's Haligtree",
+      "name": "Putrid Tree Spirit",
+      "location": "Elphael rot pool near Drainage Channel",
+      "layerHint": "surface",
+      "hunt": "extended",
+      "category": "unique-elite",
+      "review": "classification-review",
+      "evidence": [
+        "drainage-spirit-s21-1",
+        "drainage-spirit-s21-2",
+        "drainage-spirit-s21-3",
+        "drainage-spirit-s21-4"
+      ],
+      "decision": "Quest walkthrough explicitly requires defeat then area reload, corroborating persistent defeat separate from both quest duels. Provisional extended candidate; not a primary boss or final release admission."
+    },
+    {
+      "id": "er:d-fire-knight-kood",
+      "game": "dlc",
+      "name": "Fire Knight Kood",
+      "region": "Shadow Keep",
+      "location": "Bridge leading to Dark Chamber",
+      "layerHint": "shadow",
+      "hunt": "extended",
+      "category": "unique-elite",
+      "review": "classification-review",
+      "evidence": [
+        "d-fire-knight-kood-s22-1",
+        "d-fire-knight-kood-s22-2",
+        "d-fire-knight-kood-s22-3",
+        "d-fire-knight-kood-s22-4"
+      ],
+      "decision": "One-time named enemy; explicit non-respawn source, weapon and helm cross-check. Provisional extended only."
+    },
+    {
+      "id": "er:d-fire-knight-salza",
+      "game": "dlc",
+      "name": "Fire Knight Salza",
+      "region": "Shadow Keep",
+      "location": "Bridge west of West Rampart",
+      "layerHint": "shadow",
+      "hunt": "extended",
+      "category": "unique-elite",
+      "review": "classification-review",
+      "evidence": [
+        "d-fire-knight-salza-s22-1",
+        "d-fire-knight-salza-s22-2",
+        "d-fire-knight-salza-s22-3"
+      ],
+      "decision": "Explicit non-respawn source; location and two named rewards corroborated. Provisional extended only."
+    },
+    {
+      "id": "er:d-fire-knight-wego",
+      "game": "dlc",
+      "name": "Fire Knight Wego",
+      "region": "Shadow Keep",
+      "location": "Drained Church District cathedral",
+      "layerHint": "shadow",
+      "hunt": "extended",
+      "category": "unique-elite",
+      "review": "classification-review",
+      "evidence": [
+        "d-fire-knight-wego-s22-1",
+        "d-fire-knight-wego-s22-2",
+        "d-fire-knight-wego-s22-3",
+        "d-fire-knight-wego-s22-4"
+      ],
+      "decision": "Explicit non-respawn source; drainage requirement and helm independently described. Provisional extended only."
+    },
+    {
+      "id": "er:d-devonia",
+      "game": "dlc",
+      "name": "Crucible Knight Devonia",
+      "region": "Ancient Ruins of Rauh",
+      "location": "Rauh Ancient Ruins, East",
+      "layerHint": "shadow",
+      "hunt": "extended",
+      "category": "unique-elite",
+      "review": "classification-review",
+      "evidence": [
+        "d-devonia-s22-1",
+        "d-devonia-s22-2",
+        "d-devonia-s22-3"
+      ],
+      "decision": "Explicit non-respawn in Eldenpedia; distinct named rewards and location in Polygon. Provisional extended only."
+    },
+    {
+      "id": "er:d-moonrithyll",
+      "game": "dlc",
+      "name": "Moonrithyll, Carian Knight",
+      "region": "Gravesite Plain",
+      "location": "Castle Ensis central gate approach",
+      "layerHint": "shadow",
+      "hunt": "extended",
+      "category": "unique-elite",
+      "review": "classification-review",
+      "evidence": [
+        "d-moonrithyll-s22-1",
+        "d-moonrithyll-s22-2",
+        "d-moonrithyll-s22-3",
+        "d-moonrithyll-s22-4"
+      ],
+      "decision": "Named one-time gate encounter on special enemy inventory, location and guaranteed sword corroborated; direct reload test pending. Provisional extended only."
+    },
+    {
+      "id": "er:d-inv-anna",
+      "game": "dlc",
+      "name": "Swordhand of Night Anna",
+      "region": "Scadu Altus",
+      "location": "Finger Ruins of Miyr",
+      "layerHint": "shadow",
+      "hunt": "extended",
+      "category": "unique-challenge",
+      "review": "classification-review",
+      "evidence": [
+        "d-inv-anna-s22-1",
+        "d-inv-anna-s22-2",
+        "d-inv-anna-s22-3"
+      ],
+      "decision": "Scripted unique invasion during quest, separate from Jolan and Metyr. Provisional extended only."
+    },
+    {
+      "id": "er:d-inv-hornsent-rauh",
+      "game": "dlc",
+      "name": "Hornsent (Rauh invasion)",
+      "region": "Ancient Ruins of Rauh",
+      "location": "Stairs approaching Church of the Bud",
+      "layerHint": "shadow",
+      "hunt": "extended",
+      "category": "unique-challenge",
+      "review": "classification-review",
+      "evidence": [
+        "d-inv-hornsent-rauh-s22-1",
+        "d-inv-hornsent-rauh-s22-2",
+        "d-inv-hornsent-rauh-s22-3",
+        "d-inv-hornsent-rauh-s22-4"
+      ],
+      "decision": "Distinct quest invasion; commonly triggered after summoning Hornsent for Messmer and advancing dialogue; exact necessity disputed. Can be locked out by alternate quest outcomes. Do not count an Enir-Ilim participant as this invasion. Provisional extended only. Completing the earlier red-sign Hornsent fight precludes this invasion.",
+      "blockedBy": [
+        "er:d-quest-hornsent-red"
+      ]
+    },
+    {
+      "id": "er:b-moongrum",
+      "game": "base",
+      "name": "Moongrum, Carian Knight",
+      "region": "Liurnia",
+      "location": "Academy of Raya Lucaria lift courtyard",
+      "layerHint": "surface",
+      "hunt": "extended",
+      "category": "unique-elite",
+      "review": "classification-review",
+      "evidence": [
+        "b-moongrum-s22-1",
+        "b-moongrum-s22-2",
+        "b-moongrum-s22-3"
+      ],
+      "decision": "Named hostile NPC and special enemy inventory; location and guaranteed shield corroborated; direct reload test pending. Provisional extended only."
+    },
+    {
+      "id": "er:b-baleful-shadow",
+      "game": "base",
+      "name": "Baleful Shadow",
+      "region": "Ainsel River",
+      "location": "Passage beyond Nokstella toward Lake of Rot",
+      "layerHint": "underground",
+      "hunt": "extended",
+      "category": "unique-challenge",
+      "review": "classification-review",
+      "evidence": [
+        "b-baleful-shadow-s22-1",
+        "b-baleful-shadow-s22-2",
+        "b-baleful-shadow-s22-3",
+        "b-baleful-shadow-s22-4"
+      ],
+      "decision": "Persistent scripted quest defeat; not Blaidd's later encounter and not the Dragonkin Soldier. Provisional extended only."
+    },
+    {
+      "id": "er:d-madding-hand",
+      "game": "dlc",
+      "name": "Madding Hand",
+      "region": "Abyssal Woods",
+      "location": "Path south of Woodland Trail",
+      "layerHint": "shadow",
+      "hunt": "extended",
+      "category": "unique-elite",
+      "review": "classification-review",
+      "evidence": [
+        "d-madding-hand-s23-1",
+        "d-madding-hand-s23-2",
+        "d-madding-hand-s23-3"
+      ],
+      "decision": "Unique non-respawning NPC per Abandoned Church enemy list; separate walkthroughs corroborate location and weapon."
+    },
+    {
+      "id": "er:d-quest-hornsent-red",
+      "game": "dlc",
+      "name": "Hornsent — assist Leda",
+      "region": "Shadow Keep",
+      "location": "Burning boats battlements, red summon sign",
+      "layerHint": "shadow",
+      "hunt": "extended",
+      "category": "unique-challenge",
+      "review": "classification-review",
+      "evidence": [
+        "d-quest-hornsent-red-s23-1",
+        "d-quest-hornsent-red-s23-2",
+        "d-quest-hornsent-red-s23-3"
+      ],
+      "decision": "After charm break and Leda's investigation dialogue; mutually exclusive with defending Hornsent. Kills Hornsent and blocks his Rauh invasion.",
+      "exclusiveGroup": "leda-hornsent-choice"
+    },
+    {
+      "id": "er:d-quest-hornsent-gold",
+      "game": "dlc",
+      "name": "Needle Knight Leda — defend Hornsent",
+      "region": "Shadow Keep",
+      "location": "Burning boats battlements, gold summon sign",
+      "layerHint": "shadow",
+      "hunt": "extended",
+      "category": "unique-challenge",
+      "review": "classification-review",
+      "evidence": [
+        "d-quest-hornsent-gold-s23-1",
+        "d-quest-hornsent-gold-s23-2",
+        "d-quest-hornsent-gold-s23-3"
+      ],
+      "decision": "Mutually exclusive with killing Hornsent; prevents the later Ansbach confrontation. Separate from final Enir-Ilim battle.",
+      "exclusiveGroup": "leda-hornsent-choice"
+    },
+    {
+      "id": "er:d-quest-ansbach-red",
+      "game": "dlc",
+      "name": "Sir Ansbach — assist Leda",
+      "region": "Shadow Keep",
+      "location": "Ansbach's room, red summon sign",
+      "layerHint": "shadow",
+      "hunt": "extended",
+      "category": "unique-challenge",
+      "review": "classification-review",
+      "evidence": [
+        "d-quest-ansbach-red-s23-1",
+        "d-quest-ansbach-red-s23-2",
+        "d-quest-ansbach-red-s23-3",
+        "d-quest-ansbach-red-s23-4"
+      ],
+      "decision": "Cannot occur after defending Hornsent; mutually exclusive with defending Ansbach. Resolve before sealing-tree cutoff.",
+      "exclusiveGroup": "leda-ansbach-choice",
+      "blockedBy": [
+        "er:d-quest-hornsent-gold"
+      ]
+    },
+    {
+      "id": "er:d-quest-ansbach-gold",
+      "game": "dlc",
+      "name": "Needle Knight Leda — defend Ansbach",
+      "region": "Shadow Keep",
+      "location": "Ansbach's room, gold summon sign",
+      "layerHint": "shadow",
+      "hunt": "extended",
+      "category": "unique-challenge",
+      "review": "classification-review",
+      "evidence": [
+        "d-quest-ansbach-gold-s23-1",
+        "d-quest-ansbach-gold-s23-2",
+        "d-quest-ansbach-gold-s23-3",
+        "d-quest-ansbach-gold-s23-4"
+      ],
+      "decision": "Cannot occur after defending Hornsent; mutually exclusive with killing Ansbach. Separate from final Enir-Ilim battle.",
+      "exclusiveGroup": "leda-ansbach-choice",
+      "blockedBy": [
+        "er:d-quest-hornsent-gold"
+      ]
+    },
+    {
+      "id": "er:d-church-tree-spirit-mantle",
+      "game": "dlc",
+      "region": "Shadow Keep",
+      "name": "Shadow Tree Spirit",
+      "location": "Drained Church District, circular courtyard with large tree",
+      "layerHint": "shadow",
+      "hunt": "extended",
+      "category": "unique-elite",
+      "review": "classification-review",
+      "evidence": [
+        "d-church-tree-spirit-mantle-s24-1",
+        "d-church-tree-spirit-mantle-s24-2",
+        "d-church-tree-spirit-mantle-s24-3",
+        "d-church-tree-spirit-mantle-s24-4"
+      ],
+      "decision": "Family source explicitly identifies two non-respawning Church District spirits; separate walkthrough distinguishes this courtyard enemy and reward. Provisional extended admission only."
+    },
+    {
+      "id": "er:d-church-tree-spirit-iris",
+      "game": "dlc",
+      "region": "Shadow Keep",
+      "name": "Shadow Tree Spirit",
+      "location": "Drained Church District, northern street beyond crab building",
+      "layerHint": "shadow",
+      "hunt": "extended",
+      "category": "unique-elite",
+      "review": "classification-review",
+      "evidence": [
+        "d-church-tree-spirit-iris-s24-1",
+        "d-church-tree-spirit-iris-s24-2",
+        "d-church-tree-spirit-iris-s24-3",
+        "d-church-tree-spirit-iris-s24-4",
+        "d-church-tree-spirit-iris-s24-5"
+      ],
+      "decision": "Distinct second non-respawning spirit; player reports of automatic defeat/iris reward are not proof of a manually fought encounter. Exact event flag pending. Provisional extended admission only."
+    },
+    {
+      "id": "er:b-capital-rampart-gargoyle",
+      "game": "base",
+      "region": "Leyndell, Royal Capital",
+      "name": "Valiant Gargoyle",
+      "location": "West Capital Rampart phantom tree",
+      "layerHint": "surface",
+      "hunt": "extended",
+      "category": "unique-elite",
+      "review": "classification-review",
+      "evidence": [
+        "b-capital-rampart-gargoyle-s27-1",
+        "b-capital-rampart-gargoyle-s27-2",
+        "b-capital-rampart-gargoyle-s27-3",
+        "b-capital-rampart-gargoyle-s27-4",
+        "b-capital-rampart-gargoyle-s27-5"
+      ],
+      "decision": "Two family inventories describe non-respawn and this exact location; PowerPyx and Roundtable corroborate its named reward. No direct reload observation or exact event flag. Provisional extended only."
+    },
+    {
+      "id": "er:b-outskirts-gargoyle",
+      "game": "base",
+      "region": "Capital Outskirts",
+      "name": "Valiant Gargoyle",
+      "location": "Stairs northeast of Outer Wall Phantom Tree",
+      "layerHint": "surface",
+      "hunt": "extended",
+      "category": "unique-elite",
+      "review": "classification-review",
+      "evidence": [
+        "b-outskirts-gargoyle-s27-1",
+        "b-outskirts-gargoyle-s27-2",
+        "b-outskirts-gargoyle-s27-3",
+        "b-outskirts-gargoyle-s27-4",
+        "b-outskirts-gargoyle-s27-5",
+        "b-outskirts-gargoyle-s27-6",
+        "b-outskirts-gargoyle-s27-7"
+      ],
+      "decision": "Family documentation and encounter video explicitly classify non-respawn; weapon-specific sources and walkthrough agree ordinary Great Axe. Gamer Guides capital boss page names Black Axe; contradicted by multiple more specific reward sources. Provisional extended only."
+    },
+    {
+      "id": "er:b-stormveil-elite-crucible",
+      "game": "base",
+      "region": "Stormveil Castle",
+      "name": "Crucible Knight",
+      "location": "Cliffside below western ramparts",
+      "layerHint": "surface",
+      "hunt": "extended",
+      "category": "unique-elite",
+      "review": "classification-review",
+      "evidence": [
+        "stormveil-crucible-s28-1",
+        "stormveil-crucible-s28-2",
+        "stormveil-crucible-s28-3",
+        "stormveil-crucible-s28-4"
+      ],
+      "decision": "Family documentation identifies non-respawning Stormveil knight; independent spell and location sources corroborate the specific reward and cliffside route. Exact event flag and firsthand reload evidence remain pending. Provisional extended only."
+    },
+    {
+      "id": "er:b-aqueduct-crucible-hornshield",
+      "game": "base",
+      "region": "Nokron",
+      "name": "Crucible Knight",
+      "location": "Siofra Aqueduct, platform below Aqueduct-Facing Cliffs",
+      "layerHint": "underground",
+      "hunt": "extended",
+      "category": "unique-elite",
+      "review": "classification-review",
+      "evidence": [
+        "b-aqueduct-crucible-hornshield-s29-1",
+        "b-aqueduct-crucible-hornshield-s29-2",
+        "b-aqueduct-crucible-hornshield-s29-3",
+        "b-aqueduct-crucible-hornshield-s29-4",
+        "b-aqueduct-crucible-hornshield-s29-5"
+      ],
+      "decision": "Published non-respawn family documentation plus item-specific shield location and separate walkthrough support distinct encounter; direct event flag remains unqualified. Provisional extended only."
+    },
+    {
+      "id": "er:b-aqueduct-crucible-spear",
+      "game": "base",
+      "region": "Nokron",
+      "name": "Crucible Knight",
+      "location": "Siofra Aqueduct, lower water channel",
+      "layerHint": "underground",
+      "hunt": "extended",
+      "category": "unique-elite",
+      "review": "classification-review",
+      "evidence": [
+        "b-aqueduct-crucible-spear-s29-1",
+        "b-aqueduct-crucible-spear-s29-2",
+        "b-aqueduct-crucible-spear-s29-3",
+        "b-aqueduct-crucible-spear-s29-4",
+        "b-aqueduct-crucible-spear-s29-5",
+        "b-aqueduct-crucible-spear-s29-6"
+      ],
+      "decision": "Published non-respawn family documentation and independent item-specific spear knight drop; distinct from shield knight. Direct event flag remains unqualified. Provisional extended only."
+    }
+  ]
+}

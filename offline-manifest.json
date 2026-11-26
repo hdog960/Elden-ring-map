@@ -1,0 +1,203 @@
+{
+  "version": "mvp-20261126-v1-cachefix1",
+  "releaseReady": false,
+  "assets": [
+    {
+      "path": "assets/atlas-shadow.svg",
+      "gitBlob": "4c3e0356eef282f103e1e0c16f31b14986d949e7"
+    },
+    {
+      "path": "assets/atlas-surface.svg",
+      "gitBlob": "35e62173b444ceac3eb220cd71429527639a18c9"
+    },
+    {
+      "path": "assets/atlas-underground.svg",
+      "gitBlob": "1c7a06bcce1d5bf319bb636ebcc016bbe2e2d5d4"
+    },
+    {
+      "path": "assets/icon.svg",
+      "gitBlob": "36d2145e28f6425f8e284d1be0bbc151e9f4d3db"
+    },
+    {
+      "path": "data/catalog.json",
+      "gitBlob": "0cd2e0b5dbe7b29c8dc916bda80f83fb94b06fb2"
+    },
+    {
+      "path": "data/census/base-checklist-review.json",
+      "gitBlob": "9d1eabdaa445638fcf083fc1d36a06d4a1988f12"
+    },
+    {
+      "path": "data/census/capital-gargoyle-review.json",
+      "gitBlob": "c26499cde85e3e7dfd327ca03872f38eff6cae32"
+    },
+    {
+      "path": "data/census/church-spirit-review.json",
+      "gitBlob": "8e71525427d7ab42181817dd70e2e803880af151"
+    },
+    {
+      "path": "data/census/crosswalk-steam.json",
+      "gitBlob": "89797513392890d0a7e6394467ee0f67a2d35aab"
+    },
+    {
+      "path": "data/census/crucible-review.json",
+      "gitBlob": "b3dc4e3b913cc0b377a2a3975e818c92a2806a41"
+    },
+    {
+      "path": "data/census/dlc-checklist-review.json",
+      "gitBlob": "d1172fd0a99bae8df7f808b96335be0de72345aa"
+    },
+    {
+      "path": "data/census/extended-admission-review.json",
+      "gitBlob": "b7798c7a4a41d23d6d27d3bd2a65695df790f548"
+    },
+    {
+      "path": "data/census/extended-elite-review.json",
+      "gitBlob": "0699d723e04578e2735de7629d2dedd19971e601"
+    },
+    {
+      "path": "data/census/flag-evidence.json",
+      "gitBlob": "cbc09e23879a6dcafa3f3307bf418b743348c872"
+    },
+    {
+      "path": "data/census/identity-reward-review.json",
+      "gitBlob": "6b4702ba74318308ebe1a7b4061ed213ee7c1bbf"
+    },
+    {
+      "path": "data/census/intake.json",
+      "gitBlob": "967379f71afd24bb5fe7d296aeab4314210cdd4e"
+    },
+    {
+      "path": "data/census/named-encounter-review.json",
+      "gitBlob": "bba3488bf6b09f6e8a956015efd0a4f25b6480eb"
+    },
+    {
+      "path": "data/census/quest-branch-review.json",
+      "gitBlob": "768de97323792ca5d4a1c241d25e708ffdc3fe50"
+    },
+    {
+      "path": "data/census/release-audit.json",
+      "gitBlob": "b56c149ce7e979af8f720c0f918b46a5a4997030"
+    },
+    {
+      "path": "data/census/stable-ids.json",
+      "gitBlob": "ddd53ae4c9dc7b2da3bbb17bcfb818c6225d69ad"
+    },
+    {
+      "path": "data/encyclopedia/drafts.json",
+      "gitBlob": "27154403e79807f67721bd0608e43b2f7ea36039"
+    },
+    {
+      "path": "data/encyclopedia/stat-evidence.json",
+      "gitBlob": "9509743437943c54896d4477c5972d88babfe5b3"
+    },
+    {
+      "path": "data/geography/compass-research.json",
+      "gitBlob": "c56abde486f77068e6e07b729cc7981540315799"
+    },
+    {
+      "path": "data/geography/flag-review.json",
+      "gitBlob": "d7bce444ced4569a5768526a2cd150d0df0c5026"
+    },
+    {
+      "path": "data/geography/ledger.json",
+      "gitBlob": "6297fd95c0cc86decc6bc0dad2ce04b03ea13681"
+    },
+    {
+      "path": "data/geography/permission.json",
+      "gitBlob": "ea95c631a0033d3f25cee4683a5c1d90c16be186"
+    },
+    {
+      "path": "index.html",
+      "gitBlob": "16cdc3f9b2cb5af960ca9a67ca2a0f264825f84b"
+    },
+    {
+      "path": "manifest.webmanifest",
+      "gitBlob": "fb1fbab5aa9a1d98684e520c06f7fcb1ba42a23a"
+    },
+    {
+      "path": "src/app.js",
+      "gitBlob": "1ad23795559650545a6440146153032182613d87"
+    },
+    {
+      "path": "src/atlas-preview.js",
+      "gitBlob": "3e8e4724f01463261acc0413e1ebfb30d99efad7"
+    },
+    {
+      "path": "src/calibration.js",
+      "gitBlob": "0d8d89e712f41db662f64e18fd4d162be4f5e2a9"
+    },
+    {
+      "path": "src/catalog.js",
+      "gitBlob": "c3647bda382f291c30c99e34ca27531e28ee183e"
+    },
+    {
+      "path": "src/census.js",
+      "gitBlob": "1e9087b23f1f6ebab9629eb4a12570cfe020db12"
+    },
+    {
+      "path": "src/compass-projection.js",
+      "gitBlob": "3b6156cb0462867ad19725a65b600fc2e746074f"
+    },
+    {
+      "path": "src/dashboard.js",
+      "gitBlob": "ddd70d1e0283c530be8f08bb24455c496474905f"
+    },
+    {
+      "path": "src/encyclopedia.js",
+      "gitBlob": "83848cca380e851d4656a058811a3285031b8de8"
+    },
+    {
+      "path": "src/map-admission.js",
+      "gitBlob": "db174b6862df19c785206e013832c925278b78ec"
+    },
+    {
+      "path": "src/map-camera.js",
+      "gitBlob": "882d5d3cfcb75e4a052f8cc0c0717ebb98fbdeec"
+    },
+    {
+      "path": "src/map-gestures.js",
+      "gitBlob": "cc28e0f0e20c6b5a750928a65a06d939715f0c57"
+    },
+    {
+      "path": "src/map-view.js",
+      "gitBlob": "15763749f846bc9305b5695a42126d7f4ee36548"
+    },
+    {
+      "path": "src/mvp.js",
+      "gitBlob": "5bbb22bc7bb097c55fcd38af7d6ae39599615a9c"
+    },
+    {
+      "path": "src/offline-client.js",
+      "gitBlob": "2391f43925e09086a530f745ae4eb147e1b0576e"
+    },
+    {
+      "path": "src/progress-settings.js",
+      "gitBlob": "addd1b267905443b1c67776d42e47b8ef59f4a73"
+    },
+    {
+      "path": "src/quest-progress.js",
+      "gitBlob": "21251c4c628f0dd34b259258f75487fd908892f2"
+    },
+    {
+      "path": "src/release-evidence.js",
+      "gitBlob": "cfdc4587fffc706b5b1bb6c839f89bfae7b0ecb8"
+    },
+    {
+      "path": "src/save-model.js",
+      "gitBlob": "33641c86da3acd53295c87b0413f639ecbfaa6b2"
+    },
+    {
+      "path": "src/storage.js",
+      "gitBlob": "a888bad489cbc80e3367d4bcf79fcabfca3a6f2e"
+    },
+    {
+      "path": "src/style.css",
+      "gitBlob": "4d0b9d6b4f680376b746ebbe681f8613b69e345a"
+    },
+    {
+      "path": "src/survey.js",
+      "gitBlob": "eb61e8375932afe137059f58338cb79629bcf1ea"
+    }
+  ],
+  "mvpReady": true
+}

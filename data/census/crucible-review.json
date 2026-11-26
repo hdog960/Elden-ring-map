@@ -1,0 +1,74 @@
+{
+  "schema": 1,
+  "status": "provisional-crucible-knight-review",
+  "records": [
+    {
+      "id": "er:b-aqueduct-crucible-hornshield",
+      "location": "Siofra Aqueduct, platform below Aqueduct-Facing Cliffs",
+      "reward": "Crucible Hornshield.",
+      "sources": [
+        "https://tarnishedsaga.com/bosses/crucible-knight/",
+        "https://eldenring.wiki.gg/wiki/Crucible_Knight",
+        "https://eldenring.redmaw.dev/sheets/walkthrough",
+        "https://wiki.eso-ui.com/index.php/Elden_Ring%3ACrucible_Hornshield",
+        "https://www.youtube.com/watch?v=3SSFfYbzXgs"
+      ],
+      "reason": "Published non-respawn family documentation plus item-specific shield location and separate walkthrough support distinct encounter; direct event flag remains unqualified."
+    },
+    {
+      "id": "er:b-aqueduct-crucible-spear",
+      "location": "Siofra Aqueduct, lower water channel",
+      "reward": "Somber Smithing Stone [6]. Smithing Stone [5] nearby is a separate pickup.",
+      "sources": [
+        "https://tarnishedsaga.com/bosses/crucible-knight/",
+        "https://eldenring.wiki.gg/wiki/Crucible_Knight",
+        "https://eldenring.redmaw.dev/sheets/walkthrough",
+        "https://wiki.eso-ui.com/index.php/Elden_Ring%3ASomber_Smithing_Stone_6",
+        "https://www.neoseeker.com/elden-ring/walkthrough/Siofra_Aqueduct",
+        "https://tarnishedtraveler.com/every-crucible-knight-in-elden-ring-and-what-they-drop/"
+      ],
+      "reason": "Published non-respawn family documentation and independent item-specific spear knight drop; distinct from shield knight. Direct event flag remains unqualified."
+    }
+  ],
+  "held": [
+    {
+      "name": "Leyndell fountain courtyard chamber knight and Erdtree Sanctuary elevator knight",
+      "reason": "Distinct locations and non-respawn family supported; ordinary rune-only rewards reported, no separate named reward. Keep until individual permanence and reward/progression qualification; kill before Maliketh if desired.",
+      "sources": [
+        "https://tarnishedsaga.com/bosses/crucible-knight/",
+        "https://tarnished.app/enemies/crucible-knight",
+        "https://eip.gg/elden-ring/guides/leyndell-royal-capital-walkthrough/",
+        "https://beebom.com/how-defeat-crucible-knights-elden-ring/",
+        "https://www.youtube.com/watch?v=3bpaRm5UMhs"
+      ]
+    },
+    {
+      "name": "Farum Azula dragon corpse knight and Dragon Temple Lift side route knight",
+      "reason": "Two locations reported; rune values conflict (7360 vs 5512), no unique item drop. Boltdrake Talisman +2 is a route pickup, not attributed to knight. Await individual permanence and reward evidence.",
+      "sources": [
+        "https://tarnishedsaga.com/bosses/crucible-knight/",
+        "https://www.powerpyx.com/elden-ring-crumbling-faram-azula-walkthrough/",
+        "https://eldenring.exputer.com/locations/crumbling-farum-azula",
+        "https://tarnishedtraveler.com/every-crucible-knight-in-elden-ring-and-what-they-drop/",
+        "https://beebom.com/how-defeat-crucible-knights-elden-ring/"
+      ]
+    },
+    {
+      "name": "Four Belfries Siofra fragment knight",
+      "reason": "Reward reports conflict: 3080 runes versus no runes. Do not confuse with Mottled Necklace pickup or aqueduct knights.",
+      "sources": [
+        "https://tarnishedtraveler.com/every-crucible-knight-in-elden-ring-and-what-they-drop/",
+        "https://eldenring.exputer.com/locations/the-four-belfries",
+        "https://www.reddit.com/r/eldenringdiscussion/comments/1tcspdv/after_4_or_so_years_did_anyone_figure_out_why_the/"
+      ]
+    },
+    {
+      "name": "Road's End Catacombs summoned knights",
+      "reason": "Summoned manifestations of existing Spirit-Caller Snail encounter, not separate permanent defeat identities.",
+      "sources": [
+        "https://tarnished.app/enemies/crucible-knight",
+        "https://tarnishedtraveler.com/every-crucible-knight-in-elden-ring-and-what-they-drop/"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "schema": 1,
+  "status": "lead-not-qualification",
+  "target": {
+    "app": "1.17.2",
+    "regulation": "1.17.3"
+  },
+  "checked": "2026-11-26",
+  "findings": [
+    {
+      "url": "https://eldenringcalculator.com/validation-status/",
+      "locator": "Retrieved lines 154–167 and 236–250",
+      "finding": "Reports version continuity for tracked weapon fields; explicitly disclaims current-client verification and notes incomplete enemy defenses. Not boss HP or stance evidence."
+    },
+    {
+      "url": "https://almanauts.com/eldenring/patches/1-17-3/",
+      "locator": "Search index identifies build 25827938; direct retrieval HTTP 410",
+      "finding": "Not retrieved; cannot establish table-level changes or claim unchanged boss parameters."
+    },
+    {
+      "url": "https://almanauts.com/eldenring/bosses/",
+      "locator": "Direct retrieval HTTP 410",
+      "finding": "No current-regulation boss records authenticated."
+    },
+    {
+      "url": "https://www.nexusmods.com/eldenring/mods/4262?file_id=31551",
+      "locator": "Search index lists regulation archive 1.17.3",
+      "finding": "No binary retrieved or authenticated; no redistribution or extraction attempted."
+    }
+  ],
+  "verifiedCurrentRegulationGuides": 0,
+  "verifiedNewCoordinates": 0,
+  "decision": "No new game-version qualification or geography admission. Stop further speculative searches; require lawful original-game observations, independently reviewed survey data, or a concrete new source with verifiable version, scope and provenance."
+}

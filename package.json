@@ -1,0 +1,11 @@
+{
+  "name": "elden-ring-boss-hunter",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "release:check": "node scripts/release-check.mjs",
+    "release:readiness": "node scripts/release-readiness.mjs"
+  }
+}

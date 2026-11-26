@@ -1,0 +1,203 @@
+{
+  "schema": 1,
+  "status": "field-review-not-final",
+  "target": {
+    "app": "1.17.2",
+    "regulation": "1.17.3",
+    "platforms": [
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox One",
+      "Xbox Series X|S",
+      "Steam"
+    ],
+    "published": "2026-10-20",
+    "source": "https://www.bandainamcoent.com/news/elden-ring-tarnished-edition-patch-1-17-2",
+    "locator": "retrieved lines 4–25",
+    "scope": "Target only, not evidence that older guide values match this regulation; Switch 2 not covered by this notice; Tarnished Pack remains withheld."
+  },
+  "records": [
+    {
+      "id": "er:b-margit",
+      "status": "field-review-only",
+      "gameVersionVerified": null,
+      "reviewedFields": [
+        "named rewards",
+        "published NG rune reward",
+        "published summon availability"
+      ],
+      "reportedRunes": 12000,
+      "evidence": [
+        {
+          "url": "https://eip.gg/elden-ring/guides/limgrave-boss-guides/",
+          "locator": "retrieved lines 826–837",
+          "fields": [
+            "named rewards",
+            "published NG rune reward",
+            "published summon availability"
+          ]
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "retrieved lines 405–415",
+          "fields": [
+            "named rewards",
+            "published NG rune reward"
+          ]
+        },
+        {
+          "url": "https://eip.gg/elden-ring/guides/how-to-beat-margit-the-fell-omen-boss/",
+          "locator": "retrieved lines 715–719",
+          "fields": [
+            "summon sign location"
+          ]
+        }
+      ],
+      "remaining": [
+        "current regulation reproduction",
+        "exact access and geography",
+        "complete combat/summon/parry/critical qualification"
+      ]
+    },
+    {
+      "id": "er:b-godrick",
+      "status": "field-review-only",
+      "gameVersionVerified": null,
+      "reviewedFields": [
+        "named rewards",
+        "published NG rune reward",
+        "published summon availability"
+      ],
+      "reportedRunes": 20000,
+      "evidence": [
+        {
+          "url": "https://eip.gg/elden-ring/guides/limgrave-boss-guides/",
+          "locator": "retrieved lines 790–801",
+          "fields": [
+            "named rewards",
+            "published NG rune reward",
+            "published summon availability"
+          ]
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "retrieved lines 419–429",
+          "fields": [
+            "named rewards",
+            "published NG rune reward"
+          ]
+        }
+      ],
+      "remaining": [
+        "current regulation reproduction",
+        "exact access and geography",
+        "complete combat/summon/parry/critical qualification"
+      ]
+    },
+    {
+      "id": "er:b-raya-wolf",
+      "status": "field-review-only",
+      "gameVersionVerified": null,
+      "reviewedFields": [
+        "named rewards",
+        "published NG rune reward",
+        "published summon availability"
+      ],
+      "reportedRunes": 14000,
+      "evidence": [
+        {
+          "url": "https://eip.gg/elden-ring/guides/liurnia-of-the-lakes-boss-guides/",
+          "locator": "retrieved lines 769–779",
+          "fields": [
+            "named rewards",
+            "published NG rune reward",
+            "published summon availability"
+          ]
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "retrieved lines 1114–1125",
+          "fields": [
+            "named rewards",
+            "published NG rune reward"
+          ]
+        }
+      ],
+      "remaining": [
+        "current regulation reproduction",
+        "exact access and geography",
+        "complete combat/summon/parry/critical qualification"
+      ]
+    },
+    {
+      "id": "er:b-rennala",
+      "status": "field-review-only",
+      "gameVersionVerified": null,
+      "reviewedFields": [
+        "named rewards",
+        "published NG rune reward",
+        "published summon availability"
+      ],
+      "reportedRunes": 40000,
+      "evidence": [
+        {
+          "url": "https://eip.gg/elden-ring/guides/liurnia-of-the-lakes-boss-guides/",
+          "locator": "retrieved lines 780–791",
+          "fields": [
+            "named rewards",
+            "published NG rune reward",
+            "published summon availability"
+          ]
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "retrieved lines 1143–1153",
+          "fields": [
+            "named rewards",
+            "published NG rune reward"
+          ]
+        }
+      ],
+      "remaining": [
+        "current regulation reproduction",
+        "exact access and geography",
+        "complete combat/summon/parry/critical qualification"
+      ]
+    },
+    {
+      "id": "er:b-makar",
+      "status": "field-review-only",
+      "gameVersionVerified": null,
+      "reviewedFields": [
+        "named rewards",
+        "published NG rune reward",
+        "published summon availability"
+      ],
+      "reportedRunes": 24000,
+      "evidence": [
+        {
+          "url": "https://eip.gg/elden-ring/guides/liurnia-of-the-lakes-boss-guides/",
+          "locator": "retrieved lines 792–803",
+          "fields": [
+            "named rewards",
+            "published NG rune reward",
+            "published summon availability"
+          ]
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "retrieved lines 1157–1167",
+          "fields": [
+            "named rewards",
+            "published NG rune reward"
+          ]
+        }
+      ],
+      "remaining": [
+        "current regulation reproduction",
+        "exact access and geography",
+        "complete combat/summon/parry/critical qualification"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "schema": 1,
+  "status": "provisional-extended-admission-not-release",
+  "criteria": [
+    "Distinct encounter identity/location",
+    "Specific source-backed defeat or reward",
+    "Non-respawn evidence or persistent quest defeat; family evidence can support provisional intake only",
+    "No common repeatable farm targets, no new primary IDs",
+    "Exact defeat flags, game-version and geography remain separate release requirements"
+  ],
+  "records": [
+    {
+      "key": "lake-of-rot-lord",
+      "id": "er:b-lake-rot-alabaster",
+      "status": "provisional-extended",
+      "reason": "Player report explicitly describes no respawn after mutual death; route and guaranteed weapon supported separately.",
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Alabaster_Lord%27s_Sword",
+        "https://www.neoseeker.com/elden-ring/walkthrough/Lake_of_Rot",
+        "https://www.reddit.com/r/Eldenring/comments/tfyafy/died_at_the_same_time_as_the_alabaster_lord_an/"
+      ]
+    },
+    {
+      "key": "deeproot-avatar",
+      "id": "er:b-deeproot-elite-avatar",
+      "status": "provisional-extended",
+      "reason": "Non-respawning enemy family documented; distinct location and named reward corroborated.",
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Erdtree_Avatar",
+        "https://www.powerpyx.com/elden-ring-deeproot-depths-walkthrough/",
+        "https://www.neoseeker.com/elden-ring/walkthrough/Deeproot_Depths",
+        "https://www.reddit.com/r/Eldenring/comments/1ejs2nj/a_list_of_all_nonbossnpc_enemies_that_dont_respawn/"
+      ]
+    },
+    {
+      "key": "capital-avatar",
+      "id": "er:b-capital-elite-avatar",
+      "status": "provisional-extended",
+      "reason": "Non-respawning family and capital-specific reward supported; route cutoff exact trigger pending.",
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Erdtree_Avatar",
+        "https://www.powerpyx.com/elden-ring-leyndell-royal-capital-walkthrough/",
+        "https://www.reddit.com/r/Eldenring/comments/1ejs2nj/a_list_of_all_nonbossnpc_enemies_that_dont_respawn/"
+      ]
+    },
+    {
+      "key": "elphael-bridge-avatar",
+      "id": "er:b-elphael-bridge-avatar",
+      "status": "provisional-extended",
+      "reason": "Non-respawning family; guide distinguishes bridge patrol from inner wall guard.",
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Erdtree_Avatar",
+        "https://eip.gg/elden-ring/guides/elphael-brace-of-the-haligtree-walkthrough/",
+        "https://wiki.eso-ui.com/index.php/Elden_Ring%3ARotten_Staff",
+        "https://www.reddit.com/r/Eldenring/comments/1ejs2nj/a_list_of_all_nonbossnpc_enemies_that_dont_respawn/"
+      ]
+    },
+    {
+      "key": "elphael-courtyard-avatar",
+      "id": "er:b-elphael-courtyard-avatar",
+      "status": "provisional-extended",
+      "reason": "Distinct guard and reward corroborated by walkthrough and enemy page.",
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Erdtree_Avatar",
+        "https://eip.gg/elden-ring/guides/elphael-brace-of-the-haligtree-walkthrough/",
+        "https://wiki.eso-ui.com/index.php/Elden_Ring%3APutrid_Avatar",
+        "https://www.reddit.com/r/Eldenring/comments/1ejs2nj/a_list_of_all_nonbossnpc_enemies_that_dont_respawn/"
+      ]
+    },
+    {
+      "key": "stormveil-spirit",
+      "id": "er:b-stormveil-elite-spirit",
+      "status": "provisional-extended",
+      "reason": "Family non-respawn report plus specific crypt defeat reward; distinct from Fringefolk dungeon boss.",
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Ulcerated_Tree_Spirit",
+        "https://www.powerpyx.com/elden-ring-all-golden-seed-locations/",
+        "https://www.reddit.com/r/Eldenring/comments/1ejs2nj/a_list_of_all_nonbossnpc_enemies_that_dont_respawn/"
+      ]
+    },
+    {
+      "key": "outskirts-spirit",
+      "id": "er:b-outskirts-elite-spirit",
+      "status": "provisional-extended",
+      "reason": "Family non-respawn report and distinct location-specific table; not capital interior.",
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Ulcerated_Tree_Spirit",
+        "https://www.neoseeker.com/elden-ring/walkthrough/Capital_Outskirts",
+        "https://www.reddit.com/r/Eldenring/comments/1ejs2nj/a_list_of_all_nonbossnpc_enemies_that_dont_respawn/"
+      ]
+    },
+    {
+      "key": "cloister-spirit",
+      "id": "er:b-cloister-elite-spirit",
+      "status": "provisional-extended",
+      "reason": "Family non-respawn report and specific reward corroborated; one player reports persistent absence after automatic death and seed award.",
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Golden_Seed",
+        "https://eip.gg/elden-ring/guides/lake-of-rot-grand-cloister-walkthrough/",
+        "https://eldenring.exputer.com/locations/grand-cloister",
+        "https://www.reddit.com/r/Eldenring/comments/1ejs2nj/a_list_of_all_nonbossnpc_enemies_that_dont_respawn/"
+      ]
+    },
+    {
+      "key": "drainage-spirit",
+      "id": "er:b-drainage-elite-spirit",
+      "status": "provisional-extended",
+      "reason": "Quest walkthrough explicitly requires defeat then area reload, corroborating persistent defeat separate from both quest duels.",
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Golden_Seed",
+        "https://www.dualshockers.com/elden-ring-millicent-quest-walkthrough/",
+        "https://eldenring.exputer.com/quests/millicent-s-quest",
+        "https://www.reddit.com/r/Eldenring/comments/1ejs2nj/a_list_of_all_nonbossnpc_enemies_that_dont_respawn/"
+      ]
+    },
+    {
+      "key": "yelough-lords",
+      "status": "hold",
+      "reason": "Reported repeatable farming of a lesser Onyx Lord; second lord and sword drop do not establish individual permanence.",
+      "sources": [
+        "https://www.reddit.com/r/Eldenring/comments/1r5go5b/whats_your_best_farming_spot/",
+        "https://eldenring.wiki.gg/wiki/Alabaster_Lord%27s_Sword"
+      ]
+    },
+    {
+      "key": "capital-lower-spirit",
+      "status": "hold",
+      "reason": "Specific unique identity and distinction from outskirts remains insufficiently resolved.",
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Golden_Seed",
+        "https://eldenring.wiki.gg/wiki/Ulcerated_Tree_Spirit"
+      ]
+    },
+    {
+      "key": "ashen-spirit-group",
+      "status": "hold",
+      "reason": "Three guards documented but no individual respawn proof or flag mapping.",
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Leyndell%2C_Ashen_Capital",
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=2785187510"
+      ]
+    }
+  ]
+}

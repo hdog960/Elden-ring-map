@@ -1,0 +1,39 @@
+name: Core development checks
+on:
+  pull_request:
+    paths:
+      - 'src/**'
+      - 'data/**'
+      - 'test/**'
+      - 'scripts/**'
+      - 'package.json'
+      - 'sw.js'
+      - 'offline-manifest.json'
+      - '.github/workflows/core.yml'
+jobs:
+  native:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm test
+      - run: node scripts/check-offline.mjs
+      - run: node scripts/check-syntax.mjs
+  webkit-smoke:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm install --no-save --package-lock=false playwright@1.56.1
+      - run: npx playwright install --with-deps webkit
+      - run: node scripts/browser-smoke.mjs
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: boss-hunter-atlas-webkit
+          path: artifacts/atlas/*.png
+          if-no-files-found: warn

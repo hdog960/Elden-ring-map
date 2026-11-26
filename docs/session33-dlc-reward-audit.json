@@ -1,0 +1,499 @@
+{
+  "schema": 1,
+  "status": "partial-research-not-final",
+  "scope": "Published DLC encounter reward comparison, not independent game extraction",
+  "records": [
+    {
+      "id": "er:d-rakshasa",
+      "status": "matching-publications",
+      "runes": 90000,
+      "evidence": [
+        {
+          "url": "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
+          "locator": "Boss 26, lines 318–322"
+        },
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Gravesite Plain, 645–647"
+        }
+      ],
+      "note": "Location/encounter-specific published reward reports agree; independence and exact patch not established."
+    },
+    {
+      "id": "er:d-ranah",
+      "status": "matching-publications",
+      "runes": 80000,
+      "evidence": [
+        {
+          "url": "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
+          "locator": "Boss 13, 154–158"
+        },
+        {
+          "url": "https://eldenring.redmaw.dev/sheets/dlc-walkthrough",
+          "locator": "Southern Nameless Mausoleum, 324–328"
+        }
+      ],
+      "note": "Location/encounter-specific published reward reports agree; independence and exact patch not established."
+    },
+    {
+      "id": "er:d-redbear",
+      "status": "matching-publications",
+      "runes": 80000,
+      "evidence": [
+        {
+          "url": "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
+          "locator": "Boss 23, 285–291"
+        },
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Gravesite Plain, 642–644"
+        },
+        {
+          "url": "https://www.gamerguides.com/elden-ring-shadow-of-the-erdtree/database/bosses/enemy/",
+          "locator": "Red Bear row 41"
+        }
+      ],
+      "note": "Location/encounter-specific published reward reports agree; independence and exact patch not established."
+    },
+    {
+      "id": "er:d-ralva",
+      "status": "matching-publications",
+      "runes": 180000,
+      "evidence": [
+        {
+          "url": "https://eldenring.redmaw.dev/sheets/dlc-walkthrough",
+          "locator": "Scadu Altus pond, 470–471"
+        },
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Scadu Altus, 651–652"
+        }
+      ],
+      "note": "Location/encounter-specific published reward reports agree; independence and exact patch not established."
+    },
+    {
+      "id": "er:d-hippo",
+      "status": "matching-publications",
+      "runes": 200000,
+      "evidence": [
+        {
+          "url": "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
+          "locator": "Boss 7, 93–98"
+        },
+        {
+          "url": "https://eldenring.redmaw.dev/sheets/dlc-walkthrough",
+          "locator": "Shadow Keep, 742–744"
+        }
+      ],
+      "note": "Location/encounter-specific published reward reports agree; independence and exact patch not established."
+    },
+    {
+      "id": "er:d-messmer",
+      "status": "matching-publications",
+      "runes": 400000,
+      "evidence": [
+        {
+          "url": "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
+          "locator": "Boss 22, 268–280"
+        },
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Shadow Keep, 680–682"
+        }
+      ],
+      "note": "Location/encounter-specific published reward reports agree; independence and exact patch not established."
+    },
+    {
+      "id": "er:d-romina",
+      "status": "matching-publications",
+      "runes": 380000,
+      "evidence": [
+        {
+          "url": "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
+          "locator": "Boss 37, 431–436"
+        },
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Land of the Tower, 714–715"
+        }
+      ],
+      "note": "Location/encounter-specific published reward reports agree; independence and exact patch not established."
+    },
+    {
+      "id": "er:d-bayle",
+      "status": "matching-publications",
+      "runes": 490000,
+      "evidence": [
+        {
+          "url": "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
+          "locator": "Bayle reward line 241"
+        },
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Jagged Peak, 702–703"
+        }
+      ],
+      "note": "Location/encounter-specific published reward reports agree; independence and exact patch not established."
+    },
+    {
+      "id": "er:d-chief-bloodfiend",
+      "status": "matching-publications",
+      "runes": 80000,
+      "evidence": [
+        {
+          "url": "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
+          "locator": "Boss 11, 133–138"
+        },
+        {
+          "url": "https://www.gamerguides.com/elden-ring-shadow-of-the-erdtree/database/bosses/enemy/",
+          "locator": "Chief Bloodfiend row 26"
+        },
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Gravesite Plain, 640–641"
+        }
+      ],
+      "note": "Location/encounter-specific published reward reports agree; independence and exact patch not established."
+    },
+    {
+      "id": "er:d-dragon-man",
+      "status": "matching-publications",
+      "runes": 130000,
+      "evidence": [
+        {
+          "url": "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
+          "locator": "Boss 16, 186–193, real form"
+        },
+        {
+          "url": "https://www.gamerguides.com/elden-ring-shadow-of-the-erdtree/database/bosses/enemy/",
+          "locator": "Ancient Dragon-Man row 22"
+        },
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Gravesite Plain, 626–627"
+        }
+      ],
+      "note": "Location/encounter-specific published reward reports agree; independence and exact patch not established."
+    },
+    {
+      "id": "er:d-garrew",
+      "status": "matching-publications",
+      "runes": 80000,
+      "evidence": [
+        {
+          "url": "https://eldenring.redmaw.dev/sheets/dlc-walkthrough",
+          "locator": "Fog Rift Fort, 452–458"
+        },
+        {
+          "url": "https://www.gamerguides.com/elden-ring-shadow-of-the-erdtree/database/bosses/enemy/",
+          "locator": "Garrew row 25"
+        },
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Scadu Altus, 655–656"
+        }
+      ],
+      "note": "Location/encounter-specific published reward reports agree; independence and exact patch not established."
+    },
+    {
+      "id": "er:d-labirith",
+      "status": "matching-publications",
+      "runes": 100000,
+      "evidence": [
+        {
+          "url": "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
+          "locator": "Boss 29, 349–354"
+        },
+        {
+          "url": "https://www.gamerguides.com/elden-ring-shadow-of-the-erdtree/database/bosses/enemy/",
+          "locator": "Labirith row 28"
+        }
+      ],
+      "note": "Location/encounter-specific published reward reports agree; independence and exact patch not established."
+    },
+    {
+      "id": "er:d-hinterland-beast",
+      "status": "matching-publications",
+      "runes": 170000,
+      "evidence": [
+        {
+          "url": "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
+          "locator": "Fallingstar Beast, 385–386"
+        },
+        {
+          "url": "https://www.gamerguides.com/elden-ring-shadow-of-the-erdtree/database/bosses/enemy/",
+          "locator": "Fallingstar Beast row 37"
+        },
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Shadow Keep, 685–686"
+        }
+      ],
+      "note": "Location/encounter-specific published reward reports agree; independence and exact patch not established."
+    },
+    {
+      "id": "er:d-jori",
+      "status": "matching-publications",
+      "runes": 260000,
+      "evidence": [
+        {
+          "url": "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
+          "locator": "Boss 27, 327–332"
+        },
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Scadu Altus, 659–660"
+        }
+      ],
+      "note": "Location/encounter-specific published reward reports agree; independence and exact patch not established."
+    },
+    {
+      "id": "er:d-marigga",
+      "status": "matching-publications",
+      "runes": 100000,
+      "evidence": [
+        {
+          "url": "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
+          "locator": "Boss 14, 163–169"
+        },
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Gravesite Plain, 633–634"
+        }
+      ],
+      "note": "Location/encounter-specific published reward reports agree; independence and exact patch not established."
+    },
+    {
+      "id": "er:d-charo-bird",
+      "status": "matching-publications",
+      "runes": 230000,
+      "evidence": [
+        {
+          "url": "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
+          "locator": "Boss 20, 246–252"
+        },
+        {
+          "url": "https://www.gamerguides.com/elden-ring-shadow-of-the-erdtree/database/bosses/enemy/",
+          "locator": "Death Rite Bird row 32"
+        }
+      ],
+      "note": "Location/encounter-specific published reward reports agree; independence and exact patch not established."
+    },
+    {
+      "id": "er:d-lamenter",
+      "status": "matching-publications",
+      "runes": 160000,
+      "evidence": [
+        {
+          "url": "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
+          "locator": "Boss 21, 257–263"
+        },
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Jagged Peak, 697–698"
+        }
+      ],
+      "note": "Location/encounter-specific published reward reports agree; independence and exact patch not established."
+    },
+    {
+      "id": "er:d-rugalea",
+      "status": "matching-publications",
+      "runes": 210000,
+      "evidence": [
+        {
+          "url": "https://www.gamerguides.com/elden-ring-shadow-of-the-erdtree/database/bosses/enemy/",
+          "locator": "Rugalea row 42"
+        },
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Land of the Tower, 707–708"
+        }
+      ],
+      "note": "Location/encounter-specific published reward reports agree; independence and exact patch not established."
+    },
+    {
+      "id": "er:d-rauh-lion",
+      "status": "matching-publications",
+      "runes": 180000,
+      "evidence": [
+        {
+          "url": "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
+          "locator": "Boss 36, 421–426"
+        },
+        {
+          "url": "https://www.gamerguides.com/elden-ring-shadow-of-the-erdtree/database/bosses/enemy/",
+          "locator": "Rauh Lion row 35"
+        },
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Land of the Tower, 712–713"
+        }
+      ],
+      "note": "Location/encounter-specific published reward reports agree; independence and exact patch not established."
+    },
+    {
+      "id": "er:d-drake-solo",
+      "status": "matching-publications",
+      "runes": 90000,
+      "evidence": [
+        {
+          "url": "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
+          "locator": "Boss 17, first drake 198–207"
+        },
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Jagged Peak, 690–691"
+        }
+      ],
+      "note": "Location/encounter-specific published reward reports agree; independence and exact patch not established."
+    },
+    {
+      "id": "er:d-drake-duo",
+      "status": "matching-publications",
+      "runes": 120000,
+      "evidence": [
+        {
+          "url": "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
+          "locator": "Boss 17, second and third drakes 208–212"
+        },
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Jagged Peak, 692–694"
+        }
+      ],
+      "note": "Location/encounter-specific published reward reports agree; independence and exact patch not established."
+    },
+    {
+      "id": "er:d-plain-ghostflame",
+      "status": "location-report-plus-grouped-witness",
+      "runes": 100000,
+      "evidence": [
+        {
+          "url": "https://eldenring.redmaw.dev/sheets/dlc-walkthrough",
+          "locator": "Gravesite Plain lake, 114–115"
+        },
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Gravesite Plain, 619–621 (grouped entry)"
+        }
+      ],
+      "note": "Location/encounter-specific published reward reports agree; independence and exact patch not established."
+    },
+    {
+      "id": "er:d-altus-ghostflame",
+      "status": "location-specific-agreement-grouped-conflict",
+      "runes": 120000,
+      "evidence": [
+        {
+          "url": "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
+          "locator": "Boss 9, 113–118"
+        },
+        {
+          "url": "https://eldenring.redmaw.dev/sheets/dlc-walkthrough",
+          "locator": "Scadu Altus battlefield, 504–505"
+        },
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Grouped Ghostflame entry 619–621 reports 100000"
+        }
+      ],
+      "note": "Location-specific reports agree on 120000; grouped source gives 100000, not valid for this variant."
+    },
+    {
+      "id": "er:d-coast-ghostflame",
+      "status": "location-specific-agreement-grouped-conflict",
+      "runes": 120000,
+      "evidence": [
+        {
+          "url": "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
+          "locator": "Boss 12, 143–149"
+        },
+        {
+          "url": "https://eldenring.redmaw.dev/sheets/dlc-walkthrough",
+          "locator": "Cerulean Coast, 329"
+        },
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Grouped Ghostflame entry 619–621 reports 100000"
+        }
+      ],
+      "note": "Location-specific reports agree on 120000; grouped source gives 100000, not valid for this variant."
+    },
+    {
+      "id": "er:d-edredd",
+      "status": "conflict-unresolved",
+      "runes": null,
+      "reportedRunes": [
+        4446,
+        80000
+      ],
+      "evidence": [
+        {
+          "url": "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
+          "locator": "Boss 10, 123–128 reports 4446; comment 525 reports 80000"
+        },
+        {
+          "url": "https://www.gamerguides.com/elden-ring-shadow-of-the-erdtree/database/bosses/enemy/",
+          "locator": "Edredd row 24 reports 80000"
+        },
+        {
+          "url": "https://eldenring.redmaw.dev/sheets/dlc-walkthrough",
+          "locator": "Fort of Reprimand, 524 reports 80000"
+        },
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Scadu Altus, 653–654 reports 80000"
+        }
+      ],
+      "note": "Reported reward conflict 4446 versus 80000; no exact regulation or reason for discrepancy established."
+    },
+    {
+      "id": "er:d-ymir",
+      "status": "conflict-unresolved",
+      "runes": null,
+      "reportedRunes": [
+        0,
+        210000
+      ],
+      "evidence": [
+        {
+          "url": "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
+          "locator": "Boss 35, 412–416 reports zero"
+        },
+        {
+          "url": "https://www.gamerguides.com/elden-ring-shadow-of-the-erdtree/database/bosses/enemy/",
+          "locator": "Ymir row 27 reports zero"
+        },
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Scadu Altus, 665–668 reports 210000"
+        }
+      ],
+      "note": "Reported reward conflict 0 versus 210000; no single rune value selected."
+    },
+    {
+      "id": "er:d-consort",
+      "status": "conflict-unresolved",
+      "runes": null,
+      "reportedRunes": [
+        375000,
+        500000
+      ],
+      "evidence": [
+        {
+          "url": "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
+          "locator": "Final boss reward line 510 reports 375000"
+        },
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Land of the Tower, 717–718 reports 500000"
+        }
+      ],
+      "note": "Reported reward conflict 375000 versus 500000; exact regulation and reward scope unresolved."
+    }
+  ],
+  "remaining": [
+    "Exact game regulation, combat eligibility, full guide verification, final census and calibrated geography remain pending.",
+    "No changes to IDs, quest logic, save model, production catalog or flag integration."
+  ]
+}

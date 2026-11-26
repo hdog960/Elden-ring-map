@@ -1,0 +1,406 @@
+{
+  "schema": 1,
+  "status": "partial-research-not-final",
+  "records": [
+    {
+      "id": "er:b-limgrave-sentinel",
+      "status": "identity-reward-crosschecked-not-final",
+      "evidence": [
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "Encounter section near fetched line 669"
+        },
+        {
+          "url": "https://gamefaqs.gamespot.com/ps4/265987-elden-ring/faqs/79824/limgrave",
+          "locator": "Location section near fetched line 515"
+        }
+      ],
+      "runesCorroborated": 3200,
+      "rewards": "Golden Halberd",
+      "remaining": [
+        "Exact game version, combat stats, complete access and geography not qualified."
+      ]
+    },
+    {
+      "id": "er:b-groveside-beastman",
+      "status": "identity-reward-crosschecked-not-final",
+      "evidence": [
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "Encounter section near fetched line 539"
+        },
+        {
+          "url": "https://gamefaqs.gamespot.com/ps4/265987-elden-ring/faqs/79824/limgrave",
+          "locator": "Location section near fetched line 326"
+        }
+      ],
+      "runesCorroborated": 1000,
+      "rewards": "Flamedrake Talisman",
+      "remaining": [
+        "Exact game version, combat stats, complete access and geography not qualified."
+      ]
+    },
+    {
+      "id": "er:b-stormfoot-watchdog",
+      "status": "identity-reward-crosschecked-not-final",
+      "evidence": [
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "Encounter section near fetched line 584"
+        },
+        {
+          "url": "https://gamefaqs.gamespot.com/ps4/265987-elden-ring/faqs/79824/limgrave",
+          "locator": "Location section near fetched line 417"
+        }
+      ],
+      "runesCorroborated": 1300,
+      "rewards": "Noble Sorcerer Ashes",
+      "remaining": [
+        "Exact game version, combat stats, complete access and geography not qualified."
+      ]
+    },
+    {
+      "id": "er:b-coastal-chiefs",
+      "status": "identity-reward-crosschecked-not-final",
+      "evidence": [
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "Encounter section near fetched line 577"
+        },
+        {
+          "url": "https://gamefaqs.gamespot.com/ps4/265987-elden-ring/faqs/79824/limgrave",
+          "locator": "Location section near fetched line 264"
+        }
+      ],
+      "runesCorroborated": 1200,
+      "rewards": "Tailoring Tools; Sewing Needle",
+      "remaining": [
+        "Exact game version, combat stats, complete access and geography not qualified."
+      ]
+    },
+    {
+      "id": "er:b-fringefolk-spirit",
+      "status": "identity-reward-crosschecked-not-final",
+      "evidence": [
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "Encounter section near fetched line 675"
+        },
+        {
+          "url": "https://gamefaqs.gamespot.com/ps4/265987-elden-ring/faqs/79824/limgrave",
+          "locator": "Location section near fetched line 307"
+        }
+      ],
+      "runesCorroborated": null,
+      "rewards": "Golden Seed; Banished Knight Oleg Ashes",
+      "remaining": [
+        "Exact game version, combat stats, complete access and geography not qualified."
+      ]
+    },
+    {
+      "id": "er:b-agheel-dragon",
+      "status": "identity-reward-crosschecked-not-final",
+      "evidence": [
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "Encounter section near fetched line 590"
+        },
+        {
+          "url": "https://gamefaqs.gamespot.com/ps4/265987-elden-ring/faqs/79824/limgrave",
+          "locator": "Location section near fetched line 284"
+        }
+      ],
+      "runesCorroborated": 5000,
+      "rewards": "Dragon Heart",
+      "remaining": [
+        "Exact game version, combat stats, complete access and geography not qualified."
+      ]
+    },
+    {
+      "id": "er:b-limgrave-troll",
+      "status": "identity-reward-crosschecked-not-final",
+      "evidence": [
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "Encounter section near fetched line 657"
+        },
+        {
+          "url": "https://gamefaqs.gamespot.com/ps4/265987-elden-ring/faqs/79824/limgrave",
+          "locator": "Location section near fetched line 350"
+        }
+      ],
+      "runesCorroborated": 1800,
+      "rewards": "Roar Medallion",
+      "remaining": [
+        "Exact game version, combat stats, complete access and geography not qualified."
+      ]
+    },
+    {
+      "id": "er:b-murkwater-duelist",
+      "status": "identity-reward-crosschecked-not-final",
+      "evidence": [
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "Encounter section near fetched line 609"
+        },
+        {
+          "url": "https://gamefaqs.gamespot.com/ps4/265987-elden-ring/faqs/79824/limgrave",
+          "locator": "Location section near fetched line 372"
+        }
+      ],
+      "runesCorroborated": null,
+      "rewards": "Banished Knight Engvall Ashes; older source lists Battle Hammer",
+      "remaining": [
+        "Exact game version, combat stats, complete access and geography not qualified."
+      ]
+    },
+    {
+      "id": "er:b-waypoint-pumpkin",
+      "status": "identity-reward-crosschecked-not-final",
+      "evidence": [
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "Encounter section near fetched line 621"
+        },
+        {
+          "url": "https://gamefaqs.gamespot.com/ps4/265987-elden-ring/faqs/79824/limgrave",
+          "locator": "Location section near fetched line 543"
+        }
+      ],
+      "runesCorroborated": 1100,
+      "rewards": "Access to Sellen; Pumpkin Helm not established as guaranteed",
+      "remaining": [
+        "Exact game version, combat stats, complete access and geography not qualified."
+      ]
+    },
+    {
+      "id": "er:b-darriwil",
+      "status": "identity-reward-crosschecked-not-final",
+      "evidence": [
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "Encounter section near fetched line 559"
+        },
+        {
+          "url": "https://gamefaqs.gamespot.com/ps4/265987-elden-ring/faqs/79824/limgrave",
+          "locator": "Location section near fetched line 293"
+        }
+      ],
+      "runesCorroborated": 1900,
+      "rewards": "Bloodhound's Fang",
+      "remaining": [
+        "Exact game version, combat stats, complete access and geography not qualified."
+      ]
+    },
+    {
+      "id": "er:b-agheel-cavalry",
+      "status": "identity-reward-crosschecked-not-final",
+      "evidence": [
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "Encounter section near fetched line 633"
+        },
+        {
+          "url": "https://gamefaqs.gamespot.com/ps4/265987-elden-ring/faqs/79824/limgrave",
+          "locator": "Location section near fetched line 228"
+        }
+      ],
+      "runesCorroborated": 2400,
+      "rewards": "Repeating Thrust",
+      "remaining": [
+        "Exact game version, combat stats, complete access and geography not qualified."
+      ]
+    },
+    {
+      "id": "er:b-summonwater-mariner",
+      "status": "identity-reward-crosschecked-not-final",
+      "evidence": [
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "Encounter section near fetched line 663"
+        },
+        {
+          "url": "https://gamefaqs.gamespot.com/ps4/265987-elden-ring/faqs/79824/limgrave",
+          "locator": "Location section near fetched line 519"
+        }
+      ],
+      "runesCorroborated": 2400,
+      "rewards": "Deathroot; Skeletal Militiaman Ashes",
+      "remaining": [
+        "Exact game version, combat stats, complete access and geography not qualified."
+      ]
+    },
+    {
+      "id": "er:b-stormhill-crucible",
+      "status": "identity-reward-crosschecked-not-final",
+      "evidence": [
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "Encounter section near fetched line 565"
+        },
+        {
+          "url": "https://gamefaqs.gamespot.com/ps4/265987-elden-ring/faqs/79824/limgrave",
+          "locator": "Location section near fetched line 427"
+        }
+      ],
+      "runesCorroborated": 2100,
+      "rewards": "Aspects of the Crucible: Tail",
+      "remaining": [
+        "Exact game version, combat stats, complete access and geography not qualified."
+      ]
+    },
+    {
+      "id": "er:b-warmaster-hunter",
+      "status": "identity-reward-crosschecked-not-final",
+      "evidence": [
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "Encounter section near fetched line 545"
+        },
+        {
+          "url": "https://gamefaqs.gamespot.com/ps4/265987-elden-ring/faqs/79824/limgrave",
+          "locator": "Location section near fetched line 535"
+        }
+      ],
+      "runesCorroborated": 2700,
+      "rewards": "Bone Peddler's Bell Bearing",
+      "remaining": [
+        "Exact game version, combat stats, complete access and geography not qualified."
+      ]
+    },
+    {
+      "id": "er:b-stormhill-deathbird",
+      "status": "identity-reward-crosschecked-not-final",
+      "evidence": [
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "Encounter section near fetched line 570"
+        },
+        {
+          "url": "https://gamefaqs.gamespot.com/ps4/265987-elden-ring/faqs/79824/limgrave",
+          "locator": "Location section near fetched line 540"
+        }
+      ],
+      "runesCorroborated": 2800,
+      "rewards": "Blue-Feathered Branchsword",
+      "remaining": [
+        "Exact game version, combat stats, complete access and geography not qualified."
+      ]
+    },
+    {
+      "id": "er:b-deathtouched-assassin",
+      "status": "identity-reward-crosschecked-not-final",
+      "evidence": [
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "Encounter section near fetched line 551"
+        },
+        {
+          "url": "https://gamefaqs.gamespot.com/ps4/265987-elden-ring/faqs/79824/limgrave",
+          "locator": "Location section near fetched line 272"
+        }
+      ],
+      "runesCorroborated": 1600,
+      "rewards": "Assassin's Crimson Dagger; Deathroot is separate boss-room loot",
+      "remaining": [
+        "Exact game version, combat stats, complete access and geography not qualified."
+      ]
+    },
+    {
+      "id": "er:b-highroad-golem",
+      "status": "identity-reward-crosschecked-not-final",
+      "evidence": [
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "Encounter section near fetched line 615"
+        },
+        {
+          "url": "https://gamefaqs.gamespot.com/ps4/265987-elden-ring/faqs/79824/limgrave",
+          "locator": "Location section near fetched line 334"
+        }
+      ],
+      "runesCorroborated": 1700,
+      "rewards": "Blue Dancer Charm",
+      "remaining": [
+        "Exact game version, combat stats, complete access and geography not qualified."
+      ]
+    },
+    {
+      "id": "er:b-margit",
+      "status": "identity-reward-crosschecked-not-final",
+      "evidence": [
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "Encounter section near fetched line 627"
+        },
+        {
+          "url": "https://gamefaqs.gamespot.com/ps4/265987-elden-ring/faqs/79824/limgrave",
+          "locator": "Location section near fetched line 243"
+        }
+      ],
+      "runesCorroborated": 12000,
+      "rewards": "Talisman Pouch",
+      "remaining": [
+        "Exact game version, combat stats, complete access and geography not qualified."
+      ]
+    },
+    {
+      "id": "er:b-godrick",
+      "status": "identity-reward-crosschecked-not-final",
+      "evidence": [
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "Encounter section near fetched line 596"
+        },
+        {
+          "url": "https://gamefaqs.gamespot.com/ps4/265987-elden-ring/faqs/79824/limgrave",
+          "locator": "Location section near fetched line 503"
+        }
+      ],
+      "runesCorroborated": 20000,
+      "rewards": "Great Rune; Remembrance of the Grafted",
+      "remaining": [
+        "Exact game version, combat stats, complete access and geography not qualified."
+      ]
+    },
+    {
+      "id": "er:b-tutorial-soldier",
+      "status": "identity-reward-crosschecked-not-final",
+      "evidence": [
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "Encounter section near fetched line 652"
+        },
+        {
+          "url": "https://gamefaqs.gamespot.com/ps4/265987-elden-ring/faqs/79824/limgrave",
+          "locator": "Location section near fetched line 506"
+        }
+      ],
+      "runesCorroborated": 400,
+      "rewards": "Runes; Cave of Knowledge rather than Fringefolk Hero's Grave",
+      "remaining": [
+        "Exact game version, combat stats, complete access and geography not qualified."
+      ]
+    },
+    {
+      "id": "er:b-murkwater-patches",
+      "status": "identity-reward-crosschecked-not-final",
+      "evidence": [
+        {
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2801315041",
+          "locator": "Encounter section near fetched line 639"
+        },
+        {
+          "url": "https://gamefaqs.gamespot.com/ps4/265987-elden-ring/faqs/79824/limgrave",
+          "locator": "Location section near fetched line 379"
+        }
+      ],
+      "runesCorroborated": null,
+      "rewards": "Surrender or killing resolves the encounter; reward details vary by outcome",
+      "remaining": [
+        "Exact game version, combat stats, complete access and geography not qualified."
+      ]
+    }
+  ],
+  "notes": "Compared actual source sections, not merely index order. Null rune values reflect uncorroborated or conditional values. No full row adjudication claimed."
+}

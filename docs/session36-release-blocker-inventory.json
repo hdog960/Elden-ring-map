@@ -1,0 +1,518 @@
+{
+  "schema": 1,
+  "status": "research-only-not-release",
+  "asOfParent": "454677dc8faf76852841471978dda0f232e1fc9e",
+  "counts": {
+    "stableIds": 291,
+    "guides": 291,
+    "primary": 207,
+    "extended": 84,
+    "primaryGuidesWithRuneText": 186,
+    "primaryGuidesWithoutRuneText": 21,
+    "associations": 205,
+    "publishedCatalogEncounters": 0,
+    "finalDecisions": 0,
+    "admittedGeographyPositions": 0,
+    "admittedLayers": 0,
+    "matchingFlagWitnesses": 67
+  },
+  "remainingPrimaryWithoutRuneText": [
+    "er:b-murkwater-patches",
+    "er:b-weeping-avatar",
+    "er:b-stillwater-cleanrot",
+    "er:b-abandoned-cleanrots",
+    "er:b-caelid-avatar",
+    "er:b-wardead-spirit",
+    "er:b-altus-cavalry",
+    "er:b-sainted-assassin",
+    "er:b-altus-crystalians",
+    "er:b-perfumer-grotto-duo",
+    "er:b-mohg-omen",
+    "er:b-snowfield-duelist",
+    "er:b-gideon",
+    "er:b-rot-dragonkin",
+    "er:b-mohg-blood",
+    "er:d-edredd",
+    "er:d-dane",
+    "er:d-ymir",
+    "er:d-hinterland-sentinel-shield",
+    "er:d-hinterland-sentinel-torch",
+    "er:d-consort"
+  ],
+  "flagCrosswalk": [
+    {
+      "id": "er:b-lakeside-bloodhound",
+      "publishedFlag": 31050800,
+      "sourceRow": 69,
+      "compassFlag": 31050800,
+      "status": "matching-candidate-witnesses"
+    },
+    {
+      "id": "er:b-forlorn-crusader",
+      "publishedFlag": 31120800,
+      "sourceRow": 75,
+      "compassFlag": 31120800,
+      "status": "matching-candidate-witnesses"
+    },
+    {
+      "id": "er:b-summonwater-mariner",
+      "publishedFlag": 1045390800,
+      "sourceRow": 156,
+      "compassFlag": 1045390800,
+      "status": "matching-candidate-witnesses"
+    },
+    {
+      "id": "er:b-liurnia-mariner",
+      "publishedFlag": 1039440800,
+      "sourceRow": 130,
+      "compassFlag": 1039440800,
+      "status": "matching-candidate-witnesses"
+    },
+    {
+      "id": "er:b-wyndham-mariner",
+      "publishedFlag": 1038520800,
+      "sourceRow": 128,
+      "compassFlag": 1038520800,
+      "status": "matching-candidate-witnesses"
+    },
+    {
+      "id": "er:b-coastal-chiefs",
+      "publishedFlag": 31150800,
+      "sourceRow": 76,
+      "compassFlag": 31150800,
+      "status": "matching-candidate-witnesses"
+    },
+    {
+      "id": "er:b-sages-assassin",
+      "publishedFlag": 31190800,
+      "sourceRow": 79,
+      "compassFlag": 31190800,
+      "status": "matching-candidate-witnesses"
+    },
+    {
+      "id": "er:b-morne-scaly",
+      "publishedFlag": 32000800,
+      "sourceRow": 84,
+      "compassFlag": 32000800,
+      "status": "matching-candidate-witnesses"
+    },
+    {
+      "id": "er:b-limgrave-troll",
+      "publishedFlag": 32010800,
+      "sourceRow": 85,
+      "compassFlag": 32010800,
+      "status": "matching-candidate-witnesses"
+    },
+    {
+      "id": "er:b-oldaltus-troll",
+      "publishedFlag": 32040800,
+      "sourceRow": 87,
+      "compassFlag": 32040800,
+      "status": "matching-candidate-witnesses"
+    },
+    {
+      "id": "er:b-groveside-beastman",
+      "publishedFlag": 31030800,
+      "sourceRow": 67,
+      "compassFlag": 31030800,
+      "status": "matching-candidate-witnesses"
+    },
+    {
+      "id": "er:b-earthbore-runebear",
+      "publishedFlag": 31010800,
+      "sourceRow": 65,
+      "compassFlag": 31010800,
+      "status": "matching-candidate-witnesses"
+    },
+    {
+      "id": "er:b-weeping-zamor",
+      "publishedFlag": 1042330800,
+      "sourceRow": 139,
+      "compassFlag": 1042330800,
+      "status": "matching-candidate-witnesses"
+    },
+    {
+      "id": "er:b-limgrave-sentinel",
+      "publishedFlag": 1042360800,
+      "sourceRow": 140,
+      "compassFlag": 1042360800,
+      "status": "matching-candidate-witnesses"
+    },
+    {
+      "id": "er:b-stormhill-crucible",
+      "publishedFlag": 1042370800,
+      "sourceRow": 141,
+      "compassFlag": 1042370800,
+      "status": "matching-candidate-witnesses"
+    },
+    {
+      "id": "er:b-morne-leonine",
+      "publishedFlag": 1043300800,
+      "sourceRow": 145,
+      "compassFlag": 1043300800,
+      "status": "matching-candidate-witnesses"
+    },
+    {
+      "id": "er:b-agheel-dragon",
+      "publishedFlag": 1043360800,
+      "sourceRow": 147,
+      "compassFlag": 1043360800,
+      "status": "matching-candidate-witnesses"
+    },
+    {
+      "id": "er:b-darriwil",
+      "publishedFlag": 1044350800,
+      "sourceRow": 154,
+      "compassFlag": 1044350800,
+      "status": "matching-candidate-witnesses"
+    },
+    {
+      "id": "er:b-waypoint-pumpkin",
+      "publishedFlag": 1044360800,
+      "sourceRow": 155,
+      "compassFlag": 1044360800,
+      "status": "matching-candidate-witnesses"
+    },
+    {
+      "id": "er:b-tombsward-shade",
+      "publishedFlag": 30000800,
+      "sourceRow": 40,
+      "compassFlag": 30000800,
+      "status": "matching-candidate-witnesses"
+    },
+    {
+      "id": "er:b-impaler-watchdog",
+      "publishedFlag": 30010800,
+      "sourceRow": 41,
+      "compassFlag": 30010800,
+      "status": "matching-candidate-witnesses"
+    },
+    {
+      "id": "er:b-stormfoot-watchdog",
+      "publishedFlag": 30020800,
+      "sourceRow": 42,
+      "compassFlag": 30020800,
+      "status": "matching-candidate-witnesses"
+    },
+    {
+      "id": "er:b-roadsend-snail",
+      "publishedFlag": 30030800,
+      "sourceRow": 43,
+      "compassFlag": 30030800,
+      "status": "matching-candidate-witnesses"
+    },
+    {
+      "id": "er:b-murkwater-duelist",
+      "publishedFlag": 30040800,
+      "sourceRow": 44,
+      "compassFlag": 30040800,
+      "status": "matching-candidate-witnesses"
+    },
+    {
+      "id": "er:b-blackknife-shade",
+      "publishedFlag": 30050800,
+      "sourceRow": 45,
+      "compassFlag": 30050800,
+      "status": "matching-candidate-witnesses"
+    },
+    {
+      "id": "er:b-blackknife-assassin",
+      "publishedFlag": 30050850,
+      "sourceRow": 46,
+      "compassFlag": 30050850,
+      "status": "matching-candidate-witnesses"
+    },
+    {
+      "id": "er:b-cliffbottom-watchdog",
+      "publishedFlag": 30060800,
+      "sourceRow": 47,
+      "compassFlag": 30060800,
+      "status": "matching-candidate-witnesses"
+    },
+    {
+      "id": "er:b-wyndham-watchdog",
+      "publishedFlag": 30070800,
+      "sourceRow": 48,
+      "compassFlag": 30070800,
+      "status": "matching-candidate-witnesses"
+    },
+    {
+      "id": "er:b-sainted-zamor",
+      "publishedFlag": 30080800,
+      "sourceRow": 49,
+      "compassFlag": 30080800,
+      "status": "matching-candidate-witnesses"
+    },
+    {
+      "id": "er:b-gelmir-wolf",
+      "publishedFlag": 30090800,
+      "sourceRow": 50,
+      "compassFlag": 30090800,
+      "status": "matching-candidate-witnesses"
+    },
+    {
+      "id": "er:b-ordovis-duo",
+      "publishedFlag": 30100800,
+      "sourceRow": 51,
+      "compassFlag": 30100800,
+      "status": "matching-candidate-witnesses"
+    },
+    {
+      "id": "er:b-deathtouched-assassin",
+      "publishedFlag": 30110800,
+      "sourceRow": 53,
+      "compassFlag": 30110800,
+      "status": "matching-candidate-witnesses"
+    },
+    {
+      "id": "er:b-tricia-duo",
+      "publishedFlag": 30120800,
+      "sourceRow": 54,
+      "compassFlag": 30120800,
+      "status": "matching-candidate-witnesses"
+    },
+    {
+      "id": "er:b-auriza-duelist",
+      "publishedFlag": 30130800,
+      "sourceRow": 56,
+      "compassFlag": 30130800,
+      "status": "matching-candidate-witnesses"
+    },
+    {
+      "id": "er:b-minorerdtree-watchdogs",
+      "publishedFlag": 30140800,
+      "sourceRow": 57,
+      "compassFlag": 30140800,
+      "status": "matching-candidate-witnesses"
+    },
+    {
+      "id": "er:b-caelid-shade",
+      "publishedFlag": 30150800,
+      "sourceRow": 58,
+      "compassFlag": 30150800,
+      "status": "matching-candidate-witnesses"
+    },
+    {
+      "id": "er:b-wardead-spirit",
+      "publishedFlag": 30160800,
+      "sourceRow": 59,
+      "compassFlag": 30160800,
+      "status": "matching-candidate-witnesses"
+    },
+    {
+      "id": "er:b-giantgrave-zamor",
+      "publishedFlag": 30170800,
+      "sourceRow": 60,
+      "compassFlag": 30170800,
+      "status": "matching-candidate-witnesses"
+    },
+    {
+      "id": "er:b-giants-spirit",
+      "publishedFlag": 30180800,
+      "sourceRow": 61,
+      "compassFlag": 30180800,
+      "status": "matching-candidate-witnesses"
+    },
+    {
+      "id": "er:b-snowfield-duelist",
+      "publishedFlag": 30190800,
+      "sourceRow": 62,
+      "compassFlag": 30190800,
+      "status": "matching-candidate-witnesses"
+    },
+    {
+      "id": "er:b-stray-mimic",
+      "publishedFlag": 30200810,
+      "sourceRow": 63,
+      "compassFlag": 30200810,
+      "status": "matching-candidate-witnesses"
+    },
+    {
+      "id": "er:b-murkwater-patches",
+      "publishedFlag": 31000800,
+      "sourceRow": 64,
+      "compassFlag": 31000800,
+      "status": "matching-candidate-witnesses"
+    },
+    {
+      "id": "er:b-tombsward-miranda",
+      "publishedFlag": 31020800,
+      "sourceRow": 66,
+      "compassFlag": 31020800,
+      "status": "matching-candidate-witnesses"
+    },
+    {
+      "id": "er:b-stillwater-cleanrot",
+      "publishedFlag": 31040800,
+      "sourceRow": 68,
+      "compassFlag": 31040800,
+      "status": "matching-candidate-witnesses"
+    },
+    {
+      "id": "er:b-academy-crystalians",
+      "publishedFlag": 31060800,
+      "sourceRow": 70,
+      "compassFlag": 31060800,
+      "status": "matching-candidate-witnesses"
+    },
+    {
+      "id": "er:b-seethewater-kindred",
+      "publishedFlag": 31070800,
+      "sourceRow": 71,
+      "compassFlag": 31070800,
+      "status": "matching-candidate-witnesses"
+    },
+    {
+      "id": "er:b-margot",
+      "publishedFlag": 31090800,
+      "sourceRow": 72,
+      "compassFlag": 31090800,
+      "status": "matching-candidate-witnesses"
+    },
+    {
+      "id": "er:b-dragonbarrow-beastmen",
+      "publishedFlag": 31100800,
+      "sourceRow": 73,
+      "compassFlag": 31100800,
+      "status": "matching-candidate-witnesses"
+    },
+    {
+      "id": "er:b-sellia-crystalians",
+      "publishedFlag": 31110800,
+      "sourceRow": 74,
+      "compassFlag": 31110800,
+      "status": "matching-candidate-witnesses"
+    },
+    {
+      "id": "er:b-highroad-golem",
+      "publishedFlag": 31170800,
+      "sourceRow": 77,
+      "compassFlag": 31170800,
+      "status": "matching-candidate-witnesses"
+    },
+    {
+      "id": "er:b-perfumer-grotto-duo",
+      "publishedFlag": 31180800,
+      "sourceRow": 78,
+      "compassFlag": 31180800,
+      "status": "matching-candidate-witnesses"
+    },
+    {
+      "id": "er:b-garris",
+      "publishedFlag": 31190850,
+      "sourceRow": 80,
+      "compassFlag": 31190850,
+      "status": "matching-candidate-witnesses"
+    },
+    {
+      "id": "er:b-abandoned-cleanrots",
+      "publishedFlag": 31200800,
+      "sourceRow": 81,
+      "compassFlag": 31200800,
+      "status": "matching-candidate-witnesses"
+    },
+    {
+      "id": "er:b-gaol-duelist",
+      "publishedFlag": 31210800,
+      "sourceRow": 82,
+      "compassFlag": 31210800,
+      "status": "matching-candidate-witnesses"
+    },
+    {
+      "id": "er:b-spiritcaller-cave",
+      "publishedFlag": 31220800,
+      "sourceRow": 83,
+      "compassFlag": 31220800,
+      "status": "matching-candidate-witnesses"
+    },
+    {
+      "id": "er:b-raya-crystalian",
+      "publishedFlag": 32020800,
+      "sourceRow": 86,
+      "compassFlag": 32020800,
+      "status": "matching-candidate-witnesses"
+    },
+    {
+      "id": "er:b-altus-crystalians",
+      "publishedFlag": 32050800,
+      "sourceRow": 88,
+      "compassFlag": 32050800,
+      "status": "matching-candidate-witnesses"
+    },
+    {
+      "id": "er:b-gael-wyrm",
+      "publishedFlag": 32070800,
+      "sourceRow": 90,
+      "compassFlag": 32070800,
+      "status": "matching-candidate-witnesses"
+    },
+    {
+      "id": "er:b-sellia-beast",
+      "publishedFlag": 32080800,
+      "sourceRow": 91,
+      "compassFlag": 32080800,
+      "status": "matching-candidate-witnesses"
+    },
+    {
+      "id": "er:b-snowfield-astel",
+      "publishedFlag": 32110800,
+      "sourceRow": 92,
+      "compassFlag": 32110800,
+      "status": "matching-candidate-witnesses"
+    },
+    {
+      "id": "er:d-fogrifts-deathknight",
+      "publishedFlag": 40000800,
+      "sourceRow": 99,
+      "compassFlag": 40000800,
+      "status": "matching-candidate-witnesses"
+    },
+    {
+      "id": "er:d-scorpion-deathknight",
+      "publishedFlag": 40010800,
+      "sourceRow": 100,
+      "compassFlag": 40010800,
+      "status": "matching-candidate-witnesses"
+    },
+    {
+      "id": "er:d-onze",
+      "publishedFlag": 41000800,
+      "sourceRow": 101,
+      "compassFlag": 41000800,
+      "status": "matching-candidate-witnesses"
+    },
+    {
+      "id": "er:d-labirith",
+      "publishedFlag": 41010800,
+      "sourceRow": 102,
+      "compassFlag": 41010800,
+      "status": "matching-candidate-witnesses"
+    },
+    {
+      "id": "er:d-lamenter",
+      "publishedFlag": 41020800,
+      "sourceRow": 103,
+      "compassFlag": 41020800,
+      "status": "matching-candidate-witnesses"
+    },
+    {
+      "id": "er:d-chief-bloodfiend",
+      "publishedFlag": 43000800,
+      "sourceRow": 104,
+      "compassFlag": 43000800,
+      "status": "matching-candidate-witnesses"
+    },
+    {
+      "id": "er:d-dragon-man",
+      "publishedFlag": 43010800,
+      "sourceRow": 105,
+      "compassFlag": 43010800,
+      "status": "matching-candidate-witnesses"
+    }
+  ],
+  "cautions": [
+    "Matching community flag labels and Compass arena flags do not establish independent lineage, in-game completion or final map calibration.",
+    "Rune text coverage is not verified accuracy; prior disputes remain visible.",
+    "Final census, guide verification, calibrated geography, installed device acceptance and creator authorization remain blocked."
+  ]
+}

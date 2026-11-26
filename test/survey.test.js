@@ -1,0 +1,7 @@
+import test from "node:test";import assert from "node:assert/strict";import {prepareSurvey,renderSurveySVG} from "../src/survey.js";
+const prov=i=>({source:"synthetic fixture only",locator:"fixture "+i,sha256:i.toString(16).padStart(64,"0"),rightsEvidence:"fixture authored for unit tests",rightsReviewed:true,observer:"test"});
+const a=(i,x,y)=>({id:"a"+i,world:{x,y},map:{x:x+10,y:y+10},provenance:prov(i)});
+const fixture=()=>({schema:1,layer:"surface",bounds:[0,0,100,100],gameVersion:"synthetic",fit:[a(1,0,0),a(2,20,0),a(3,0,20)],holdout:[a(4,5,5),a(5,10,10)],maxResidual:.001,observations:[{id:"er:synthetic",kind:"arena",world:{x:7,y:8},method:"observed",verified:true,provenance:prov(6)}],features:[{id:"land",kind:"land",points:[{x:0,y:0},{x:30,y:0},{x:0,y:30}],provenance:prov(7)}]});
+test("synthetic surveyed coordinates and original SVG generation",()=>{const r=prepareSurvey(fixture(),new Set(["er:synthetic"]));assert.ok(Math.abs(r.positions[0].x-17)<1e-8);assert.ok(renderSurveySVG(r.geometry,[0,0,100,100]).includes("<polygon"));});
+test("reject same evidence in holdout and fit",()=>{const s=fixture();s.holdout[0].provenance=s.fit[0].provenance;assert.throws(()=>prepareSurvey(s,new Set(["er:synthetic"])),/reuse/);});
+test("reject tile-center estimates and unreviewed rights",()=>{let s=fixture();s.observations[0].method="tile-center";assert.throws(()=>prepareSurvey(s,new Set(["er:synthetic"])));s=fixture();s.features[0].provenance.rightsReviewed=false;assert.throws(()=>prepareSurvey(s,new Set(["er:synthetic"])));});

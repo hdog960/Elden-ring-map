@@ -1,0 +1,212 @@
+{
+  "schema": 1,
+  "status": "extended-candidate-review-not-admitted",
+  "scope": "Row-specific base-game elite research, session 20; research keys are not save IDs.",
+  "records": [
+    {
+      "key": "lake-of-rot-lord",
+      "name": "Alabaster Lord",
+      "location": "Lake of Rot raised ruins",
+      "status": "candidate",
+      "reward": "Alabaster Lord's Sword",
+      "note": "Distinct from Lake of Rot Dragonkin Soldier; one-time enemy per eXputer. Checklist calls it Onyx; specific sword and route sources say Alabaster.",
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Alabaster_Lord%27s_Sword",
+        "https://www.neoseeker.com/elden-ring/walkthrough/Lake_of_Rot",
+        "https://eldenring.exputer.com/weapons/alabaster-lord-s-sword",
+        "https://eip.gg/elden-ring/guides/lake-of-rot-grand-cloister-walkthrough/"
+      ],
+      "remaining": [
+        "Independent defeat/respawn and exact encounter flag verification",
+        "No permanent ID or geography admission"
+      ]
+    },
+    {
+      "key": "yelough-lords",
+      "name": "Alabaster Lords",
+      "location": "Yelough Anix Tunnel",
+      "status": "hold",
+      "reward": "Alabaster Lord's Sword reported",
+      "note": "Two enemies reported; repeatable farming reports conflict with guaranteed-drop interpretation. No permanent defeat records until respawn and individual identity are established.",
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Alabaster_Lord%27s_Sword",
+        "https://eldenring.exputer.com/locations/yelough-anix-tunnel",
+        "https://www.youtube.com/watch?v=lLYRf8vNYHk",
+        "https://www.reddit.com/r/Eldenring/comments/1xi49w8/found_a_way_to_spawn_goldeneyed_mobs/"
+      ],
+      "remaining": [
+        "Independent defeat/respawn and exact encounter flag verification",
+        "No permanent ID or geography admission"
+      ]
+    },
+    {
+      "key": "deeproot-avatar",
+      "name": "Erdtree Avatar",
+      "location": "Great Waterfall Crest approach",
+      "status": "candidate",
+      "reward": "Staff of the Avatar",
+      "note": "PowerPyx explicitly distinguishes this encounter from boss-bar encounters.",
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Erdtree_Avatar",
+        "https://www.powerpyx.com/elden-ring-deeproot-depths-walkthrough/",
+        "https://www.neoseeker.com/elden-ring/walkthrough/Deeproot_Depths"
+      ],
+      "remaining": [
+        "Independent defeat/respawn and exact encounter flag verification",
+        "No permanent ID or geography admission"
+      ]
+    },
+    {
+      "key": "capital-avatar",
+      "name": "Erdtree Avatar",
+      "location": "Royal Capital avenue near Avenue Balcony",
+      "status": "candidate",
+      "reward": "Lord's Rune",
+      "note": "Pre-ash avenue encounter; do not conflate with Elphael avatars.",
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Erdtree_Avatar",
+        "https://www.powerpyx.com/elden-ring-leyndell-royal-capital-walkthrough/",
+        "https://www.neoseeker.com/elden-ring/walkthrough/Leyndell_Royal_Capital"
+      ],
+      "remaining": [
+        "Independent defeat/respawn and exact encounter flag verification",
+        "No permanent ID or geography admission"
+      ]
+    },
+    {
+      "key": "elphael-bridge-avatar",
+      "name": "Putrid Avatar",
+      "location": "Elphael bridge patrol",
+      "status": "candidate",
+      "reward": "Rotten Staff reported",
+      "note": "Separate from courtyard guard. Drop guarantee disputed; do not use reward alone as defeat proof.",
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Erdtree_Avatar",
+        "https://eip.gg/elden-ring/guides/elphael-brace-of-the-haligtree-walkthrough/",
+        "https://wiki.eso-ui.com/index.php/Elden_Ring%3ARotten_Staff"
+      ],
+      "remaining": [
+        "Independent defeat/respawn and exact encounter flag verification",
+        "No permanent ID or geography admission"
+      ]
+    },
+    {
+      "key": "elphael-courtyard-avatar",
+      "name": "Putrid Avatar",
+      "location": "Elphael Inner Wall doorway",
+      "status": "candidate",
+      "reward": "Lord's Rune",
+      "note": "Distinct guard corroborated by walkthrough; exact flag and respawn test pending.",
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Erdtree_Avatar",
+        "https://eip.gg/elden-ring/guides/elphael-brace-of-the-haligtree-walkthrough/",
+        "https://wiki.eso-ui.com/index.php/Elden_Ring%3APutrid_Avatar"
+      ],
+      "remaining": [
+        "Independent defeat/respawn and exact encounter flag verification",
+        "No permanent ID or geography admission"
+      ]
+    },
+    {
+      "key": "stormveil-spirit",
+      "name": "Ulcerated Tree Spirit",
+      "location": "Stormveil underground crypt via Liftside Chamber",
+      "status": "candidate",
+      "reward": "Golden Seed",
+      "note": "Separate from Fringefolk boss; route and seed supported.",
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Ulcerated_Tree_Spirit",
+        "https://www.powerpyx.com/elden-ring-all-golden-seed-locations/"
+      ],
+      "remaining": [
+        "Independent defeat/respawn and exact encounter flag verification",
+        "No permanent ID or geography admission"
+      ]
+    },
+    {
+      "key": "outskirts-spirit",
+      "name": "Ulcerated Tree Spirit",
+      "location": "Encampment south of Outer Wall Phantom Tree",
+      "status": "candidate",
+      "reward": "Golden Seed",
+      "note": "Ambush at camp, separate from capital interior.",
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Ulcerated_Tree_Spirit",
+        "https://www.neoseeker.com/elden-ring/walkthrough/Capital_Outskirts",
+        "https://www.gamerguides.com/elden-ring/guide/route-walkthrough/overview/game-progress-route"
+      ],
+      "remaining": [
+        "Independent defeat/respawn and exact encounter flag verification",
+        "No permanent ID or geography admission"
+      ]
+    },
+    {
+      "key": "capital-lower-spirit",
+      "name": "Ulcerated Tree Spirit",
+      "location": "Lower Capital Church / royal capital",
+      "status": "candidate",
+      "reward": "Golden Seed",
+      "note": "Potentially missable after capital transformation; exact cutoff and distinction from other reported capital spirits pending.",
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Golden_Seed",
+        "https://www.neoseeker.com/elden-ring/walkthrough/Leyndell_Royal_Capital",
+        "https://eldenringinteractivemap.com/golden-seeds/"
+      ],
+      "remaining": [
+        "Independent defeat/respawn and exact encounter flag verification",
+        "No permanent ID or geography admission"
+      ]
+    },
+    {
+      "key": "cloister-spirit",
+      "name": "Putrid Tree Spirit",
+      "location": "Grand Cloister",
+      "status": "candidate",
+      "reward": "Golden Seed",
+      "note": "Distinct from Lake of Rot lord and Dragonkin Soldier.",
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Grand_Cloister",
+        "https://eip.gg/elden-ring/guides/lake-of-rot-grand-cloister-walkthrough/",
+        "https://eldenring.wiki.gg/wiki/Golden_Seed"
+      ],
+      "remaining": [
+        "Independent defeat/respawn and exact encounter flag verification",
+        "No permanent ID or geography admission"
+      ]
+    },
+    {
+      "key": "drainage-spirit",
+      "name": "Putrid Tree Spirit",
+      "location": "Elphael rot pool near Drainage Channel",
+      "status": "candidate",
+      "reward": "Golden Seed",
+      "note": "Defeat prerequisite to Millicent's final signs; not either of the two mutually exclusive duels.",
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Golden_Seed",
+        "https://www.dualshockers.com/elden-ring-millicent-quest-walkthrough/",
+        "https://vulkk.com/2024/06/06/elden-ring-millicent-quest-guide/"
+      ],
+      "remaining": [
+        "Independent defeat/respawn and exact encounter flag verification",
+        "No permanent ID or geography admission"
+      ]
+    },
+    {
+      "key": "ashen-spirit-group",
+      "name": "Ulcerated Tree Spirits",
+      "location": "Ashen Capital Erdtree's Favor +2 courtyard",
+      "status": "hold",
+      "reward": "Talisman is nearby loot, not a confirmed defeat reward",
+      "note": "Three guards reported; individual permanence, exact identity, and grouping not adjudicated.",
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Leyndell%2C_Ashen_Capital",
+        "https://tarnished.app/talismans/erdtree-s-favor--2",
+        "https://steamcommunity.com/sharedfiles/filedetails/?id=2785187510"
+      ],
+      "remaining": [
+        "Independent defeat/respawn and exact encounter flag verification",
+        "No permanent ID or geography admission"
+      ]
+    }
+  ]
+}
