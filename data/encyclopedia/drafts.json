@@ -371,7 +371,10 @@
       "preparation": "Suggested level 130–150; upgrade weapon and Scadutree Blessing; lightning defense useful.",
       "sources": [
         "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
-        "https://samurai-gamers.com/elden-ring/sotet-dlc-bosses-list/"
+        "https://samurai-gamers.com/elden-ring/sotet-dlc-bosses-list/",
+        "https://eip.gg/elden-ring/guides/death-knight-boss-guide/",
+        "https://eldenring.wiki.gg/wiki/Death_Knight",
+        "https://eldenring.exputer.com/locations/fog-rift-catacombs"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -382,7 +385,8 @@
       },
       "unresolved": [
         "Exact NG health, stance and damage/status tables require version-specific independent verification.",
-        "Full summon/parry/critical eligibility and exact entrance calibration require review."
+        "Full summon/parry/critical eligibility and exact entrance calibration require review.",
+        "Published identity/reward review: Some aggregator weapon/character pages contradict the location-specific rewards; retain twin axes and Crimson Amber Medallion +3. Exact regulation and final guide admission remain pending."
       ]
     },
     {
@@ -775,7 +779,9 @@
         "https://tarnished.app/enemies/cemetery-shade",
         "https://eldenring.fandom.com/wiki/Cemetery_Shade",
         "https://rankedboost.com/elden-ring/cemetery-shade/",
-        "https://eip.gg/elden-ring/guides/weeping-peninsula-boss-guides/"
+        "https://eip.gg/elden-ring/guides/weeping-peninsula-boss-guides/",
+        "https://eldenring.exputer.com/locations/tombsward-catacombs",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -785,7 +791,8 @@
         "statusThresholds": null
       },
       "unresolved": [
-        "Scoped published combat research remains separate from release qualification. Exact regulation, complete combat table and calibrated marker pending."
+        "Scoped published combat research remains separate from release qualification. Exact regulation, complete combat table and calibrated marker pending.",
+        "Published identity/reward review: Separate shade variant and unique spirit ash confirmed. Exact regulation and final guide admission remain pending."
       ]
     },
     {
@@ -870,11 +877,13 @@
       "conditions": "Optional dungeon; imps accompany the boss.",
       "combat": "Watchdog plunges and sword arcs while imps attack from several directions.",
       "strategy": "Remove the imps before focusing on the watchdog. Bait a plunge away from the pack; step in briefly after it lands.",
-      "rewards": "Demi-Human Ashes.",
+      "rewards": "Demi-Human Ashes; 2,400 runes (reported NG).",
       "preparation": "Level 20–30; a shield and sweeping weapon help.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/guide/weeping-peninsula/bosses/",
-        "https://gamefaqs.gamespot.com/ps5/323053-elden-ring/faqs/80028/dungeon-bosses"
+        "https://gamefaqs.gamespot.com/ps5/323053-elden-ring/faqs/80028/dungeon-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.eldenringcompass.com/bosses"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -885,7 +894,8 @@
       },
       "unresolved": [
         "Exact NG numerical combat data and rune reward require independent patch-specific verification.",
-        "Confirm grace, entrance, summon and critical eligibility before publication."
+        "Confirm grace, entrance, summon and critical eligibility before publication.",
+        "Published identity/reward review: Distinct from Stormfoot and other Watchdog encounters. Exact regulation and final guide admission remain pending."
       ]
     },
     {
@@ -1609,12 +1619,13 @@
       "conditions": "Optional dungeon.",
       "combat": "Staff magic, floating slams and stiff sweeps.",
       "strategy": "Watch vertical movement, leave the impact zone and counter after landing; avoid attacking as it rises.",
-      "rewards": "Kaiden Sellsword Ashes.",
+      "rewards": "Kaiden Sellsword Ashes; 3,200 runes (reported NG).",
       "preparation": "Level 35–50; magic defense.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/guide/liurnia-of-the-lakes/bosses/",
         "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
-        "https://plarium.com/en/blog/elden-ring-boss-locations/"
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://eldenring.exputer.com/locations/cliffbottom-catacombs"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -1625,7 +1636,8 @@
       },
       "unresolved": [
         "Verify exact current-patch NG statistics, rune rewards and source-specific details per encounter.",
-        "Confirm nearest grace, entrance route, summon and critical eligibility."
+        "Confirm nearest grace, entrance route, summon and critical eligibility.",
+        "Published identity/reward review: Rune figure is a published report, not independently reproduced. Exact regulation and final guide admission remain pending."
       ]
     },
     {
@@ -1820,12 +1832,15 @@
       "conditions": "Summoned knight is not a separate completion.",
       "combat": "Summoned knight pursues while snail hides.",
       "strategy": "Avoid committing to the knight; locate the faint glow of the snail, attack it and repeat when it relocates.",
-      "rewards": "Glintstone Sorcerer Ashes.",
+      "rewards": "Glintstone Sorcerer Ashes; 3,000 runes (reported NG).",
       "preparation": "Level 30–45; fast weapon.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/guide/liurnia-of-the-lakes/bosses/",
         "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
-        "https://plarium.com/en/blog/elden-ring-boss-locations/"
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.dualshockers.com/elden-ring-roads-end-catacombs-walkthrough/",
+        "https://eldenring.redmaw.dev/sheets/walkthrough",
+        "https://eip.gg/elden-ring/guides/roads-end-catacombs-dungeon-walkthrough/"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -1836,7 +1851,8 @@
       },
       "unresolved": [
         "Verify exact current-patch NG statistics, rune rewards and source-specific details per encounter.",
-        "Confirm nearest grace, entrance route, summon and critical eligibility."
+        "Confirm nearest grace, entrance route, summon and critical eligibility.",
+        "Published identity/reward review: Watchdog's Staff and Raya Lucaria Soldier Ashes are separate dungeon loot, not boss drops. Exact regulation and final guide admission remain pending."
       ]
     },
     {
@@ -2876,12 +2892,15 @@
       "conditions": "Separate from the hidden assassin in the same cave.",
       "combat": "Flail attacks and summoned skeletal snails.",
       "strategy": "Remove troublesome summons when safe; close on Garris during casting recovery. Use quick hits to interrupt pressure rather than trading with his flail.",
-      "rewards": "Family Heads.",
+      "rewards": "Family Heads; 9,000 runes (reported NG).",
       "preparation": "Level 55–70.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/database/bosses/altus-plateau-bosses",
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
-        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+        "https://www.neoseeker.com/elden-ring/walkthrough/Southern_Altus_Plateau",
+        "https://eip.gg/elden-ring/guides/sages-cave-dungeon-walkthrough/",
+        "https://www.pushsquare.com/guides/elden-ring-how-to-complete-sages-cave"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -2892,7 +2911,8 @@
       },
       "unresolved": [
         "Confirm exact current-patch numerical combat statistics and reward values.",
-        "Verify grace, access route and combat eligibility against individual encounter sources."
+        "Verify grace, access route and combat eligibility against individual encounter sources.",
+        "Published identity/reward review: Two separate boss chambers; Garris uses death sorceries. Exact regulation and final guide admission remain pending."
       ]
     },
     {
@@ -2912,7 +2932,9 @@
         "https://eldenring.wiki.gg/wiki/Black_Knife_Assassin",
         "https://tarnished.app/enemies/black-knife-assassin",
         "https://eldenringpoisewiki.fun/",
-        "https://www.neoseeker.com/elden-ring/Bosses/Black_Knife_Assassins"
+        "https://www.neoseeker.com/elden-ring/Bosses/Black_Knife_Assassins",
+        "https://eip.gg/elden-ring/guides/sages-cave-dungeon-walkthrough/",
+        "https://www.pushsquare.com/guides/elden-ring-how-to-complete-sages-cave"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -2923,7 +2945,8 @@
       },
       "unresolved": [
         "Scoped published combat research remains separate from release qualification. Exact regulation, complete combat table and calibrated marker pending.",
-        "Independent numerical reproduction pending; research values not final."
+        "Independent numerical reproduction pending; research values not final.",
+        "Published identity/reward review: Garris and the assassin have separate published defeat flags. Exact regulation and final guide admission remain pending."
       ]
     },
     {
@@ -3259,7 +3282,9 @@
       "sources": [
         "https://www.gamerguides.com/elden-ring/database/bosses/altus-plateau-bosses",
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
-        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+        "https://eldenring.wiki.gg/wiki/Auriza_Hero%27s_Grave",
+        "https://eldenring.exputer.com/locations/auriza-hero-s-grave"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -3270,7 +3295,8 @@
       },
       "unresolved": [
         "Confirm exact current-patch numerical combat statistics and reward values.",
-        "Verify grace, access route and combat eligibility against individual encounter sources."
+        "Verify grace, access route and combat eligibility against individual encounter sources.",
+        "Published identity/reward review: One encounter for two knights; separate from Side Tomb. Exact regulation and final guide admission remain pending."
       ]
     },
     {
@@ -3280,12 +3306,15 @@
       "conditions": "Optional dungeon.",
       "combat": "Hammer chains and grab; small living jars accompany boss.",
       "strategy": "Clear or distract the jars before committing to the duelist. Dodge the final hammer strike and avoid standing in front of an attempted grab.",
-      "rewards": "Soldjars of Fortune Ashes.",
+      "rewards": "Soldjars of Fortune Ashes; 15,000 runes (reported NG).",
       "preparation": "Level 65–80.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/database/bosses/altus-plateau-bosses",
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
-        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+        "https://www.neoseeker.com/elden-ring/Bosses/Grave_Warden_Duelist",
+        "https://www.gameclubz.com/elden-ring-auriza-side-tomb-location-guide/",
+        "https://eip.gg/elden-ring/guides/auriza-side-tomb-dungeon-walkthrough/"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -3296,7 +3325,8 @@
       },
       "unresolved": [
         "Confirm exact current-patch numerical combat statistics and reward values.",
-        "Verify grace, access route and combat eligibility against individual encounter sources."
+        "Verify grace, access route and combat eligibility against individual encounter sources.",
+        "Published identity/reward review: Not the Ordovis duo; small living jars accompany the duelist. Exact regulation and final guide admission remain pending."
       ]
     },
     {
@@ -5367,12 +5397,15 @@
       "conditions": "Separate from Fog Rift Death Knight.",
       "combat": "Long axe strikes, lightning rush and life-draining grab.",
       "strategy": "Dodge across the lightning rush and avoid the grab rather than trading. Attack after the axe chain completes, and use fast spells during long recoveries.",
-      "rewards": "Death Knight's Longhaft Axe; Cerulean Amber Medallion +3.",
+      "rewards": "Death Knight's Longhaft Axe; Cerulean Amber Medallion +3; 130,000 runes (reported NG).",
       "preparation": "Level 140–165; lightning defense.",
       "sources": [
         "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
         "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
-        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/"
+        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/",
+        "https://www.neoseeker.com/elden-ring-shadow-of-the-erdtree/walkthrough/Scorpion_River_Catacombs",
+        "https://eip.gg/elden-ring/guides/death-knight-boss-guide/",
+        "https://eldenring.wiki.gg/wiki/Death_Knight"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -5383,7 +5416,8 @@
       },
       "unresolved": [
         "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
-        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+        "Verify nearest grace, precise route, summon and critical eligibility before publication.",
+        "Published identity/reward review: Some aggregator weapon/character pages reverse rewards; retain location-specific longhaft axe and Cerulean Amber Medallion +3. Exact regulation and final guide admission remain pending."
       ]
     },
     {

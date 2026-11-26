@@ -74,3 +74,6 @@ Eight scoped published combat research records added: three Cemetery Shades, thr
 
 ## Session 31
 Six scoped records and nine guide refinements. Evidence strength explicitly labeled; 51 older records remain unaudited for lineage, three older limited records labeled. Six new records are matching-publications or limited-corroboration; no claim of independent reproduction. Nineteen published defeat flag identity witnesses recorded, no runtime flag integration. No new IDs or geography.
+
+## Session 32
+48 additional location-specific published defeat-flag witnesses, 67 total; ten source-section guide refinements. No census admission, no new IDs, no geography or numerical research additions. See docs/SESSION32_GUIDE_AUDIT.md.
