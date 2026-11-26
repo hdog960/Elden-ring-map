@@ -2601,9 +2601,29 @@
       "status": "candidate-identity-match"
     },
     {
+      "sourceRow": 8,
+      "id": "er:b-rot-dragonkin",
+      "status": "candidate-identity-match",
+      "review": {
+        "source": "https://www.soulsmodding.com/doku.php?id=er-refmat:map-name-list",
+        "locator": "m12_01_00_00",
+        "note": "Ainsel / Lake of Rot map and distinct Dragonkin Soldier name"
+      }
+    },
+    {
       "sourceRow": 10,
       "id": "er:b-valiant-gargoyles",
       "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 11,
+      "id": "er:b-siofra-dragonkin",
+      "status": "candidate-identity-match",
+      "review": {
+        "source": "https://www.soulsmodding.com/doku.php?id=er-refmat:map-name-list",
+        "locator": "m12_02_00_00",
+        "note": "Siofra map distinct from Lake of Rot"
+      }
     },
     {
       "sourceRow": 12,
@@ -2753,12 +2773,22 @@
     {
       "sourceRow": 41,
       "id": "er:b-impaler-watchdog",
-      "status": "candidate-identity-match"
+      "status": "candidate-identity-match",
+      "review": {
+        "source": "https://www.soulsmodding.com/doku.php?id=er-refmat:map-name-list",
+        "locator": "m30_01_00_00",
+        "note": "Independent map identity: Impaler's Catacombs; not position verification."
+      }
     },
     {
       "sourceRow": 42,
       "id": "er:b-stormfoot-watchdog",
-      "status": "candidate-identity-match"
+      "status": "candidate-identity-match",
+      "review": {
+        "source": "https://www.soulsmodding.com/doku.php?id=er-refmat:map-name-list",
+        "locator": "m30_02_00_00",
+        "note": "Independent map identity: Stormfoot Catacombs; not position verification."
+      }
     },
     {
       "sourceRow": 43,
@@ -3021,29 +3051,74 @@
       "status": "candidate-identity-match"
     },
     {
+      "sourceRow": 99,
+      "id": "er:d-fogrifts-deathknight",
+      "status": "candidate-identity-match",
+      "review": {
+        "source": "https://www.soulsmodding.com/doku.php?id=er-refmat:map-name-list",
+        "locator": "m40_00_00_00",
+        "note": "Independent map identity: Fog Rift Catacombs; not position verification."
+      }
+    },
+    {
+      "sourceRow": 100,
+      "id": "er:d-scorpion-deathknight",
+      "status": "candidate-identity-match",
+      "review": {
+        "source": "https://www.soulsmodding.com/doku.php?id=er-refmat:map-name-list",
+        "locator": "m40_01_00_00",
+        "note": "Independent map identity: Scorpion River Catacombs; not position verification."
+      }
+    },
+    {
       "sourceRow": 101,
       "id": "er:d-onze",
-      "status": "candidate-identity-match"
+      "status": "candidate-identity-match",
+      "review": {
+        "source": "https://www.soulsmodding.com/doku.php?id=er-refmat:map-name-list",
+        "locator": "m41_00_00_00",
+        "note": "Independent map identity: Belurat Gaol; not position verification."
+      }
     },
     {
       "sourceRow": 102,
       "id": "er:d-labirith",
-      "status": "candidate-identity-match"
+      "status": "candidate-identity-match",
+      "review": {
+        "source": "https://www.soulsmodding.com/doku.php?id=er-refmat:map-name-list",
+        "locator": "m41_01_00_00",
+        "note": "Independent map identity: Bonny Gaol; not position verification."
+      }
     },
     {
       "sourceRow": 103,
       "id": "er:d-lamenter",
-      "status": "candidate-identity-match"
+      "status": "candidate-identity-match",
+      "review": {
+        "source": "https://www.soulsmodding.com/doku.php?id=er-refmat:map-name-list",
+        "locator": "m41_02_00_00",
+        "note": "Independent map identity: Lamenter's Gaol; not position verification."
+      }
     },
     {
       "sourceRow": 104,
       "id": "er:d-chief-bloodfiend",
-      "status": "candidate-identity-match"
+      "status": "candidate-identity-match",
+      "review": {
+        "source": "https://www.soulsmodding.com/doku.php?id=er-refmat:map-name-list",
+        "locator": "m43_00_00_00",
+        "note": "Independent map identity: Rivermouth Cave; not position verification."
+      }
     },
     {
       "sourceRow": 105,
       "id": "er:d-dragon-man",
-      "status": "candidate-identity-match"
+      "status": "candidate-identity-match",
+      "review": {
+        "source": "https://www.soulsmodding.com/doku.php?id=er-refmat:map-name-list",
+        "locator": "m43_01_00_00",
+        "note": "Independent map identity: Dragon's Pit; not position verification."
+      }
     },
     {
       "sourceRow": 106,
@@ -3191,6 +3266,16 @@
       "status": "candidate-identity-match"
     },
     {
+      "sourceRow": 137,
+      "id": "er:b-lansseax",
+      "status": "candidate-identity-match",
+      "review": {
+        "source": "https://www.soulsmodding.com/doku.php?id=er-refmat:map-name-list",
+        "locator": "m60_41_52_00",
+        "note": "Rampartside Path tile, final encounter not earlier retreat"
+      }
+    },
+    {
       "sourceRow": 138,
       "id": "er:b-wormface",
       "status": "candidate-identity-match"
@@ -3244,6 +3329,16 @@
       "sourceRow": 148,
       "id": "er:b-agheel-cavalry",
       "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 150,
+      "id": "er:b-capital-hunter",
+      "status": "candidate-identity-match",
+      "review": {
+        "source": "https://www.soulsmodding.com/doku.php?id=er-refmat:map-name-list",
+        "locator": "m60_43_53_00",
+        "note": "Hermit Merchant's Shack tile; repeated defeat flag retained as separate source record"
+      }
     },
     {
       "sourceRow": 152,
@@ -3301,6 +3396,16 @@
       "status": "candidate-identity-match"
     },
     {
+      "sourceRow": 163,
+      "id": "er:b-snowfield-deathrite",
+      "status": "candidate-identity-match",
+      "review": {
+        "source": "https://eldenring.wiki.gg/wiki/Death_Rite_Bird",
+        "locator": "m60_48_57_00",
+        "note": "Snowfield tile and 220000 rune reward"
+      }
+    },
+    {
       "sourceRow": 164,
       "id": "er:b-caelid-cavalry",
       "status": "candidate-identity-match"
@@ -3334,6 +3439,16 @@
       "sourceRow": 170,
       "id": "er:b-theodorix",
       "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 171,
+      "id": "er:b-mountaintops-deathrite",
+      "status": "candidate-identity-match",
+      "review": {
+        "source": "https://eldenring.wiki.gg/wiki/Death_Rite_Bird",
+        "locator": "m60_50_57_00",
+        "note": "Castle Sol approach region and distinct 77000 rune reward"
+      }
     },
     {
       "sourceRow": 172,
@@ -3411,6 +3526,16 @@
       "status": "candidate-identity-match"
     },
     {
+      "sourceRow": 187,
+      "id": "er:d-plain-ghostflame",
+      "status": "candidate-identity-match",
+      "review": {
+        "source": "https://eldenring.wiki.gg/wiki/Gravesite_Plain",
+        "locator": "m61_45_44_00",
+        "note": "Dragon lake near Belurat Gaol on Gravesite Plain"
+      }
+    },
+    {
       "sourceRow": 188,
       "id": "er:d-ranah",
       "status": "candidate-identity-match"
@@ -3444,6 +3569,16 @@
       "sourceRow": 194,
       "id": "er:d-garrew",
       "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 195,
+      "id": "er:d-coast-ghostflame",
+      "status": "candidate-identity-match",
+      "review": {
+        "source": "https://www.soulsmodding.com/doku.php?id=er-refmat:map-name-list",
+        "locator": "m61_48_39_00",
+        "note": "Cerulean Coast tile; map reference separates it from other dragons"
+      }
     },
     {
       "sourceRow": 196,
@@ -3513,21 +3648,11 @@
   ],
   "heldSourceRows": [
     2,
-    8,
     9,
-    11,
     63,
-    99,
-    100,
     122,
-    137,
     149,
-    150,
     151,
-    163,
-    171,
-    187,
-    195,
     202,
     203,
     204

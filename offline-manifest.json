@@ -1,18 +1,18 @@
 {
-  "version": "session14-20261125-a",
+  "version": "session15-20261125-a",
   "releaseReady": false,
   "assets": [
     {
       "path": "assets/atlas-shadow.svg",
-      "gitBlob": "24d03ed2745ed27406ec370db8c9cb983b8d050c"
+      "gitBlob": "f43b85daf861c09b050ca121d6706975943a9c88"
     },
     {
       "path": "assets/atlas-surface.svg",
-      "gitBlob": "341b0ced83d263fb6be9e7841469afca8fcb38db"
+      "gitBlob": "8137f05b28ee8ccbf6203269aa59187af074e1ca"
     },
     {
       "path": "assets/atlas-underground.svg",
-      "gitBlob": "7a54098f4dbb2b7f6cc370e275ca8a0ceca96da2"
+      "gitBlob": "7f7047bce8bc51260581adf428578b953e2a8da0"
     },
     {
       "path": "assets/icon.svg",
@@ -56,7 +56,7 @@
     },
     {
       "path": "data/geography/compass-research.json",
-      "gitBlob": "de06a0fa2c1c5875491c4b359ec55d16fc811e3a"
+      "gitBlob": "d581126b0bdcd1faad4fa2780fbbf255053bdb74"
     },
     {
       "path": "data/geography/ledger.json",
@@ -76,7 +76,7 @@
     },
     {
       "path": "src/app.js",
-      "gitBlob": "145fa044dbde6409245a2fcaae377300c01d05f5"
+      "gitBlob": "7be5f6869d771d518860aa5cb3674966c5368c3f"
     },
     {
       "path": "src/atlas-preview.js",
@@ -148,7 +148,7 @@
     },
     {
       "path": "src/style.css",
-      "gitBlob": "ee85fa4ac98993846e6c8142145c9b7a799a4e45"
+      "gitBlob": "0423b94d5d7a4d0ea5b064cf26c404b681ab926a"
     },
     {
       "path": "src/survey.js",

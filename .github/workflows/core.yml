@@ -31,3 +31,9 @@ jobs:
       - run: npm install --no-save --package-lock=false playwright@1.56.1
       - run: npx playwright install --with-deps webkit
       - run: node scripts/browser-smoke.mjs
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: boss-hunter-atlas-webkit
+          path: artifacts/atlas/*.png
+          if-no-files-found: warn
