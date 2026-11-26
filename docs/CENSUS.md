@@ -98,3 +98,6 @@ Six scoped records and nine guide refinements. Evidence strength explicitly labe
 
 ## Session 39
 26 remaining primary and 42 extended census classifications recorded (249 cumulative, 207 primary and 42 extended). All 16 historical flag/geography/completion-semantics holds preserved independently of classification. 42 extended remain unadjudicated, source inventories unresolved, no publication or map admission.
+
+## Session 40
+All 42 remaining extended stable IDs classified (291/291 current registry). Archived checklist reconciled 210/210 rows, 208 distinct IDs. Eight golems and four lesser hippos distinguished; two river hippo and three White Mask individual mappings held separately. Three source inventories unresolved; no final completeness, production admission, or guide/geography promotion.
