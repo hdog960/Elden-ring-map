@@ -1151,6 +1151,734 @@
         "Exact NG numerical combat data and rune reward require independent patch-specific verification.",
         "Confirm grace, entrance, summon and critical eligibility before publication."
       ]
+    },
+    {
+      "id": "er:b-adan",
+      "grace": "Malefactor's Evergaol",
+      "directions": "Follow the southwestern Liurnia plateau to the evergaol and activate its center.",
+      "conditions": "Optional evergaol; no ordinary Spirit Ashes.",
+      "combat": "Flail chains and delayed flame orb explosion.",
+      "strategy": "Keep the orb visible and leave its blast area. Bait a flail swing and punish its recovery with quick strikes or casts.",
+      "rewards": "Flame of the Fell God.",
+      "preparation": "Level 35–50; fire defense.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/guide/liurnia-of-the-lakes/bosses/",
+        "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch NG statistics, rune rewards and source-specific details per encounter.",
+        "Confirm nearest grace, entrance route, summon and critical eligibility."
+      ]
+    },
+    {
+      "id": "er:b-alecto",
+      "grace": "Ringleader's Evergaol",
+      "directions": "Reach Moonlight Altar through Ranni's quest and head northwest to the circle.",
+      "conditions": "Requires Moonlight Altar access; no ordinary Spirit Ashes.",
+      "combat": "Fast knife chains, grabs and red-black aerial attack.",
+      "strategy": "Sprint away from the charged leap; punish ordinary leaps when she lands. Use frost or a stagger-capable weapon.",
+      "rewards": "Black Knife Tiche Spirit Ashes.",
+      "preparation": "Level 75–100; upgraded weapon and vigor.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/guide/liurnia-of-the-lakes/bosses/",
+        "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch NG statistics, rune rewards and source-specific details per encounter.",
+        "Confirm nearest grace, entrance route, summon and critical eligibility."
+      ]
+    },
+    {
+      "id": "er:b-vows-hunter",
+      "grace": "Church of Vows",
+      "directions": "Rest until night, then leave and return when Miriel is absent.",
+      "conditions": "Night only; independent hunter.",
+      "combat": "Telekinetic sword sweeps, shield slam and grab.",
+      "strategy": "Avoid lingering at medium range. Dodge toward the flank after the swing and attack once; heal after the committed slam.",
+      "rewards": "Meat Peddler's Bell Bearing.",
+      "preparation": "Level 45–60; physical defense.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/guide/liurnia-of-the-lakes/bosses/",
+        "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch NG statistics, rune rewards and source-specific details per encounter.",
+        "Confirm nearest grace, entrance route, summon and critical eligibility."
+      ]
+    },
+    {
+      "id": "er:b-blackknife-assassin",
+      "grace": "Black Knife Catacombs",
+      "directions": "Ride the rising blade to the upper corridor and find the illusory wall leading to the hidden fog.",
+      "conditions": "Separate from the main Cemetery Shade encounter.",
+      "combat": "Quick knife chains, evasive steps and grab.",
+      "strategy": "Do not chase every retreat. Punish a completed lunge or stagger with fast heavy attacks.",
+      "rewards": "Assassin's Cerulean Dagger; Black Knifeprint.",
+      "preparation": "Level 35–50; quick weapon.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/guide/liurnia-of-the-lakes/bosses/",
+        "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch NG statistics, rune rewards and source-specific details per encounter.",
+        "Confirm nearest grace, entrance route, summon and critical eligibility."
+      ]
+    },
+    {
+      "id": "er:b-blackknife-shade",
+      "grace": "Black Knife Catacombs",
+      "directions": "Operate the main boss-door lever and return to the lower fog.",
+      "conditions": "Main dungeon boss; skeletons accompany it.",
+      "combat": "Teleporting blades and binding projectile.",
+      "strategy": "Clear or distract the skeletons, dodge the binding shot, and burst down the fragile shade during its recovery.",
+      "rewards": "Twinsage Sorcerer Ashes.",
+      "preparation": "Level 35–45; bleed protection.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/guide/liurnia-of-the-lakes/bosses/",
+        "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch NG statistics, rune rewards and source-specific details per encounter.",
+        "Confirm nearest grace, entrance route, summon and critical eligibility."
+      ]
+    },
+    {
+      "id": "er:b-lakeside-bloodhound",
+      "grace": "Lakeside Crystal Cave",
+      "directions": "Enter the cave on the southern lake cliffs and descend past crystal ledges.",
+      "conditions": "Optional; exit leads toward Latenna.",
+      "combat": "Sudden sword chains and claw lunges.",
+      "strategy": "Wait for the final swing rather than attacking while it vanishes. Keep casts and counters short.",
+      "rewards": "Cerulean Amber Medallion.",
+      "preparation": "Level 35–50.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/guide/liurnia-of-the-lakes/bosses/",
+        "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch NG statistics, rune rewards and source-specific details per encounter.",
+        "Confirm nearest grace, entrance route, summon and critical eligibility."
+      ]
+    },
+    {
+      "id": "er:b-bols",
+      "grace": "Cuckoo's Evergaol",
+      "directions": "Reach the circle north of the western Minor Erdtree.",
+      "conditions": "Optional evergaol.",
+      "combat": "Giant sword slams and conjured greatblades.",
+      "strategy": "Move laterally as the blades release; close during the sword slam's recovery and strike its legs.",
+      "rewards": "Greatblade Phalanx.",
+      "preparation": "Level 35–50; physical and magic defense.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/guide/liurnia-of-the-lakes/bosses/",
+        "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch NG statistics, rune rewards and source-specific details per encounter.",
+        "Confirm nearest grace, entrance route, summon and critical eligibility."
+      ]
+    },
+    {
+      "id": "er:b-stillwater-cleanrot",
+      "grace": "Stillwater Cave",
+      "directions": "Enter the southern cliff cave and descend to the poison-filled chamber.",
+      "conditions": "Optional dungeon; poison in arena.",
+      "combat": "Sword and spear chains, thrust grab, sacred ground attacks.",
+      "strategy": "Lure the knight onto dry ground; circle after committed thrusts and avoid the golden spear eruption.",
+      "rewards": "Winged Sword Insignia.",
+      "preparation": "Level 30–45; poison cures.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/guide/liurnia-of-the-lakes/bosses/",
+        "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch NG statistics, rune rewards and source-specific details per encounter.",
+        "Confirm nearest grace, entrance route, summon and critical eligibility."
+      ]
+    },
+    {
+      "id": "er:b-academy-crystalians",
+      "grace": "Academy Crystal Cave",
+      "directions": "Enter the western academy cliffside cave using Stonesword Keys.",
+      "conditions": "Simultaneous spear and staff encounter.",
+      "combat": "Leaping thrusts and ranged crystal sorcery.",
+      "strategy": "Use pillars to block the caster. Separate the spear user, break its crystalline guard with stance damage, then target the caster.",
+      "rewards": "Crystal Release.",
+      "preparation": "Level 40–55; hammer or stance-breaking magic.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/guide/liurnia-of-the-lakes/bosses/",
+        "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch NG statistics, rune rewards and source-specific details per encounter.",
+        "Confirm nearest grace, entrance route, summon and critical eligibility."
+      ]
+    },
+    {
+      "id": "er:b-raya-crystalian",
+      "grace": "Raya Lucaria Crystal Tunnel",
+      "directions": "Enter the northeastern lake mine and descend to its final chamber.",
+      "conditions": "Optional single ringblade fight.",
+      "combat": "Spinning sweeps and thrown rings.",
+      "strategy": "Focus on stance damage until the shell breaks; dodge the returning rings and exploit the weakened shell.",
+      "rewards": "Smithing-Stone Miner's Bell Bearing [1].",
+      "preparation": "Level 30–45; strike weapon.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/guide/liurnia-of-the-lakes/bosses/",
+        "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch NG statistics, rune rewards and source-specific details per encounter.",
+        "Confirm nearest grace, entrance route, summon and critical eligibility."
+      ]
+    },
+    {
+      "id": "er:b-liurnia-deathbird",
+      "grace": "Scenic Isle",
+      "directions": "Return at night to the rocky vicinity of the grace.",
+      "conditions": "Night only; distinct from Death Rite Bird.",
+      "combat": "Cane attacks, pecks and leaping slashes.",
+      "strategy": "Avoid nearby lake enemies, use holy damage, and strike the head after a committed peck.",
+      "rewards": "Red-Feathered Branchsword.",
+      "preparation": "Level 35–50; holy damage.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/guide/liurnia-of-the-lakes/bosses/",
+        "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch NG statistics, rune rewards and source-specific details per encounter.",
+        "Confirm nearest grace, entrance route, summon and critical eligibility."
+      ]
+    },
+    {
+      "id": "er:b-liurnia-deathrite",
+      "grace": "Gate Town North",
+      "directions": "Return at night to the ruined lake area near the grace.",
+      "conditions": "Night only.",
+      "combat": "Ghostflame hazards, long sweeps and aerial attacks.",
+      "strategy": "Leave burning trails immediately; strike the head after a leap and keep stamina for follow-up dodges.",
+      "rewards": "Ancient Death Rancor.",
+      "preparation": "Level 45–65; holy damage and frost protection.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/guide/liurnia-of-the-lakes/bosses/",
+        "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch NG statistics, rune rewards and source-specific details per encounter.",
+        "Confirm nearest grace, entrance route, summon and critical eligibility."
+      ]
+    },
+    {
+      "id": "er:b-east-liurnia-avatar",
+      "grace": "Ruined Labyrinth",
+      "directions": "Head toward the northeastern Minor Erdtree above the lake cliffs.",
+      "conditions": "Optional field encounter.",
+      "combat": "Staff slams and golden projectiles.",
+      "strategy": "Move laterally through the volley and punish the final slam. Fire damage is useful; avoid the cliff edges.",
+      "rewards": "Holy-, Lightning- and Magic-Shrouding Cracked Tears.",
+      "preparation": "Level 35–50.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/guide/liurnia-of-the-lakes/bosses/",
+        "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch NG statistics, rune rewards and source-specific details per encounter.",
+        "Confirm nearest grace, entrance route, summon and critical eligibility."
+      ]
+    },
+    {
+      "id": "er:b-west-liurnia-avatar",
+      "grace": "Revenger's Shack",
+      "directions": "Follow the western plateau to the Minor Erdtree south of the shack.",
+      "conditions": "Independent from northeastern Avatar.",
+      "combat": "Staff swings, slams and light projectiles.",
+      "strategy": "Circle around scattered pots, sprint sideways from projectiles, and attack during staff recovery.",
+      "rewards": "Cerulean Crystal Tear; Ruptured Crystal Tear.",
+      "preparation": "Level 35–50; fire damage.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/guide/liurnia-of-the-lakes/bosses/",
+        "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch NG statistics, rune rewards and source-specific details per encounter.",
+        "Confirm nearest grace, entrance route, summon and critical eligibility."
+      ]
+    },
+    {
+      "id": "er:b-cliffbottom-watchdog",
+      "grace": "Cliffbottom Catacombs",
+      "directions": "Enter the southeastern cliff catacombs, operate the lever and return to the boss door.",
+      "conditions": "Optional dungeon.",
+      "combat": "Staff magic, floating slams and stiff sweeps.",
+      "strategy": "Watch vertical movement, leave the impact zone and counter after landing; avoid attacking as it rises.",
+      "rewards": "Kaiden Sellsword Ashes.",
+      "preparation": "Level 35–50; magic defense.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/guide/liurnia-of-the-lakes/bosses/",
+        "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch NG statistics, rune rewards and source-specific details per encounter.",
+        "Confirm nearest grace, entrance route, summon and critical eligibility."
+      ]
+    },
+    {
+      "id": "er:b-adula",
+      "grace": "Cathedral of Manus Celes",
+      "directions": "After reaching Moonlight Altar, approach the cathedral.",
+      "conditions": "First appearance at Three Sisters retreats; final defeat tracked here.",
+      "combat": "Magic breath and sweeping frost blade.",
+      "strategy": "Leave the blade's arc and reposition sideways with Torrent during breath attacks. Punish grounded recovery at the head.",
+      "rewards": "Adula's Moonblade; Dragon Hearts.",
+      "preparation": "Level 75–100; magic and frost defense.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/guide/liurnia-of-the-lakes/bosses/",
+        "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch NG statistics, rune rewards and source-specific details per encounter.",
+        "Confirm nearest grace, entrance route, summon and critical eligibility."
+      ]
+    },
+    {
+      "id": "er:b-smarag",
+      "grace": "Temple Quarter",
+      "directions": "Ride north to the rocky outcrop where Smarag guards the Academy Glintstone Key.",
+      "conditions": "Optional; key can be collected without defeating it.",
+      "combat": "Magic breath, stomps and aerial dives.",
+      "strategy": "Evade breath paths sideways on Torrent; use head openings or short leg hits, and retreat from raised feet.",
+      "rewards": "Dragon Heart; unlocks Smarag's Glintstone Breath.",
+      "preparation": "Level 35–55; magic defense.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/guide/liurnia-of-the-lakes/bosses/",
+        "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch NG statistics, rune rewards and source-specific details per encounter.",
+        "Confirm nearest grace, entrance route, summon and critical eligibility."
+      ]
+    },
+    {
+      "id": "er:b-gatetown-cavalry",
+      "grace": "Gate Town Bridge",
+      "directions": "Return to the bridge road at night.",
+      "conditions": "Night only.",
+      "combat": "Mounted charges, sweeps and dismounted attacks.",
+      "strategy": "Bait a pass and punish the exposed side as it turns; avoid the broken road edge.",
+      "rewards": "Ash of War: Ice Spear.",
+      "preparation": "Level 35–50.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/guide/liurnia-of-the-lakes/bosses/",
+        "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch NG statistics, rune rewards and source-specific details per encounter.",
+        "Confirm nearest grace, entrance route, summon and critical eligibility."
+      ]
+    },
+    {
+      "id": "er:b-bellum-cavalry",
+      "grace": "Bellum Church",
+      "directions": "Ride the northern highway at night toward the lift approach.",
+      "conditions": "Night only; separate from Gate Town Bridge.",
+      "combat": "Mounted weapon swings and charges.",
+      "strategy": "Let the rider finish a charge before attacking its flank. Keep the horse visible and do not overcommit during turns.",
+      "rewards": "Ash of War: Giant Hunt; Nightrider Glaive.",
+      "preparation": "Level 40–55.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/guide/liurnia-of-the-lakes/bosses/",
+        "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch NG statistics, rune rewards and source-specific details per encounter.",
+        "Confirm nearest grace, entrance route, summon and critical eligibility."
+      ]
+    },
+    {
+      "id": "er:b-albinauric-omenkiller",
+      "grace": "Village of the Albinaurics",
+      "directions": "Cross the village bridge and approach the firelit upper area.",
+      "conditions": "Optional; dogs accompany boss.",
+      "combat": "Paired cleaver swings, fire breath and leaps.",
+      "strategy": "Clear or distract the dogs, dodge toward the side of the cleaver chains and punish after breath.",
+      "rewards": "Crucible Knot Talisman.",
+      "preparation": "Level 35–50; fire protection.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/guide/liurnia-of-the-lakes/bosses/",
+        "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch NG statistics, rune rewards and source-specific details per encounter.",
+        "Confirm nearest grace, entrance route, summon and critical eligibility."
+      ]
+    },
+    {
+      "id": "er:b-royalgrave-onyx",
+      "grace": "Behind Caria Manor",
+      "directions": "Reach the plateau beyond the manor and enter Royal Grave Evergaol.",
+      "conditions": "Optional; historical Alabaster Lord alias refers to same fight.",
+      "combat": "Gravity projectiles, sword swings and meteors.",
+      "strategy": "Leave gravity hazards, close after recovery and avoid casting while meteors descend.",
+      "rewards": "Meteorite sorcery.",
+      "preparation": "Level 40–55; magic defense.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/guide/liurnia-of-the-lakes/bosses/",
+        "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch NG statistics, rune rewards and source-specific details per encounter.",
+        "Confirm nearest grace, entrance route, summon and critical eligibility."
+      ]
+    },
+    {
+      "id": "er:b-kingsrealm-revenant",
+      "grace": "Road to the Manor",
+      "directions": "Find the illusory floor covering the cellar in Kingsrealm Ruins.",
+      "conditions": "Optional hidden cellar.",
+      "combat": "Rapid multi-limb attacks, poison and teleports.",
+      "strategy": "A healing incantation near it can inflict heavy damage and stagger. Otherwise dodge toward the flank after its rush.",
+      "rewards": "Runes; Frozen Needle is separate chest loot beyond boss.",
+      "preparation": "Level 35–50; healing incantation or poison cures.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/guide/liurnia-of-the-lakes/bosses/",
+        "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch NG statistics, rune rewards and source-specific details per encounter.",
+        "Confirm nearest grace, entrance route, summon and critical eligibility."
+      ]
+    },
+    {
+      "id": "er:b-roadsend-snail",
+      "grace": "Road's End Catacombs",
+      "directions": "Explore the concealed corridors of the western cliff dungeon to reach its chamber.",
+      "conditions": "Summoned knight is not a separate completion.",
+      "combat": "Summoned knight pursues while snail hides.",
+      "strategy": "Avoid committing to the knight; locate the faint glow of the snail, attack it and repeat when it relocates.",
+      "rewards": "Glintstone Sorcerer Ashes.",
+      "preparation": "Level 30–45; fast weapon.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/guide/liurnia-of-the-lakes/bosses/",
+        "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch NG statistics, rune rewards and source-specific details per encounter.",
+        "Confirm nearest grace, entrance route, summon and critical eligibility."
+      ]
+    },
+    {
+      "id": "er:b-liurnia-mariner",
+      "grace": "Artist's Shack",
+      "directions": "Travel down toward the flooded ruins southeast of the shack.",
+      "conditions": "Optional field encounter.",
+      "combat": "Boat slams, skeleton summons and teleportation.",
+      "strategy": "Prioritize the mariner over skeletons; circle hazards and punish when the boat settles.",
+      "rewards": "Deathroot; Skeletal Bandit Ashes.",
+      "preparation": "Level 30–45; Torrent useful.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/guide/liurnia-of-the-lakes/bosses/",
+        "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch NG statistics, rune rewards and source-specific details per encounter.",
+        "Confirm nearest grace, entrance route, summon and critical eligibility."
+      ]
+    },
+    {
+      "id": "er:b-caria-loretta",
+      "grace": "Manor Upper Level",
+      "directions": "Climb the manor route to the royal arena.",
+      "conditions": "Normal route to Three Sisters.",
+      "combat": "Mounted polearm, magical swords and greatbow.",
+      "strategy": "Dodge conjured arrows on release and punish the polearm leap; disengage before the next magic volley.",
+      "rewards": "Loretta's Greatbow; Ash of War: Loretta's Slash.",
+      "preparation": "Level 45–60; magic defense.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/guide/liurnia-of-the-lakes/bosses/",
+        "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch NG statistics, rune rewards and source-specific details per encounter.",
+        "Confirm nearest grace, entrance route, summon and critical eligibility."
+      ]
+    },
+    {
+      "id": "er:b-raya-wolf",
+      "grace": "Schoolhouse Classroom",
+      "directions": "Follow academy school rooms and stairs to the Debate Parlor fog.",
+      "conditions": "Legacy dungeon encounter.",
+      "combat": "Fast leaps, magic sword and delayed projectiles.",
+      "strategy": "Watch floating projectiles while tracking the wolf; counter after a committed leap with quick attacks.",
+      "rewards": "Memory Stone.",
+      "preparation": "Level 35–50; magic defense.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/guide/liurnia-of-the-lakes/bosses/",
+        "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch NG statistics, rune rewards and source-specific details per encounter.",
+        "Confirm nearest grace, entrance route, summon and critical eligibility."
+      ]
+    },
+    {
+      "id": "er:b-rennala",
+      "grace": "Debate Parlor",
+      "directions": "Cross the academy courtyard and lift toward the Grand Library.",
+      "conditions": "Shardbearer; two phases counted once.",
+      "combat": "Shield-bearing students, then sorcery beams, moon and summons.",
+      "strategy": "Hit singing glowing students until shield falls, then burst damage. In phase two close diagonally and punish spell recovery; evade summons until gone.",
+      "rewards": "Great Rune of the Unborn; Remembrance of the Full Moon Queen.",
+      "preparation": "Level 40–60; physical damage and magic defense.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/guide/liurnia-of-the-lakes/bosses/",
+        "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch NG statistics, rune rewards and source-specific details per encounter.",
+        "Confirm nearest grace, entrance route, summon and critical eligibility."
+      ]
+    },
+    {
+      "id": "er:b-makar",
+      "grace": "Ruin-Strewn Precipice Overlook",
+      "directions": "Climb the northern ravine mining route to the final overlook fog.",
+      "conditions": "Optional route into Altus.",
+      "combat": "Magma trails, sword slams and charge.",
+      "strategy": "Do not follow the magma charge. Wait beside its path and punish the head or legs after the slam.",
+      "rewards": "Magma Wyrm's Scalesword; Dragon Heart.",
+      "preparation": "Level 45–60; fire defense.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/guide/liurnia-of-the-lakes/bosses/",
+        "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch NG statistics, rune rewards and source-specific details per encounter.",
+        "Confirm nearest grace, entrance route, summon and critical eligibility."
+      ]
     }
   ]
 }

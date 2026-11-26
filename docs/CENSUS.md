@@ -9,3 +9,6 @@ Added five Manor contracts and Ghiza as extended candidates, preserving all 240 
 
 ## Session 5
 All 246 intake IDs unchanged. Added 31 original guide drafts (46 total). Identity, location and reward names cross-referenced against regional walkthrough/checklist sources; tactics authored independently from known mechanics, not copied. Numerical combat tables remain unspecified, rune values omitted from this batch pending direct patch-specific checks. All remain drafts, no completeness claim.
+
+## Session 6
+Added 28 Liurnia guide drafts; 74 total. Regional source comparison: Gamer Guides regional boss list, PowerPyx boss guide and Plarium regional guide. Tactics independently authored, but individual sources, directions, reward names and current patch statistics still need row-level checking. All IDs unchanged. No final census claim.

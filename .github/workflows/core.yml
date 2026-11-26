@@ -7,6 +7,8 @@ on:
       - 'test/**'
       - 'scripts/**'
       - 'package.json'
+      - 'sw.js'
+      - 'offline-manifest.json'
       - '.github/workflows/core.yml'
 jobs:
   native:
@@ -17,9 +19,10 @@ jobs:
         with:
           node-version: '22'
       - run: npm test
+      - run: node scripts/check-offline.mjs
       - run: node --check src/app.js && node --check src/storage.js
   webkit-smoke:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4

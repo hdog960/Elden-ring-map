@@ -1,0 +1,98 @@
+{
+  "version": "session6-20261125-a",
+  "releaseReady": false,
+  "assets": [
+    {
+      "path": "assets/icon.svg",
+      "gitBlob": "36d2145e28f6425f8e284d1be0bbc151e9f4d3db"
+    },
+    {
+      "path": "data/catalog.json",
+      "gitBlob": "3e6ac0f52787c304f686feb54dddb5e3d2ecd1d2"
+    },
+    {
+      "path": "data/census/crosswalk-steam.json",
+      "gitBlob": "89797513392890d0a7e6394467ee0f67a2d35aab"
+    },
+    {
+      "path": "data/census/intake.json",
+      "gitBlob": "244bf19bfb9857cda5734f8c75f0933090bea3d2"
+    },
+    {
+      "path": "data/census/stable-ids.json",
+      "gitBlob": "47916c2fef8bdd68dd9285e7fe0c38f2ca3b27c9"
+    },
+    {
+      "path": "data/encyclopedia/drafts.json",
+      "gitBlob": "7ea27855092198a19f271eb543b904c8517ce882"
+    },
+    {
+      "path": "data/geography/ledger.json",
+      "gitBlob": "f42a9d1c132114bea6091065e6756e59c4154f98"
+    },
+    {
+      "path": "index.html",
+      "gitBlob": "16cdc3f9b2cb5af960ca9a67ca2a0f264825f84b"
+    },
+    {
+      "path": "manifest.webmanifest",
+      "gitBlob": "fb1fbab5aa9a1d98684e520c06f7fcb1ba42a23a"
+    },
+    {
+      "path": "src/app.js",
+      "gitBlob": "3470e1d4e386215a096fe2cf452d43ddec0e8da5"
+    },
+    {
+      "path": "src/calibration.js",
+      "gitBlob": "0d8d89e712f41db662f64e18fd4d162be4f5e2a9"
+    },
+    {
+      "path": "src/catalog.js",
+      "gitBlob": "c3647bda382f291c30c99e34ca27531e28ee183e"
+    },
+    {
+      "path": "src/census.js",
+      "gitBlob": "1e9087b23f1f6ebab9629eb4a12570cfe020db12"
+    },
+    {
+      "path": "src/encyclopedia.js",
+      "gitBlob": "5d913db5484e3ffc4eb729150209bdcffb3298e2"
+    },
+    {
+      "path": "src/map-admission.js",
+      "gitBlob": "db174b6862df19c785206e013832c925278b78ec"
+    },
+    {
+      "path": "src/map-camera.js",
+      "gitBlob": "5a83fd7a2287ced2b81ef93aca8df64f06120f2f"
+    },
+    {
+      "path": "src/map-gestures.js",
+      "gitBlob": "cc28e0f0e20c6b5a750928a65a06d939715f0c57"
+    },
+    {
+      "path": "src/map-view.js",
+      "gitBlob": "038c2aa0936969eb9586a731a459c2c2fd9cc283"
+    },
+    {
+      "path": "src/offline-client.js",
+      "gitBlob": "10c36e17fddc87f516cf735b6fb5f6c43e157984"
+    },
+    {
+      "path": "src/progress-settings.js",
+      "gitBlob": "addd1b267905443b1c67776d42e47b8ef59f4a73"
+    },
+    {
+      "path": "src/save-model.js",
+      "gitBlob": "bf49e8fc76462cac25f41321174ad662e33072d7"
+    },
+    {
+      "path": "src/storage.js",
+      "gitBlob": "a888bad489cbc80e3367d4bcf79fcabfca3a6f2e"
+    },
+    {
+      "path": "src/style.css",
+      "gitBlob": "1e0c0b8496f3c06a7b8a5cfbdb3616be91f165f2"
+    }
+  ]
+}
