@@ -1879,6 +1879,656 @@
         "Verify exact current-patch NG statistics, rune rewards and source-specific details per encounter.",
         "Confirm nearest grace, entrance route, summon and critical eligibility."
       ]
+    },
+    {
+      "id": "er:b-radahn",
+      "grace": "Chamber Outside the Plaza",
+      "directions": "Once the festival is active, speak to Jerren and descend the lift to the beach teleporter.",
+      "conditions": "Festival activation required; paired plaza fight can be restored afterward.",
+      "combat": "Opening bow volleys, gravity-infused sword chains, airborne meteor return.",
+      "strategy": "Use the arena summon signs while approaching; dodge arrows on release. When he vanishes, move away from the meteor landing. Attack from the flank after his sword chain.",
+      "rewards": "Radahn's Great Rune; Remembrance of the Starscourge.",
+      "preparation": "Level 60–80; vigor and upgraded weapon.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/caelid-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.gamerguides.com/elden-ring/database/locations/caelid"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact NG numerical statistics and patch-dependent reward values.",
+        "Verify route, summon eligibility and exact source-specific details."
+      ]
+    },
+    {
+      "id": "er:b-redmane-duo",
+      "grace": "Chamber Outside the Plaza",
+      "directions": "Enter the plaza before the festival or after Radahn and the festival's conclusion.",
+      "conditions": "Festival temporarily suppresses this encounter.",
+      "combat": "Misbegotten rushes first; Crucible Knight enters during the fight.",
+      "strategy": "Burst down the first opponent before the knight closes. Keep both in view if they overlap; against the knight, wait for its last sword or tail swing.",
+      "rewards": "Ruins Greatsword.",
+      "preparation": "Level 50–70; stagger-capable weapon.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/caelid-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.gamerguides.com/elden-ring/database/locations/caelid"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact NG numerical statistics and patch-dependent reward values.",
+        "Verify route, summon eligibility and exact source-specific details."
+      ]
+    },
+    {
+      "id": "er:b-caelid-shade",
+      "grace": "Caelid Catacombs",
+      "directions": "Enter the southern cliffs near the Cathedral of Dragon Communion, find the lever and return to the fog.",
+      "conditions": "Optional dungeon.",
+      "combat": "Rapid teleporting blade attacks and immobilizing projectile.",
+      "strategy": "Avoid the binding projectile, then close on the shade during recovery. Do not chase a teleport into a blind corner; use quick attacks.",
+      "rewards": "Kindred of Rot Ashes.",
+      "preparation": "Level 45–60; bleed protection.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/caelid-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.gamerguides.com/elden-ring/database/locations/caelid"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact NG numerical statistics and patch-dependent reward values.",
+        "Verify route, summon eligibility and exact source-specific details."
+      ]
+    },
+    {
+      "id": "er:b-abandoned-cleanrots",
+      "grace": "Abandoned Cave",
+      "directions": "Cross the branch from the western ravine edge into the cave, then descend through scarlet rot pools.",
+      "conditions": "Optional two-knight encounter.",
+      "combat": "Spear impalement and ranged sickle projectiles.",
+      "strategy": "Try to finish one knight before being surrounded; keep the spear user in view even while fighting the sickle user. Stand on dry ground and cure rot promptly.",
+      "rewards": "Gold Scarab talisman.",
+      "preparation": "Level 45–65; Preserving Boluses.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/caelid-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.gamerguides.com/elden-ring/database/locations/caelid"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact NG numerical statistics and patch-dependent reward values.",
+        "Verify route, summon eligibility and exact source-specific details."
+      ]
+    },
+    {
+      "id": "er:b-oneil",
+      "grace": "Inner Aeonia",
+      "directions": "Approach the commander in the central swamp clearing.",
+      "conditions": "Optional; reward is important to Millicent's quest.",
+      "combat": "Halberd swings, summoned soldiers and rot-producing area attacks.",
+      "strategy": "Remove nearby soldiers or use a distraction. Retreat from the wind-up of the wide rot storm and close after it ends. Torrent helps avoid swamp hazards outside the arena.",
+      "rewards": "Commander's Standard; Unalloyed Gold Needle.",
+      "preparation": "Level 45–65; rot cures.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/caelid-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.gamerguides.com/elden-ring/database/locations/caelid"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact NG numerical statistics and patch-dependent reward values.",
+        "Verify route, summon eligibility and exact source-specific details."
+      ]
+    },
+    {
+      "id": "er:b-caelid-deathrite",
+      "grace": "Caelid Highway South",
+      "directions": "At night head east toward the rocky rise near the road.",
+      "conditions": "Night only.",
+      "combat": "Long weapon swings, ghostflame blasts and aerial dives.",
+      "strategy": "Keep a retreat route away from the lingering flames; holy damage and head hits can be effective. Punish a grounded dive rather than pursuing every leap.",
+      "rewards": "Death's Poker.",
+      "preparation": "Level 55–75; frost defense and holy damage.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/caelid-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.gamerguides.com/elden-ring/database/locations/caelid"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact NG numerical statistics and patch-dependent reward values.",
+        "Verify route, summon eligibility and exact source-specific details."
+      ]
+    },
+    {
+      "id": "er:b-ekzykes",
+      "grace": "Caelid Highway South",
+      "directions": "Ride south toward the Cathedral of Dragon Communion and the pale dragon near the road.",
+      "conditions": "Optional field dragon.",
+      "combat": "Rot breath, stomps, tail sweeps and a broad rot cloud.",
+      "strategy": "Leave the entire cloud area on Torrent rather than trying to roll through it. Approach the head after a short breath sequence or use brief leg attacks when safe.",
+      "rewards": "Dragon Heart; unlocks Ekzykes's Decay for purchase.",
+      "preparation": "Level 50–70; rot cures.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/caelid-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.gamerguides.com/elden-ring/database/locations/caelid"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact NG numerical statistics and patch-dependent reward values.",
+        "Verify route, summon eligibility and exact source-specific details."
+      ]
+    },
+    {
+      "id": "er:b-minorerdtree-watchdogs",
+      "grace": "Minor Erdtree Catacombs",
+      "directions": "Enter below the northwestern tree, descend past imps and locate the boss-door lever.",
+      "conditions": "Two simultaneous watchdogs, sword and staff.",
+      "combat": "Floating impacts, sword arcs and ranged attacks.",
+      "strategy": "Keep both statues on screen and avoid being between their impact zones. Focus one down; crystal darts may disrupt the constructs, but do not depend on that interaction.",
+      "rewards": "Mad Pumpkin Head Ashes.",
+      "preparation": "Level 40–60; strike damage.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/caelid-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.gamerguides.com/elden-ring/database/locations/caelid"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact NG numerical statistics and patch-dependent reward values.",
+        "Verify route, summon eligibility and exact source-specific details."
+      ]
+    },
+    {
+      "id": "er:b-sellia-beast",
+      "grace": "Sellia Crystal Tunnel",
+      "directions": "Climb from the grace through the mining cavern and reach its upper boss passage.",
+      "conditions": "Optional dungeon; transporter chest can bring you here early.",
+      "combat": "Charging horns, gravity pull and ground eruptions.",
+      "strategy": "Fight away from the tunnel walls; move sideways when horns lower and strike the head during recovery. Leave the gravity effect before it detonates.",
+      "rewards": "Somberstone Miner's Bell Bearing [1]; upgrade stones; gravity materials.",
+      "preparation": "Level 55–70; upgraded weapon.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/caelid-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.gamerguides.com/elden-ring/database/locations/caelid"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact NG numerical statistics and patch-dependent reward values.",
+        "Verify route, summon eligibility and exact source-specific details."
+      ]
+    },
+    {
+      "id": "er:b-gaol-duelist",
+      "grace": "Gaol Cave",
+      "directions": "Open the Stonesword Key seal, release the cells using the lever, and reach the hidden lower passage.",
+      "conditions": "Optional dungeon.",
+      "combat": "Chained axe swings, close-range grab and stomps.",
+      "strategy": "Stay near enough to read the chain attack but leave grab range. Counter after the overhead swing; do not try to cast through the stomp.",
+      "rewards": "Putrid Corpse Ashes.",
+      "preparation": "Level 40–55; physical defense.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/caelid-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.gamerguides.com/elden-ring/database/locations/caelid"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact NG numerical statistics and patch-dependent reward values.",
+        "Verify route, summon eligibility and exact source-specific details."
+      ]
+    },
+    {
+      "id": "er:b-gael-wyrm",
+      "grace": "Rear Gael Tunnel Entrance",
+      "directions": "Reach the rear grace by crossing the mine, or approach its rear side from Limgrave if accessible.",
+      "conditions": "Optional dungeon.",
+      "combat": "Magma rushes, wide sword arcs and slams.",
+      "strategy": "Do not follow its charge through lava. Circle to its side as it stops, strike briefly and move away before the next sweep.",
+      "rewards": "Moonveil; Dragon Heart.",
+      "preparation": "Level 35–55; fire protection.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/caelid-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.gamerguides.com/elden-ring/database/locations/caelid"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact NG numerical statistics and patch-dependent reward values.",
+        "Verify route, summon eligibility and exact source-specific details."
+      ]
+    },
+    {
+      "id": "er:b-caelid-cavalry",
+      "grace": "Caelid Highway South",
+      "directions": "Return at night to the road east of the grace.",
+      "conditions": "Night only; separate from Lenne's Rise rider.",
+      "combat": "Mounted sweeps and charges.",
+      "strategy": "Let each charge pass, then hit the horse's exposed side. If unhorsed, avoid long attacks before it can recover.",
+      "rewards": "Ash of War: Poison Moth Flight.",
+      "preparation": "Level 40–60.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/caelid-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.gamerguides.com/elden-ring/database/locations/caelid"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact NG numerical statistics and patch-dependent reward values.",
+        "Verify route, summon eligibility and exact source-specific details."
+      ]
+    },
+    {
+      "id": "er:b-nox-duo",
+      "grace": "Sellia Under-Stair",
+      "directions": "Reach the rooftop braziers and dispel the seal to the northern boss chamber.",
+      "conditions": "Optional sealed arena; two combatants.",
+      "combat": "Flexible sword sweeps and long-reaching monk weapon attacks.",
+      "strategy": "Keep the faster opponent separated; use a summon or terrain to divide attention. Punish the extended weapon after it retracts.",
+      "rewards": "Nox Flowing Sword; Lusat's Glintstone Staff is separate chest loot.",
+      "preparation": "Level 45–60.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/caelid-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.gamerguides.com/elden-ring/database/locations/caelid"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact NG numerical statistics and patch-dependent reward values.",
+        "Verify route, summon eligibility and exact source-specific details."
+      ]
+    },
+    {
+      "id": "er:b-caelid-avatar",
+      "grace": "Smoldering Church",
+      "directions": "Follow the road east to the Minor Erdtree above the catacomb entrance.",
+      "conditions": "Optional field boss; rotten variant, naming differs among guides.",
+      "combat": "Staff attacks, homing holy projectiles and rot-emitting slam.",
+      "strategy": "Roll away from the rot spread rather than remaining directly behind the boss. Use fire and the tree to break line of sight on the projectile barrage.",
+      "rewards": "Greenburst Crystal Tear; Flame-Shrouding Cracked Tear.",
+      "preparation": "Level 40–60; rot cures.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/caelid-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.gamerguides.com/elden-ring/database/locations/caelid"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact NG numerical statistics and patch-dependent reward values.",
+        "Verify route, summon eligibility and exact source-specific details."
+      ]
+    },
+    {
+      "id": "er:b-sellia-crystalians",
+      "grace": "Sellia Hideaway",
+      "directions": "Find the concealed cliff entrance near the graveyard northeast of Sellia and traverse the crystal caverns.",
+      "conditions": "Three simultaneous opponents; Lusat's quest seal is a separate route.",
+      "combat": "Spear thrusts, ringblade throws and staff spells that build rot.",
+      "strategy": "Use strike or heavy stance damage to break each shell. Isolate one target with terrain or a summon; don't spread damage over all three.",
+      "rewards": "Crystal Torrent.",
+      "preparation": "Level 55–75; strike weapon and rot cures.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/caelid-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.gamerguides.com/elden-ring/database/locations/caelid"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact NG numerical statistics and patch-dependent reward values.",
+        "Verify route, summon eligibility and exact source-specific details."
+      ]
+    },
+    {
+      "id": "er:b-wardead-spirit",
+      "grace": "War-Dead Catacombs",
+      "directions": "After defeating Radahn, cross to the far northeastern edge of his battlefield, enter the catacombs and open the boss door.",
+      "conditions": "Radahn defeat required.",
+      "combat": "Coiling rushes, tail sweeps and explosive rot attacks.",
+      "strategy": "Avoid the glowing area burst, keep the head visible and attack after a completed lunge. Use fire if suitable; do not trade while the body is twisting.",
+      "rewards": "Redmane Knight Ogha Ashes; Golden Seed.",
+      "preparation": "Level 75–100; vigor and rot cures.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/caelid-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.gamerguides.com/elden-ring/database/locations/caelid"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact NG numerical statistics and patch-dependent reward values.",
+        "Verify route, summon eligibility and exact source-specific details."
+      ]
+    },
+    {
+      "id": "er:b-caelem-pumpkins",
+      "grace": "Caelem Ruins",
+      "directions": "Locate the cellar stairs among the burning ruins on the western road.",
+      "conditions": "Two enemies, one completion.",
+      "combat": "Hammer slams and flail swings, protected helmets.",
+      "strategy": "Attack exposed torsos rather than helmets. Keep both attackers in view; use a fast weapon or summon to separate them.",
+      "rewards": "Visage Shield in chest beyond arena, not direct drop.",
+      "preparation": "Level 40–60.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/caelid-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://www.gamerguides.com/elden-ring/database/locations/caelid"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact NG numerical statistics and patch-dependent reward values.",
+        "Verify route, summon eligibility and exact source-specific details."
+      ]
+    },
+    {
+      "id": "er:b-dragonbarrow-beastmen",
+      "grace": "Dragonbarrow Cave",
+      "directions": "Enter the cave in the northeastern cliffside; bypass or carefully negotiate the large bear in the first area.",
+      "conditions": "Two beastmen, one encounter.",
+      "combat": "Large sword chains and ranged knife pressure.",
+      "strategy": "Prioritize the smaller ranged enemy if exposed, then fight the larger beastman. Avoid swinging while both are beginning their combos.",
+      "rewards": "Flamedrake Talisman +2.",
+      "preparation": "Level 75–100.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/dragonbarrow-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://eldenring.redmaw.dev/sheets/bosses"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact NG numerical statistics and patch-dependent reward values.",
+        "Verify route, summon eligibility and exact source-specific details."
+      ]
+    },
+    {
+      "id": "er:b-dragonbarrow-hunter",
+      "grace": "Isolated Merchant's Shack",
+      "directions": "Rest until night, then return to the shack when the merchant disappears.",
+      "conditions": "Night only; high-damage hunter variant.",
+      "combat": "Extended telekinetic sword, shield strikes and grab.",
+      "strategy": "Stay near the flank after committed swings, not at the end of the sword's range. Heal only after a long recovery.",
+      "rewards": "Gravity Stone Peddler's Bell Bearing.",
+      "preparation": "Level 90–120; physical defense.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/dragonbarrow-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://eldenring.redmaw.dev/sheets/bosses"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact NG numerical statistics and patch-dependent reward values.",
+        "Verify route, summon eligibility and exact source-specific details."
+      ]
+    },
+    {
+      "id": "er:b-sanctum-kindred",
+      "grace": "Bestial Sanctum",
+      "directions": "Exit the sanctum toward the large gargoyle guarding the approach.",
+      "conditions": "Optional; separate from Forbidden Lands kindred.",
+      "combat": "Long weapon arcs, black flame-like projectiles and aerial slams.",
+      "strategy": "Stay mobile, don't fight on the steps if the camera becomes unreliable, and punish the landing rather than the flight. Strike damage can be useful.",
+      "rewards": "Gargoyle's Blackblade; Gargoyle's Black Halberd.",
+      "preparation": "Level 80–110.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/dragonbarrow-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://eldenring.redmaw.dev/sheets/bosses"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact NG numerical statistics and patch-dependent reward values.",
+        "Verify route, summon eligibility and exact source-specific details."
+      ]
+    },
+    {
+      "id": "er:b-greyll",
+      "grace": "Farum Greatbridge",
+      "directions": "Approach the dragon on the long bridge south of Bestial Sanctum.",
+      "conditions": "Optional; bridge limits maneuvering.",
+      "combat": "Fire breath, stomps and flying dives.",
+      "strategy": "Use the length of the bridge to escape breath attacks; keep away from the edge. Strike the head after a grounded breath only when the route out is clear.",
+      "rewards": "Dragon Heart.",
+      "preparation": "Level 70–100; fire defense.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/dragonbarrow-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://eldenring.redmaw.dev/sheets/bosses"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact NG numerical statistics and patch-dependent reward values.",
+        "Verify route, summon eligibility and exact source-specific details."
+      ]
+    },
+    {
+      "id": "er:b-tower-apostle",
+      "grace": "Divine Tower of Caelid: Basement",
+      "directions": "Climb the exterior tower ledges, then descend the interior platforms to the basement grace.",
+      "conditions": "Optional dungeon; careful platforming required.",
+      "combat": "Twinblade spins, black flame throws and stretching torso attacks.",
+      "strategy": "Roll through committed horizontal slashes. Avoid healing while a black flame projectile is ready; punish the long body extension. Sleep may create openings.",
+      "rewards": "Godskin Apostle set.",
+      "preparation": "Level 75–100; vigor.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/dragonbarrow-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://eldenring.redmaw.dev/sheets/bosses"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact NG numerical statistics and patch-dependent reward values.",
+        "Verify route, summon eligibility and exact source-specific details."
+      ]
+    },
+    {
+      "id": "er:b-dragonbarrow-cavalry",
+      "grace": "Lenne's Rise",
+      "directions": "Return at night to the bridge near the rise.",
+      "conditions": "Night only; high-damage rider distinct from Caelid Highway.",
+      "combat": "Mounted polearm sweeps and long charges.",
+      "strategy": "Fight away from the cliff edge, let the charge pass, then strike the horse's flank. Avoid chasing a turn with a slow attack.",
+      "rewards": "Ash of War: Bloodhound's Step.",
+      "preparation": "Level 75–100.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/dragonbarrow-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://eldenring.redmaw.dev/sheets/bosses"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact NG numerical statistics and patch-dependent reward values.",
+        "Verify route, summon eligibility and exact source-specific details."
+      ]
+    },
+    {
+      "id": "er:b-dragonbarrow-avatar",
+      "grace": "Dragonbarrow Fork",
+      "directions": "Follow the upper path to the Minor Erdtree north of the road.",
+      "conditions": "Optional; distinct from northwestern Caelid encounter.",
+      "combat": "Staff attacks, golden projectiles and rot clouds.",
+      "strategy": "Move away from the rot slam before returning; use fire and short attacks during staff recovery. Keep a clear path around the tree.",
+      "rewards": "Opaline Hardtear; Stonebarb Cracked Tear.",
+      "preparation": "Level 75–100; rot cures.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/dragonbarrow-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://eldenring.redmaw.dev/sheets/bosses"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact NG numerical statistics and patch-dependent reward values.",
+        "Verify route, summon eligibility and exact source-specific details."
+      ]
+    },
+    {
+      "id": "er:b-sellia-battlemage",
+      "grace": "Dragonbarrow West",
+      "directions": "Travel toward the elevated Sellia Evergaol north of the swamp and activate the circle.",
+      "conditions": "Optional evergaol.",
+      "combat": "Glintstone projectiles, hammer sorcery and club swings.",
+      "strategy": "Close diagonally after a projectile releases; do not trade against the hammer. Interrupt or punish a finished cast with quick hits.",
+      "rewards": "Battlemage Hugues Ashes.",
+      "preparation": "Level 45–65; magic defense.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/database/bosses/dragonbarrow-bosses",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://eldenring.redmaw.dev/sheets/bosses"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact NG numerical statistics and patch-dependent reward values.",
+        "Verify route, summon eligibility and exact source-specific details."
+      ]
     }
   ]
 }

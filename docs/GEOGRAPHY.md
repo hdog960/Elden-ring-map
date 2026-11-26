@@ -10,3 +10,6 @@ Hapfel1/er-save-manager vanilla boss_locations.json (blob f42d28191a57f3a66fc3a9
 
 ## Session 6
 GitHub history: Hapfel1 boss_locations.json first appears in commit db912a518de5c68685d6a941b617ee7e436a11e8 on 2026-10-26; no file history before the license cutoff. Old MIT release does not offer that dataset. Almanauts/Lore Armory describe calibrated game-derived maps, but no redistribution permission was established. jw-ofs derives data from Compass and does not establish upstream rights. No new coordinates, geometry or art imported. Next path: written permission from a source owner and independent in-game checks, or independent observation survey. No true basemap yet.
+
+## Session 7
+Inspected MIT-licensed Kolbxyz/elden-ring-compass-plus generated boss arena file and extractor/vendored provenance. GameAreaParam arena points may differ from arena entrance, boss spawn or encounter marker; upstream generated data rights chain and independent layer calibration remain unresolved. No positions copied. AlperTrsc/elden-ring-grace-tracker claims 141 arenas and official images; no root license displayed. No actual basemap admitted. Next: investigate explicit permission and independent coordinate observation, prioritize source with auditable transformations and verified original artwork.

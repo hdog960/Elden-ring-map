@@ -12,3 +12,6 @@ All 246 intake IDs unchanged. Added 31 original guide drafts (46 total). Identit
 
 ## Session 6
 Added 28 Liurnia guide drafts; 74 total. Regional source comparison: Gamer Guides regional boss list, PowerPyx boss guide and Plarium regional guide. Tactics independently authored, but individual sources, directions, reward names and current patch statistics still need row-level checking. All IDs unchanged. No final census claim.
+
+## Session 7
+Added 25 Caelid/Dragonbarrow guide drafts (99 total). Source comparison Gamer Guides database (Caelid and Dragonbarrow), Plarium regional list, Redmaw and location database; conflicting rune rewards deliberately omitted. Northwestern Caelid Putrid Avatar naming restored: Greenburst Crystal Tear wiki and recorded fight identify rotten variant; older list says Erdtree Avatar; retain alias and permanent ID. Compass Plus generated boss arena file 54ad37c3259744905e476d2c8570f2a326dcb31d inspected: 212 rows, 207 unique flags, ten unnamed; duplicate groups and retreat flags prevent direct use as final census. Two DLC Sentinel distinct flags corroborated, equipment-to-flag mapping unverified. New release-audit ledger requires per-ID adjudication, independent source locators, resolved source inventory and matching geography and guide review. No final count claim. All 246 IDs preserved.

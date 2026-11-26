@@ -39,6 +39,14 @@
     {
       "url": "https://github.com/CreateDDy/EldenRing_MapInteractive",
       "finding": "MIT root license and DATA files present; upstream provenance of map art and positions not established. No rows imported."
+    },
+    {
+      "url": "https://github.com/Kolbxyz/elden-ring-compass-plus",
+      "finding": "MIT root LICENSE; generated bosses.ts 54ad37c3259744905e476d2c8570f2a326dcb31d contains 212 GameAreaParam arena rows, 207 distinct flags; extractor and vendored provenance reviewed. Generated positions not admitted: source rights chain, map transforms and entrance calibration not confirmed."
+    },
+    {
+      "url": "https://github.com/AlperTrsc/elden-ring-grace-tracker",
+      "finding": "Claims 141 boss arenas calibrated to official map images; root listing has no LICENSE. No import."
     }
   ]
 }

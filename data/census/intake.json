@@ -28,7 +28,9 @@
     "manorWiki": "https://eldenring.wiki.gg/wiki/Volcano_Manor",
     "manorContracts": "https://eldenring.exputer.com/quests/volcano-manor-contracts",
     "manorLocations": "https://eldenring.exputer.com/locations/volcano-manor",
-    "manorVideo": "https://www.youtube.com/watch?v=JE9RWRfkG44"
+    "manorVideo": "https://www.youtube.com/watch?v=JE9RWRfkG44",
+    "caelidTear": "https://eldenring.wiki.gg/wiki/Greenburst_Crystal_Tear",
+    "caelidFootage": "https://www.youtube.com/watch?v=9fQiGIvVqcg"
   },
   "rows": [
     {
@@ -1171,7 +1173,7 @@
       "id": "er:b-caelid-avatar",
       "game": "base",
       "region": "Caelid",
-      "name": "Erdtree Avatar",
+      "name": "Putrid Avatar",
       "location": "Western Caelid Minor Erdtree",
       "category": "field",
       "hunt": "primary",
@@ -1179,10 +1181,15 @@
       "evidence": [
         "forge",
         "steamVideoGuide",
-        "caelidGuide"
+        "caelidGuide",
+        "caelidTear",
+        "caelidFootage"
       ],
       "review": "cross-source-candidate",
-      "decision": "Northwestern Caelid avatar is not the Dragonbarrow Putrid Avatar. Preserve legacy ID."
+      "decision": "Naming conflict: multiple older regional lists say Erdtree Avatar, but item-specific Eldenpedia evidence and recorded boss fight identify Putrid Avatar. Preserve ID; reward amount conflict remains unresolved.",
+      "aliases": [
+        "Erdtree Avatar (northwestern Caelid)"
+      ]
     },
     {
       "id": "er:b-sellia-crystalians",
