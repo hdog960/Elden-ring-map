@@ -55,6 +55,10 @@
     {
       "url": "https://github.com/sayheyakanksha/elden-ring-data-story-tableau",
       "finding": "boss_locations_details.csv blob 7872fd839f05d3da093f9d6704680cdc369b6195 inspected: repeated identical X/Y values across unrelated Limgrave and Weeping bosses, regional visualization rather than true coordinates. No root license located. Rejected; no positions or art copied."
+    },
+    {
+      "url": "https://github.com/aether-auto/er-guide",
+      "finding": "README explicitly attributes copied map tiles and marker coordinates to Fextralife extraction. Attribution alone does not establish redistribution permission; no import."
     }
   ]
 }

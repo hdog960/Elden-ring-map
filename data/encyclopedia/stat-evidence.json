@@ -48,9 +48,98 @@
         "https://almanauts.com/eldenring/bosses/"
       ],
       "note": "65% transition per Eldenpedia; current exact regulation and stance corroboration require review."
+    },
+    {
+      "id": "er:b-morgott",
+      "scope": "Leyndell Royal Capital, solo NG",
+      "health": 10399,
+      "stance": 80,
+      "stanceKind": "base",
+      "runes": 120000,
+      "negations": {
+        "standard": 0,
+        "strike": 0,
+        "slash": -10,
+        "pierce": 0,
+        "magic": 0,
+        "fire": 0,
+        "lightning": 0,
+        "holy": 40
+      },
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Morgott",
+        "https://eldenringpoisewiki.fun/",
+        "https://gamertagmythras.com/blog/elden-ring/elden-ring-stance-break-guide"
+      ],
+      "note": "Eldenpedia direct stat excerpt reports 120000 runes; older quick-reference lists 70000, do not silently resolve patch discrepancy. Three parries for critical per Eldenpedia."
+    },
+    {
+      "id": "er:b-mohg-blood",
+      "scope": "Mohgwyn Palace, solo NG, nominal bar before transition healing",
+      "health": 18389,
+      "stance": 110,
+      "stanceKind": "reported-unspecified",
+      "runes": 420000,
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Mohg%2C_Lord_of_Blood",
+        "https://almanauts.com/eldenring/bosses/",
+        "https://gamertagmythras.com/blog/elden-ring/elden-ring-stance-break-guide"
+      ],
+      "note": "Do not conflate with sewer Mohg. HP and rune reward supported; stance kind still to verify."
+    },
+    {
+      "id": "er:b-radahn",
+      "scope": "Wailing Dunes, solo NG",
+      "health": 9572,
+      "stance": 120,
+      "stanceKind": "base-reported",
+      "alternateStance": 200,
+      "runes": 70000,
+      "negations": {
+        "standard": 10,
+        "strike": 10,
+        "slash": 10,
+        "pierce": 0,
+        "magic": 20,
+        "fire": 20,
+        "lightning": 20,
+        "holy": 40
+      },
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Radahn_Consort_of_Miquella",
+        "https://almanauts.com/eldenring/bosses/",
+        "https://gamertagmythras.com/blog/elden-ring/elden-ring-stance-break-guide"
+      ],
+      "note": "Eldenpedia reports 120 poise; Almanauts and stance guide report 200. Do not assume equivalence or publish either as effective until modifier independently established."
+    },
+    {
+      "id": "er:d-bayle",
+      "scope": "Jagged Peak, solo NG",
+      "health": 41612,
+      "stance": 120,
+      "stanceKind": "base",
+      "runes": 490000,
+      "reportedEffectivePoise": 200,
+      "reportedPoiseDamageModifier": 0.6,
+      "negations": {
+        "standard": 35,
+        "strike": 35,
+        "slash": 35,
+        "pierce": 10,
+        "magic": 40,
+        "fire": 40,
+        "lightning": 40,
+        "holy": 40
+      },
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Bayle_the_Dread",
+        "https://lorearmory.com/eldenring/bosses/"
+      ],
+      "note": "HP corroborated; Eldenpedia excerpt exposes base and effective poise with modifier but mixes NG tabs, verify exact NG scope before admission."
     }
   ],
   "limitations": [
-    "Source search index excerpts inspected; some live pages unavailable. No independent game observation or exact patch authentication. Values not promoted to release guide numericStats."
+    "Source search index excerpts inspected; some live pages unavailable. No independent game observation or exact patch authentication. Values not promoted to release guide numericStats.",
+    "Base poise and effective stance may differ; additional stat fields are research-only. Do not promote mismatched patch or cycle values."
   ]
 }

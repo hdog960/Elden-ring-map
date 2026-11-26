@@ -1,5 +1,5 @@
 {
-  "version": "session11-20261125-a",
+  "version": "session12-20261125-a",
   "releaseReady": false,
   "assets": [
     {
@@ -20,7 +20,7 @@
     },
     {
       "path": "data/census/intake.json",
-      "gitBlob": "8a08d738a6dc06add2c9aee2a685deaf84ad8697"
+      "gitBlob": "643584f7859ccd75d73506213d8da167b9083920"
     },
     {
       "path": "data/census/release-audit.json",
@@ -32,15 +32,15 @@
     },
     {
       "path": "data/encyclopedia/drafts.json",
-      "gitBlob": "11a7736d70322e50d6d65e35b6e9b31f6f92e62a"
+      "gitBlob": "7ba4b2485245c694bcd684852b56a3da11c59828"
     },
     {
       "path": "data/encyclopedia/stat-evidence.json",
-      "gitBlob": "c72a9fadaf0e7b3c84a04238755be549716bd39f"
+      "gitBlob": "d1740d998212fc46f87bf46800f54e97dc077398"
     },
     {
       "path": "data/geography/ledger.json",
-      "gitBlob": "0df38eff8a6206614086603d6e546ff91166a929"
+      "gitBlob": "70124e316331705a4c93cfaabbdaad825bb01646"
     },
     {
       "path": "index.html",
@@ -52,7 +52,7 @@
     },
     {
       "path": "src/app.js",
-      "gitBlob": "61721f98469470c6767df7ad96b558ec33f706a1"
+      "gitBlob": "fdfbc7c7429cd9b04a3ed238b76c34c0fd4f0318"
     },
     {
       "path": "src/calibration.js",
@@ -68,7 +68,7 @@
     },
     {
       "path": "src/dashboard.js",
-      "gitBlob": "2df3acfa03f02ec0e61b836de6bc742af7287ab3"
+      "gitBlob": "4f5c37dacc6537145a7e40051b8c8010fe8b7b72"
     },
     {
       "path": "src/encyclopedia.js",
@@ -97,6 +97,10 @@
     {
       "path": "src/progress-settings.js",
       "gitBlob": "addd1b267905443b1c67776d42e47b8ef59f4a73"
+    },
+    {
+      "path": "src/quest-progress.js",
+      "gitBlob": "df04f882d897b74358038fcf3320ce5a7ddb4363"
     },
     {
       "path": "src/release-evidence.js",

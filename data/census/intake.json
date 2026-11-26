@@ -4162,7 +4162,9 @@
         "b-capital-margit-a",
         "b-capital-margit-b"
       ],
-      "decision": "Unique apparition; separate from Stormveil boss, no conventional boss bar."
+      "decision": "Unique apparition without conventional boss bar; missable if Morgott is defeated first. Distinct from the Stormveil boss.",
+      "missable": true,
+      "cutoff": "er:b-morgott"
     },
     {
       "id": "er:b-farum-draconic",

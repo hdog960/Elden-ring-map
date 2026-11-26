@@ -6658,14 +6658,15 @@
       "id": "er:b-capital-margit",
       "grace": "Outer Wall Battleground",
       "directions": "Approach the isolated Commoner on the battlefield south of the grace.",
-      "conditions": "Unique apparition; separate from Stormveil boss, no conventional boss bar.",
+      "conditions": "Unique apparition without conventional boss bar; missable if Morgott is defeated first. Distinct from the Stormveil boss.",
       "combat": "Delayed cane strikes and light weapons.",
       "strategy": "Wait for the delayed cane release and counter after the final swing. Leave nearby soldiers behind before engaging.",
       "rewards": "Viridian Amber Medallion +1.",
       "preparation": "Level 65–85.",
       "sources": [
         "https://eldenring.wiki.gg/wiki/Margit",
-        "https://www.neoseeker.com/elden-ring/walkthrough/Capital_Outskirts"
+        "https://www.neoseeker.com/elden-ring/walkthrough/Capital_Outskirts",
+        "https://eldenring.wiki.gg/wiki/Margit"
       ],
       "review": "draft-researched",
       "numericStats": {
