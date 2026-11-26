@@ -22,3 +22,5 @@ Re-examined publicly documented calibrated map sources (Almanauts and community 
 
 ## Session 10
 No repeated broad searches, no new permission grant or independently observed coordinate input. Concrete acquisition remains blocked. Alberich newly added as extended hub encounter; Roundtable Hold requires a separately qualified inset or other accurate representation (not a fabricated underground location). No new positions or art. Permission-request draft remains unsent; no external outreach performed.
+## Session 11
+Concrete Tableau CSV boss_locations_details.csv (blob 7872fd839f05d3da093f9d6704680cdc369b6195) inspected; identical regional points across unrelated encounters, no root license; rejected. No independent game observations or explicit coordinate permission available. No actual map admitted. Do not repeat this search. Need permission or genuine independent survey; request remains unsent.

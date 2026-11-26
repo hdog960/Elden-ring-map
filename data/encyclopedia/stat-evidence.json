@@ -1,0 +1,56 @@
+{
+  "schema": 1,
+  "status": "corroborated-values-not-final",
+  "records": [
+    {
+      "id": "er:b-margit",
+      "scope": "Stormveil, solo NG",
+      "health": 4174,
+      "stance": 80,
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Margit",
+        "https://almanauts.com/eldenring/bosses/",
+        "https://eldenringpoisewiki.fun/"
+      ],
+      "note": "Stormveil only, not capital apparition."
+    },
+    {
+      "id": "er:b-godrick",
+      "scope": "Stormveil, solo NG",
+      "health": 6080,
+      "stance": 105,
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Godrick_the_Grafted",
+        "https://lorearmory.com/eldenring/bosses/",
+        "https://almanauts.com/eldenring/bosses/"
+      ],
+      "note": "Shared health across transformation."
+    },
+    {
+      "id": "er:b-malenia",
+      "scope": "First phase only, solo NG",
+      "health": 18473,
+      "stance": 80,
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Malenia%2C_Blade_of_Miquella",
+        "https://almanauts.com/eldenring/bosses/",
+        "https://eldenringpoisewiki.fun/"
+      ],
+      "note": "Not combined health; second phase remains unverified."
+    },
+    {
+      "id": "er:d-consort",
+      "scope": "Shared health bar, solo NG",
+      "health": 46134,
+      "stance": 120,
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Promised_Consort_Radahn",
+        "https://almanauts.com/eldenring/bosses/"
+      ],
+      "note": "65% transition per Eldenpedia; current exact regulation and stance corroboration require review."
+    }
+  ],
+  "limitations": [
+    "Source search index excerpts inspected; some live pages unavailable. No independent game observation or exact patch authentication. Values not promoted to release guide numericStats."
+  ]
+}

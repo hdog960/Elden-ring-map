@@ -35,7 +35,21 @@
     "furnace2026": "https://gamers.wiki/en/games/elden-ring/guides/elden-ring-shadow-of-the-erdtree-furnace-golem-guide",
     "ledaGuide": "https://eip.gg/elden-ring/guides/needle-knight-leda-and-allies/",
     "pitGuide": "https://eip.gg/elden-ring/guides/dragons-pit-dungeon/",
-    "manorExtra": "https://segmentnext.com/elden-ring/dungeons/volcano-manor"
+    "manorExtra": "https://segmentnext.com/elden-ring/dungeons/volcano-manor",
+    "b-greatjar-a": "https://eldenring.wiki.gg/wiki/Great_Jar",
+    "b-greatjar-b": "https://www.gamerguides.com/elden-ring-shadow-of-the-erdtree/database/talismans/talisman/great-jars-arsenal",
+    "b-magnus-a": "https://eldenring.wiki.gg/wiki/Magnus_the_Beast_Claw",
+    "b-magnus-b": "https://holdtoreset.com/WHERE-TO-FIND-THE-WHITE-MASK-VARRE-OFFLINE-NPC-IN-ELDEN-RING/",
+    "b-varre-duel-a": "https://eldenring.wiki.gg/wiki/White_Mask_Varr%C3%A9",
+    "b-varre-duel-b": "https://eldenring.exputer.com/weapons/varre-s-bouquet",
+    "b-capital-margit-a": "https://eldenring.wiki.gg/wiki/Margit",
+    "b-capital-margit-b": "https://www.neoseeker.com/elden-ring/walkthrough/Capital_Outskirts",
+    "b-farum-draconic-a": "https://eldenring.wiki.gg/wiki/Draconic_Tree_Sentinel",
+    "b-farum-draconic-b": "https://eip.gg/elden-ring/guides/how-to-beat-the-draconic-tree-sentinel-crumbling-farum-azula/",
+    "b-millicent-sisters-a": "https://eldenring.wiki.gg/wiki/Millicent%27s_Sisters",
+    "b-millicent-sisters-b": "https://eldenring.exputer.com/quests/millicent-s-quest",
+    "b-millicent-challenge-a": "https://eldenring.wiki.gg/wiki/Millicent",
+    "b-millicent-challenge-b": "https://eldenring.exputer.com/quests/millicent-s-quest"
   },
   "rows": [
     {
@@ -4085,6 +4099,120 @@
         "invaderGuide",
         "invaderWiki"
       ]
+    },
+    {
+      "id": "er:b-greatjar",
+      "game": "base",
+      "region": "Dragonbarrow",
+      "name": "Knights of the Great Jar",
+      "location": "Great Jar colosseum approach",
+      "layerHint": "surface",
+      "hunt": "extended",
+      "category": "unique-challenge",
+      "review": "classification-review",
+      "evidence": [
+        "b-greatjar-a",
+        "b-greatjar-b"
+      ],
+      "decision": "Three sequential duels without dying, one shared reward; builds vary online."
+    },
+    {
+      "id": "er:b-magnus",
+      "game": "base",
+      "region": "Altus Plateau",
+      "name": "Magnus the Beast Claw",
+      "location": "Writheblood Ruins",
+      "layerHint": "surface",
+      "hunt": "extended",
+      "category": "unique-challenge",
+      "review": "classification-review",
+      "evidence": [
+        "b-magnus-a",
+        "b-magnus-b"
+      ],
+      "decision": "Optional offline invasion alternative; actually defeat him for this hunt."
+    },
+    {
+      "id": "er:b-varre-duel",
+      "game": "base",
+      "region": "Mohgwyn Palace",
+      "name": "White Mask Varré",
+      "location": "Dynasty Mausoleum invasion sign",
+      "layerHint": "underground",
+      "hunt": "extended",
+      "category": "unique-challenge",
+      "review": "classification-review",
+      "evidence": [
+        "b-varre-duel-a",
+        "b-varre-duel-b"
+      ],
+      "decision": "Optional final invasion; distinct from three Nameless White Masks."
+    },
+    {
+      "id": "er:b-capital-margit",
+      "game": "base",
+      "region": "Capital Outskirts",
+      "name": "Margit (Commoner apparition)",
+      "location": "Battlefield south of Outer Wall Battleground",
+      "layerHint": "surface",
+      "hunt": "extended",
+      "category": "unique-challenge",
+      "review": "classification-review",
+      "evidence": [
+        "b-capital-margit-a",
+        "b-capital-margit-b"
+      ],
+      "decision": "Unique apparition; separate from Stormveil boss, no conventional boss bar."
+    },
+    {
+      "id": "er:b-farum-draconic",
+      "game": "base",
+      "region": "Crumbling Farum Azula",
+      "name": "Draconic Tree Sentinel",
+      "location": "Bridge outside Maliketh arena",
+      "layerHint": "surface",
+      "hunt": "extended",
+      "category": "unique-challenge",
+      "review": "classification-review",
+      "evidence": [
+        "b-farum-draconic-a",
+        "b-farum-draconic-b"
+      ],
+      "decision": "Optional non-respawning guard; separate from capital sentinel."
+    },
+    {
+      "id": "er:b-millicent-sisters",
+      "game": "base",
+      "region": "Miquella's Haligtree",
+      "name": "Millicent's Sisters",
+      "location": "Elphael rot pool summon sign",
+      "layerHint": "surface",
+      "hunt": "extended",
+      "category": "unique-challenge",
+      "review": "classification-review",
+      "evidence": [
+        "b-millicent-sisters-a",
+        "b-millicent-sisters-b"
+      ],
+      "decision": "Mutually exclusive with challenging Millicent in one journey.",
+      "exclusiveGroup": "millicent-elphael-choice"
+    },
+    {
+      "id": "er:b-millicent-challenge",
+      "game": "base",
+      "region": "Miquella's Haligtree",
+      "name": "Millicent (quest challenge)",
+      "location": "Elphael rot pool red summon sign",
+      "layerHint": "surface",
+      "hunt": "extended",
+      "category": "unique-challenge",
+      "review": "classification-review",
+      "evidence": [
+        "b-millicent-challenge-a",
+        "b-millicent-challenge-b"
+      ],
+      "decision": "Mutually exclusive with assisting Millicent; ends needle route.",
+      "exclusiveGroup": "millicent-elphael-choice"
     }
   ]
 }

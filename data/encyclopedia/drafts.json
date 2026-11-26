@@ -6578,6 +6578,181 @@
         "Confirm unique encounter classification, precise route and patch-specific rewards.",
         "Combat stats, summon/parry eligibility and exact geography not yet verified."
       ]
+    },
+    {
+      "id": "er:b-greatjar",
+      "grace": "Great-Jar",
+      "directions": "Reach the northern Caelid canyon via the Siofra River lift. Speak to the Great Jar and use the three red signs.",
+      "conditions": "Three sequential duels without dying, one shared reward; builds vary online.",
+      "combat": "Variable NPC weapons and spells.",
+      "strategy": "Fight each knight separately; conserve flasks for the final duel. Offline builds are fixed rather than player-derived.",
+      "rewards": "Great-Jar's Arsenal.",
+      "preparation": "Level 60–90; adapt to opponent equipment.",
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Great_Jar",
+        "https://www.gamerguides.com/elden-ring-shadow-of-the-erdtree/database/talismans/talisman/great-jars-arsenal"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact route and combat data in current game build.",
+        "Final encounter classification and marker unqualified."
+      ]
+    },
+    {
+      "id": "er:b-magnus",
+      "grace": "Road of Iniquity Side Path",
+      "directions": "Find the red sign in the northeastern ruins after progressing Varré's quest.",
+      "conditions": "Optional offline invasion alternative; actually defeat him for this hunt.",
+      "combat": "Great hammer attacks and bestial incantations.",
+      "strategy": "Keep out of the hammer's charged leap and dodge the stone projectiles; punish the end of his attack.",
+      "rewards": "Great Stars; Somber Smithing Stone [6].",
+      "preparation": "Level 55–75.",
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Magnus_the_Beast_Claw",
+        "https://holdtoreset.com/WHERE-TO-FIND-THE-WHITE-MASK-VARRE-OFFLINE-NPC-IN-ELDEN-RING/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact route and combat data in current game build.",
+        "Final encounter classification and marker unqualified."
+      ]
+    },
+    {
+      "id": "er:b-varre-duel",
+      "grace": "Dynasty Mausoleum Midpoint",
+      "directions": "Use Varré's red sign in the hallway before the midpoint grace after advancing his quest.",
+      "conditions": "Optional final invasion; distinct from three Nameless White Masks.",
+      "combat": "Bleed bouquet and blood incantations.",
+      "strategy": "Move sideways from blood projectiles and punish his short melee recovery. Avoid lingering in the swarm.",
+      "rewards": "Varré's Bouquet after returning and speaking to him.",
+      "preparation": "Level 90–120; bleed defense.",
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/White_Mask_Varr%C3%A9",
+        "https://eldenring.exputer.com/weapons/varre-s-bouquet"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact route and combat data in current game build.",
+        "Final encounter classification and marker unqualified."
+      ]
+    },
+    {
+      "id": "er:b-capital-margit",
+      "grace": "Outer Wall Battleground",
+      "directions": "Approach the isolated Commoner on the battlefield south of the grace.",
+      "conditions": "Unique apparition; separate from Stormveil boss, no conventional boss bar.",
+      "combat": "Delayed cane strikes and light weapons.",
+      "strategy": "Wait for the delayed cane release and counter after the final swing. Leave nearby soldiers behind before engaging.",
+      "rewards": "Viridian Amber Medallion +1.",
+      "preparation": "Level 65–85.",
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Margit",
+        "https://www.neoseeker.com/elden-ring/walkthrough/Capital_Outskirts"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact route and combat data in current game build.",
+        "Final encounter classification and marker unqualified."
+      ]
+    },
+    {
+      "id": "er:b-farum-draconic",
+      "grace": "Beside the Great Bridge",
+      "directions": "Climb the stairs toward Maliketh's fog to meet the mounted guard.",
+      "conditions": "Optional non-respawning guard; separate from capital sentinel.",
+      "combat": "Hammer sweeps, horse fireballs and targeted lightning.",
+      "strategy": "Dodge the lightning on its release, then punish a committed hammer slam. Keep away from the bridge edge.",
+      "rewards": "Malformed Dragon set.",
+      "preparation": "Level 110–140; fire and lightning defense.",
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Draconic_Tree_Sentinel",
+        "https://eip.gg/elden-ring/guides/how-to-beat-the-draconic-tree-sentinel-crumbling-farum-azula/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact route and combat data in current game build.",
+        "Final encounter classification and marker unqualified."
+      ]
+    },
+    {
+      "id": "er:b-millicent-sisters",
+      "grace": "Drainage Channel",
+      "directions": "Advance Millicent's quest and defeat the nearby tree spirit, then find the gold sign above the rot pool.",
+      "conditions": "Mutually exclusive with challenging Millicent in one journey.",
+      "combat": "Four NPC opponents; Millicent fights alongside you.",
+      "strategy": "Draw pressure away from Millicent, focus an exposed sister and avoid being surrounded.",
+      "rewards": "Rotten Winged Sword Insignia; later needle progression.",
+      "preparation": "Level 110–140; rot cures.",
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Millicent%27s_Sisters",
+        "https://eldenring.exputer.com/quests/millicent-s-quest"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact route and combat data in current game build.",
+        "Final encounter classification and marker unqualified."
+      ]
+    },
+    {
+      "id": "er:b-millicent-challenge",
+      "grace": "Drainage Channel",
+      "directions": "Advance the quest to the paired signs above the rot pool and select the red sign.",
+      "conditions": "Mutually exclusive with assisting Millicent; ends needle route.",
+      "combat": "Fast sword chains and Waterfowl Dance.",
+      "strategy": "Keep an escape route for her rapid aerial sequence, use allies to split attention and punish only committed recovery.",
+      "rewards": "Millicent's Prosthesis.",
+      "preparation": "Level 110–140; rot cures.",
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Millicent",
+        "https://eldenring.exputer.com/quests/millicent-s-quest"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Confirm exact route and combat data in current game build.",
+        "Final encounter classification and marker unqualified."
+      ]
     }
   ]
 }
