@@ -68,3 +68,6 @@ Stormveil cliffside Crucible Knight provisionally added, family non-respawn and 
 
 ## Session 29
 Two Siofra Aqueduct knights provisionally added; Hornshield and Somber Stone [6] specific reward evidence, family non-respawn corroboration. Leyndell, Farum Azula, Four Belfries held; Road's End summons remain under existing snail encounter. Three location-specific research records: Groveside Beastman, Stormfoot Watchdog, Waypoint Pumpkin. Four existing guides refined including Murkwater reward and unresolved health range. 291 IDs, 207 primary/84 extended, 46 research records; 289 prior IDs retained. No geography admission. Indexed sources and full accessible walkthroughs distinguished; no direct gameplay claims.
+
+## Session 30
+Eight scoped published combat research records added: three Cemetery Shades, three Black Knife Assassins, Morne Scaly Misbegotten, Weeping Zamor. Nine guides refined; wounded Deathtouched maximum HP separated from starting HP, paired Coastal Cave HP semantics unresolved. Wiki lineage and missing independent numeric reproduction explicitly noted for Caelid Shade, Black Knife chapel and Sage's Cave. No new IDs, 291 total, 54 research records. No geography admission.

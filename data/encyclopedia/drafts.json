@@ -171,12 +171,15 @@
       "directions": "Reach the western Limgrave beach below Church of Elleh and enter the cave in the cliff. Follow the tunnel to the dark chamber.",
       "conditions": "Optional paired encounter; both chiefs must fall.",
       "combat": "Two aggressive chiefs with smaller demi-human enemies in a dark arena.",
-      "strategy": "Eliminate nearby small enemies first and try to separate the chiefs. A torch or lantern improves visibility; use sweeping attacks only when both threats are visible. Ranged builds can move between openings instead of standing still.",
+      "strategy": "Eliminate nearby small enemies first and try to separate the chiefs. A torch or lantern improves visibility; use sweeping attacks only when both threats are visible. Ranged builds can move between openings instead of standing still. Both chiefs must fall, but ordinary accompanying enemies are not separate checklist bosses. Slash damage and parries are useful; concentrate on one chief at a time.",
       "rewards": "Tailoring Tools; Sewing Needle; 1,200 runes.",
       "preparation": "Suggested level 10–20 and an early weapon upgrade; bring a light source.",
       "sources": [
         "https://www.pushsquare.com/guides/elden-ring-how-to-complete-coastal-cave",
-        "https://eldenring.redmaw.dev/sheets/walkthrough"
+        "https://eldenring.redmaw.dev/sheets/walkthrough",
+        "https://tarnished.app/enemies/demi-human-chief",
+        "https://www.pushsquare.com/guides/elden-ring-how-to-beat-demi-human-chiefs",
+        "https://eldenring.exputer.com/locations/coastal-cave"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -186,8 +189,7 @@
         "statusThresholds": null
       },
       "unresolved": [
-        "Exact NG health, stance and damage/status tables require version-specific independent verification.",
-        "Full summon/parry/critical eligibility and exact entrance calibration require review."
+        "Published table reports 1218 HP and 65 stance but does not establish whether HP is per chief or the encounter total. No numerical record promoted. 1200 runes and tailoring rewards corroborated."
       ]
     },
     {
@@ -644,14 +646,19 @@
       "id": "er:b-deathtouched-assassin",
       "grace": "Deathtouched Catacombs",
       "directions": "Enter north Stormhill catacombs, find the lever, then return to the sealed door.",
-      "conditions": "Optional dungeon; encounter starts wounded.",
+      "conditions": "Optional dungeon; the assassin begins with about 60% of her maximum health, rather than a separate reduced maximum HP pool.",
       "combat": "Quick knife cuts, evasive movement and grabs.",
-      "strategy": "Use a fast weapon and punish a committed slash. Do not chase blindly when it retreats; summons can divide its attention.",
-      "rewards": "Assassin's Crimson Dagger.",
+      "strategy": "Use a fast weapon and punish a committed slash. Do not chase blindly when it retreats; summons can divide its attention. She starts wounded; spirit summons can distract her. Parry or punish long knife recoveries.",
+      "rewards": "Assassin's Crimson Dagger; 1,600 runes (reported NG). Deathroot is separately obtained from the chest.",
       "preparation": "Level 15–25; Deathroot in a separate chest, not boss drop.",
       "sources": [
         "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
-        "https://gamefaqs.gamespot.com/ps5/323053-elden-ring/faqs/80028/dungeon-bosses"
+        "https://gamefaqs.gamespot.com/ps5/323053-elden-ring/faqs/80028/dungeon-bosses",
+        "https://eldenring.wiki.gg/wiki/Black_Knife_Assassin",
+        "https://tarnished.app/enemies/black-knife-assassin",
+        "https://eldenring.fandom.com/wiki/Black_Knife_Assassin",
+        "https://eldenringpoisewiki.fun/",
+        "https://www.gamerguides.com/elden-ring/guide/limgrave/bosses/how-to-beat-beastman-of-farum-azula-in-groveside-cave/"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -661,8 +668,7 @@
         "statusThresholds": null
       },
       "unresolved": [
-        "Exact NG numerical combat data and rune reward require independent patch-specific verification.",
-        "Confirm grace, entrance, summon and critical eligibility before publication."
+        "Scoped published combat research remains separate from release qualification. Exact regulation, complete combat table and calibrated marker pending."
       ]
     },
     {
@@ -723,12 +729,16 @@
       "directions": "Reach the Weeping Evergaol and spend a Stonesword Key at the seal.",
       "conditions": "Optional evergaol.",
       "combat": "Curved blade spins, frost breath and later frost-infused movement.",
-      "strategy": "Run around the frost breath cone and punish from the side. Watch for the final spinning slash; avoid building frostbite through repeated trades.",
-      "rewards": "Radagon's Scarseal.",
+      "strategy": "Run around the frost breath cone and punish from the side. Watch for the final spinning slash; avoid building frostbite through repeated trades. When it pauses to empower the blade with frost, reposition and punish only if safe; fire is favored. Ordinary spirit summons are unavailable in this evergaol.",
+      "rewards": "Radagon's Scarseal; 5,400 runes (reported NG).",
       "preparation": "Level 25–40; frost resistance if needed.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/guide/weeping-peninsula/bosses/",
-        "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/"
+        "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
+        "https://eldenring.fandom.com/wiki/Ancient_Hero_of_Zamor",
+        "https://tarnished.app/enemies/ancient-hero-of-zamor",
+        "https://lorearmory.com/eldenring/bosses/",
+        "https://www.neoseeker.com/elden-ring/Bosses/Ancient_Hero_of_Zamor"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -738,8 +748,7 @@
         "statusThresholds": null
       },
       "unresolved": [
-        "Exact NG numerical combat data and rune reward require independent patch-specific verification.",
-        "Confirm grace, entrance, summon and critical eligibility before publication."
+        "Scoped published combat research remains separate from release qualification. Exact regulation, complete combat table and calibrated marker pending."
       ]
     },
     {
@@ -748,12 +757,17 @@
       "directions": "Enter below the Minor Erdtree hillside, open the boss door using the dungeon lever.",
       "conditions": "Optional dungeon.",
       "combat": "Teleporting shade with rapid blade attacks and a binding projectile.",
-      "strategy": "Stay mobile when the green projectile appears; attack during its recovery. Fast attacks can interrupt the fragile shade; keep light for visibility.",
-      "rewards": "Lhutel the Headless.",
+      "strategy": "Stay mobile when the green projectile appears; attack during its recovery. Fast attacks can interrupt the fragile shade; keep light for visibility. Use holy damage where available; published tables report immunity to poison, rot, bleed, frost and sleep. Guard counters can help break stance.",
+      "rewards": "Lhutel the Headless; 2,200 runes (reported NG).",
       "preparation": "Level 20–30; bleed resistance useful.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/guide/weeping-peninsula/bosses/",
-        "https://gamefaqs.gamespot.com/ps5/323053-elden-ring/faqs/80028/dungeon-bosses"
+        "https://gamefaqs.gamespot.com/ps5/323053-elden-ring/faqs/80028/dungeon-bosses",
+        "https://eldenring.wiki.gg/wiki/Cemetery_Shade",
+        "https://tarnished.app/enemies/cemetery-shade",
+        "https://eldenring.fandom.com/wiki/Cemetery_Shade",
+        "https://rankedboost.com/elden-ring/cemetery-shade/",
+        "https://eip.gg/elden-ring/guides/weeping-peninsula-boss-guides/"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -763,8 +777,7 @@
         "statusThresholds": null
       },
       "unresolved": [
-        "Exact NG numerical combat data and rune reward require independent patch-specific verification.",
-        "Confirm grace, entrance, summon and critical eligibility before publication."
+        "Scoped published combat research remains separate from release qualification. Exact regulation, complete combat table and calibrated marker pending."
       ]
     },
     {
@@ -926,12 +939,17 @@
       "directions": "Enter the mining tunnel in the ravine below the plateau; descend to the final chamber.",
       "conditions": "Optional dungeon.",
       "combat": "Heavy axe sweeps, jumping slams and broad combos.",
-      "strategy": "Wait through the wind-up, roll into the committed swing and counter from the side. Avoid trading with the axe if using a slow weapon.",
-      "rewards": "Rusted Anchor.",
+      "strategy": "Wait through the wind-up, roll into the committed swing and counter from the side. Avoid trading with the axe if using a slow weapon. Fire is a favorable damage type; use short attacks after a committed axe slam.",
+      "rewards": "Rusted Anchor; 2,000 runes (reported NG).",
       "preparation": "Level 20–30; upgraded weapon.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/guide/weeping-peninsula/bosses/",
-        "https://gamefaqs.gamespot.com/ps5/323053-elden-ring/faqs/80028/dungeon-bosses"
+        "https://gamefaqs.gamespot.com/ps5/323053-elden-ring/faqs/80028/dungeon-bosses",
+        "https://eldenring.wiki.gg/wiki/Misbegotten",
+        "https://rankedboost.com/elden-ring/scaly-misbegotten/",
+        "https://lorearmory.com/eldenring/bosses/",
+        "https://eldenringpoisewiki.fun/",
+        "https://www.gamerguides.com/elden-ring/database/bosses/weeping-peninsula-bosses/scaly-misbegotten"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -941,8 +959,7 @@
         "statusThresholds": null
       },
       "unresolved": [
-        "Exact NG numerical combat data and rune reward require independent patch-specific verification.",
-        "Confirm grace, entrance, summon and critical eligibility before publication."
+        "Scoped published combat research remains separate from release qualification. Exact regulation, complete combat table and calibrated marker pending."
       ]
     },
     {
@@ -1287,13 +1304,18 @@
       "directions": "Ride the rising blade to the upper corridor and find the illusory wall leading to the hidden fog.",
       "conditions": "Separate from the main Cemetery Shade encounter.",
       "combat": "Quick knife chains, evasive steps and grab.",
-      "strategy": "Do not chase every retreat. Punish a completed lunge or stagger with fast heavy attacks.",
-      "rewards": "Assassin's Cerulean Dagger; Black Knifeprint.",
+      "strategy": "Do not chase every retreat. Punish a completed lunge or stagger with fast heavy attacks. D, Hunter of the Dead may assist. The hidden chapel and main catacomb boss are separate encounters.",
+      "rewards": "Assassin's Cerulean Dagger; Black Knifeprint; 4,200 runes (reported NG).",
       "preparation": "Level 35–50; quick weapon.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/guide/liurnia-of-the-lakes/bosses/",
         "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
-        "https://plarium.com/en/blog/elden-ring-boss-locations/"
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://eldenring.wiki.gg/wiki/Black_Knife_Assassin",
+        "https://eldenring.fandom.com/wiki/Black_Knife_Assassin",
+        "https://tarnished.app/enemies/black-knife-assassin",
+        "https://eldenringpoisewiki.fun/",
+        "https://eldenring.wiki.gg/wiki/Black_Knife_Catacombs"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -1303,8 +1325,8 @@
         "statusThresholds": null
       },
       "unresolved": [
-        "Verify exact current-patch NG statistics, rune rewards and source-specific details per encounter.",
-        "Confirm nearest grace, entrance route, summon and critical eligibility."
+        "Scoped published combat research remains separate from release qualification. Exact regulation, complete combat table and calibrated marker pending.",
+        "Independent numerical reproduction pending; research values not final."
       ]
     },
     {
@@ -1313,13 +1335,17 @@
       "directions": "Operate the main boss-door lever and return to the lower fog.",
       "conditions": "Main dungeon boss; skeletons accompany it.",
       "combat": "Teleporting blades and binding projectile.",
-      "strategy": "Clear or distract the skeletons, dodge the binding shot, and burst down the fragile shade during its recovery.",
-      "rewards": "Twinsage Sorcerer Ashes.",
+      "strategy": "Clear or distract the skeletons, dodge the binding shot, and burst down the fragile shade during its recovery. Holy damage is favored; avoid spending the whole fight chasing skeletons. The main boss has its own completion ID.",
+      "rewards": "Twinsage Sorcerer Ashes; 3,500 runes (reported NG).",
       "preparation": "Level 35–45; bleed protection.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/guide/liurnia-of-the-lakes/bosses/",
         "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
-        "https://plarium.com/en/blog/elden-ring-boss-locations/"
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://eldenring.wiki.gg/wiki/Cemetery_Shade",
+        "https://tarnished.app/enemies/cemetery-shade",
+        "https://eldenring.fandom.com/wiki/Cemetery_Shade",
+        "https://eldenring.wiki.gg/wiki/Black_Knife_Catacombs"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -1329,8 +1355,7 @@
         "statusThresholds": null
       },
       "unresolved": [
-        "Verify exact current-patch NG statistics, rune rewards and source-specific details per encounter.",
-        "Confirm nearest grace, entrance route, summon and critical eligibility."
+        "Scoped published combat research remains separate from release qualification. Exact regulation, complete combat table and calibrated marker pending."
       ]
     },
     {
@@ -1997,13 +2022,17 @@
       "directions": "Enter the southern cliffs near the Cathedral of Dragon Communion, find the lever and return to the fog.",
       "conditions": "Optional dungeon.",
       "combat": "Rapid teleporting blade attacks and immobilizing projectile.",
-      "strategy": "Avoid the binding projectile, then close on the shade during recovery. Do not chase a teleport into a blind corner; use quick attacks.",
-      "rewards": "Kindred of Rot Ashes.",
+      "strategy": "Avoid the binding projectile, then close on the shade during recovery. Do not chase a teleport into a blind corner; use quick attacks. Holy damage is favored; status effects are ineffective according to published tables. Do not transfer the HP from the earlier catacombs.",
+      "rewards": "Kindred of Rot Ashes; 6,800 runes (reported NG).",
       "preparation": "Level 45–60; bleed protection.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/database/bosses/caelid-bosses",
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
-        "https://www.gamerguides.com/elden-ring/database/locations/caelid"
+        "https://www.gamerguides.com/elden-ring/database/locations/caelid",
+        "https://eldenring.wiki.gg/wiki/Cemetery_Shade",
+        "https://eldenring.fandom.com/wiki/Cemetery_Shade",
+        "https://tarnished.app/enemies/cemetery-shade",
+        "https://www.neoseeker.com/elden-ring/Bosses/Cemetery_Shade"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -2013,8 +2042,8 @@
         "statusThresholds": null
       },
       "unresolved": [
-        "Confirm exact NG numerical statistics and patch-dependent reward values.",
-        "Verify route, summon eligibility and exact source-specific details."
+        "Scoped published combat research remains separate from release qualification. Exact regulation, complete combat table and calibrated marker pending.",
+        "Independent numerical reproduction pending; research values not final."
       ]
     },
     {
@@ -2856,13 +2885,18 @@
       "directions": "Explore the hidden wall network to reach the second boss chamber.",
       "conditions": "Invisible assassin; separate from Garris.",
       "combat": "Invisible movement, knife attacks and grabs.",
-      "strategy": "Use a Sentry's Torch if available, or watch splashes and summon targeting. Punish a committed attack rather than swinging randomly.",
-      "rewards": "Concealing Veil.",
+      "strategy": "Use a Sentry's Torch if available, or watch splashes and summon targeting. Punish a committed attack rather than swinging randomly. Sentry's Torch reveals her; water movement is a fallback cue. Do not confuse this fight with Necromancer Garris.",
+      "rewards": "Concealing Veil; 9,000 runes (reported NG).",
       "preparation": "Level 55–75; Sentry's Torch.",
       "sources": [
         "https://www.gamerguides.com/elden-ring/database/bosses/altus-plateau-bosses",
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
-        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list"
+        "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+        "https://eldenring.fandom.com/wiki/Black_Knife_Assassin",
+        "https://eldenring.wiki.gg/wiki/Black_Knife_Assassin",
+        "https://tarnished.app/enemies/black-knife-assassin",
+        "https://eldenringpoisewiki.fun/",
+        "https://www.neoseeker.com/elden-ring/Bosses/Black_Knife_Assassins"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -2872,8 +2906,8 @@
         "statusThresholds": null
       },
       "unresolved": [
-        "Confirm exact current-patch numerical combat statistics and reward values.",
-        "Verify grace, access route and combat eligibility against individual encounter sources."
+        "Scoped published combat research remains separate from release qualification. Exact regulation, complete combat table and calibrated marker pending.",
+        "Independent numerical reproduction pending; research values not final."
       ]
     },
     {

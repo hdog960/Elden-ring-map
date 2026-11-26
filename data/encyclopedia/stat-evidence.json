@@ -821,6 +821,173 @@
         "https://www.pureeldenring.com/npcs/mad-pumpkin-head-flail-boss-limgrave-waypoint-ruins"
       ],
       "note": "Two indexed location-specific displayed HP sources agree 1328; stance 65 corroborated by both. Pure Elden Ring lists 664 in an NPC HP field, scale semantics unverified; not treated as directly comparable displayed boss HP. Gamer Guides corroborates reward. Exact regulation unverified."
+    },
+    {
+      "id": "er:b-tombsward-shade",
+      "scope": "Tombsward Catacombs solo NG; not other Cemetery Shades",
+      "health": 781,
+      "stance": 70,
+      "runes": 2200,
+      "negations": {
+        "standard": 10,
+        "slash": 10,
+        "strike": 10,
+        "pierce": 35,
+        "magic": 0,
+        "fire": 0,
+        "lightning": 0,
+        "holy": -20
+      },
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Cemetery_Shade",
+        "https://tarnished.app/enemies/cemetery-shade",
+        "https://eldenring.fandom.com/wiki/Cemetery_Shade",
+        "https://rankedboost.com/elden-ring/cemetery-shade/",
+        "https://eip.gg/elden-ring/guides/weeping-peninsula-boss-guides/"
+      ],
+      "note": "Location-specific HP and rune evidence in Eldenpedia and Tarnished.app indexed variant; RankedBoost concurs. Family stance and negations supported by Tarnished.app. Exact regulation unverified."
+    },
+    {
+      "id": "er:b-blackknife-shade",
+      "scope": "Black Knife Catacombs main arena solo NG; shade only, excludes summoned skeletons and hidden Assassin",
+      "health": 691,
+      "stance": 70,
+      "runes": 3500,
+      "negations": {
+        "standard": 10,
+        "slash": 10,
+        "strike": 10,
+        "pierce": 35,
+        "magic": 0,
+        "fire": 0,
+        "lightning": 0,
+        "holy": -20
+      },
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Cemetery_Shade",
+        "https://tarnished.app/enemies/cemetery-shade",
+        "https://eldenring.fandom.com/wiki/Cemetery_Shade",
+        "https://eldenring.wiki.gg/wiki/Black_Knife_Catacombs"
+      ],
+      "note": "Eldenpedia location-specific table and Tarnished.app full solo table agree HP/runes/negations; Fandom mirrors location values. Exact regulation unverified."
+    },
+    {
+      "id": "er:b-caelid-shade",
+      "scope": "Caelid Catacombs solo NG; excludes Tombsward, Black Knife and ordinary shades",
+      "health": 1467,
+      "stance": 70,
+      "runes": 6800,
+      "negations": {
+        "standard": 10,
+        "slash": 10,
+        "strike": 10,
+        "pierce": 35,
+        "magic": 0,
+        "fire": 0,
+        "lightning": 0,
+        "holy": -20
+      },
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Cemetery_Shade",
+        "https://eldenring.fandom.com/wiki/Cemetery_Shade",
+        "https://tarnished.app/enemies/cemetery-shade",
+        "https://www.neoseeker.com/elden-ring/Bosses/Cemetery_Shade"
+      ],
+      "note": "Indexed Eldenpedia and Fandom tables give matching location HP/runes; these wikis may share lineage, so independent HP reproduction remains pending. Tarnished.app family stance and damage table corroborate general combat properties. Exact regulation unverified."
+    },
+    {
+      "id": "er:b-deathtouched-assassin",
+      "scope": "Deathtouched Catacombs solo NG maximum HP; starts at about 60% of maximum",
+      "health": 1668,
+      "stance": 80,
+      "runes": 1600,
+      "negations": {
+        "standard": 10,
+        "slash": 10,
+        "strike": 10,
+        "pierce": 35,
+        "magic": 20,
+        "fire": 20,
+        "lightning": 20,
+        "holy": 40
+      },
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Black_Knife_Assassin",
+        "https://tarnished.app/enemies/black-knife-assassin",
+        "https://eldenring.fandom.com/wiki/Black_Knife_Assassin",
+        "https://eldenringpoisewiki.fun/",
+        "https://www.gamerguides.com/elden-ring/guide/limgrave/bosses/how-to-beat-beastman-of-farum-azula-in-groveside-cave/"
+      ],
+      "note": "Indexed wiki and variant-specific Tarnished.app agree maximum HP and reward; independent poise index identifies Limgrave boss stance. Starts wounded; do not use full HP as damage required. Exact regulation unverified."
+    },
+    {
+      "id": "er:b-blackknife-assassin",
+      "scope": "Black Knife Catacombs hidden chapel solo NG; not main Cemetery Shade",
+      "health": 3312,
+      "stance": 80,
+      "runes": 4200,
+      "negations": {
+        "standard": 10,
+        "slash": 10,
+        "strike": 10,
+        "pierce": 35,
+        "magic": 20,
+        "fire": 20,
+        "lightning": 20,
+        "holy": 40
+      },
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Black_Knife_Assassin",
+        "https://eldenring.fandom.com/wiki/Black_Knife_Assassin",
+        "https://tarnished.app/enemies/black-knife-assassin",
+        "https://eldenringpoisewiki.fun/",
+        "https://eldenring.wiki.gg/wiki/Black_Knife_Catacombs"
+      ],
+      "note": "Indexed location-specific wiki tables agree HP and runes but may share lineage; independent HP reproduction pending. Family stance corroborated by Tarnished.app and Poise Wiki. Exact regulation unverified."
+    },
+    {
+      "id": "er:b-sages-assassin",
+      "scope": "Sage's Cave invisible assassin, solo NG; not Necromancer Garris or other assassins",
+      "health": 3929,
+      "stance": 80,
+      "runes": 9000,
+      "sources": [
+        "https://eldenring.fandom.com/wiki/Black_Knife_Assassin",
+        "https://eldenring.wiki.gg/wiki/Black_Knife_Assassin",
+        "https://tarnished.app/enemies/black-knife-assassin",
+        "https://eldenringpoisewiki.fun/",
+        "https://www.neoseeker.com/elden-ring/Bosses/Black_Knife_Assassins"
+      ],
+      "note": "Indexed Fandom location table reports 3929 HP and 9000 reward; Eldenpedia family index and independent encounter guide support distinct identity; second independent location-specific numerical table remains pending. Family stance supported by two sources. Exact regulation unverified."
+    },
+    {
+      "id": "er:b-morne-scaly",
+      "scope": "Morne Tunnel boss solo NG; not ordinary Scaly Misbegotten or Leonine Misbegotten",
+      "health": 1360,
+      "stance": 65,
+      "runes": 2000,
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Misbegotten",
+        "https://rankedboost.com/elden-ring/scaly-misbegotten/",
+        "https://lorearmory.com/eldenring/bosses/",
+        "https://eldenringpoisewiki.fun/",
+        "https://www.gamerguides.com/elden-ring/database/bosses/weeping-peninsula-bosses/scaly-misbegotten"
+      ],
+      "note": "Location-specific Eldenpedia, RankedBoost and indexed Lore Armory agree HP; Lore Armory and Poise Wiki agree stance. Gamer Guides confirms reward. Exact regulation unverified."
+    },
+    {
+      "id": "er:b-weeping-zamor",
+      "scope": "Weeping Evergaol solo NG; excludes Sainted and Giant-Conquering Hero's Graves",
+      "health": 2570,
+      "stance": 80,
+      "runes": 5400,
+      "sources": [
+        "https://eldenring.fandom.com/wiki/Ancient_Hero_of_Zamor",
+        "https://tarnished.app/enemies/ancient-hero-of-zamor",
+        "https://lorearmory.com/eldenring/bosses/",
+        "https://www.neoseeker.com/elden-ring/Bosses/Ancient_Hero_of_Zamor"
+      ],
+      "note": "Indexed Fandom and Tarnished.app location-specific tables agree HP and runes; family stance supported by Tarnished.app and Lore Armory. Exact regulation unverified."
     }
   ],
   "limitations": [
