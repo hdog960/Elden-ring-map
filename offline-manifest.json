@@ -1,5 +1,5 @@
 {
-  "version": "session40-20261126-a",
+  "version": "session41-20261126-a",
   "releaseReady": false,
   "assets": [
     {
@@ -84,7 +84,7 @@
     },
     {
       "path": "data/encyclopedia/drafts.json",
-      "gitBlob": "18f450f32aefd38623f3f7b16519c516a7793be8"
+      "gitBlob": "7e0b8f6c3b3d97186c84856c0be6fb2109a475dc"
     },
     {
       "path": "data/encyclopedia/stat-evidence.json",
@@ -116,7 +116,7 @@
     },
     {
       "path": "src/app.js",
-      "gitBlob": "07436b1e60c7b9caa86accca1187f99c822131ae"
+      "gitBlob": "2aa426d81b77a3d55f1263070081c7181859f0be"
     },
     {
       "path": "src/atlas-preview.js",
@@ -176,7 +176,7 @@
     },
     {
       "path": "src/release-evidence.js",
-      "gitBlob": "eb227a12243baf7412aa94c32028b46ac59664aa"
+      "gitBlob": "cfdc4587fffc706b5b1bb6c839f89bfae7b0ecb8"
     },
     {
       "path": "src/save-model.js",

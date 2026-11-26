@@ -101,3 +101,6 @@ Six scoped records and nine guide refinements. Evidence strength explicitly labe
 
 ## Session 40
 All 42 remaining extended stable IDs classified (291/291 current registry). Archived checklist reconciled 210/210 rows, 208 distinct IDs. Eight golems and four lesser hippos distinguished; two river hippo and three White Mask individual mappings held separately. Three source inventories unresolved; no final completeness, production admission, or guide/geography promotion.
+
+## Session 41
+Current 291 classifications unchanged. Explicit historical and grouped mapping holds now block release validator directly, even if catalog readiness flags are toggled. Three unresolved source inventories remain. No census expansion or production admission.

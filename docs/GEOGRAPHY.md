@@ -45,3 +45,6 @@ Authenticated exact parent screenshot artifact #15086114301 SHA256 c94a2192836d9
 
 ## Session 18
 Exact parent artifact #15086314268 SHA256 221966c01f5757cff81e185c68c7e42a1c4d8c6f1e8bc9211b1e9f7091827aa2 authenticated; ZIP CRC clean; five portrait and one landscape PNG visually inspected. Camera centered, labels readable, markers still overlapping across adjacent grid cells; deterministic neighbor merge implemented with minimum 52 CSS px center spacing, native regression and browser spacing gate. No new independently cleared terrain data acquired; fresh terrain search returned game-install extraction approaches, not a reusable verified vector dataset. Genuine next input is an independent surveyed geometry dataset, not another generic search or guessed coastline. Existing 205 associations/199 projections unchanged.
+
+## Session 41
+No new survey observations or terrain, no repeated geography searches. Read-only readiness report partitions actual existing atlas into 199 projected candidates, six associated/unplaced, 86 unassociated and zero admitted positions; per-encounter reasons and explicit holds retained. Required per-layer calibration still three independent fitting anchors and two separate holdouts plus surveyed land geometry and rights review. Do not use candidate points as independent anchor observations.

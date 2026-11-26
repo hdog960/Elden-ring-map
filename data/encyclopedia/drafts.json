@@ -6,14 +6,17 @@
       "id": "er:b-margit",
       "grace": "Castleward Tunnel",
       "directions": "Follow the tunnel toward Stormveil's fog gate.",
-      "conditions": "Optional for overall story progression; required for the ordinary front route into Stormveil.",
+      "conditions": "Optional for overall story progression; required for the ordinary front route into Stormveil. Published NPC summon: Sorcerer Rogier, near fog gate; summon availability and exact current patch still to verify.",
       "combat": "Delayed cane strikes, light blades and a later hammer leap. Do not dodge on wind-up alone.",
       "strategy": "Roll into the final swing of a chain; punish hammer landings with a charged attack. Ranged builds should cast after a committed leap, not during his dagger throws. Margit's Shackle can create openings early.",
       "rewards": "Talisman Pouch; 12,000 runes.",
       "preparation": "Suggested level 20–30, standard weapon +3 to +5; prioritize vigor.",
       "sources": [
         "https://eldenring.wiki.gg/wiki/Margit",
-        "https://www.gamerguides.com/elden-ring/guide/limgrave/bosses/"
+        "https://www.gamerguides.com/elden-ring/guide/limgrave/bosses/",
+        "https://eip.gg/elden-ring/guides/limgrave-boss-guides/",
+        "https://roundtablehold.net/checklists/bosses.html",
+        "https://eip.gg/elden-ring/guides/how-to-beat-margit-the-fell-omen-boss/"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -24,21 +27,24 @@
       },
       "unresolved": [
         "Exact NG health, stance and damage/status tables require version-specific independent verification.",
-        "Full summon/parry/critical eligibility and exact entrance calibration require review."
+        "Full summon/parry/critical eligibility and exact entrance calibration require review.",
+        "Session 41 matched named reward and rune reports; published summon availability reviewed, but regulation 1.17.3 and exact eligibility have not been independently verified."
       ]
     },
     {
       "id": "er:b-godrick",
       "grace": "Secluded Cell",
       "directions": "Leave the grace and enter the nearby boss fog.",
-      "conditions": "Reach Stormveil's inner courtyard; optional shardbearer in the broader story.",
+      "conditions": "Reach Stormveil's inner courtyard; optional shardbearer in the broader story. Nepheli Loux is reported as an available NPC summon; speak to her before the fight. Availability depends on quest progress; current patch verification pending.",
       "combat": "Axe chains, wind bursts and a second phase with a dragon arm that breathes fire.",
       "strategy": "Wait out the wind-up and move toward his flank after the rolling leap. During the transition's fire attack, close distance around the side rather than retreat straight through the flames. Use fast ranged casts after his axe slams.",
       "rewards": "Godrick's Great Rune; Remembrance of the Grafted; 20,000 runes.",
       "preparation": "Suggested level 30–40, standard weapon +5 to +8. Bleed may help.",
       "sources": [
         "https://eldenring.wiki.gg/wiki/Godrick_the_Grafted",
-        "https://www.eldenringwiki.cc/boss-quick-reference/"
+        "https://www.eldenringwiki.cc/boss-quick-reference/",
+        "https://eip.gg/elden-ring/guides/limgrave-boss-guides/",
+        "https://roundtablehold.net/checklists/bosses.html"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -49,7 +55,8 @@
       },
       "unresolved": [
         "Exact NG health, stance and damage/status tables require version-specific independent verification.",
-        "Full summon/parry/critical eligibility and exact entrance calibration require review."
+        "Full summon/parry/critical eligibility and exact entrance calibration require review.",
+        "Session 41 matched named reward and rune reports; published summon availability reviewed, but regulation 1.17.3 and exact eligibility have not been independently verified."
       ]
     },
     {
@@ -2031,7 +2038,7 @@
       "id": "er:b-raya-wolf",
       "grace": "Schoolhouse Classroom",
       "directions": "Follow academy school rooms and stairs to the Debate Parlor fog.",
-      "conditions": "Legacy dungeon encounter.",
+      "conditions": "Legacy dungeon encounter. Spirit summons are reported available; fast projectiles and short recovery windows favor short attack commitments.",
       "combat": "Fast leaps, magic sword and delayed projectiles.",
       "strategy": "Watch floating projectiles while tracking the wolf; counter after a committed leap with quick attacks. Slash attacks have favorable negation; its high stance and short openings favor fast attacks over forcing a break.",
       "rewards": "Memory Stone; 14,000 runes (reported NG).",
@@ -2042,7 +2049,9 @@
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
         "https://www.dexerto.com/elden-ring/how-to-beat-red-wolf-of-radagon-in-elden-ring-1771010/",
         "https://www.pureeldenring.com/bosses/red-wolf-of-ragadon",
-        "https://lorearmory.com/eldenring/bosses/"
+        "https://lorearmory.com/eldenring/bosses/",
+        "https://eip.gg/elden-ring/guides/liurnia-of-the-lakes-boss-guides/",
+        "https://roundtablehold.net/checklists/bosses.html"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -2052,14 +2061,15 @@
         "statusThresholds": null
       },
       "unresolved": [
-        "Exact regulation, complete combat table and independently calibrated map position remain unqualified. Scoped numerical evidence is available in research."
+        "Exact regulation, complete combat table and independently calibrated map position remain unqualified. Scoped numerical evidence is available in research.",
+        "Session 41 matched named reward and rune reports; published summon availability reviewed, but regulation 1.17.3 and exact eligibility have not been independently verified."
       ]
     },
     {
       "id": "er:b-rennala",
       "grace": "Debate Parlor",
       "directions": "Cross the academy courtyard and lift toward the Grand Library.",
-      "conditions": "Shardbearer; two phases counted once.",
+      "conditions": "Shardbearer; two phases counted once. Spirit summons are reported available. Physical attacks are generally preferable to magic in this encounter; target the glowing singing students before attacking Rennala.",
       "combat": "Shield-bearing students, then sorcery beams, moon and summons.",
       "strategy": "Hit singing glowing students until shield falls, then burst damage. In phase two close diagonally and punish spell recovery; evade summons until gone.",
       "rewards": "Great Rune of the Unborn; Remembrance of the Full Moon Queen; 40,000 runes (reported NG).",
@@ -2069,7 +2079,8 @@
         "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
         "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
-        "https://roundtablehold.net/checklists/bosses.html"
+        "https://roundtablehold.net/checklists/bosses.html",
+        "https://eip.gg/elden-ring/guides/liurnia-of-the-lakes-boss-guides/"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -2081,14 +2092,15 @@
       "unresolved": [
         "Verify exact current-patch NG statistics, rune rewards and source-specific details per encounter.",
         "Confirm nearest grace, entrance route, summon and critical eligibility.",
-        "Session 34 reward review: Published encounter-specific values agree; independence and exact regulation not established."
+        "Session 34 reward review: Published encounter-specific values agree; independence and exact regulation not established.",
+        "Session 41 matched named reward and rune reports; published summon availability reviewed, but regulation 1.17.3 and exact eligibility have not been independently verified."
       ]
     },
     {
       "id": "er:b-makar",
       "grace": "Ruin-Strewn Precipice Overlook",
       "directions": "Climb the northern ravine mining route to the final overlook fog.",
-      "conditions": "Optional route into Altus.",
+      "conditions": "Optional route into Altus. Spirit summons are reported available. This encounter is an alternate route to Altus Plateau; do not enter the lava trails.",
       "combat": "Magma trails, sword slams and charge.",
       "strategy": "Do not follow the magma charge. Wait beside its path and punish the head or legs after the slam.",
       "rewards": "Magma Wyrm's Scalesword; Dragon Heart; 24,000 runes (reported NG).",
@@ -2098,7 +2110,8 @@
         "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
         "https://plarium.com/en/blog/elden-ring-boss-locations/",
         "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
-        "https://roundtablehold.net/checklists/bosses.html"
+        "https://roundtablehold.net/checklists/bosses.html",
+        "https://eip.gg/elden-ring/guides/liurnia-of-the-lakes-boss-guides/"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -2110,7 +2123,8 @@
       "unresolved": [
         "Verify exact current-patch NG statistics, rune rewards and source-specific details per encounter.",
         "Confirm nearest grace, entrance route, summon and critical eligibility.",
-        "Session 34 reward review: Published encounter-specific values agree; independence and exact regulation not established."
+        "Session 34 reward review: Published encounter-specific values agree; independence and exact regulation not established.",
+        "Session 41 matched named reward and rune reports; published summon availability reviewed, but regulation 1.17.3 and exact eligibility have not been independently verified."
       ]
     },
     {
