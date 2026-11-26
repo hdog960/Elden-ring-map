@@ -104,3 +104,6 @@ All 42 remaining extended stable IDs classified (291/291 current registry). Arch
 
 ## Session 41
 Current 291 classifications unchanged. Explicit historical and grouped mapping holds now block release validator directly, even if catalog readiness flags are toggled. Three unresolved source inventories remain. No census expansion or production admission.
+
+## Session 42
+Entire retrieved historical invasion page reconciled: 15 headings, 19 location-specific rows, all 19 existing extended IDs. No current-patch completeness or individual White Mask mapping claim. Two community flag inventories remain unresolved; all 21 held IDs unchanged. No new IDs or publication.

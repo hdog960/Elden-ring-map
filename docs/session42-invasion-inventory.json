@@ -1,0 +1,187 @@
+{
+  "schema": 1,
+  "status": "source-row-reconciled-not-release",
+  "source": "https://video-game-guide-walkthrough.supersoluce.com/solution/elden-ring-guide-walkthrough/summons-and-invasions/invasions/",
+  "retrieved": "2026-11-26",
+  "published": "2022-06-01 (source display 06/01/2022)",
+  "scope": "Entire encounter list, lines 24–162; 15 headings expanded to 19 rows. No claim of full current game census.",
+  "records": [
+    {
+      "id": "er:b-inv-nerijus",
+      "sourceHeadingLocation": "Murkwater river",
+      "locator": "Retrieved lines 24–28; source heading and location",
+      "principalRewardReported": "Reduvia",
+      "classification": "extended",
+      "status": "named-row-correspondence",
+      "currentRegulationVerified": false
+    },
+    {
+      "id": "er:b-inv-henricus",
+      "sourceHeadingLocation": "Stormhill arena approach",
+      "locator": "Retrieved lines 32–36; source heading and location",
+      "principalRewardReported": "Hammer Talisman",
+      "classification": "extended",
+      "status": "named-row-correspondence",
+      "currentRegulationVerified": false
+    },
+    {
+      "id": "er:b-inv-alberich",
+      "sourceHeadingLocation": "Roundtable lower hall",
+      "locator": "Retrieved lines 40–44; source heading and location",
+      "principalRewardReported": "Taunter's Tongue",
+      "classification": "extended",
+      "status": "named-row-correspondence",
+      "currentRegulationVerified": false
+    },
+    {
+      "id": "er:b-inv-anastasia-church",
+      "sourceHeadingLocation": "Smoldering Church",
+      "locator": "Retrieved lines 47–53; source heading and location",
+      "principalRewardReported": "Sacred Scorpion Charm",
+      "classification": "extended",
+      "status": "named-row-correspondence",
+      "currentRegulationVerified": false
+    },
+    {
+      "id": "er:b-inv-anastasia-shack",
+      "sourceHeadingLocation": "Corpse-Stench Shack",
+      "locator": "Retrieved lines 55–59; source heading and location",
+      "principalRewardReported": "Butchering Knife",
+      "classification": "extended",
+      "status": "named-row-correspondence",
+      "currentRegulationVerified": false
+    },
+    {
+      "id": "er:b-inv-anastasia-snow",
+      "sourceHeadingLocation": "Consecrated Snowfield",
+      "locator": "Retrieved lines 61–65; source heading and location",
+      "principalRewardReported": "Somber Ancient Dragon Smithing Stone",
+      "classification": "extended",
+      "status": "named-row-correspondence",
+      "currentRegulationVerified": false
+    },
+    {
+      "id": "er:b-inv-edgar",
+      "sourceHeadingLocation": "Revenger's Shack",
+      "locator": "Retrieved lines 68–72; source heading and location",
+      "principalRewardReported": "Banished Knight's Halberd +8",
+      "classification": "extended",
+      "status": "named-row-correspondence",
+      "currentRegulationVerified": false
+    },
+    {
+      "id": "er:b-inv-vyke",
+      "sourceHeadingLocation": "Church of Inhibition",
+      "locator": "Retrieved lines 76–80; source heading and location",
+      "principalRewardReported": "Vyke's War Spear",
+      "classification": "extended",
+      "status": "named-row-correspondence",
+      "currentRegulationVerified": false
+    },
+    {
+      "id": "er:b-inv-ghiza",
+      "sourceHeadingLocation": "Volcano Manor upper floor",
+      "locator": "Retrieved lines 84–88; source heading and location",
+      "principalRewardReported": "Ghiza's Wheel",
+      "classification": "extended",
+      "status": "named-row-correspondence",
+      "currentRegulationVerified": false
+    },
+    {
+      "id": "er:b-inv-eleonora",
+      "sourceHeadingLocation": "Second Church of Marika",
+      "locator": "Retrieved lines 91–95; source heading and location",
+      "principalRewardReported": "Eleonora's Poleblade",
+      "classification": "extended",
+      "status": "named-row-correspondence",
+      "currentRegulationVerified": false
+    },
+    {
+      "id": "er:b-inv-dungeater",
+      "sourceHeadingLocation": "Capital moat",
+      "locator": "Retrieved lines 99–103; source heading and location",
+      "principalRewardReported": "Sword of Milos",
+      "classification": "extended",
+      "status": "named-row-correspondence",
+      "currentRegulationVerified": false
+    },
+    {
+      "id": "er:b-inv-tanith-knight",
+      "sourceHeadingLocation": "Rykard arena",
+      "locator": "Retrieved lines 107–111; source heading and location",
+      "principalRewardReported": "Aspects of the Crucible: Breath",
+      "classification": "extended",
+      "status": "named-row-correspondence",
+      "currentRegulationVerified": false
+    },
+    {
+      "id": "er:b-inv-millicent",
+      "sourceHeadingLocation": "Aeonia swamp",
+      "locator": "Retrieved lines 114–118; source heading and location",
+      "principalRewardReported": "Sacramental Buds and Golden Runes",
+      "classification": "extended",
+      "status": "named-row-correspondence",
+      "currentRegulationVerified": false
+    },
+    {
+      "id": "er:b-inv-okina",
+      "sourceHeadingLocation": "Church of Repose",
+      "locator": "Retrieved lines 122–126; source heading and location",
+      "principalRewardReported": "Rivers of Blood",
+      "classification": "extended",
+      "status": "named-row-correspondence",
+      "currentRegulationVerified": false
+    },
+    {
+      "id": "er:b-inv-bernahl",
+      "sourceHeadingLocation": "Farum Azula tower approach",
+      "locator": "Retrieved lines 130–134; source heading and location",
+      "principalRewardReported": "Blasphemous Claw",
+      "classification": "extended",
+      "status": "named-row-correspondence",
+      "currentRegulationVerified": false
+    },
+    {
+      "id": "er:b-inv-sanguine",
+      "sourceHeadingLocation": "Western Consecrated Snowfield",
+      "locator": "Retrieved lines 137–141; source heading and location",
+      "principalRewardReported": "Sanguine Noble set",
+      "classification": "extended",
+      "status": "named-row-correspondence",
+      "currentRegulationVerified": false
+    },
+    {
+      "id": "er:b-inv-whitemask-one",
+      "sourceHeadingLocation": "Southern blood lake approach",
+      "locator": "Retrieved lines 144–150; source heading and location",
+      "principalRewardReported": null,
+      "classification": "extended",
+      "status": "group-row-correspondence-only",
+      "currentRegulationVerified": false
+    },
+    {
+      "id": "er:b-inv-whitemask-two",
+      "sourceHeadingLocation": "Southeast blood lake",
+      "locator": "Retrieved lines 152–156; source heading and location",
+      "principalRewardReported": null,
+      "classification": "extended",
+      "status": "group-row-correspondence-only",
+      "currentRegulationVerified": false
+    },
+    {
+      "id": "er:b-inv-whitemask-three",
+      "sourceHeadingLocation": "Southern blood lake basin",
+      "locator": "Retrieved lines 158–162; source heading and location",
+      "principalRewardReported": null,
+      "classification": "extended",
+      "status": "group-row-correspondence-only",
+      "currentRegulationVerified": false
+    }
+  ],
+  "remaining": [
+    "Current app/regulation and encounter-trigger qualification",
+    "Exact location calibration",
+    "White Mask individual trigger and reward assignment",
+    "No original-game client or save observation obtained"
+  ]
+}

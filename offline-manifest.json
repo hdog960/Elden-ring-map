@@ -1,5 +1,5 @@
 {
-  "version": "session41-20261126-a",
+  "version": "session42-20261126-a",
   "releaseReady": false,
   "assets": [
     {
@@ -76,7 +76,7 @@
     },
     {
       "path": "data/census/release-audit.json",
-      "gitBlob": "4262eedfa37398283759e40900ac18bb6d64ef6f"
+      "gitBlob": "b56c149ce7e979af8f720c0f918b46a5a4997030"
     },
     {
       "path": "data/census/stable-ids.json",
@@ -84,7 +84,7 @@
     },
     {
       "path": "data/encyclopedia/drafts.json",
-      "gitBlob": "7e0b8f6c3b3d97186c84856c0be6fb2109a475dc"
+      "gitBlob": "27154403e79807f67721bd0608e43b2f7ea36039"
     },
     {
       "path": "data/encyclopedia/stat-evidence.json",

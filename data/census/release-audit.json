@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "status": "research-not-reconciled",
-  "version": "session40-current-registry-classified",
+  "version": "session42-invasion-inventory-reconciled",
   "decisions": [
     {
       "id": "er:b-lakeside-bloodhound",
@@ -4772,6 +4772,10 @@
         {
           "url": "https://www.gamerguides.com/elden-ring/database/enemies/invaders",
           "locator": "Published NPC invader entry: Bloody Finger Nerijus / Murkwater river ravine"
+        },
+        {
+          "url": "https://video-game-guide-walkthrough.supersoluce.com/solution/elden-ring-guide-walkthrough/summons-and-invasions/invasions/",
+          "locator": "Retrieved lines 24–28; source heading and location"
         }
       ],
       "reviewScope": "census-classification-only",
@@ -4789,6 +4793,10 @@
         {
           "url": "https://www.gamerguides.com/elden-ring/database/enemies/invaders",
           "locator": "Published NPC invader entry: Anastasia, Tarnished-Eater / Smoldering Church"
+        },
+        {
+          "url": "https://video-game-guide-walkthrough.supersoluce.com/solution/elden-ring-guide-walkthrough/summons-and-invasions/invasions/",
+          "locator": "Retrieved lines 47–53; source heading and location"
         }
       ],
       "reviewScope": "census-classification-only",
@@ -4806,6 +4814,10 @@
         {
           "url": "https://www.gamerguides.com/elden-ring/database/enemies/invaders",
           "locator": "Published NPC invader entry: Anastasia, Tarnished-Eater / Corpse-Stench Shack"
+        },
+        {
+          "url": "https://video-game-guide-walkthrough.supersoluce.com/solution/elden-ring-guide-walkthrough/summons-and-invasions/invasions/",
+          "locator": "Retrieved lines 55–59; source heading and location"
         }
       ],
       "reviewScope": "census-classification-only",
@@ -4823,6 +4835,10 @@
         {
           "url": "https://www.gamerguides.com/elden-ring/database/enemies/invaders",
           "locator": "Published NPC invader entry: Anastasia, Tarnished-Eater / Frozen river southwest of Ordina"
+        },
+        {
+          "url": "https://video-game-guide-walkthrough.supersoluce.com/solution/elden-ring-guide-walkthrough/summons-and-invasions/invasions/",
+          "locator": "Retrieved lines 61–65; source heading and location"
         }
       ],
       "reviewScope": "census-classification-only",
@@ -4840,6 +4856,10 @@
         {
           "url": "https://www.gamerguides.com/elden-ring/database/enemies/invaders",
           "locator": "Published NPC invader entry: Edgar the Revenger / Revenger's Shack"
+        },
+        {
+          "url": "https://video-game-guide-walkthrough.supersoluce.com/solution/elden-ring-guide-walkthrough/summons-and-invasions/invasions/",
+          "locator": "Retrieved lines 68–72; source heading and location"
         }
       ],
       "reviewScope": "census-classification-only",
@@ -4857,6 +4877,10 @@
         {
           "url": "https://www.gamerguides.com/elden-ring/database/enemies/invaders",
           "locator": "Published NPC invader entry: Festering Fingerprint Vyke / Church of Inhibition"
+        },
+        {
+          "url": "https://video-game-guide-walkthrough.supersoluce.com/solution/elden-ring-guide-walkthrough/summons-and-invasions/invasions/",
+          "locator": "Retrieved lines 76–80; source heading and location"
         }
       ],
       "reviewScope": "census-classification-only",
@@ -4874,6 +4898,10 @@
         {
           "url": "https://www.gamerguides.com/elden-ring/database/enemies/invaders",
           "locator": "Published NPC invader entry: Millicent / Swamp of Aeonia"
+        },
+        {
+          "url": "https://video-game-guide-walkthrough.supersoluce.com/solution/elden-ring-guide-walkthrough/summons-and-invasions/invasions/",
+          "locator": "Retrieved lines 114–118; source heading and location"
         }
       ],
       "reviewScope": "census-classification-only",
@@ -4891,6 +4919,10 @@
         {
           "url": "https://www.gamerguides.com/elden-ring/database/enemies/invaders",
           "locator": "Published NPC invader entry: Eleonora, Violet Bloody Finger / Second Church of Marika"
+        },
+        {
+          "url": "https://video-game-guide-walkthrough.supersoluce.com/solution/elden-ring-guide-walkthrough/summons-and-invasions/invasions/",
+          "locator": "Retrieved lines 91–95; source heading and location"
         }
       ],
       "reviewScope": "census-classification-only",
@@ -4908,6 +4940,10 @@
         {
           "url": "https://www.gamerguides.com/elden-ring/database/enemies/invaders",
           "locator": "Published NPC invader entry: Recusant Bernahl / Tower beyond Beside the Great Bridge"
+        },
+        {
+          "url": "https://video-game-guide-walkthrough.supersoluce.com/solution/elden-ring-guide-walkthrough/summons-and-invasions/invasions/",
+          "locator": "Retrieved lines 130–134; source heading and location"
         }
       ],
       "reviewScope": "census-classification-only",
@@ -4925,6 +4961,10 @@
         {
           "url": "https://www.gamerguides.com/elden-ring/database/enemies/invaders",
           "locator": "Published NPC invader entry: Sanguine Noble / Western Consecrated Snowfield"
+        },
+        {
+          "url": "https://video-game-guide-walkthrough.supersoluce.com/solution/elden-ring-guide-walkthrough/summons-and-invasions/invasions/",
+          "locator": "Retrieved lines 137–141; source heading and location"
         }
       ],
       "reviewScope": "census-classification-only",
@@ -4942,6 +4982,10 @@
         {
           "url": "https://www.gamerguides.com/elden-ring/database/enemies/invaders",
           "locator": "Published NPC invader entry: Inquisitor Ghiza / Upper floor of Volcano Manor"
+        },
+        {
+          "url": "https://video-game-guide-walkthrough.supersoluce.com/solution/elden-ring-guide-walkthrough/summons-and-invasions/invasions/",
+          "locator": "Retrieved lines 84–88; source heading and location"
         }
       ],
       "reviewScope": "census-classification-only",
@@ -4959,6 +5003,10 @@
         {
           "url": "https://www.gamerguides.com/elden-ring/database/enemies/invaders",
           "locator": "Published NPC invader entry: Recusant Henricus / Colosseum approach north of Warmaster's Shack"
+        },
+        {
+          "url": "https://video-game-guide-walkthrough.supersoluce.com/solution/elden-ring-guide-walkthrough/summons-and-invasions/invasions/",
+          "locator": "Retrieved lines 32–36; source heading and location"
         }
       ],
       "reviewScope": "census-classification-only",
@@ -4976,6 +5024,10 @@
         {
           "url": "https://www.gamerguides.com/elden-ring/database/enemies/invaders",
           "locator": "Published NPC invader entry: Mad Tongue Alberich / Roundtable Hold lower hall"
+        },
+        {
+          "url": "https://video-game-guide-walkthrough.supersoluce.com/solution/elden-ring-guide-walkthrough/summons-and-invasions/invasions/",
+          "locator": "Retrieved lines 40–44; source heading and location"
         }
       ],
       "reviewScope": "census-classification-only",
@@ -4993,6 +5045,10 @@
         {
           "url": "https://www.gamerguides.com/elden-ring/database/enemies/invaders",
           "locator": "Published NPC invader entry: Dung Eater / Outer moat north of Leyndell"
+        },
+        {
+          "url": "https://video-game-guide-walkthrough.supersoluce.com/solution/elden-ring-guide-walkthrough/summons-and-invasions/invasions/",
+          "locator": "Retrieved lines 99–103; source heading and location"
         }
       ],
       "reviewScope": "census-classification-only",
@@ -5010,6 +5066,10 @@
         {
           "url": "https://www.gamerguides.com/elden-ring/database/enemies/invaders",
           "locator": "Published NPC invader entry: Bloody Finger Okina / Church of Repose"
+        },
+        {
+          "url": "https://video-game-guide-walkthrough.supersoluce.com/solution/elden-ring-guide-walkthrough/summons-and-invasions/invasions/",
+          "locator": "Retrieved lines 122–126; source heading and location"
         }
       ],
       "reviewScope": "census-classification-only",
@@ -5796,6 +5856,10 @@
         {
           "url": "https://www.holdtoreset.com/where-to-find-tanith-after-volcano-manor-in-elden-ring/",
           "locator": "Session 40 indexed post-Rykard knight defeat"
+        },
+        {
+          "url": "https://video-game-guide-walkthrough.supersoluce.com/solution/elden-ring-guide-walkthrough/summons-and-invasions/invasions/",
+          "locator": "Retrieved lines 107–111; source heading and location"
         }
       ],
       "reviewScope": "census-classification-only",
@@ -6156,6 +6220,10 @@
         {
           "url": "https://tarnished.app/enemies/nameless-white-mask",
           "locator": "Session 40 indexed three invasions and southern reward"
+        },
+        {
+          "url": "https://video-game-guide-walkthrough.supersoluce.com/solution/elden-ring-guide-walkthrough/summons-and-invasions/invasions/",
+          "locator": "Retrieved lines 144–150; source heading and location"
         }
       ],
       "reviewScope": "census-classification-only",
@@ -6174,6 +6242,10 @@
         {
           "url": "https://tarnished.app/enemies/nameless-white-mask",
           "locator": "Session 40 indexed three invasions and southern reward"
+        },
+        {
+          "url": "https://video-game-guide-walkthrough.supersoluce.com/solution/elden-ring-guide-walkthrough/summons-and-invasions/invasions/",
+          "locator": "Retrieved lines 152–156; source heading and location"
         }
       ],
       "reviewScope": "census-classification-only",
@@ -6192,6 +6264,10 @@
         {
           "url": "https://tarnished.app/enemies/nameless-white-mask",
           "locator": "Session 40 indexed three invasions and southern reward"
+        },
+        {
+          "url": "https://video-game-guide-walkthrough.supersoluce.com/solution/elden-ring-guide-walkthrough/summons-and-invasions/invasions/",
+          "locator": "Retrieved lines 158–162; source heading and location"
         }
       ],
       "reviewScope": "census-classification-only",
@@ -6527,10 +6603,10 @@
     },
     {
       "url": "https://video-game-guide-walkthrough.supersoluce.com/solution/elden-ring-guide-walkthrough/summons-and-invasions/invasions/",
-      "scope": "Selected base-game scripted invasions",
-      "reconciliation": "15 individually named encounters classified extended; full inventory not reconciled",
-      "evidence": "Session 39 decisions; additional unclassified candidates and inventory scope remain",
-      "unresolved": 1
+      "scope": "Complete retrieved 2022 base-game invasion page: 15 named headings, 19 location-specific encounter rows (three Anastasia and three White Mask rows)",
+      "reconciliation": "All 19 source rows correspond to 19 existing extended IDs; no new IDs, no claim of exhaustive game-wide invasions. White Mask group row coverage is distinct from individual trigger/reward verification.",
+      "evidence": "docs/session42-invasion-inventory.json; retrieved lines 24–162",
+      "unresolved": 0
     },
     {
       "url": "https://gamers.wiki/en/games/elden-ring/guides/elden-ring-shadow-of-the-erdtree-furnace-golem-guide",
@@ -6651,7 +6727,8 @@
     "Existing 291 stable IDs remain unchanged; all other candidates remain unadjudicated. No flag execution or coordinate promotion.",
     "Session 38 classifications are manually selected from published labels and archived checklist rows, not automatic matches. Source lineage is not proven; flags are descriptive evidence only. Several labels or duplicate candidate mappings conflict and remain held.",
     "Session 39 separates primary identity classification from flag/geography holds using encounter-specific guides; all original holds remain binding for production mapping or completion semantics. Extended classifications use archived individual records and selected invasion/contract references; no completeness assertion. No executable flags or automatic publication.",
-    "All current stable IDs have narrow classification decisions, but neither global census completeness nor final guide or geography qualification is established. Indexed excerpts are identified; archived sources were not all re-fetched. Preserve unregistered Logur, Tarnished Pack and prior candidate holds."
+    "All current stable IDs have narrow classification decisions, but neither global census completeness nor final guide or geography qualification is established. Indexed excerpts are identified; archived sources were not all re-fetched. Preserve unregistered Logur, Tarnished Pack and prior candidate holds.",
+    "Session 42 reconciles the complete historical invasion page as a scoped source inventory only; three White Mask mapping holds and all 16 historical plus two river hippo holds remain active. Two selected community flag inventories remain unresolved."
   ],
   "additionalMappingHolds": [
     {
