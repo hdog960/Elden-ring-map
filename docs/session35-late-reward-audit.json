@@ -1,0 +1,923 @@
+{
+  "schema": 1,
+  "status": "partial-research-not-final",
+  "scope": "Base-game late-region reward reports, retrieved PCGamesN and Roundtable sections; no independent extraction or version verification",
+  "records": [
+    {
+      "id": "er:b-lansseax",
+      "status": "matching-publications",
+      "runes": 60000,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Fetched lines 365–366"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Fetched lines 1863–1873"
+        }
+      ],
+      "note": "Final Rampartside encounter only; Abandoned Coffin retreat has zero reward (1907–1918).",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-sainted-zamor",
+      "status": "matching-publications",
+      "runes": 24000,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Fetched lines 361–362"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Fetched lines 1814–1822"
+        }
+      ],
+      "note": "Published encounter-specific reward reports agree; exact patch and independence not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-altus-beast",
+      "status": "matching-publications",
+      "runes": 11000,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Fetched lines 356–360"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Fetched lines 1851–1859"
+        }
+      ],
+      "note": "Published encounter-specific reward reports agree; exact patch and independence not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-godefroy",
+      "status": "matching-publications",
+      "runes": 26000,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Fetched lines 340–341"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Fetched lines 1613–1621"
+        }
+      ],
+      "note": "Published encounter-specific reward reports agree; exact patch and independence not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-dominula-apostle",
+      "status": "matching-publications",
+      "runes": 14000,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Fetched lines 324–326"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Fetched lines 1754–1762"
+        }
+      ],
+      "note": "Published encounter-specific reward reports agree; exact patch and independence not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-tricia-duo",
+      "status": "matching-publications",
+      "runes": 9400,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Fetched lines 367–368"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Fetched lines 1922–1932"
+        }
+      ],
+      "note": "Published encounter-specific reward reports agree; exact patch and independence not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-sanguine",
+      "status": "matching-publications",
+      "runes": 8800,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Fetched lines 348"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Fetched lines 1725–1736"
+        }
+      ],
+      "note": "Bloody Helice is chest loot.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-wyndham-watchdog",
+      "status": "matching-publications",
+      "runes": 12000,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Fetched lines 332–333"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Fetched lines 1950–1959"
+        }
+      ],
+      "note": "Published encounter-specific reward reports agree; exact patch and independence not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-wormface",
+      "status": "matching-publications",
+      "runes": 10000,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Fetched lines 349–351"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Fetched lines 1739–1749"
+        }
+      ],
+      "note": "Published encounter-specific reward reports agree; exact patch and independence not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-altus-sentinels",
+      "status": "matching-publications",
+      "runes": 20000,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Fetched lines 334–336"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Fetched lines 1877–1887"
+        }
+      ],
+      "note": "Published encounter-specific reward reports agree; exact patch and independence not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-capital-draconic",
+      "status": "matching-publications",
+      "runes": 50000,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Fetched lines 337–339"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Fetched lines 2287–2297"
+        }
+      ],
+      "note": "Published encounter-specific reward reports agree; exact patch and independence not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-capital-hunter",
+      "status": "matching-publications",
+      "runes": 20000,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Fetched lines 402–403"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Fetched lines 1892–1901"
+        }
+      ],
+      "note": "Published encounter-specific reward reports agree; exact patch and independence not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-capital-deathbird",
+      "status": "matching-publications",
+      "runes": 29000,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Fetched lines 424–425"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Fetched lines 2247–2258"
+        }
+      ],
+      "note": "Published encounter-specific reward reports agree; exact patch and independence not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-ordovis-duo",
+      "status": "matching-publications",
+      "runes": 28000,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Fetched lines 407–412"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Fetched lines 2313–2320"
+        }
+      ],
+      "note": "Published encounter-specific reward reports agree; exact patch and independence not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-sealed-onyx",
+      "status": "matching-publications",
+      "runes": 16000,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Fetched lines 418–419"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Fetched lines 2262–2269"
+        }
+      ],
+      "note": "Published encounter-specific reward reports agree; exact patch and independence not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-maggie",
+      "status": "matching-publications",
+      "runes": 13000,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Fetched lines 379–381"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Fetched lines 2091–2099"
+        }
+      ],
+      "note": "Published encounter-specific reward reports agree; exact patch and independence not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-margot",
+      "status": "matching-publications",
+      "runes": 11000,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Fetched lines 386–387"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Fetched lines 1999–2009"
+        }
+      ],
+      "note": "Published encounter-specific reward reports agree; exact patch and independence not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-fullgrown-beast",
+      "status": "matching-publications",
+      "runes": 21000,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Fetched lines 373–376"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Fetched lines 2051–2061"
+        }
+      ],
+      "note": "Published encounter-specific reward reports agree; exact patch and independence not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-seethewater-kindred",
+      "status": "matching-publications",
+      "runes": 10000,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Fetched lines 377–378"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Fetched lines 2028–2035"
+        }
+      ],
+      "note": "Published encounter-specific reward reports agree; exact patch and independence not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-gelmir-wyrm",
+      "status": "matching-publications",
+      "runes": 19000,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Fetched lines 391–393"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Fetched lines 2080–2087"
+        }
+      ],
+      "note": "Published encounter-specific reward reports agree; exact patch and independence not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-gelmir-wolf",
+      "status": "matching-publications",
+      "runes": 21000,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Fetched lines 394–395"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Fetched lines 2039–2047"
+        }
+      ],
+      "note": "Roundtable locates boss inside Gelmir Hero's Grave, not Fort Laiedd as the other table labels it.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-gelmir-spirit",
+      "status": "matching-publications",
+      "runes": 18000,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Fetched lines 370–372"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Fetched lines 2013–2024"
+        }
+      ],
+      "note": "Published encounter-specific reward reports agree; exact patch and independence not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-abductors",
+      "status": "matching-publications",
+      "runes": 10000,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Fetched lines 382–383"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Fetched lines 2129–2139"
+        }
+      ],
+      "note": "Published encounter-specific reward reports agree; exact patch and independence not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-eiglay-noble",
+      "status": "matching-publications",
+      "runes": 50000,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Fetched lines 396–398"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Fetched lines 2160–2170"
+        }
+      ],
+      "note": "Published encounter-specific reward reports agree; exact patch and independence not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-morgott",
+      "status": "matching-publications",
+      "runes": 120000,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Fetched lines 415–417"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Fetched lines 2422–2432"
+        }
+      ],
+      "note": "Published encounter-specific reward reports agree; exact patch and independence not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-fell-twins",
+      "status": "matching-publications",
+      "runes": 29000,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Fetched lines 413–414"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Fetched lines 2368–2379"
+        }
+      ],
+      "note": "Published encounter-specific reward reports agree; exact patch and independence not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-forbidden-kindred",
+      "status": "matching-publications",
+      "runes": 60000,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Fetched lines 435–437"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Fetched lines 2452–2459"
+        }
+      ],
+      "note": "Published encounter-specific reward reports agree; exact patch and independence not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-forbidden-cavalry",
+      "status": "matching-publications",
+      "runes": 36000,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Fetched lines 438–439"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Fetched lines 2437–2448"
+        }
+      ],
+      "note": "Published encounter-specific reward reports agree; exact patch and independence not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-fire-giant",
+      "status": "matching-publications",
+      "runes": 180000,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Fetched lines 474–475"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Fetched lines 2607–2617"
+        }
+      ],
+      "note": "Published encounter-specific reward reports agree; exact patch and independence not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-giantgrave-zamor",
+      "status": "matching-publications",
+      "runes": 83000,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Fetched lines 486–491"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Fetched lines 2463–2471"
+        }
+      ],
+      "note": "Published encounter-specific reward reports agree; exact patch and independence not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-mountaintops-avatar",
+      "status": "matching-publications",
+      "runes": 70000,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Fetched lines 471–473"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Fetched lines 2486–2496"
+        }
+      ],
+      "note": "Published encounter-specific reward reports agree; exact patch and independence not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-spiritcaller-cave",
+      "status": "matching-publications",
+      "runes": 70000,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Fetched lines 468–470"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Fetched lines 2596–2603"
+        }
+      ],
+      "note": "Spectral Apostle and Noble precede the snail; one encounter.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-giants-spirit",
+      "status": "matching-publications",
+      "runes": 48000,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Fetched lines 492–494"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Fetched lines 2475–2482"
+        }
+      ],
+      "note": "Published encounter-specific reward reports agree; exact patch and independence not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-stray-mimic",
+      "status": "matching-publications",
+      "runes": 50000,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Fetched lines 445–446"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Fetched lines 2622–2633"
+        }
+      ],
+      "note": "Published encounter-specific reward reports agree; exact patch and independence not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-snowfield-astel",
+      "status": "matching-publications",
+      "runes": 120000,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Fetched lines 453–454"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Fetched lines 2663–2670"
+        }
+      ],
+      "note": "Published encounter-specific reward reports agree; exact patch and independence not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-snowfield-deathrite",
+      "status": "matching-publications",
+      "runes": 220000,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Fetched lines 455–456"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Fetched lines 2723–2734"
+        }
+      ],
+      "note": "Published encounter-specific reward reports agree; exact patch and independence not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-theodorix",
+      "status": "matching-publications",
+      "runes": 180000,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Fetched lines 460–461"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Fetched lines 2686–2693"
+        }
+      ],
+      "note": "Three Dragon Hearts; night requirement in PCGamesN not established by the other source.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-snowfield-cavalry",
+      "status": "matching-publications",
+      "runes": 84000,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Fetched lines 447–452"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Fetched lines 2648–2659"
+        }
+      ],
+      "note": "Published encounter-specific reward reports agree; exact patch and independence not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-snowfield-avatar",
+      "status": "matching-publications",
+      "runes": 160000,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Fetched lines 457–459"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Fetched lines 2709–2719"
+        }
+      ],
+      "note": "Published encounter-specific reward reports agree; exact patch and independence not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-malenia",
+      "status": "matching-publications",
+      "runes": 480000,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Fetched lines 503–505"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Fetched lines 2771–2781"
+        }
+      ],
+      "note": "Published encounter-specific reward reports agree; exact patch and independence not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-placidusax",
+      "status": "matching-publications",
+      "runes": 280000,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Fetched lines 551–552"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Fetched lines 2842–2853"
+        }
+      ],
+      "note": "Published encounter-specific reward reports agree; exact patch and independence not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-valiant-gargoyles",
+      "status": "matching-publications",
+      "runes": 32000,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Fetched lines 517–519"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Fetched lines 3025–3035"
+        }
+      ],
+      "note": "Published encounter-specific reward reports agree; exact patch and independence not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-siluria",
+      "status": "matching-publications",
+      "runes": 25000,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Fetched lines 528–529"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Fetched lines 3178–3189"
+        }
+      ],
+      "note": "Published encounter-specific reward reports agree; exact patch and independence not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-fia-champions",
+      "status": "matching-publications",
+      "runes": 40000,
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Fetched lines 526–527"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Fetched lines 3193–3204"
+        }
+      ],
+      "note": "Published encounter-specific reward reports agree; exact patch and independence not established.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-sainted-assassin",
+      "status": "conflict-unresolved",
+      "runes": null,
+      "reportedRunes": [
+        10800,
+        11339
+      ],
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Fetched lines 322–323"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Fetched lines 1791–1799"
+        }
+      ],
+      "note": "Published rune values conflict.",
+      "rewardChanged": false
+    },
+    {
+      "id": "er:b-altus-crystalians",
+      "status": "conflict-unresolved",
+      "runes": null,
+      "reportedRunes": [
+        1800,
+        9000
+      ],
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Fetched lines 352–353"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Fetched lines 1780–1787"
+        }
+      ],
+      "note": "Published rune values conflict.",
+      "rewardChanged": false
+    },
+    {
+      "id": "er:b-perfumer-grotto-duo",
+      "status": "conflict-unresolved",
+      "runes": null,
+      "reportedRunes": [
+        8400,
+        8500
+      ],
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Fetched lines 354–355"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Fetched lines 1840–1848"
+        }
+      ],
+      "note": "Published rune values conflict.",
+      "rewardChanged": false
+    },
+    {
+      "id": "er:b-rykard",
+      "status": "conflict-unresolved",
+      "runes": null,
+      "reportedRunes": [
+        100000,
+        130000
+      ],
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Fetched lines 388–390"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Fetched lines 2186–2196"
+        }
+      ],
+      "note": "Existing 130000 report retained as provisional; competing 100000 report, no definitive value.",
+      "rewardChanged": false
+    },
+    {
+      "id": "er:b-mohg-omen",
+      "status": "conflict-unresolved",
+      "runes": null,
+      "reportedRunes": [
+        75000,
+        100000
+      ],
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Fetched lines 560–561"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Fetched lines 2394–2404"
+        }
+      ],
+      "note": "Published rune values conflict; distinct from Lord of Blood.",
+      "rewardChanged": false
+    },
+    {
+      "id": "er:b-snowfield-duelist",
+      "status": "conflict-unresolved",
+      "runes": null,
+      "reportedRunes": [
+        8000,
+        78000
+      ],
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Fetched lines 442–444"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Fetched lines 2637–2645"
+        }
+      ],
+      "note": "Published rune values conflict; both sources list Rotten Gravekeeper Cloak and Great Grave Glovewort.",
+      "rewardChanged": true
+    },
+    {
+      "id": "er:b-gideon",
+      "status": "conflict-unresolved",
+      "runes": null,
+      "reportedRunes": [
+        35500,
+        180000
+      ],
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Fetched lines 562–567"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Fetched lines 2872–2883"
+        }
+      ],
+      "note": "Published rune values conflict.",
+      "rewardChanged": false
+    },
+    {
+      "id": "er:b-mohg-blood",
+      "status": "conflict-unresolved",
+      "runes": null,
+      "reportedRunes": [
+        315000,
+        420000
+      ],
+      "evidence": [
+        {
+          "url": "https://www.pcgamesn.com/elden-ring/bosses-all-boss-list",
+          "locator": "Fetched lines 520–522"
+        },
+        {
+          "url": "https://roundtablehold.net/checklists/bosses.html",
+          "locator": "Fetched lines 3068–3072"
+        }
+      ],
+      "note": "Published rune values conflict; distinct from Mohg the Omen.",
+      "rewardChanged": false
+    }
+  ]
+}

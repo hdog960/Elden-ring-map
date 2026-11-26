@@ -83,3 +83,6 @@ Six scoped records and nine guide refinements. Evidence strength explicitly labe
 
 ## Session 34
 52 base-game reward rows reviewed, 44 reward strings updated, 8 conflicts explicitly documented. Royal Grave Evergaol historical name and Adula retreat clarified without new IDs. No final admission.
+
+## Session 35
+52 late-game guide reward comparisons, eight unresolved discrepancies, 44 matching reported figures; no final admission.
