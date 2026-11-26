@@ -65,3 +65,6 @@ Two separate non-respawning capital gargoyles provisionally admitted; Halberd at
 
 ## Session 28
 Stormveil cliffside Crucible Knight provisionally added, family non-respawn and location-specific Horns incantation corroborated. Stormhill Tail encounter unchanged. Five scoped stat records (Agheel, Limgrave troll, Stormhill Crucible, Darriwil disputed health, Limgrave Tree Sentinel); 43 total. Seven existing guides refined, including Old Altus reward and Patches surrender. All 288 prior IDs retained; 289 total, 207 primary/82 extended. No geography admission. Specific source pages/indices checked; some wiki pages blocked, no claim of direct gameplay proof.
+
+## Session 29
+Two Siofra Aqueduct knights provisionally added; Hornshield and Somber Stone [6] specific reward evidence, family non-respawn corroboration. Leyndell, Farum Azula, Four Belfries held; Road's End summons remain under existing snail encounter. Three location-specific research records: Groveside Beastman, Stormfoot Watchdog, Waypoint Pumpkin. Four existing guides refined including Murkwater reward and unresolved health range. 291 IDs, 207 primary/84 extended, 46 research records; 289 prior IDs retained. No geography admission. Indexed sources and full accessible walkthroughs distinguished; no direct gameplay claims.

@@ -1,5 +1,5 @@
 {
-  "version": "session28-20261126-a",
+  "version": "session29-20261126-a",
   "releaseReady": false,
   "assets": [
     {
@@ -39,6 +39,10 @@
       "gitBlob": "89797513392890d0a7e6394467ee0f67a2d35aab"
     },
     {
+      "path": "data/census/crucible-review.json",
+      "gitBlob": "b3dc4e3b913cc0b377a2a3975e818c92a2806a41"
+    },
+    {
       "path": "data/census/dlc-checklist-review.json",
       "gitBlob": "d1172fd0a99bae8df7f808b96335be0de72345aa"
     },
@@ -60,7 +64,7 @@
     },
     {
       "path": "data/census/intake.json",
-      "gitBlob": "905f23894b44f3f5d1d935bccc21a967843f38ff"
+      "gitBlob": "967379f71afd24bb5fe7d296aeab4314210cdd4e"
     },
     {
       "path": "data/census/named-encounter-review.json",
@@ -76,15 +80,15 @@
     },
     {
       "path": "data/census/stable-ids.json",
-      "gitBlob": "84880a227bfd31e753946d116b3c43d672cf9e6b"
+      "gitBlob": "ddd53ae4c9dc7b2da3bbb17bcfb818c6225d69ad"
     },
     {
       "path": "data/encyclopedia/drafts.json",
-      "gitBlob": "97cb17fc8094e1d996297237ede87d1fe52a8993"
+      "gitBlob": "89c6ff7a1b99364854633ad925ab32822db45a6e"
     },
     {
       "path": "data/encyclopedia/stat-evidence.json",
-      "gitBlob": "8dbb2ce83df1ea0d9400b711d1a3673033c2750c"
+      "gitBlob": "d5b8782f8fdcd92b336a08af09f92e18021bb1b2"
     },
     {
       "path": "data/geography/compass-research.json",

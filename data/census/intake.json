@@ -155,7 +155,18 @@
     "stormveil-crucible-s28-1": "https://eldenring.wiki.gg/wiki/Crucible_Knight",
     "stormveil-crucible-s28-2": "https://tarnishedsaga.com/bosses/crucible-knight/",
     "stormveil-crucible-s28-3": "https://www.gamerguides.com/elden-ring/database/magic-spells/incantations/aspects-of-the-crucible-horns/",
-    "stormveil-crucible-s28-4": "https://tarnished.app/locations/limgrave/stormveil-castle"
+    "stormveil-crucible-s28-4": "https://tarnished.app/locations/limgrave/stormveil-castle",
+    "b-aqueduct-crucible-hornshield-s29-1": "https://tarnishedsaga.com/bosses/crucible-knight/",
+    "b-aqueduct-crucible-hornshield-s29-2": "https://eldenring.wiki.gg/wiki/Crucible_Knight",
+    "b-aqueduct-crucible-hornshield-s29-3": "https://eldenring.redmaw.dev/sheets/walkthrough",
+    "b-aqueduct-crucible-hornshield-s29-4": "https://wiki.eso-ui.com/index.php/Elden_Ring%3ACrucible_Hornshield",
+    "b-aqueduct-crucible-hornshield-s29-5": "https://www.youtube.com/watch?v=3SSFfYbzXgs",
+    "b-aqueduct-crucible-spear-s29-1": "https://tarnishedsaga.com/bosses/crucible-knight/",
+    "b-aqueduct-crucible-spear-s29-2": "https://eldenring.wiki.gg/wiki/Crucible_Knight",
+    "b-aqueduct-crucible-spear-s29-3": "https://eldenring.redmaw.dev/sheets/walkthrough",
+    "b-aqueduct-crucible-spear-s29-4": "https://wiki.eso-ui.com/index.php/Elden_Ring%3ASomber_Smithing_Stone_6",
+    "b-aqueduct-crucible-spear-s29-5": "https://www.neoseeker.com/elden-ring/walkthrough/Siofra_Aqueduct",
+    "b-aqueduct-crucible-spear-s29-6": "https://tarnishedtraveler.com/every-crucible-knight-in-elden-ring-and-what-they-drop/"
   },
   "rows": [
     {
@@ -4832,6 +4843,45 @@
         "stormveil-crucible-s28-4"
       ],
       "decision": "Family documentation identifies non-respawning Stormveil knight; independent spell and location sources corroborate the specific reward and cliffside route. Exact event flag and firsthand reload evidence remain pending. Provisional extended only."
+    },
+    {
+      "id": "er:b-aqueduct-crucible-hornshield",
+      "game": "base",
+      "region": "Nokron",
+      "name": "Crucible Knight",
+      "location": "Siofra Aqueduct, platform below Aqueduct-Facing Cliffs",
+      "layerHint": "underground",
+      "hunt": "extended",
+      "category": "unique-elite",
+      "review": "classification-review",
+      "evidence": [
+        "b-aqueduct-crucible-hornshield-s29-1",
+        "b-aqueduct-crucible-hornshield-s29-2",
+        "b-aqueduct-crucible-hornshield-s29-3",
+        "b-aqueduct-crucible-hornshield-s29-4",
+        "b-aqueduct-crucible-hornshield-s29-5"
+      ],
+      "decision": "Published non-respawn family documentation plus item-specific shield location and separate walkthrough support distinct encounter; direct event flag remains unqualified. Provisional extended only."
+    },
+    {
+      "id": "er:b-aqueduct-crucible-spear",
+      "game": "base",
+      "region": "Nokron",
+      "name": "Crucible Knight",
+      "location": "Siofra Aqueduct, lower water channel",
+      "layerHint": "underground",
+      "hunt": "extended",
+      "category": "unique-elite",
+      "review": "classification-review",
+      "evidence": [
+        "b-aqueduct-crucible-spear-s29-1",
+        "b-aqueduct-crucible-spear-s29-2",
+        "b-aqueduct-crucible-spear-s29-3",
+        "b-aqueduct-crucible-spear-s29-4",
+        "b-aqueduct-crucible-spear-s29-5",
+        "b-aqueduct-crucible-spear-s29-6"
+      ],
+      "decision": "Published non-respawn family documentation and independent item-specific spear knight drop; distinct from shield knight. Direct event flag remains unqualified. Provisional extended only."
     }
   ]
 }

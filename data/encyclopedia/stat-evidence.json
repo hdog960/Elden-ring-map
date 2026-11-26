@@ -779,6 +779,48 @@
         "https://wiki.eso-ui.com/index.php/Elden_Ring%3ATree_Sentinel"
       ],
       "note": "Dexerto and encounter-specific video agree HP and reward; Almanauts index corroborates minimum HP and stance; Dexerto critical claim conflicts with video and enemy documentation, so no critical recommendation. Generic tarnished.app HP defaults to DLC variant and is not used. Exact regulation unverified."
+    },
+    {
+      "id": "er:b-groveside-beastman",
+      "scope": "Groveside Cave, Limgrave solo NG boss, not Dragonbarrow duo or roaming Beastmen",
+      "health": 1417,
+      "stance": 65,
+      "runes": 1000,
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Groveside_Cave",
+        "https://almanauts.com/eldenring/bosses/",
+        "https://eldenringpoisewiki.fun/",
+        "https://www.gamerguides.com/elden-ring/guide/limgrave/locations/how-to-find-and-complete-the-groveside-cave-in-limgrave/"
+      ],
+      "note": "Indexed cave-specific HP and stance corroborated by database range minimum and Poise Wiki cave-specific stance. Gamer Guides location walkthrough confirms reward. Exact regulation not verified; indexed wiki evidence not a direct reload."
+    },
+    {
+      "id": "er:b-stormfoot-watchdog",
+      "scope": "Stormfoot Catacombs sword variant, solo NG, excludes Impaler's, Cliffbottom and paired encounters",
+      "health": 1200,
+      "stance": 80,
+      "runes": 1300,
+      "sources": [
+        "https://eldenring.wiki.gg/wiki/Stormfoot_Catacombs",
+        "https://tarnished.app/enemies/erdtree-burial-watchdog",
+        "https://www.gamerguides.com/elden-ring/guide/limgrave/bosses/how-to-beat-erdtree-burial-watchdog-in-stormfoot-catacombs/",
+        "https://tarnishedwiki.com/erdtree-burial-watchdog-boss-guide-elden-ring/"
+      ],
+      "note": "Indexed location wiki and variant-specific enemy combo entry agree HP; stance corroborated by wiki and enemy table. Gamer Guides corroborates reward. Exact regulation unverified."
+    },
+    {
+      "id": "er:b-waypoint-pumpkin",
+      "scope": "Waypoint Ruins cellar flail variant, reported solo NG displayed boss HP; not Caelem duo or roaming soldiers",
+      "health": 1328,
+      "stance": 65,
+      "runes": 1100,
+      "sources": [
+        "https://tarnished.app/enemies/mad-pumpkin-head",
+        "https://lorearmory.com/eldenring/bosses/",
+        "https://www.gamerguides.com/elden-ring/guide/limgrave/bosses/how-to-beat-mad-pumpkin-head-in-waypoint-ruins/1000",
+        "https://www.pureeldenring.com/npcs/mad-pumpkin-head-flail-boss-limgrave-waypoint-ruins"
+      ],
+      "note": "Two indexed location-specific displayed HP sources agree 1328; stance 65 corroborated by both. Pure Elden Ring lists 664 in an NPC HP field, scale semantics unverified; not treated as directly comparable displayed boss HP. Gamer Guides corroborates reward. Exact regulation unverified."
     }
   ],
   "limitations": [

@@ -224,14 +224,19 @@
       "directions": "Follow the Agheel ravine north past Murkwater Cave to the catacomb entrance; find its lever before returning to the boss door.",
       "conditions": "Optional dungeon.",
       "combat": "Aggressive dual-hammer combos and grab attempts.",
-      "strategy": "Let the chained hammer sequence finish before counterattacking; avoid hugging the boss while it reaches for a grab. Fast ranged attacks are safer after a committed slam.",
+      "strategy": "Let the chained hammer sequence finish before counterattacking; avoid hugging the boss while it reaches for a grab. Fast ranged attacks are safer after a committed slam. A delayed double-hammer slam often follows the chain; wait for it before punishing.",
       "rewards": "Banished Knight Engvall Ashes; 1,700 runes reported. Older guides list Battle Hammer instead; patch-specific reward verification remains pending.",
       "preparation": "Suggested level 20–30, upgraded weapon and medium equip load.",
       "sources": [
         "https://gamefaqs.gamespot.com/ps5/323053-elden-ring/faqs/80028/dungeon-bosses",
         "https://gamertweak.com/dungeon-locations-elden-ring/",
         "https://www.gamerguides.com/elden-ring/database/bosses/limgrave-bosses/grave-warden-duelist-limgrave",
-        "https://gamefaqs.gamespot.com/ps4/265987-elden-ring/faqs/79824/limgrave"
+        "https://gamefaqs.gamespot.com/ps4/265987-elden-ring/faqs/79824/limgrave",
+        "https://www.neoseeker.com/elden-ring/Bosses/Grave_Warden_Duelist",
+        "https://eip.gg/elden-ring/guides/limgrave-boss-guides/",
+        "https://eldenring.redmaw.dev/sheets/walkthrough",
+        "https://www.gamerguides.com/elden-ring/guide/limgrave/bosses/how-to-beat-grave-warden-duelist-in-murkwater-catacombs/",
+        "https://lorearmory.com/eldenring/bosses/"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -241,8 +246,7 @@
         "statusThresholds": null
       },
       "unresolved": [
-        "Exact NG health, stance and damage/status tables require version-specific independent verification.",
-        "Full summon/parry/critical eligibility and exact entrance calibration require review."
+        "Indexed shared-family HP range 2190–6240 is not enough to identify an exact Murkwater value independently. Stance 65 reported; no final stat record. Engvall Ashes and 1700 runes corroborated, older Battle Hammer reward source retained."
       ]
     },
     {
@@ -405,12 +409,16 @@
       "directions": "Enter the cave north of Church of Elleh; follow the wolf chamber to the fog.",
       "conditions": "Optional cave.",
       "combat": "Fast curved-sword swings, leaps and a prolonged combo.",
-      "strategy": "Keep enough stamina to evade the last slash, then counter. Use quick spells after his leap instead of casting through his advance.",
-      "rewards": "Flamedrake Talisman.",
+      "strategy": "Keep enough stamina to evade the last slash, then counter. Use quick spells after his leap instead of casting through his advance. Use charged attacks after long recoveries to build stance damage.",
+      "rewards": "Flamedrake Talisman; 1,000 runes (reported NG).",
       "preparation": "Early weapon upgrade; level 10–20.",
       "sources": [
         "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
-        "https://eldenring.redmaw.dev/sheets/bosses"
+        "https://eldenring.redmaw.dev/sheets/bosses",
+        "https://eldenring.wiki.gg/wiki/Groveside_Cave",
+        "https://almanauts.com/eldenring/bosses/",
+        "https://eldenringpoisewiki.fun/",
+        "https://www.gamerguides.com/elden-ring/guide/limgrave/locations/how-to-find-and-complete-the-groveside-cave-in-limgrave/"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -420,8 +428,7 @@
         "statusThresholds": null
       },
       "unresolved": [
-        "Exact NG numerical combat data and rune reward require independent patch-specific verification.",
-        "Confirm grace, entrance, summon and critical eligibility before publication."
+        "Exact regulation, full combat table and calibrated marker unqualified; scoped published research recorded separately."
       ]
     },
     {
@@ -430,12 +437,16 @@
       "directions": "Enter the cliffside catacombs west of the Church of Elleh; operate the lever and return to the locked boss door.",
       "conditions": "Optional dungeon.",
       "combat": "Stiff sword swings, floating plunges and fire breath.",
-      "strategy": "Move out of the plunge zone and punish the landing; do not attack until the next floating motion is clear. Strike from its side during breath.",
-      "rewards": "Noble Sorcerer Ashes.",
+      "strategy": "Move out of the plunge zone and punish the landing; do not attack until the next floating motion is clear. Strike from its side during breath. Favor strike damage against the stone guardian; wait for delayed plunges to land rather than rolling early.",
+      "rewards": "Noble Sorcerer Ashes; 1,300 runes (reported NG).",
       "preparation": "Level 10–20; a shield or quick weapon helps.",
       "sources": [
         "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
-        "https://gamefaqs.gamespot.com/ps5/323053-elden-ring/faqs/80028/dungeon-bosses"
+        "https://gamefaqs.gamespot.com/ps5/323053-elden-ring/faqs/80028/dungeon-bosses",
+        "https://eldenring.wiki.gg/wiki/Stormfoot_Catacombs",
+        "https://tarnished.app/enemies/erdtree-burial-watchdog",
+        "https://www.gamerguides.com/elden-ring/guide/limgrave/bosses/how-to-beat-erdtree-burial-watchdog-in-stormfoot-catacombs/",
+        "https://tarnishedwiki.com/erdtree-burial-watchdog-boss-guide-elden-ring/"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -445,8 +456,7 @@
         "statusThresholds": null
       },
       "unresolved": [
-        "Exact NG numerical combat data and rune reward require independent patch-specific verification.",
-        "Confirm grace, entrance, summon and critical eligibility before publication."
+        "Exact regulation, full combat table and calibrated marker unqualified; scoped published research recorded separately."
       ]
     },
     {
@@ -478,14 +488,18 @@
       "id": "er:b-waypoint-pumpkin",
       "grace": "Waypoint Ruins Cellar",
       "directions": "Find the stairs among the poisonous flowers in the ruins east of Agheel Lake; the boss is before Sellen's room.",
-      "conditions": "Optional; opens access to Sellen.",
+      "conditions": "Optional; opens access to Sellen. Waypoint Ruins Cellar grace is activated after victory; approach the ruins from outside for the first fight.",
       "combat": "Flail swings and head slams; helmet protects its head.",
       "strategy": "Attack the exposed body from the flank. Dodge the head slam before committing and avoid striking the helmet with projectiles.",
-      "rewards": "Access to Sorceress Sellen; runes.",
+      "rewards": "1,100 runes (reported NG); opens access to Sorceress Sellen.",
       "preparation": "Level 10–20; modest upgrade.",
       "sources": [
         "https://www.powerpyx.com/elden-ring-boss-guide-all-bosses/",
-        "https://eldenring.redmaw.dev/sheets/bosses"
+        "https://eldenring.redmaw.dev/sheets/bosses",
+        "https://tarnished.app/enemies/mad-pumpkin-head",
+        "https://lorearmory.com/eldenring/bosses/",
+        "https://www.gamerguides.com/elden-ring/guide/limgrave/bosses/how-to-beat-mad-pumpkin-head-in-waypoint-ruins/1000",
+        "https://www.pureeldenring.com/npcs/mad-pumpkin-head-flail-boss-limgrave-waypoint-ruins"
       ],
       "review": "draft-researched",
       "numericStats": {
@@ -495,8 +509,8 @@
         "statusThresholds": null
       },
       "unresolved": [
-        "Exact NG numerical combat data and rune reward require independent patch-specific verification.",
-        "Confirm grace, entrance, summon and critical eligibility before publication."
+        "Exact regulation, full combat table and calibrated marker unqualified; scoped published research recorded separately.",
+        "NPC table lists 664 HP; displayed boss HP sources report 1328. Scaling interpretation not independently verified."
       ]
     },
     {
@@ -7592,6 +7606,61 @@
       },
       "unresolved": [
         "Exact defeat flag, direct reload observation, patch-specific stats and calibrated position pending."
+      ]
+    },
+    {
+      "id": "er:b-aqueduct-crucible-hornshield",
+      "grace": "Aqueduct-Facing Cliffs",
+      "directions": "From Aqueduct-Facing Cliffs, follow the ledge and descend onto the aqueduct platform to the sword-and-shield knight.",
+      "conditions": "Optional non-boss-bar encounter before the Aqueduct gargoyle pair. Not the Road's End Catacombs summoned knight.",
+      "combat": "Sword chains, shield attacks and golden horn charge.",
+      "strategy": "Keep away from the platform edge. Parry suitable sword swings or wait for the end of its chain before countering.",
+      "rewards": "Crucible Hornshield.",
+      "preparation": "Area-appropriate weapon upgrades and vigor; avoid fighting near drops.",
+      "sources": [
+        "https://tarnishedsaga.com/bosses/crucible-knight/",
+        "https://eldenring.wiki.gg/wiki/Crucible_Knight",
+        "https://eldenring.redmaw.dev/sheets/walkthrough",
+        "https://wiki.eso-ui.com/index.php/Elden_Ring%3ACrucible_Hornshield",
+        "https://www.youtube.com/watch?v=3SSFfYbzXgs"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact defeat flag, direct reload observation, numerical stats and calibrated marker pending."
+      ]
+    },
+    {
+      "id": "er:b-aqueduct-crucible-spear",
+      "grace": "Aqueduct-Facing Cliffs",
+      "directions": "Continue from the first knight's platform through the aqueduct rooms and descend to the water channel to reach the spear knight.",
+      "conditions": "Optional non-boss-bar encounter before the Aqueduct gargoyle pair. Not the Road's End Catacombs summoned knight.",
+      "combat": "Long spear thrusts and Crucible abilities.",
+      "strategy": "Avoid retreating directly along the spear's reach; move to the side and punish the end of its thrust sequence.",
+      "rewards": "Somber Smithing Stone [6]. Smithing Stone [5] nearby is a separate pickup.",
+      "preparation": "Area-appropriate weapon upgrades and vigor; avoid fighting near drops.",
+      "sources": [
+        "https://tarnishedsaga.com/bosses/crucible-knight/",
+        "https://eldenring.wiki.gg/wiki/Crucible_Knight",
+        "https://eldenring.redmaw.dev/sheets/walkthrough",
+        "https://wiki.eso-ui.com/index.php/Elden_Ring%3ASomber_Smithing_Stone_6",
+        "https://www.neoseeker.com/elden-ring/walkthrough/Siofra_Aqueduct",
+        "https://tarnishedtraveler.com/every-crucible-knight-in-elden-ring-and-what-they-drop/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Exact defeat flag, direct reload observation, numerical stats and calibrated marker pending."
       ]
     }
   ]
