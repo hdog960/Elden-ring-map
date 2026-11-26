@@ -1,5 +1,5 @@
 {
-  "version": "session15-20261125-a",
+  "version": "session16-20261125-a",
   "releaseReady": false,
   "assets": [
     {
@@ -56,7 +56,11 @@
     },
     {
       "path": "data/geography/compass-research.json",
-      "gitBlob": "d581126b0bdcd1faad4fa2780fbbf255053bdb74"
+      "gitBlob": "97d09e60f1555ba43c26c6fc83ed54331b08f447"
+    },
+    {
+      "path": "data/geography/flag-review.json",
+      "gitBlob": "c9fe41e7b77b63f6e338b80df9f0f7aa806fc1a3"
     },
     {
       "path": "data/geography/ledger.json",
@@ -76,11 +80,11 @@
     },
     {
       "path": "src/app.js",
-      "gitBlob": "7be5f6869d771d518860aa5cb3674966c5368c3f"
+      "gitBlob": "3183bf2659e4093ab9776eca6f265748c20e87e8"
     },
     {
       "path": "src/atlas-preview.js",
-      "gitBlob": "7495079bc5895eb6707147af29010bb59c19e2db"
+      "gitBlob": "3e8e4724f01463261acc0413e1ebfb30d99efad7"
     },
     {
       "path": "src/calibration.js",
@@ -112,7 +116,7 @@
     },
     {
       "path": "src/map-camera.js",
-      "gitBlob": "5a83fd7a2287ced2b81ef93aca8df64f06120f2f"
+      "gitBlob": "4d6cb9b04175e848a810ca873997969c0a725e9a"
     },
     {
       "path": "src/map-gestures.js",
@@ -120,7 +124,7 @@
     },
     {
       "path": "src/map-view.js",
-      "gitBlob": "587fa72fcef78fd4b5b450374d3db5b9be432eb7"
+      "gitBlob": "47957b27a626a3bfd39fa20483b78ec8c64bfd41"
     },
     {
       "path": "src/offline-client.js",
@@ -148,7 +152,7 @@
     },
     {
       "path": "src/style.css",
-      "gitBlob": "0423b94d5d7a4d0ea5b064cf26c404b681ab926a"
+      "gitBlob": "db7d0b1e6f41796b0bb2e398d0d9fcd2d3020f6a"
     },
     {
       "path": "src/survey.js",

@@ -27,10 +27,10 @@ export function restoreCamera(c,p){if(!p||![p.x,p.y,p.zoom].every(Number.isFinit
 export function snapshotCamera(c){return {x:c.x,y:c.y,zoom:c.scale/c.min};}
 export function focusCamera(c,p,zoom=8){if(![p?.x,p?.y,zoom].every(Number.isFinite))return c;return restoreCamera(c,{x:p.x,y:p.y,zoom:Math.max(1,zoom)});}
 // Only approved markers on active layer. Stable grid grouping means input ordering cannot change a cluster.
-export function visibleClusters(c,encounters,layer,cell=52){
+export function visibleClusters(c,encounters,layer,cell=52,{research=false}={}){
  if(!positive(cell))throw Error("Invalid cluster cell");
  const groups=new Map();
- for(const e of encounters){const m=e.marker;if(!m||m.verified!==true||m.layer!==layer||![m.x,m.y].every(Number.isFinite))continue;
+ for(const e of encounters){const m=e.marker;if(!m||(m.verified!==true&&!(research&&m.projected===true))||m.layer!==layer||![m.x,m.y].every(Number.isFinite))continue;
  if(m.x<c.bounds[0]||m.x>c.bounds[2]||m.y<c.bounds[1]||m.y>c.bounds[3])continue;
  const p=project(c,m);if(p.x<-cell||p.y<-cell||p.x>c.width+cell||p.y>c.height+cell)continue;
  const key=Math.floor(p.x/cell)+":"+Math.floor(p.y/cell);if(!groups.has(key))groups.set(key,[]);groups.get(key).push({id:e.id,x:p.x,y:p.y});}

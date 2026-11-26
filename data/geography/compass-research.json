@@ -2576,6 +2576,17 @@
       "status": "candidate-identity-match"
     },
     {
+      "sourceRow": 2,
+      "id": "er:b-chapel-scion",
+      "status": "candidate-identity-match",
+      "review": {
+        "source": "https://soulsmodding.com/doku.php?id=er-refmat:event-flag-list",
+        "locator": "10010800",
+        "note": "Grafted Scion in Chapel of Anticipation; no legacy conversion currently present",
+        "corroboration": "https://soulsmodding.com/doku.php?id=er-refmat:map-name-list"
+      }
+    },
+    {
       "sourceRow": 3,
       "id": "er:b-morgott",
       "status": "candidate-identity-match"
@@ -2608,6 +2619,17 @@
         "source": "https://www.soulsmodding.com/doku.php?id=er-refmat:map-name-list",
         "locator": "m12_01_00_00",
         "note": "Ainsel / Lake of Rot map and distinct Dragonkin Soldier name"
+      }
+    },
+    {
+      "sourceRow": 9,
+      "id": "er:b-siluria",
+      "status": "candidate-identity-match",
+      "review": {
+        "source": "https://soulsmodding.com/doku.php?id=er-refmat:event-flag-list",
+        "locator": "12020390",
+        "note": "Deeproot Depths Crucible Knight; named Siluria in independent encounter guide",
+        "corroboration": "https://eldenring.wiki.gg/wiki/Crucible_Knight_Siluria"
       }
     },
     {
@@ -2879,6 +2901,17 @@
       "sourceRow": 62,
       "id": "er:b-snowfield-duelist",
       "status": "candidate-identity-match"
+    },
+    {
+      "sourceRow": 63,
+      "id": "er:b-stray-mimic",
+      "status": "candidate-identity-match",
+      "review": {
+        "source": "https://soulsmodding.com/doku.php?id=er-refmat:event-flag-list",
+        "locator": "30200810",
+        "note": "Stray Mimic Tear (Hidden Path to the Haligtree)",
+        "corroboration": "https://eldenring.wiki.gg/wiki/Mimic_Tear"
+      }
     },
     {
       "sourceRow": 64,
@@ -3611,6 +3644,17 @@
       "status": "candidate-identity-match"
     },
     {
+      "sourceRow": 203,
+      "id": "er:d-avatar",
+      "status": "candidate-identity-match",
+      "review": {
+        "source": "https://soulsmodding.com/doku.php?id=er-refmat:event-flag-list",
+        "locator": "2050480800",
+        "note": "Scadutree Avatar (Scaduview)",
+        "corroboration": "https://eldenring.wiki.gg/wiki/Scadutree_Avatar"
+      }
+    },
+    {
       "sourceRow": 205,
       "id": "er:d-rakshasa",
       "status": "candidate-identity-match"
@@ -3647,14 +3691,10 @@
     }
   ],
   "heldSourceRows": [
-    2,
-    9,
-    63,
     122,
     149,
     151,
     202,
-    203,
     204
   ],
   "notes": [
