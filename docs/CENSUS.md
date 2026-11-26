@@ -18,3 +18,6 @@ Added 25 Caelid/Dragonbarrow guide drafts (99 total). Source comparison Gamer Gu
 
 ## Session 8
 Added 42 individual guide drafts covering Altus, Gelmir, capital, Chapel of Anticipation and tutorial. 141 total; all 246 IDs unchanged. Compared Gamer Guides Altus database, Plarium and PCGamesN regional lists, Eldenpedia boss overview. Tactics independently authored; exact rewards, access and numerical details still need individual verification. No census completeness or guide acceptance claim.
+
+## Session 9
+Added 66 original primary guide drafts, covering Forbidden Lands, Mountaintops, Snowfield, Haligtree, Farum Azula, Ashen Capital, underground and remaining DLC encounters. 207 total; every current primary candidate has a draft, not a final verified guide. Regional sources: Gamer Guides Mountaintops/Snowfields, Plarium, Redmaw, underground overview, PowerPyx, PC Gamer, Dexerto DLC guides. Exact numeric values, directions, combat eligibility and rewards still require row-specific verification. All 246 IDs unchanged; extended 39 lack guide coverage; census not reconciled.

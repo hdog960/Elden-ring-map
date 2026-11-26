@@ -3621,6 +3621,1722 @@
         "Confirm exact current-patch numerical combat statistics and reward values.",
         "Verify grace, access route and combat eligibility against individual encounter sources."
       ]
+    },
+    {
+      "id": "er:b-fell-twins",
+      "grace": "Divine Tower of East Altus approach",
+      "directions": "After reaching the lift route from Leyndell, take the bridge toward the eastern divine tower; the arena darkens as you approach.",
+      "conditions": "Two opponents, shared encounter.",
+      "combat": "Omen cleaver and axe swings in a dark arena.",
+      "strategy": "Separate them using distance and focus on the first advancing twin. Keep the second visible and wait for the last swing before attacking.",
+      "rewards": "Omenkiller Rollo Ashes.",
+      "preparation": "Level 85–105.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/guide/mountaintops-of-the-giants/bosses/",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://eldenring.redmaw.dev/sheets/bosses"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
+        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:b-forbidden-kindred",
+      "grace": "Grand Lift of Rold",
+      "directions": "Follow the Forbidden Lands road to the lift; the gargoyle stands on the final approach.",
+      "conditions": "Optional; can bypass to the lift.",
+      "combat": "Long twinblade and axe sweeps, leaps and black-red weapon effects.",
+      "strategy": "Avoid fighting on steep stairs; move sideways from aerial attacks and punish the landing. Strike damage can help against stone enemies.",
+      "rewards": "Gargoyle's Black Axe; Gargoyle's Black Blades.",
+      "preparation": "Level 85–110; physical defense.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/guide/mountaintops-of-the-giants/bosses/",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://eldenring.redmaw.dev/sheets/bosses"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
+        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:b-forbidden-cavalry",
+      "grace": "Forbidden Lands",
+      "directions": "Return to the narrow road at night and follow it toward the lift.",
+      "conditions": "Night only; visibility is poor.",
+      "combat": "Mounted charges and weapon sweeps.",
+      "strategy": "Fight on the wider road sections, not the cliff edge. Let the charge pass, then counter the exposed flank.",
+      "rewards": "Ash of War: Phantom Slash.",
+      "preparation": "Level 80–100.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/guide/mountaintops-of-the-giants/bosses/",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://eldenring.redmaw.dev/sheets/bosses"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
+        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:b-niall",
+      "grace": "Church of the Eclipse",
+      "directions": "Continue through Castle Sol's final courtyard to the fog.",
+      "conditions": "Optional progression toward the Haligtree; two summoned knights at start.",
+      "combat": "Summoned Banished Knights, lightning prosthetic kicks, frost storms.",
+      "strategy": "Eliminate the dual-sword knight early and then the shield knight; a Bewitching Branch can help. Move out of frost storms and punish the lightning kick after it lands.",
+      "rewards": "Veteran's Prosthesis; access to Haligtree Secret Medallion (Left) beyond arena.",
+      "preparation": "Level 95–120; frost and lightning defense.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/guide/mountaintops-of-the-giants/bosses/",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://eldenring.redmaw.dev/sheets/bosses"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
+        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:b-fire-giant",
+      "grace": "Foot of the Forge",
+      "directions": "Cross the chain bridge into the snowy Flame Peak arena.",
+      "conditions": "Required for main progression.",
+      "combat": "Huge shield sweeps, fire orbs, rolling body and second-phase flame attacks.",
+      "strategy": "In phase one attack the injured ankle after committed swings. In phase two target hands when safe, or take short leg hits; move away from erupting ground and use Torrent to cover distance.",
+      "rewards": "Remembrance of the Fire Giant.",
+      "preparation": "Level 100–130; fire defense and vigor.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/guide/mountaintops-of-the-giants/bosses/",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://eldenring.redmaw.dev/sheets/bosses"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
+        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:b-giantgrave-zamor",
+      "grace": "Giant-Conquering Hero's Grave",
+      "directions": "Enter the grave atop the mountaintop cliffs and use the light circles to clear shadow enemies before the final chamber.",
+      "conditions": "Optional dungeon.",
+      "combat": "Frost breath, curved sword spins and rapid frost chains.",
+      "strategy": "Circle out of breath, then hit the exposed side. Do not roll early during the later extended sword combination; keep enough stamina for the final slash.",
+      "rewards": "Zamor Curved Sword; Zamor set.",
+      "preparation": "Level 95–120; frost protection.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/guide/mountaintops-of-the-giants/bosses/",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://eldenring.redmaw.dev/sheets/bosses"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
+        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:b-borealis",
+      "grace": "Freezing Lake",
+      "directions": "Ride onto the lake through the mist until the dragon engages.",
+      "conditions": "Optional; low visibility on initial approach.",
+      "combat": "Frost breath, freezing roar and airborne sweeps.",
+      "strategy": "When it roars, retreat well outside the frost area. Use Torrent to move laterally from breath; strike the head after a grounded attack. Consider strike damage rather than relying on slashing.",
+      "rewards": "Dragon Heart; unlocks Borealis's Mist.",
+      "preparation": "Level 95–125; frost resistance.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/guide/mountaintops-of-the-giants/bosses/",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://eldenring.redmaw.dev/sheets/bosses"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
+        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:b-mountaintops-deathrite",
+      "grace": "Snow Valley Ruins Overlook",
+      "directions": "Follow the cliff route toward Castle Sol and locate the bird's snowy arena below the approach.",
+      "conditions": "Check night conditions for reliable encounter access.",
+      "combat": "Ghostflame sweeps, explosions and airborne attacks.",
+      "strategy": "Leave the ghostflame lines before returning. Use holy damage and target its head during grounded recovery; keep clear of cliff edges.",
+      "rewards": "Death Ritual Spear.",
+      "preparation": "Level 100–125; holy damage.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/guide/mountaintops-of-the-giants/bosses/",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://eldenring.redmaw.dev/sheets/bosses"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
+        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:b-mountaintops-avatar",
+      "grace": "Snow Valley Ruins Overlook",
+      "directions": "Travel toward the Minor Erdtree on the eastern approach to Castle Sol.",
+      "conditions": "Split bodies remain one encounter.",
+      "combat": "Staff strikes, holy projectiles and duplicated attacker later.",
+      "strategy": "When the second body appears, keep both on screen and avoid standing between them. Fire attacks and short punish windows help; the shared health pool is the objective.",
+      "rewards": "Cerulean Crystal Tear; Crimson Bubbletear.",
+      "preparation": "Level 95–120.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/guide/mountaintops-of-the-giants/bosses/",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://eldenring.redmaw.dev/sheets/bosses"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
+        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:b-spiritcaller-cave",
+      "grace": "Spiritcaller's Cave",
+      "directions": "Enter the sealed cave beside Freezing Lake with Stonesword Keys and follow the spirit-summoning chambers.",
+      "conditions": "Continuous Apostle, Noble and snail sequence, one completion.",
+      "combat": "Black flame, stretching attacks, rolling Noble and hidden summoner.",
+      "strategy": "Conserve flasks through the Apostle, use pillars and spacing against the Noble's roll, then locate and strike the snail. Sleep may help against Godskin stages.",
+      "rewards": "Godskin Swaddling Cloth; Black Flame Ritual.",
+      "preparation": "Level 95–120.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/guide/mountaintops-of-the-giants/bosses/",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://eldenring.redmaw.dev/sheets/bosses"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
+        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:b-vyke",
+      "grace": "Lord Contender's Evergaol",
+      "directions": "Reach the circle on the snowy plateau above the lake and activate it.",
+      "conditions": "Optional; separate from the Liurnia invasion.",
+      "combat": "War spear thrusts and dragon lightning incantations.",
+      "strategy": "Wait until lightning lands before closing, dodge the spear's delayed reach and counter with quick attacks. Avoid trading while his weapon is buffed.",
+      "rewards": "Fingerprint set; Vyke's Dragonbolt.",
+      "preparation": "Level 90–115; lightning defense.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/guide/mountaintops-of-the-giants/bosses/",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://eldenring.redmaw.dev/sheets/bosses"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
+        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:b-giants-spirit",
+      "grace": "Giants' Mountaintop Catacombs",
+      "directions": "Enter the catacombs below the mountain road, descend through the deceptive lift routes and unlock the boss door.",
+      "conditions": "Optional dungeon.",
+      "combat": "Coiling body, grabs, tail sweep and glowing eruption.",
+      "strategy": "Fight near the side of its head, retreat when the body glows and take short hits after a lunge. Fire and stance damage may help.",
+      "rewards": "Golden Seed; Glovewort Picker's Bell Bearing [2].",
+      "preparation": "Level 90–120.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/guide/mountaintops-of-the-giants/bosses/",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://eldenring.redmaw.dev/sheets/bosses"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
+        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:b-stray-mimic",
+      "grace": "Hidden Path to the Haligtree",
+      "directions": "Use the secret medallion at Rold; in the hidden path descend via the invisible walkway and locate the concealed boss door.",
+      "conditions": "Optional; requires both halves of secret medallion.",
+      "combat": "Copies player equipment and abilities.",
+      "strategy": "A simple approach is to enter with a weaker loadout, then re-equip after the copy appears. Otherwise counter your own weapon's familiar attacks.",
+      "rewards": "Blackflame Monk Amon Ashes.",
+      "preparation": "Level 90–120.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/guide/consecrated-snowfields/",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://eldenring.redmaw.dev/sheets/bosses"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
+        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:b-snowfield-astel",
+      "grace": "Yelough Anix Tunnel",
+      "directions": "Enter the mine in western Consecrated Snowfield and descend to the final fog.",
+      "conditions": "Optional, distinct from Astel Naturalborn.",
+      "combat": "Gravity beams, tail strikes and teleport grabs including duplicate apparitions.",
+      "strategy": "Sprint away from broad gravity waves and look around immediately when it teleports. Strike the head after a beam or slam; avoid standing directly below it.",
+      "rewards": "Meteorite of Astel.",
+      "preparation": "Level 105–135; magic defense.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/guide/consecrated-snowfields/",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://eldenring.redmaw.dev/sheets/bosses"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
+        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:b-snowfield-deathrite",
+      "grace": "Apostate Derelict",
+      "directions": "At night approach the frozen river area southeast of the derelict church.",
+      "conditions": "Night only.",
+      "combat": "Ghostflame explosions, lunges and airborne projectile attacks.",
+      "strategy": "Use holy damage, keep your escape route clear of ghostflame and attack the head after a committed landing. Avoid fighting at the river edge.",
+      "rewards": "Explosive Ghostflame.",
+      "preparation": "Level 110–140; frost and magic defense.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/guide/consecrated-snowfields/",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://eldenring.redmaw.dev/sheets/bosses"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
+        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:b-theodorix",
+      "grace": "Cave of the Forlorn approach",
+      "directions": "Follow the frozen river toward the eastern end of the Snowfield; the wyrm occupies the river basin.",
+      "conditions": "Optional field encounter.",
+      "combat": "Magma charges, sword sweeps and upright slams.",
+      "strategy": "Wait beside the charge path, not behind it. Avoid lava pools and nearby crabs; punish the head after an overhead slam.",
+      "rewards": "Dragon Hearts; unlocks Theodorix's Magma.",
+      "preparation": "Level 105–130; fire defense.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/guide/consecrated-snowfields/",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://eldenring.redmaw.dev/sheets/bosses"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
+        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:b-forlorn-crusader",
+      "grace": "Cave of the Forlorn",
+      "directions": "Enter the sealed cave along the frozen river with Stonesword Keys and traverse the icy rooms.",
+      "conditions": "Optional dungeon.",
+      "combat": "Greatsword swings, leaping strikes and golden projectiles.",
+      "strategy": "Dodge on the committed swing, close from the side after the golden wave, and use fast stance-breaking attacks if safe.",
+      "rewards": "Golden Order Greatsword.",
+      "preparation": "Level 100–125.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/guide/consecrated-snowfields/",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://eldenring.redmaw.dev/sheets/bosses"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
+        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:b-snowfield-cavalry",
+      "grace": "Inner Consecrated Snowfield",
+      "directions": "At night locate the traveling caravan southwest of the grace.",
+      "conditions": "Two riders associated with one shared reward; avoid caravan guards.",
+      "combat": "Mounted flail and glaive attacks.",
+      "strategy": "Draw one rider away from the caravan and defeat it before engaging the other. Do not remain between their charge paths.",
+      "rewards": "Night's Cavalry set; Ancient Dragon Smithing Stone.",
+      "preparation": "Level 105–130.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/guide/consecrated-snowfields/",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://eldenring.redmaw.dev/sheets/bosses"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
+        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:b-snowfield-avatar",
+      "grace": "Ordina, Liturgical Town vicinity",
+      "directions": "Follow the eastern Snowfield plateau toward its Minor Erdtree.",
+      "conditions": "Optional field boss.",
+      "combat": "Staff slams, golden projectiles and rot-emitting attacks.",
+      "strategy": "Sprint laterally from the volley and retreat from the rot cloud before closing. Fire attacks are useful when the staff settles.",
+      "rewards": "Thorny Cracked Tear; Ruptured Crystal Tear.",
+      "preparation": "Level 105–130; rot cures.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/guide/consecrated-snowfields/",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://eldenring.redmaw.dev/sheets/bosses"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
+        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:b-snowfield-duelist",
+      "grace": "Consecrated Snowfield Catacombs",
+      "directions": "Locate the catacomb entrance along the eastern cliffs and use the lever to open the boss door.",
+      "conditions": "Optional dungeon; distinguish from other rotten duelists outside.",
+      "combat": "Heavy axe swings, grabs and rot attacks.",
+      "strategy": "Avoid the grab and circle past the committed overhead axe strike. Do not remain in the rot-producing area while attacking.",
+      "rewards": "Great Grave Glovewort.",
+      "preparation": "Level 100–125; rot cures.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/guide/consecrated-snowfields/",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://eldenring.redmaw.dev/sheets/bosses"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
+        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:b-haligtree-loretta",
+      "grace": "Haligtree Town Plaza",
+      "directions": "Traverse the branches and buildings of the Haligtree to the promenade arena.",
+      "conditions": "Required to enter Elphael by ordinary route.",
+      "combat": "Mounted polearm, magic greatbow and multiple glintblades.",
+      "strategy": "Close diagonally after the magic volley releases; punish her polearm leap. Keep enough stamina to evade the additional arrows in later attacks.",
+      "rewards": "Loretta's Mastery; Loretta's War Sickle.",
+      "preparation": "Level 110–140; magic defense.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/guide/consecrated-snowfields/",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://eldenring.redmaw.dev/sheets/bosses"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
+        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:b-malenia",
+      "grace": "Haligtree Roots",
+      "directions": "Descend Elphael past the drainage channel to the roots grace and enter the nearby fog.",
+      "conditions": "Two phases, one completion; heals when attacks connect, even against shields.",
+      "combat": "Fast katana chains, Waterfowl Dance, later rot bloom and phantom attacks.",
+      "strategy": "Avoid trading; stagger her during safe recovery windows. For Waterfowl, create distance early and learn the subsequent dodge timings. In phase two run away from the bloom and punish once petals dissipate.",
+      "rewards": "Malenia's Great Rune; Remembrance of the Rot Goddess.",
+      "preparation": "Level 130–160; vigor, rot cures and upgraded weapon.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/guide/consecrated-snowfields/",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://eldenring.redmaw.dev/sheets/bosses"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
+        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:b-godskin-duo",
+      "grace": "Dragon Temple Transept",
+      "directions": "Enter the large Dragon Temple arena from the transept or temple grace.",
+      "conditions": "Required; shared health pool, individual enemies can respawn.",
+      "combat": "Apostle stretching blade, Noble rapier and rolling body, black flame projectiles.",
+      "strategy": "Sleep can isolate one enemy. Use pillars to break line of sight and protect against the roll; focus on one at a time and attack safely until the shared bar empties.",
+      "rewards": "Smithing-Stone Miner's Bell Bearing [4]; Ash of War: Black Flame Tornado.",
+      "preparation": "Level 110–140; sleep tools.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/guide/mountaintops-of-the-giants/bosses/",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://eldenring.redmaw.dev/sheets/bosses"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
+        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:b-placidusax",
+      "grace": "Beside the Great Bridge",
+      "directions": "Descend the lift and follow the cliffs to floating stone platforms; lie down in the empty niche to enter the arena.",
+      "conditions": "Optional hidden arena.",
+      "combat": "Lightning storms, claw strikes, teleport dives and late laser-like fire breath.",
+      "strategy": "Move away from lightning circles and watch the sky when the dragon disappears. Punish grounded recovery near the flank; retreat across the arena when the late sweeping beams begin.",
+      "rewards": "Remembrance of the Dragonlord.",
+      "preparation": "Level 120–150; lightning and fire defense.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/guide/mountaintops-of-the-giants/bosses/",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://eldenring.redmaw.dev/sheets/bosses"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
+        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:b-maliketh",
+      "grace": "Beside the Great Bridge",
+      "directions": "Ascend toward the guarded bridge and enter the fog beyond the Draconic Tree Sentinel.",
+      "conditions": "Required; Beast Clergyman and Maliketh are continuous phases.",
+      "combat": "Fast stone projectiles and dagger chains, then aerial destined-death blade attacks.",
+      "strategy": "Stay mobile in phase one and punish the long dagger slam. In phase two avoid the red-black area attacks and use short hits after landing; Blasphemous Claw can counter specific golden-glowing attacks.",
+      "rewards": "Remembrance of the Black Blade.",
+      "preparation": "Level 115–145; vigor and holy defense.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/guide/mountaintops-of-the-giants/bosses/",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://eldenring.redmaw.dev/sheets/bosses"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
+        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:b-gideon",
+      "grace": "Leyndell, Capital of Ash",
+      "directions": "Return to Erdtree Sanctuary by the ash-covered capital route.",
+      "conditions": "Required; spell selection can vary with prior boss progress.",
+      "combat": "Sorceries and incantations, repeated casts and healing attempts.",
+      "strategy": "Close promptly, interrupt casts with rapid pressure and avoid lingering in area spells. Keep enough stamina to pursue without trading into a charged spell.",
+      "rewards": "All-Knowing set; Scepter of the All-Knowing.",
+      "preparation": "Level 115–145.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/guide/mountaintops-of-the-giants/bosses/",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://eldenring.redmaw.dev/sheets/bosses"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
+        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:b-hoarah",
+      "grace": "Queen's Bedchamber",
+      "directions": "Ascend the staircase toward the Elden Throne.",
+      "conditions": "Required; two continuous phases.",
+      "combat": "Axe chains, arena-wide stomps and later wrestling grabs.",
+      "strategy": "Jump suitable ground shockwaves, then punish the axe recovery. In phase two dodge away from the committed grab and attack after its slam; avoid rolling repeatedly on the wind-up.",
+      "rewards": "Remembrance of Hoarah Loux.",
+      "preparation": "Level 120–150; physical defense.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/guide/mountaintops-of-the-giants/bosses/",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://eldenring.redmaw.dev/sheets/bosses"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
+        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:b-elden-beast",
+      "grace": "Elden Throne",
+      "directions": "Enter the golden light beyond the final throne to fight Radagon and Elden Beast consecutively.",
+      "conditions": "Required final fight; no normal rest between phases.",
+      "combat": "Delayed hammer strikes and holy bursts, then sweeping sword attacks, rings and distant projectiles.",
+      "strategy": "Use non-holy damage and holy defense. Delay dodges for Radagon's hammer; against the Beast, escape rings by jumping and move toward its recovery openings. Torrent availability depends on patch; confirm in game.",
+      "rewards": "Elden Remembrance; ending selection after victory.",
+      "preparation": "Level 125–160; upgraded weapon, holy defense.",
+      "sources": [
+        "https://www.gamerguides.com/elden-ring/guide/mountaintops-of-the-giants/bosses/",
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://eldenring.redmaw.dev/sheets/bosses"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
+        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:b-ancestor",
+      "grace": "Siofra River Bank",
+      "directions": "Light the eight flame pillars in southern Siofra River, then touch the remains at Hallowhorn Grounds.",
+      "conditions": "Optional; distinct from Regal Ancestor Spirit.",
+      "combat": "Leaps, antler swipes and blue flame breath.",
+      "strategy": "Move sideways out of the breath and wait for the animal to land before attacking. Use short casts rather than chasing airborne movement.",
+      "rewards": "Ancestral Follower Ashes.",
+      "preparation": "Level 35–55.",
+      "sources": [
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://eldenring.redmaw.dev/sheets/bosses",
+        "https://www.eldenringwiki.cc/locations/underground-rivers/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
+        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:b-siofra-dragonkin",
+      "grace": "Worshippers' Woods",
+      "directions": "Use the waygate on the ruined pillar to reach the upper Siofra platform and follow it to the large basin.",
+      "conditions": "Optional; separate from Nokstella and Lake of Rot soldiers.",
+      "combat": "Long arm sweeps, crawling rush and slams.",
+      "strategy": "Stay beside its legs or at the flank and dodge the committed arm strike. Do not stand directly in front of its reaching hand.",
+      "rewards": "Dragon Halberd.",
+      "preparation": "Level 40–60.",
+      "sources": [
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://eldenring.redmaw.dev/sheets/bosses",
+        "https://www.eldenringwiki.cc/locations/underground-rivers/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
+        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:b-mimic",
+      "grace": "Nokron, Eternal City",
+      "directions": "After Radahn opens the crater in Mistwood, descend into Nokron and cross the rooftop route to the bridge fog.",
+      "conditions": "Optional quest-area progression; copies player build.",
+      "combat": "Copies weapons, spells and consumables.",
+      "strategy": "Enter with a deliberately simpler loadout then re-equip, or fight using knowledge of your own weapon's attacks. Do not give the copy dangerous consumables if unnecessary.",
+      "rewards": "Larval Tears; Silver Tear Mask.",
+      "preparation": "Level 65–85.",
+      "sources": [
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://eldenring.redmaw.dev/sheets/bosses",
+        "https://www.eldenringwiki.cc/locations/underground-rivers/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
+        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:b-regal-ancestor",
+      "grace": "Ancestral Woods",
+      "directions": "Light the six flame pillars in the upper Nokron forest and touch the remains at the northern Hallowhorn Grounds.",
+      "conditions": "Optional remembrance; distinct from lower Siofra Spirit.",
+      "combat": "Airborne leaps, breath and healing from spirit animals.",
+      "strategy": "Punish grounded recoveries and do not chase its teleport. Maintain pressure when it begins healing if safe; use fast ranged hits when it moves away.",
+      "rewards": "Remembrance of the Regal Ancestor.",
+      "preparation": "Level 65–85.",
+      "sources": [
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://eldenring.redmaw.dev/sheets/bosses",
+        "https://www.eldenringwiki.cc/locations/underground-rivers/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
+        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:b-valiant-gargoyles",
+      "grace": "Aqueduct-Facing Cliffs",
+      "directions": "Descend into Siofra Aqueduct and follow the route to the waterfall basin fog.",
+      "conditions": "Two gargoyles, one completion; onward coffin leads to Deeproot.",
+      "combat": "Greatsword, halberd, twinblade and poison breath.",
+      "strategy": "Finish the first as quickly as safely possible before the second closes. Leave poison clouds and use strike damage; don't stand between the two.",
+      "rewards": "Gargoyle's Greatsword; Gargoyle's Twinblade.",
+      "preparation": "Level 75–95; poison cures.",
+      "sources": [
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://eldenring.redmaw.dev/sheets/bosses",
+        "https://www.eldenringwiki.cc/locations/underground-rivers/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
+        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:b-nokstella-dragonkin",
+      "grace": "Ainsel River Downstream",
+      "directions": "Follow the lower Ainsel tunnels past the Uhl Palace area to the enormous throne chamber.",
+      "conditions": "Optional; distinct from Lake of Rot dragonkin.",
+      "combat": "Arm strikes, lightning-like frost attacks and aerial phase.",
+      "strategy": "Move to its side and punish a completed slam; dodge the delayed frost lightning rather than standing near the impact. Retreat from wide area attacks.",
+      "rewards": "Frozen Lightning Spear.",
+      "preparation": "Level 50–75; frost protection.",
+      "sources": [
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://eldenring.redmaw.dev/sheets/bosses",
+        "https://www.eldenringwiki.cc/locations/underground-rivers/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
+        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:b-rot-dragonkin",
+      "grace": "Lake of Rot Shoreside",
+      "directions": "Use the raised platform switches to create safer footing in the lake and approach the sleeping soldier in the basin.",
+      "conditions": "Optional; rot environment complicates fight.",
+      "combat": "Long arm sweeps and crawling slams.",
+      "strategy": "Raise nearby platforms before engaging if possible. Fight from dry footing, use rot remedies and punish a completed arm slam rather than pursuing through the lake.",
+      "rewards": "Dragonscale Blade.",
+      "preparation": "Level 75–100; rot cures.",
+      "sources": [
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://eldenring.redmaw.dev/sheets/bosses",
+        "https://www.eldenringwiki.cc/locations/underground-rivers/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
+        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:b-naturalborn",
+      "grace": "Grand Cloister",
+      "directions": "Descend through the cloister and enter the coffin at the end of the rot channel to reach the fog.",
+      "conditions": "Ranni route access; dark moon ring needed to pass the seal beyond.",
+      "combat": "Cosmic laser, gravity waves, tail strikes and teleport grab.",
+      "strategy": "Dodge the initial beam on release; aim at the head after a slam. Sprint out of gravity eruptions and locate it immediately after teleporting.",
+      "rewards": "Remembrance of the Naturalborn.",
+      "preparation": "Level 80–105; magic defense.",
+      "sources": [
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://eldenring.redmaw.dev/sheets/bosses",
+        "https://www.eldenringwiki.cc/locations/underground-rivers/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
+        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:b-siluria",
+      "grace": "The Nameless Eternal City",
+      "directions": "Follow the root-lined area toward the hollow tree where the spear knight guards an opening.",
+      "conditions": "Optional; separate from Ordovis.",
+      "combat": "Long spear thrusts, holy projectile and Crucible attacks.",
+      "strategy": "Dodge the thrust at release and attack from the side. Avoid casting while the charged spear projectile is forming; punish its recovery.",
+      "rewards": "Siluria's Tree; Crucible Tree set in separate chest.",
+      "preparation": "Level 80–105.",
+      "sources": [
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://eldenring.redmaw.dev/sheets/bosses",
+        "https://www.eldenringwiki.cc/locations/underground-rivers/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
+        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:b-fia-champions",
+      "grace": "Across the Roots",
+      "directions": "Climb the roots and enter the broad arena beneath Godwyn's body.",
+      "conditions": "Multiwave fight, one completion; Fia quest connection.",
+      "combat": "Successive NPC combatants with varied weapons and sorceries.",
+      "strategy": "Keep space during the final group wave; target the caster when exposed, and do not trade with several opponents simultaneously. A summon can divide attention.",
+      "rewards": "Fia's Mist.",
+      "preparation": "Level 80–105.",
+      "sources": [
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://eldenring.redmaw.dev/sheets/bosses",
+        "https://www.eldenringwiki.cc/locations/underground-rivers/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
+        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:b-fortissax",
+      "grace": "Prince of Death's Throne",
+      "directions": "Advance Fia's quest, give her the Cursemark of Death and enter her dream when available.",
+      "conditions": "Quest-dependent optional remembrance.",
+      "combat": "Lightning, deathblight clouds and sweeping red lightning attacks.",
+      "strategy": "Keep clear of deathblight mist, move when lightning attaches to your position and punish the lowered head after committed attacks. Do not linger directly beneath the dragon.",
+      "rewards": "Remembrance of the Lichdragon.",
+      "preparation": "Level 90–120; lightning defense.",
+      "sources": [
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://eldenring.redmaw.dev/sheets/bosses",
+        "https://www.eldenringwiki.cc/locations/underground-rivers/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
+        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:b-mohg-blood",
+      "grace": "Dynasty Mausoleum Midpoint",
+      "directions": "Reach Mohgwyn Palace through Varre's medal or Snowfield portal, climb the mausoleum and take the lift to the fog.",
+      "conditions": "Required for DLC access together with Radahn; distinct from sewer Mohg.",
+      "combat": "Trident swings, bloodflame pools and threefold blood curse during transition.",
+      "strategy": "Use Purifying Crystal Tear for the transition and Mohg's Shackle for early openings. Avoid bloodflame trails, then punish grounded trident slams in the flying phase.",
+      "rewards": "Mohg's Great Rune; Remembrance of the Blood Lord.",
+      "preparation": "Level 110–145; fire defense and purification tear.",
+      "sources": [
+        "https://plarium.com/en/blog/elden-ring-boss-locations/",
+        "https://eldenring.redmaw.dev/sheets/bosses",
+        "https://www.eldenringwiki.cc/locations/underground-rivers/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
+        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:d-chief-bloodfiend",
+      "grace": "Rivermouth Cave",
+      "directions": "Follow the Ellac River route to the cave and descend past bloodfiends to its final chamber.",
+      "conditions": "Optional DLC cave.",
+      "combat": "Club swings, lunges and blood-related attacks.",
+      "strategy": "Dodge the heavy club on release; stay at its side and use short punish windows after leaps. Avoid lingering in blood effects.",
+      "rewards": "Bloodfiend Hexer's Ashes.",
+      "preparation": "Level 120–150; early blessing.",
+      "sources": [
+        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
+        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
+        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:d-dragon-man",
+      "grace": "Dragon's Pit",
+      "directions": "Enter Dragon's Pit and descend the dungeon, including the deliberate drop near the final passage.",
+      "conditions": "Separate from the invasion at the approach.",
+      "combat": "Great katana attacks and dragon-themed lunges.",
+      "strategy": "Dodge across the committed katana swing and punish the landing. Avoid trading with its ranged skill and use fast casts when it recovers.",
+      "rewards": "Dragon-Hunter's Great Katana.",
+      "preparation": "Level 120–150.",
+      "sources": [
+        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
+        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
+        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:d-garrew",
+      "grace": "Fog Rift Fort",
+      "directions": "Approach the fort via the cliff route from Scadu Altus and descend to the guarded interior.",
+      "conditions": "Optional field encounter.",
+      "combat": "Heavy weapon swings, shield and tongue-like Crucible attack.",
+      "strategy": "Bait a committed shield or hammer attack; roll to the side and punish briefly. Keep space when it starts the tongue attack.",
+      "rewards": "Black Steel Greatshield.",
+      "preparation": "Level 130–155.",
+      "sources": [
+        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
+        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
+        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:d-edredd",
+      "grace": "Fort of Reprimand",
+      "directions": "Enter the fort at the southern Scadu Altus approach and ascend to its knight encounter.",
+      "conditions": "Optional field boss; different from Garrew.",
+      "combat": "Twinblade attacks and winged aerial charge.",
+      "strategy": "Dodge across the aerial charge, then attack after landing. Avoid trading into the spinning twinblade chain.",
+      "rewards": "Ash of War: Aspects of the Crucible: Wings.",
+      "preparation": "Level 130–155.",
+      "sources": [
+        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
+        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
+        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:d-altus-ghostflame",
+      "grace": "Moorth Highway, South",
+      "directions": "Follow the road toward the battlefield south of Moorth Ruins where the dragon fights soldiers.",
+      "conditions": "Optional; separate from Gravesite Plain and Coast dragons.",
+      "combat": "Ghostflame breath, stomps and airborne movement.",
+      "strategy": "Let surrounding soldiers distract it while establishing space. Avoid flame trails and target the head during grounded recovery; use holy damage if effective.",
+      "rewards": "Dragon Heart; Somber Ancient Dragon Smithing Stone.",
+      "preparation": "Level 130–160; moderate blessing.",
+      "sources": [
+        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
+        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
+        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:d-dane",
+      "grace": "Moorth Ruins",
+      "directions": "Collect the Monk's Missive and gesture at Highroad Cross; use May the Best Win near Dane.",
+      "conditions": "Optional gesture-triggered duel; classification still under review.",
+      "combat": "Fast unarmed martial arts and kicking combinations.",
+      "strategy": "Bait a committed kick, dodge to the side and punish with a quick attack. Avoid trading through his longer hand-to-hand strings.",
+      "rewards": "Dryleaf Arts; Dane's Hat.",
+      "preparation": "Level 120–150.",
+      "sources": [
+        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
+        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
+        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:d-labirith",
+      "grace": "Bonny Gaol",
+      "directions": "Enter the gaol near Bonny Village and navigate the jar-filled passages to the bottom.",
+      "conditions": "Optional dungeon.",
+      "combat": "Fast circling blade attacks and darkness obscuring vision.",
+      "strategy": "Keep the boss targeted and watch its silhouette when darkness spreads. Use a short punish after the extended blade rush rather than chasing its sidesteps.",
+      "rewards": "Curseblade Meera Ashes.",
+      "preparation": "Level 130–155.",
+      "sources": [
+        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
+        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
+        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:d-metyr",
+      "grace": "Cathedral of Manus Metyr",
+      "directions": "Follow Count Ymir's finger-ruin quest; ring the required bells, then use the cathedral's hidden descent to the final ruin.",
+      "conditions": "Quest-dependent remembrance.",
+      "combat": "Finger slams, laser-like attacks, summons and gravity field.",
+      "strategy": "Stay near its front flank for controlled openings; run out of broad gravity zones and remove summoned finger enemies if they obstruct you. Avoid committing during sweeping beams.",
+      "rewards": "Remembrance of the Mother of Fingers.",
+      "preparation": "Level 150–175; high blessing.",
+      "sources": [
+        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
+        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
+        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:d-ymir",
+      "grace": "Cathedral of Manus Metyr",
+      "directions": "After Metyr, return to the cathedral and interact with the throne as the quest advances.",
+      "conditions": "Quest-dependent; Jolan invasion distinct from Ymir encounter.",
+      "combat": "Finger sorceries, summoned fingercreepers and movement between casts.",
+      "strategy": "Close when he finishes casting and interrupt with fast attacks. Clear summons when they interfere; dodge sideways from incoming projectiles.",
+      "rewards": "Maternal Staff; High Priest set; Ymir's Bell Bearing.",
+      "preparation": "Level 140–165.",
+      "sources": [
+        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
+        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
+        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:d-hinterland-sentinel-shield",
+      "grace": "Hinterland",
+      "directions": "Use O Mother gesture at the statue by Shadow Keep Back Gate, then follow the Hinterland path to the mounted sentinel pair.",
+      "conditions": "Independent sentinel candidate; exact shield-to-flag mapping pending.",
+      "combat": "Mounted halberd and shield attacks.",
+      "strategy": "Draw one sentinel away, wait for the horse's charge to pass and attack its flank; watch for a shield slam before committing.",
+      "rewards": "Blessing of Marika; individual rune amount pending.",
+      "preparation": "Level 140–165.",
+      "sources": [
+        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
+        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
+        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:d-hinterland-sentinel-torch",
+      "grace": "Hinterland",
+      "directions": "After opening the Back Gate gesture passage, follow the road to the second mounted sentinel in the Hinterland.",
+      "conditions": "Independent sentinel candidate; equipment-to-flag mapping pending.",
+      "combat": "Mounted sweeping weapon attacks and close-range pressure.",
+      "strategy": "Fight the remaining rider alone; move across its charge path and punish the exposed side. Avoid prolonged casting directly in its path.",
+      "rewards": "Blessing of Marika; individual rune amount pending.",
+      "preparation": "Level 140–165.",
+      "sources": [
+        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
+        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
+        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:d-hinterland-beast",
+      "grace": "Fingerstone Hill",
+      "directions": "Follow the Hinterland route toward the Finger Ruins of Dheo and locate the crater near Fingerstone Hill.",
+      "conditions": "Optional field boss.",
+      "combat": "Horn charges, gravity effects and broad sweeps.",
+      "strategy": "Move perpendicular to the charge and avoid the gravity eruption zone; attack the head after it stops. Keep a clear escape route from the crater edge.",
+      "rewards": "Gravitational Missile sorcery.",
+      "preparation": "Level 140–170.",
+      "sources": [
+        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
+        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
+        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:d-jori",
+      "grace": "Darklight Catacombs",
+      "directions": "Descend from lower Recluses' River through Darklight Catacombs to the Forsaken Graveyard arena.",
+      "conditions": "Required for ordinary access to Abyssal Woods.",
+      "combat": "Rapid holy projectiles, teleportation and summoned inquisitors.",
+      "strategy": "Use terrain to break line of sight and close on Jori after a cast. Avoid committing while large summoned enemies approach; quick attacks can interrupt its casting.",
+      "rewards": "Barbed Staff-Spear.",
+      "preparation": "Level 135–165; holy defense.",
+      "sources": [
+        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
+        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
+        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:d-midra",
+      "grace": "Midra's Manse",
+      "directions": "Cross Abyssal Woods using stealth around untouchable enemies and reach the final manse chamber.",
+      "conditions": "Optional remembrance; initial frail Midra leads into main fight.",
+      "combat": "Frenzied flame beams, sword swings and delayed explosions.",
+      "strategy": "Dodge the delayed sword strike and avoid the flame cone. Leave the glowing explosion area and return after it ends; maintain focus resistance if madness is troublesome.",
+      "rewards": "Remembrance of the Lord of Frenzied Flame.",
+      "preparation": "Level 150–175; high blessing.",
+      "sources": [
+        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
+        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
+        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:d-marigga",
+      "grace": "Cerulean Coast West",
+      "directions": "Follow the rocky coast toward the demi-human group north of the grace.",
+      "conditions": "Optional field encounter; smaller enemies nearby.",
+      "combat": "Staff sweeps, bites and lunges.",
+      "strategy": "Clear nearby demi-humans before engaging or use a summon to separate them. Punish the queen's staff recovery from the side.",
+      "rewards": "Star-Lined Sword.",
+      "preparation": "Level 125–150.",
+      "sources": [
+        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
+        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
+        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:d-coast-ghostflame",
+      "grace": "Cerulean Coast",
+      "directions": "Travel across the blue-flower field toward the dragon's landing area.",
+      "conditions": "Optional; third distinct Ghostflame encounter.",
+      "combat": "Ghostflame breath, stomps and tail sweeps.",
+      "strategy": "Ride sideways out of flame paths, avoid standing under a raised leg and punish the head when it lowers. Use holy damage if appropriate.",
+      "rewards": "Dragon Heart; Somber Ancient Dragon Smithing Stone.",
+      "preparation": "Level 130–160.",
+      "sources": [
+        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
+        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
+        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:d-putrescent",
+      "grace": "Fissure Depths",
+      "directions": "Descend the Stone Coffin Fissure after the seal lifts, then drop from the final cliff to the arena.",
+      "conditions": "Optional remembrance; access depends on DLC world progression.",
+      "combat": "Mounted cleaver charges, separated horse attacks and ghostflame waves.",
+      "strategy": "Dodge the cleaver after it commits and track the horse during separated attacks. Jump suitable ground flames and punish only after the two reconnect.",
+      "rewards": "Remembrance of Putrescence.",
+      "preparation": "Level 140–170; high blessing and holy damage.",
+      "sources": [
+        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
+        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
+        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:d-charo-bird",
+      "grace": "Charo's Hidden Grave",
+      "directions": "Reach the red-flower grave region through the Dragon's Pit route and locate the bird by the water.",
+      "conditions": "Night requirement needs individual confirmation; distinct DLC bird.",
+      "combat": "Ghostflame explosions, long weapon sweeps and aerial attacks.",
+      "strategy": "Move away from persistent ghostflame, use holy damage and strike the lowered head during recovery. Keep clear of nearby field enemies.",
+      "rewards": "Ash of War: Ghostflame Call.",
+      "preparation": "Level 130–160.",
+      "sources": [
+        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
+        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
+        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:d-lamenter",
+      "grace": "Lamenter's Gaol",
+      "directions": "Enter the gaol in Charo's Hidden Grave and work through the lower prison rooms.",
+      "conditions": "Optional dungeon.",
+      "combat": "Duplicates of the boss and accumulating head icons leading to a lethal effect.",
+      "strategy": "Eliminate clones quickly instead of ignoring them. Use wide but fast attacks when several group together; return to the real boss once the copies are gone.",
+      "rewards": "Lamenter's Mask.",
+      "preparation": "Level 130–160.",
+      "sources": [
+        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
+        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
+        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:d-rugalea",
+      "grace": "Ravine North",
+      "directions": "Follow the Rauh Base forest route toward the large bear near the ravine.",
+      "conditions": "Optional; separate from Ralva and Red Bear.",
+      "combat": "Claw sweeps, rushes and powerful roar.",
+      "strategy": "Dodge toward the flank as the rush commits; retreat when it begins the roar and counter after it settles.",
+      "rewards": "Roar of Rugalea incantation.",
+      "preparation": "Level 140–165.",
+      "sources": [
+        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
+        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
+        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:d-scorpion-deathknight",
+      "grace": "Scorpion River Catacombs",
+      "directions": "Enter the catacombs from the northern Rauh Base route and descend past deathblight hazards to the fog.",
+      "conditions": "Separate from Fog Rift Death Knight.",
+      "combat": "Long axe strikes, lightning rush and life-draining grab.",
+      "strategy": "Dodge across the lightning rush and avoid the grab rather than trading. Attack after the axe chain completes, and use fast spells during long recoveries.",
+      "rewards": "Death Knight's Longhaft Axe; Cerulean Amber Medallion +3.",
+      "preparation": "Level 140–165; lightning defense.",
+      "sources": [
+        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
+        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
+        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:d-rauh-lion",
+      "grace": "Ancient Ruins, Grand Stairway vicinity",
+      "directions": "Descend to the lower ruin arena from the Rauh routes; distinguish from Belurat lion.",
+      "conditions": "Optional field encounter; deathblight enemies accompany later phase.",
+      "combat": "Lunges, elemental attacks and deathblight mist with basilisks.",
+      "strategy": "Clear basilisks promptly, avoid mist and watch the lion's head for committed lunges. Use short counters instead of chasing spins.",
+      "rewards": "Divine Beast Tornado incantation.",
+      "preparation": "Level 145–170; vitality.",
+      "sources": [
+        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
+        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
+        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:d-drake-solo",
+      "grace": "Dragon's Pit Terminus",
+      "directions": "Follow the route beyond the terminus to the first drake basin.",
+      "conditions": "Independent from two fighting drakes farther uphill.",
+      "combat": "Fire breath, bites, stomps and airborne dives.",
+      "strategy": "Use Torrent to escape breath sideways; strike the head after grounded recovery. Avoid standing underneath a raised foot.",
+      "rewards": "Dragon Heart; exact additional drops pending.",
+      "preparation": "Level 130–160.",
+      "sources": [
+        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
+        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
+        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:d-drake-duo",
+      "grace": "Foot of the Jagged Peak",
+      "directions": "Continue uphill from the first drake basin to the two drakes fighting each other.",
+      "conditions": "Paired encounter candidate; exact completion semantics pending.",
+      "combat": "Two dragons exchanging breath and physical attacks.",
+      "strategy": "Allow their initial fighting to reduce pressure; keep both visible and avoid crossing breath lines. Focus the surviving or exposed dragon after its attack ends.",
+      "rewards": "Dragon Heart; additional drops pending verification.",
+      "preparation": "Level 135–165.",
+      "sources": [
+        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
+        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
+        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:d-senessax",
+      "grace": "Jagged Peak Mountainside",
+      "directions": "Follow the uphill mountain path to the shallow water arena before the summit route.",
+      "conditions": "Optional ancient dragon encountered en route to Bayle.",
+      "combat": "Lightning claws, delayed ground lightning and broad sweeps.",
+      "strategy": "Move onto dry footing when possible and avoid the delayed lightning after each claw. Punish head openings or use short flank attacks, then disengage.",
+      "rewards": "Ancient Dragon Smithing Stone; Somber Ancient Dragon Smithing Stone.",
+      "preparation": "Level 145–175; lightning defense.",
+      "sources": [
+        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
+        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
+        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+      ]
+    },
+    {
+      "id": "er:d-consort",
+      "grace": "Divine Gate Front Staircase",
+      "directions": "Climb Enir-Ilim past the cleansing chamber encounter to the final staircase fog.",
+      "conditions": "Final DLC boss; continuous Radahn phases.",
+      "combat": "Long paired-sword chains, gravity attacks and later holy follow-up beams.",
+      "strategy": "Stay near the flank and dodge deliberately through the final sword swing; avoid rolling backward into holy follow-ups. Use holy defense in phase two, keep stamina for long chains, and punish only confirmed recovery.",
+      "rewards": "Remembrance of a God and a Lord.",
+      "preparation": "Level 150–180; high Scadutree Blessing, fully upgraded weapon and strong holy defense.",
+      "sources": [
+        "https://www.powerpyx.com/elden-ring-shadow-of-the-erdtree-dlc-boss-guide-all-bosses/",
+        "https://www.pcgamer.com/games/rpg/elden-ring-shadow-of-the-erdtree-bosses/",
+        "https://www.dexerto.com/elden-ring/bosses-in-elden-ring-shadow-of-the-erdtree-2785915/"
+      ],
+      "review": "draft-researched",
+      "numericStats": {
+        "health": null,
+        "stance": null,
+        "negations": null,
+        "statusThresholds": null
+      },
+      "unresolved": [
+        "Verify exact current-patch numerical combat statistics, rune rewards and individual source details.",
+        "Verify nearest grace, precise route, summon and critical eligibility before publication."
+      ]
     }
   ]
 }

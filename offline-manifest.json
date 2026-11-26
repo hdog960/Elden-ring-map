@@ -1,5 +1,5 @@
 {
-  "version": "session8-20261125-a",
+  "version": "session9-20261125-a",
   "releaseReady": false,
   "assets": [
     {
@@ -32,7 +32,7 @@
     },
     {
       "path": "data/encyclopedia/drafts.json",
-      "gitBlob": "028042d00b7902c8452f65c001eb715fcb1493df"
+      "gitBlob": "5b9752b71972c2325a9dc5aaaef31ad9ce831ec9"
     },
     {
       "path": "data/geography/ledger.json",

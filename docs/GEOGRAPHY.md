@@ -16,3 +16,6 @@ Inspected MIT-licensed Kolbxyz/elden-ring-compass-plus generated boss arena file
 
 ## Session 8
 elpwc/eldenringonlinemap root MIT license covers code; inspected database directory contains schema/maintenance SQL, not a boss coordinate inventory. No data copied. New original survey preparation and SVG generation modules require separately evidenced anchors, independent holdouts, known encounter IDs, observed point kind, rights review, source SHA256 identifiers and actual surveyed polygon/line features. Synthetic test only; no real surveyed points or map artwork admitted. Source evidence hashes identify records but do not themselves authenticate their bytes or rights; manual review remains mandatory. No calibrated basemap claim.
+
+## Session 9
+Re-examined publicly documented calibrated map sources (Almanauts and community game extractors). Their descriptions support coordinate accuracy research but do not establish redistribution rights. Wrote concrete permission/survey acquisition handoff with original geometry and artifact requirements. No outreach sent, no positions/art admitted; real basemap remains blocked. Do not repeat broad source searches without a new concrete lead.
