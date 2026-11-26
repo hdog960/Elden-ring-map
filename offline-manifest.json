@@ -1,5 +1,5 @@
 {
-  "version": "session18-20261125-a",
+  "version": "session19-20261125-a",
   "releaseReady": false,
   "assets": [
     {
@@ -21,6 +21,10 @@
     {
       "path": "data/catalog.json",
       "gitBlob": "3e6ac0f52787c304f686feb54dddb5e3d2ecd1d2"
+    },
+    {
+      "path": "data/census/base-checklist-review.json",
+      "gitBlob": "9d1eabdaa445638fcf083fc1d36a06d4a1988f12"
     },
     {
       "path": "data/census/crosswalk-steam.json",
@@ -56,7 +60,7 @@
     },
     {
       "path": "data/encyclopedia/stat-evidence.json",
-      "gitBlob": "79c1fe86c57f7f4fd726dc4cb85b2bc99af676aa"
+      "gitBlob": "c8acdc9fffdfe252d8b04aae2a7d36064052c518"
     },
     {
       "path": "data/geography/compass-research.json",

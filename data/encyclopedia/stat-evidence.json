@@ -179,6 +179,46 @@
         25683
       ],
       "note": "HP sources disagree; no settled HP. Mobalytics reports stance 80; Gamer Guides reports rune reward. Exact patch verification outstanding."
+    },
+    {
+      "id": "er:b-fire-giant",
+      "scope": "Mountaintops, solo NG, shared health across transformation",
+      "health": 43263,
+      "stance": 120,
+      "runes": 180000,
+      "sources": [
+        "https://tarnished.app/enemies/fire-giant",
+        "https://eldenring.wiki.gg/wiki/Fire_Giant",
+        "https://www.gamerguides.com/elden-ring/database/bosses/mountaintops-of-the-giants-boss"
+      ],
+      "note": "Full solo NG table and two corroborating indexed sources; exact patch unverified."
+    },
+    {
+      "id": "er:b-rennala",
+      "scope": "Raya Lucaria, solo NG, second phase only",
+      "health": 4097,
+      "stance": 80,
+      "runes": 40000,
+      "sources": [
+        "https://tarnished.app/enemies/rennala--queen-of-the-full-moon",
+        "https://tarnishedforge.com/bosses/rennala-queen-of-the-full-moon",
+        "https://eldenring.wiki.gg/wiki/Rennala_Queen_of_the_Full_Moon"
+      ],
+      "note": "Second health bar only; not combined HP. Exact patch unverified."
+    },
+    {
+      "id": "er:b-placidusax",
+      "scope": "Farum Azula, solo NG reported",
+      "health": 26651,
+      "stance": 160,
+      "runes": 280000,
+      "sources": [
+        "https://lorearmory.com/eldenring/bosses/",
+        "https://www.distractify.com/p/dragon-locations-elden-ring",
+        "https://www.gamerguides.com/elden-ring/database/bosses/crumbling-farum-azula-bosses/dragonlord-placidusax/",
+        "https://eldenring.wiki.gg/wiki/Placidusax"
+      ],
+      "note": "HP and stance reported by first two sources; reward confirmed separately. Source lineage and exact patch unverified."
     }
   ],
   "limitations": [
